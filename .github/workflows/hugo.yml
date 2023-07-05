@@ -57,6 +57,10 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - run: "tar -zcvf public.tar.gz public"
+        name: compress whole file contents into Zip file (TW)
+      - run: "cp public.tar.gz public/"
+        name: put Zip file in public folder for uploading
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:

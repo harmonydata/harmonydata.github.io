@@ -35,7 +35,7 @@ canonifyURLs = true
 
 [[menu.main]]
     name  = "Harmony app"
-    url   = "/app/"
+    url   = "https://harmonydata.github.io/app/"
     weight = 10
 
 [[menu.main]]

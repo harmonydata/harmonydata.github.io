@@ -37,11 +37,26 @@ canonifyURLs = true
     name  = "Harmony app"
     url   = "/app/"
     weight = 10
+
+[[menu.main]]
+    name  = "Get started"
+    url   = "/get-started/"
+    weight = 20
+
+[[menu.main]]
+    name  = "Team"
+    url   = "/team/"
+    weight = 30
     
+[[menu.main]]
+    name  = "FAQ"
+    url   = "/frequently-asked-questions/"
+    weight = 40
+        
 [[menu.main]]
     name  = "contact"
     url   = "/contact/"
-    weight = 20
+    weight = 50
 
 [[menu.main]]
     name  = "Contact2"
@@ -52,18 +67,13 @@ canonifyURLs = true
     name  = "Contact21"
     url   = "/contact/"
     parent = "Contact2"
-    weight = 20
+    weight = 50
 
 [[menu.main]]
     name  = "cOntact22"
     url   = "/contact/"
     parent = "Contact2"
-    weight = 10
-
-[[menu.main]]
-    name  = "cOntact3"
-    url   = "/contact/"
-    parent = "contact"
+    weight = 50
 		
 [params.share]
     enable = true

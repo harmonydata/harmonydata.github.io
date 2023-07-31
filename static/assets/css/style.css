@@ -563,7 +563,7 @@ pre ::-webkit-scrollbar-thumb {
   background-color: #ddd;
 }
 .clients .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #ffc451;
+  background-color: var(--primary-color);
 }
 
 /*--------------------------------------------------------------

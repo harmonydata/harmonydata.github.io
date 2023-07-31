@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+  {{ partial "head" .}}
+
+  <body>
+    <!-- ======= Header ======= -->
+    {{ partial "header"}}
+    <!-- End Header -->
+
+    <!-- ======= Hero Section ======= -->
+    <section id="hero" class="d-flex align-items-center justify-content-center">
+      <div class="container" data-aos="fade-up">
+        <div class="row" data-aos="fade-up" data-aos-delay="150">
+          <div class="col-xl-10 col-md-12 text-start">
+            <h1>Harmonise questionaire data with <span>harmony.</span></h1>
+            <h2>
+              Harmony is a tool for retrospective <br />
+              harmonisation of questionnaire data.
+            </h2>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Hero -->
+
+    <main id="main">
+      <!-- ======= About Section ======= -->
+      <section id="about" class="about">
+        <div class="container" data-aos="fade-up">
+          <div class="row align-items-center">
+            <div
+              class="col-lg-6 order-1 order-lg-2 p-4"
+              data-aos="fade-left"
+              data-aos-delay="100"
+            >
+              <pre><code class="language-python">
+  pip install harmonydata
+  import harmony
+  harmony.download_models()
+  instruments = harmony.example_instruments["CES_D English"], 
+  harmony.example_instruments["GAD-7 Portuguese"]
+  questions, similarity, query_similarity = harmony.match_instruments
+  (instruments) 
+  # How to load a PDF, Excel or Word into an instrument
+  harmony.load_instruments_from_local_file("gad-7.pdf")
+                
+            </code></pre>
+            </div>
+            <div
+              class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content"
+              data-aos="fade-right"
+              data-aos-delay="100"
+            >
+              <h3>Use Harmony in Python</h3>
+              <p>
+                Harmony is a programming language designed for testing and
+                experimenting with concurrent code.
+              </p>
+
+              <p>
+                <a href="https://pypi.org/project/harmony/" target="_blank"
+                  >Learn More</a
+                >
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End About Section -->
+
+      <!-- ======= About Section ======= -->
+      <section id="about" class="about">
+        <div class="container" data-aos="fade-up">
+          <div class="row align-items-center">
+            <div
+              class="col-lg-6 order-2 order-lg-1 p-4"
+              data-aos="fade-right"
+              data-aos-delay="100"
+            >
+              <pre><code >
+  install.packages("harmonydata")
+  library(harmonydata)
+                
+  instruments <- harmony.example_instruments["CES_D English"],
+  harmony.example_instruments["GAD-7 Portuguese"]
+  similarity <- harmony.match_instruments(instruments) 
+                
+                
+            </code></pre>
+            </div>
+            <div
+              class="col-lg-6 pt-4 pt-lg-0 order-1 order-lg-2 content"
+              data-aos="fade-left"
+              data-aos-delay="100"
+            >
+              <h3>Use Harmony in R</h3>
+              <p>
+                Harmony is a programming language designed for testing and
+                experimenting with concurrent code.
+              </p>
+
+              <p>
+                <a href="https://pypi.org/project/harmony/" target="_blank"
+                  >Learn More</a
+                >
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End About Section -->
+
+      <!-- ======= Clients Section ======= -->
+      <section id="clients" class="clients">
+        <div class="container" data-aos="zoom-in">
+          <div class="clients-slider swiper">
+            <div class="swiper-wrapper align-items-center">
+              <div class="swiper-slide">
+                <img
+                  src="/assets/img/clients/client-1.png"
+                  class="img-fluid"
+                  alt=""
+                />
+              </div>
+              <div class="swiper-slide">
+                <img
+                  src="/assets/img/clients/client-2.png"
+                  class="img-fluid"
+                  alt=""
+                />
+              </div>
+              <div class="swiper-slide">
+                <img
+                  src="/assets/img/clients/client-3.png"
+                  class="img-fluid"
+                  alt=""
+                />
+              </div>
+              <div class="swiper-slide">
+                <img
+                  src="/assets/img/clients/client-4.png"
+                  class="img-fluid"
+                  alt=""
+                />
+              </div>
+              <div class="swiper-slide">
+                <img
+                  src="/assets/img/clients/client-5.png"
+                  class="img-fluid"
+                  alt=""
+                />
+              </div>
+              <div class="swiper-slide">
+                <img
+                  src="/assets/img/clients/client-6.png"
+                  class="img-fluid"
+                  alt=""
+                />
+              </div>
+              <div class="swiper-slide">
+                <img
+                  src="/assets/img/clients/client-7.png"
+                  class="img-fluid"
+                  alt=""
+                />
+              </div>
+              <div class="swiper-slide">
+                <img
+                  src="/assets/img/clients/client-8.png"
+                  class="img-fluid"
+                  alt=""
+                />
+              </div>
+            </div>
+            <div class="swiper-pagination"></div>
+          </div>
+        </div>
+      </section>
+      <!-- End Clients Section -->
+
+      <!-- ======= Cta Section ======= -->
+      <section id="cta" class="cta">
+        <div class="container" data-aos="zoom-in">
+          <div class="text-center">
+            <h3>How to contribute</h3>
+            <p>
+              "Join us now! Contribute or connect at harmonydata.org. Pull
+              request on Github or raise an issue."
+            </p>
+            <a class="cta-btn" href="https://harmonydata.org/" target="_blank"
+              ><i class="bi bi-globe"></i
+            ></a>
+            <a
+              class="cta-btn"
+              href="https://github.com/harmonydata/harmonyapi"
+              target="_blank"
+              ><i class="bi bi-github"></i
+            ></a>
+            <a
+              class="cta-btn"
+              href="https://github.com/harmony/harmony/issues"
+              target="_blank"
+              ><i class="bi bi-git"></i
+            ></a>
+          </div>
+        </div>
+      </section>
+      <!-- End Cta Section -->
+    </main>
+    <!-- End #main -->
+
+    <!-- ======= Footer ======= -->
+    {{ partial "footer" .}}
+    <!-- End Footer -->
+  </body>
+</html>

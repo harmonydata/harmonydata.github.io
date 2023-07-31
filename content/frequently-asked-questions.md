@@ -1,10 +1,5 @@
 ---
-id: 2595
-title: 'Frequently Asked Questions'
-date: '2022-12-08T12:33:34+00:00'
-author: Thomas
-layout: page
-guid: 'https://harmonydata.org/?page_id=2595'
+title: Frequently Asked Questions
 ---
 
 ## What is harmonisation?
@@ -15,7 +10,7 @@ For example, if we have datasets of depression from different countries, which i
 
 For an example of a pre-existing harmonisation tool, please see:
 
-McElroy, E., Villadsen, A., Patalay, P., Goodman, A., Richards, M., Northstone, K., Fearon, P., Tibber, M., Gondek, D., &amp; Ploubidis, G.B. (2020). [Harmonisation and Measurement Properties of Mental Health Measures in Six British Cohorts](https://www.closer.ac.uk/wp-content/uploads/210715-Harmonisation-measurement-properties-mental-health-measures-british-cohorts.pdf). London, UK: CLOSER.
+McElroy, E., Villadsen, A., Patalay, P., Goodman, A., Richards, M., Northstone, K., Fearon, P., Tibber, M., Gondek, D., & Ploubidis, G.B. (2020). [Harmonisation and Measurement Properties of Mental Health Measures in Six British Cohorts](https://www.closer.ac.uk/wp-content/uploads/210715-Harmonisation-measurement-properties-mental-health-measures-british-cohorts.pdf). London, UK: CLOSER.
 
 ## What does Harmony do?
 
@@ -25,12 +20,11 @@ Harmony is a tool that helps researchers automate the process of harmonisation u
 
 If you would like to cite the tool alone, you can cite:
 
-Wood, T.A., McElroy, E., Moltrecht, B., Ploubidis, G.B., Scopel Hoffmann, M., Harmony \[Computer software\], Version 1.0, accessed at https://app.harmonydata.org. Ulster University (2022)
+Wood, T.A., McElroy, E., Moltrecht, B., Ploubidis, G.B., Scopel Hoffmann, M., Harmony [Computer software], Version 1.0, accessed at https://app.harmonydata.org. Ulster University (2022)
 
 A BibTeX entry for LaTeX users is
 
 ```
-<pre class="wp-block-code">```
 @unpublished{harmony,
     AUTHOR = {Wood, T.A., McElroy, E., Moltrecht, B., Ploubidis, G.B., Scopel Hoffman, M.},
     TITLE  = {Harmony (Computer software), Version 1.0},
@@ -38,18 +32,21 @@ A BibTeX entry for LaTeX users is
     Note   = {To appear},
     url = {https://app.harmonydata.org}
 }
-``
-```
 ```
 
 You can also cite the wider Harmony project which is registered with the [Open Science Foundation](https://osf.io/bct6k/):
 
-McElroy, E., Moltrecht, B., Scopel Hoffmann, M., Wood, T. A., &amp; Ploubidis, G. (2023, January 6). Harmony – A global platform for contextual harmonisation, translation and cooperation in mental health research. Retrieved from osf.io/bct6k
+McElroy, E., Moltrecht, B., Scopel Hoffmann, M., Wood, T. A., & Ploubidis, G. (2023, January 6). Harmony – A global platform for contextual harmonisation, translation and cooperation in mental health research. Retrieved from osf.io/bct6k
 
 ```
-<pre class="wp-block-code">```
-`@misc{McElroy_Moltrecht_Scopel Hoffmann_Wood_Ploubidis_2023,  title={Harmony - A global platform for contextual harmonisation, translation and cooperation in mental health research},  url={osf.io/bct6k},  publisher={OSF},  author={McElroy, Eoin and Moltrecht, Bettina and Scopel Hoffmann, Mauricio and Wood, Thomas A and Ploubidis, George},  year={2023},  month={Jan}}`
-```
+@misc{McElroy_Moltrecht_Scopel Hoffmann_Wood_Ploubidis_2023,
+  title={Harmony - A global platform for contextual harmonisation, translation and cooperation in mental health research},
+  url={osf.io/bct6k},
+  publisher={OSF},
+  author={McElroy, Eoin and Moltrecht, Bettina and Scopel Hoffmann, Mauricio and Wood, Thomas A and Ploubidis, George},
+  year={2023},
+  month={Jan}
+}
 ```
 
 ## Does Harmony store my data?
@@ -66,7 +63,7 @@ Harmony was able to reconstruct the matches of the questionnaire harmonisation t
 
 ## What do the numbers mean?
 
-The numbers are the cosine similarity of document vectors. The cosine similarity of two vectors can range from -1 to 1 based on the angle between the two vectors being compared. We have converted these to percentages. We have also used a preprocessing stage to convert positive sentences to negative and vice-versa (e.g. *I feel anxious* -&gt; *I do not feel anxious*). If the match between two sentences improves once this preprocessing has been applied, then the items are assigned a negative similarity.
+The numbers are the cosine similarity of document vectors. The cosine similarity of two vectors can range from -1 to 1 based on the angle between the two vectors being compared. We have converted these to percentages. We have also used a preprocessing stage to convert positive sentences to negative and vice-versa (e.g. _I feel anxious_ -> _I do not feel anxious_). If the match between two sentences improves once this preprocessing has been applied, then the items are assigned a negative similarity.
 
 ## Does Harmony give p-values?
 
@@ -74,7 +71,7 @@ At this time Harmony does not give p-values. Harmony matches vectors using a cos
 
 ## How should I report the numbers from Harmony in my paper?
 
-Items were matched on content using the online tool [Harmony](https://harmonydata.org/), which matches items by converting text to vectors using a transformer neural network ([Reimers &amp; Gurevych, 2019](https://arxiv.org/abs/1908.10084)). Harmony produces a cosine score ranging from +/- 1, with values closer to 1 indicating a closer match.
+Items were matched on content using the online tool [Harmony](https://harmonydata.org/), which matches items by converting text to vectors using a transformer neural network ([Reimers & Gurevych, 2019](https://arxiv.org/abs/1908.10084)). Harmony produces a cosine score ranging from +/- 1, with values closer to 1 indicating a closer match.
 
 ## How does Harmony compare to human harmonisation?
 
@@ -82,7 +79,9 @@ If you imagine as a human, trying to match items in a questionnaire, you might d
 
 We can represent any concept as a vector of length 1, pointing to the surface of a sphere. Concepts that are similar have vectors close together. The cosine score of two vectors that are close together is close to 1.
 
-<figure class="wp-block-image size-full">![](https://harmonydata.org/wp-content/uploads/2023/01/Harmony-sphere.drawio-1.png)</figure>## Who made Harmony?
+![img](https://harmonydata.org/wp-content/uploads/2023/01/Harmony-sphere.drawio-1.png)
+
+## Who made Harmony?
 
 The Python code of Harmony was written by [Thomas Wood](https://freelancedatascientist.net/) (Fast Data Science) in collaboration with Eoin McElroy, Bettina Moltrecht, George Ploubidis, and Mauricio Scopel Hoffman.
 
@@ -94,4 +93,4 @@ We have developed Harmony as an open-source and open science initiative, paying 
 
 We recently did a user-testing at UCL’s Centre for Longitudinal Studies with psychology researchers from several universities. After the session, one postdoctoral researcher said
 
-> ​Really useful! Would have been a great tool and saved me a lot of time when I was trying to externally validate my risk prediction model in two cohorts.
+> Really useful! Would have been a great tool and saved me a lot of time when I was trying to externally validate my risk prediction model in two cohorts.

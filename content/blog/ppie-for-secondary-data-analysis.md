@@ -37,7 +37,7 @@ Involving experts by experience in your analysis and the interpretation of your 
 
 PPIE can help make your research more accessible and visible to those who have the biggest interest in it and may benefit from your findings the most. Getting input from experts by experience on *what, how and where* to share and present your findings can be super fun (if you like being creative) and insightful. They can be able to tell you which key messages to pick from your research and why they would be most helpful to them as well as which medium or design to choose so that your research reaches your target group in the best possible way. 
 
-***That being said, [Harmony ](https://harmonydata.org/)is actively trying to involve users and experience experts along the way, and we are benefiting from your support every single step on the way. If you want to get involved let us know.*** 
+***That being said, [Harmony ](https://harmonydata.ac.uk/)is actively trying to involve users and experience experts along the way, and we are benefiting from your support every single step on the way. If you want to get involved let us know.*** 
 
 1 Disclaimer: I am a passionate emotion regulation researcher.
 

@@ -20,7 +20,7 @@ Harmony is a tool that helps researchers automate the process of harmonisation u
 
 If you would like to cite the tool alone, you can cite:
 
-Wood, T.A., McElroy, E., Moltrecht, B., Ploubidis, G.B., Scopel Hoffmann, M., Harmony [Computer software], Version 1.0, accessed at https://app.harmonydata.org. Ulster University (2022)
+Wood, T.A., McElroy, E., Moltrecht, B., Ploubidis, G.B., Scopel Hoffmann, M., Harmony [Computer software], Version 1.0, accessed at https://harmonydata.ac.uk/app. Ulster University (2022)
 
 A BibTeX entry for LaTeX users is
 
@@ -30,7 +30,7 @@ A BibTeX entry for LaTeX users is
     TITLE  = {Harmony (Computer software), Version 1.0},
     YEAR   = {2022},
     Note   = {To appear},
-    url = {https://app.harmonydata.org}
+    url = {https://harmonydata.ac.uk/app}
 }
 ```
 
@@ -51,15 +51,15 @@ McElroy, E., Moltrecht, B., Scopel Hoffmann, M., Wood, T. A., & Ploubidis, G. (2
 
 ## Does Harmony store my data?
 
-If you upload a questionnaire or instrument, Harmony does not store or save it. You can read more on our [Privacy Policy page](https://harmonydata.org/privacy-policy/).
+If you upload a questionnaire or instrument, Harmony does not store or save it. You can read more on our [Privacy Policy page](https://harmonydata.ac.uk/privacy-policy/).
 
 ## How does Harmony work?
 
-Harmony passes the text of each questionnaire item through a neural network called Sentence-BERT, in order to convert it into a vector. The similarity of two texts is then measured as the similarity between their vectors. Two identical texts have a similarity of 100% while two completely different texts have a similarity of 0%. You can read more in this [technical blog post](https://harmonydata.org/how-does-harmony-work/) and you can even download and run Harmony’s [source code](https://github.com/harmonydata/harmony).
+Harmony passes the text of each questionnaire item through a neural network called Sentence-BERT, in order to convert it into a vector. The similarity of two texts is then measured as the similarity between their vectors. Two identical texts have a similarity of 100% while two completely different texts have a similarity of 0%. You can read more in this [technical blog post](https://harmonydata.ac.uk/how-does-harmony-work/) and you can even download and run Harmony’s [source code](https://github.com/harmonydata/harmony).
 
 ## How reliable is Harmony?
 
-Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: childhood **84%**, adulthood **80%**. Harmony was able to match the questions of the English and Portuguese GAD-7 instruments with AUC **100%** and the Portuguese CBCL and SDQ with AUC **89%**. You can read more in [this blog post](https://harmonydata.org/measuring-the-performance-of-nlp-algorithms/).
+Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: childhood **84%**, adulthood **80%**. Harmony was able to match the questions of the English and Portuguese GAD-7 instruments with AUC **100%** and the Portuguese CBCL and SDQ with AUC **89%**. You can read more in [this blog post](https://harmonydata.ac.uk/measuring-the-performance-of-nlp-algorithms/).
 
 ## What do the numbers mean?
 
@@ -71,7 +71,7 @@ At this time Harmony does not give p-values. Harmony matches vectors using a cos
 
 ## How should I report the numbers from Harmony in my paper?
 
-Items were matched on content using the online tool [Harmony](https://harmonydata.org/), which matches items by converting text to vectors using a transformer neural network ([Reimers & Gurevych, 2019](https://arxiv.org/abs/1908.10084)). Harmony produces a cosine score ranging from +/- 1, with values closer to 1 indicating a closer match.
+Items were matched on content using the online tool [Harmony](https://harmonydata.ac.uk/), which matches items by converting text to vectors using a transformer neural network ([Reimers & Gurevych, 2019](https://arxiv.org/abs/1908.10084)). Harmony produces a cosine score ranging from +/- 1, with values closer to 1 indicating a closer match.
 
 ## How does Harmony compare to human harmonisation?
 
@@ -79,7 +79,7 @@ If you imagine as a human, trying to match items in a questionnaire, you might d
 
 We can represent any concept as a vector of length 1, pointing to the surface of a sphere. Concepts that are similar have vectors close together. The cosine score of two vectors that are close together is close to 1.
 
-![img](https://harmonydata.org/wp-content/uploads/2023/01/Harmony-sphere.drawio-1.png)
+![img](https://harmonydata.ac.uk/wp-content/uploads/2023/01/Harmony-sphere.drawio-1.png)
 
 ## Who made Harmony?
 
@@ -87,7 +87,7 @@ The Python code of Harmony was written by [Thomas Wood](https://freelancedatasci
 
 ## Does Harmony comply with FAIR data principles?
 
-We have developed Harmony as an open-source and open science initiative, paying attention to the [FAIR Guiding Principles for scientific data management and stewardship](https://www.go-fair.org/fair-principles/) (**F**indability, **A**ccessibility, **I**nteroperability, and **R**euse of digital assets). You can read more on our [FAIR data page](https://harmonydata.org/fair-data/).
+We have developed Harmony as an open-source and open science initiative, paying attention to the [FAIR Guiding Principles for scientific data management and stewardship](https://www.go-fair.org/fair-principles/) (**F**indability, **A**ccessibility, **I**nteroperability, and **R**euse of digital assets). You can read more on our [FAIR data page](https://harmonydata.ac.uk/fair-data/).
 
 ## What do other researchers say about Harmony?
 

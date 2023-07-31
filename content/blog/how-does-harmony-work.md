@@ -5,7 +5,7 @@ date:
 image: /assets/img/blog/harmony-1.png
 ---
 
-When you input two questionnaires into Harmony, such as the [GAD-7](https://en.wikipedia.org/wiki/Generalized_Anxiety_Disorder_7) and [Beck’s Anxiety Inventory](https://res.cloudinary.com/dpmykpsih/image/upload/great-plains-health-site-358/media/1087/anxiety.pdf), Harmony is able to match similar questions and assign a number to the match. (I have written another blog post on [how we measured Harmony’s performance in terms of AUC](https://harmonydata.org/measuring-the-performance-of-nlp-algorithms/)).
+When you input two questionnaires into Harmony, such as the [GAD-7](https://en.wikipedia.org/wiki/Generalized_Anxiety_Disorder_7) and [Beck’s Anxiety Inventory](https://res.cloudinary.com/dpmykpsih/image/upload/great-plains-health-site-358/media/1087/anxiety.pdf), Harmony is able to match similar questions and assign a number to the match. (I have written another blog post on [how we measured Harmony’s performance in terms of AUC](https://harmonydata.ac.uk/measuring-the-performance-of-nlp-algorithms/)).
 
 So how does Harmony achieve this?
 
@@ -33,7 +33,7 @@ In total there are 4 words between the two questions. One word (*relax*) occurs 
 
 
 
-![J(\text{``trouble relaxing''}, \text{``unable to relax''}) = \frac{1}{4} = 0.25](https://harmonydata.org/wp-content/ql-cache/quicklatex.com-1481bf052e6ff61e1fd6451407f06954_l3.svg)
+![J(\text{``trouble relaxing''}, \text{``unable to relax''}) = \frac{1}{4} = 0.25](https://harmonydata.ac.uk/wp-content/ql-cache/quicklatex.com-1481bf052e6ff61e1fd6451407f06954_l3.svg)
 
 It is easy to see that the Jaccard similarity coefficient would come to 1 if the documents were identical and 0 if the documents were completely different.
 

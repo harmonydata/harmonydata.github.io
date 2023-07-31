@@ -17,7 +17,7 @@ How can researchers harmonize such complex measures? One option would be to stan
 
 An alternative approach is to apply retrospective harmonization at the item-level. Although questionnaires can differ considerably on the number and nature of questions asked, there is often considerable overlap at the semantic/content level. Let’s return to our earlier example of depression. Although there are many different questionnaires that can be used to assess this experience, they often ask the same types of questions. Below is an example of content overlap in two of the most common measures of psychological distress used in children, the Revised Children’s Anxiety and Depression Scale (RCADS), and the Mood and Feelings Questionnaire (MFQ).
 
-![img](https://harmonydata.ac.uk/wp-content/uploads/2022/11/blog-pic-1-1024x208.png)
+![img](/assets/img/blog/blog-pic-1.png)
 
 By identifying, recoding, and testing the equivalence of subsets of items from different questionnaires (for guidelines see our previous report), researchers can derive harmonized sub-scales that are directly comparable across studies. Our group has previously used this approach to study trends in mental health across different generations (Gondek et al., 2021), and examine how socio-economic deprivation impacted adolescent mental health across different cohorts (McElroy et al., 2022).
 

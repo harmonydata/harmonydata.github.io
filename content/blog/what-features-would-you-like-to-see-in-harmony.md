@@ -1,8 +1,8 @@
 ---
-title: what-features-would-you-like-to-see-in-harmony
+title: What features would you like to see in Harmony?
 description: Click here to view other people’s responses.
 date:
-image: /assets/img/blog/pexels-pixabay-265087-min-300x200.jpg
+image: /assets/img/how_can_harmony_help_you.png
 ---
 
 {{< htmlcode >}}

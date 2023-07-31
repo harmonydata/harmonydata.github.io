@@ -2,7 +2,7 @@
 title: Harmonising Mental Health Data
 ---
 
-![img](/assets/img/partners.jpg)
+![img](/assets/img/team.svg)
 
 We are excited to announce that we are working on a new project called Harmony for the Wellcome Trust Mental Health Data Prize – Harmony will use natural language processing to help us with comparing measures and data collected with these measures across multiple studies. In most social and psychological research different questionnaires are used, such as the GAD-7 and Beck’s Anxiety Inventory, to assess people’s mental health, these questionnaires are also available indifferent languages and have been used in various countries across the world! Mental health research has often been conducted in silos, we want to break down barriers and help researchers from across the globe to come together, combine their data and tackle the mental health crisis together.
 

@@ -9,7 +9,7 @@ _Harmony was able to reconstruct the matches of the questionnaire harmonisation 
 
 The content of this blog post has been written up as a [preprint for publication on OSF](https://osf.io/9x5ej).
 
-Harmony is a tool for comparing questions in natural language from different surveys or instruments. In order to develop the tool, we had to be able to quantify how good it is at recognising equivalent or similar questions. You can read about how Harmony works [in my earlier blog post](https://harmonydata.org/how-does-harmony-work/).
+Harmony is a tool for comparing questions in natural language from different surveys or instruments. In order to develop the tool, we had to be able to quantify how good it is at recognising equivalent or similar questions. You can read about how Harmony works [in my earlier blog post](https://harmonydata.ac.uk/how-does-harmony-work/).
 
 For example, we might consider _Tries to Stop Quarrels_ is equivalent to _Is helpful if someone is hurt, upset or feeling ill_, even though there are no words in common between the two texts. But this is subjective, and if we are using AI to make this kind of matches, how can we put a number on our AI’s performance?
 
@@ -56,7 +56,7 @@ For example, for the GAD-7 English vs Portuguese dataset contains 7×7 = 49 pote
 
 ## Comparing versions of Harmony
 
-In the process of developing Harmony, it was not immediately apparent which technology should be used. Before trying cutting-edge technology such as neural networks, it was necessary to establish a baseline for performance using a simpler tool such as a bag-of-words model (see my [earlier blog post](https://harmonydata.org/how-does-harmony-work/) for an explanation of the technologies explored in this post).
+In the process of developing Harmony, it was not immediately apparent which technology should be used. Before trying cutting-edge technology such as neural networks, it was necessary to establish a baseline for performance using a simpler tool such as a bag-of-words model (see my [earlier blog post](https://harmonydata.ac.uk/how-does-harmony-work/) for an explanation of the technologies explored in this post).
 
 I tested the following candidate models:
 
@@ -180,7 +180,7 @@ Unfortunately the MentalBERT model did not perform as well as the other sentence
 
 It is clear that it is possible to adapt an algorithm such as Tf\*Idf similarity to handle multi-lingual text with a dictionary lookup. However, I consider the transformer approach to be more scalable. The improved AUC using Sentence-BERT is evidence that transformers outperform the alternatives by a wide margin. I’ve written another blog post about the different approaches to multilingual natural language processing [here](https://fastdatascience.com/multilingual-natural-language-processing/).
 
-I have not attempted to validate the last model’s ability to recognise antonyms. If you [try Harmony in the web interface](https://app.harmonydata.org/), you will see that items which are predicted to be opposite senses (_child fights frequently_ vs _child rarely fights_) are tagged with red lines. Since the existing harmonisation tool does not contain this information, I was unable to validate antonym recognition. Further work is needed in this area.
+I have not attempted to validate the last model’s ability to recognise antonyms. If you [try Harmony in the web interface](https://harmonydata.ac.uk/app/), you will see that items which are predicted to be opposite senses (_child fights frequently_ vs _child rarely fights_) are tagged with red lines. Since the existing harmonisation tool does not contain this information, I was unable to validate antonym recognition. Further work is needed in this area.
 
 Future work could involve training a natural language processing algorithm on the existing harmonisation tools, in order to reproduce their performance. An interesting future direction would be to train Harmony to reproduce the patterns found in factor analysis, which are derived from numerical survey data.
 

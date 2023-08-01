@@ -80,7 +80,7 @@ The Harmony project is a data harmonisation project that uses <a href="https://f
   harmony.download_models()
   instruments = harmony.example_instruments["CES_D English"], 
   harmony.example_instruments["GAD-7 Portuguese"]
-  questions, similarity, query_similarity = harmony.match_instruments
+  questions, similarity, query_similarity, _ = harmony.match_instruments
   (instruments) 
   # How to load a PDF, Excel or Word into an instrument
   harmony.load_instruments_from_local_file("gad-7.pdf")

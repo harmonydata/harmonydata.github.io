@@ -51,23 +51,15 @@ _Question 1.3: Do you publish case studies to show how your software has been us
 
 A great way of showing off your software is to write case studies about how yourself, and others, have used it. Case studies can help potential users learn about your software. They also act as a great advert for your software. If you can show happy users benefiting from your software, you are likely to gain more users.
 
-_Question 3.1: Is your software available as a package that can be deployed without building it?_ Building software can be complicated and time-consuming. Providing your software as a package that can be deployed without building it can save users the time and effort of doing this themselves. This can be especially valuable if your users are not software developers. You should test that your software builds and runs on all the platforms it is meant to support, which means you will already have created packages that can be distributed to your users! See our guide on Ready for release? A checklist for developers
+_Question 3.1: Is your software available as a package that can be deployed without building it?_ Building software can be complicated and time-consuming. Providing your software as a package that can be deployed without building it can save users the time and effort of doing this themselves. This can be especially valuable if your users are not software developers. You should test that your software builds and runs on all the platforms it is meant to support, which means you will already have created packages that can be distributed to your users! See our guide on Ready for release? A checklist for developers (http://www.software.ac.uk/resources/guides/ready-release).
 
-(http://www.software.ac.uk/resources/guides/ready-release).
-
-If you're interested in the consequences of ignoring your users' needs, see our guide on How to frustrate your users, annoy other developers and please lawyers
-
-(http://www.software.ac.uk/resources/guides/how-frustrate-your-users-annoy-other-developers-and -please-lawyers).
+If you're interested in the consequences of ignoring your users' needs, see our guide on How to frustrate your users, annoy other developers and please lawyers (http://www.software.ac.uk/resources/guides/how-frustrate-your-users-annoy-other-developers-and-please-lawyers).
 
 _Question 4.6: If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?_
 
-If your software includes support for Application Programming Interfaces (API) (https://en.wikipedia.org/wiki/Application\_programming\_interface), whether these be functions, data types, or classes offered by a library or a collection of REST
+If your software includes support for Application Programming Interfaces (API) (https://en.wikipedia.org/wiki/Application_programming_interface), whether these be functions, data types, or classes offered by a library or a collection of REST (https://en.wikipedia.org/wiki/Representational_state_transfer) endpoints or web services, then these need to be documented if you want them to be used. Code examples alone may not provide enough information on how someone can use your API in their own code.
 
-(https://en.wikipedia.org/wiki/Representational\_state\_transfer) endpoints or web services, then these need to be documented if you want them to be used. Code examples alone may not provide enough information on how someone can use your API in their own code.
-
-From structured comments in the code, generating complete, structured API documentation can be done automatically with, for example, JavaDoc
-
-(http://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html) (for Java), Doxygen (http://www.stack.nl/~dimitri/doxygen/) (for C, C++ , Fortran or Python), Sphinx (http://sphinx-doc.org/) (for Python). Certain REST frameworks, such as Django (http://www.django-rest-framework.org/), also support auto-generation of API documentation.
+From structured comments in the code, generating complete, structured API documentation can be done automatically with, for example, JavaDoc (http://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html) (for Java), Doxygen (http://www.stack.nl/~dimitri/doxygen/) (for C, C++ , Fortran or Python), Sphinx (http://sphinx-doc.org/) (for Python). Certain REST frameworks, such as Django (http://www.django-rest-framework.org/), also support auto-generation of API documentation.
 
 _Question 4.8: Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?_ A release history allows users to see how your software has evolved. It can provide them with a way to see how active you are in developing and maintaining your software, in terms of new features provided and bugs fixed. Software that is seen to be regularly fixed, updated and extended can be more appealing than software that seems to have stagnated.
 
@@ -75,9 +67,7 @@ _Question 5.1: Does your software describe how a user can get help with using yo
 
 Likewise, if a user is looking at your documentation, there's a good chance they're looking to solve a problem, so it makes sense to also describe how a user can get more help there, too. It is important to describe how a user can submit their support request, for example, via e-mail, telephone, issue tracker, forum or other means, and any related resources e.g. web pages with frequently-asked questions or e-mail archives. It is also important that any of these resources remain available for the anticipated lifetime of the software, at least!
 
-See our guide on Supporting open source software
-
-(http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
+See our guide on Supporting open source software (http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
 
 _Question 5.2: Does your website and documentation describe what support, if any, you provide to users and developers?_
 
@@ -85,9 +75,7 @@ The level of support that a user can expect to receive is often a vital element 
 
 This information can help manage users' expectations. A user will always want their problem to be solved as quickly as possible, and may become disgruntled (and might even stop being a user) if this is not the case. If you are clear and honest about the level of support you can provide, then you are more likely to keep your users happy.
 
-See our guide on Supporting open source software
-
-(http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
+See our guide on Supporting open source software (http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
 
 _Question 5.3: Does your project have an e-mail address or forum that is solely for supporting users?_
 
@@ -97,15 +85,11 @@ It's best if the support e-mail address is clearly labelled as such e.g.
 
 myproject-support@myplace.ac.uk. This makes it easy for users to identify the e-mail address on your website or within your documentation, and it helps you to separate your support queries from all of your other e-mail. However, a personal e-mail address is better than nothing if you don't have the means to provide a dedicated support address.
 
-See our guide on Supporting open source software
-
-(http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
+See our guide on Supporting open source software (http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
 
 _Question 5.4: Are e-mails to your support e-mail address received by more than one person?_ It's easy to forget about an e-mail, especially one that's asking difficult questions, so your e-mails to your support e-mails address should always be received by more than one person. One person should still have the primary responsibility of handling users' e-mails, but others can step up to handle e-mails if necessary, so that a user's query will be acknowledged even if one of you is on holiday, ill or otherwise indisposed.
 
-See our guide on Supporting open source software
-
-(http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
+See our guide on Supporting open source software (http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
 
 _Question 5.5: Does your project have a ticketing system to manage bug reports and feature requests?_
 
@@ -123,21 +107,17 @@ _Question 5.6: Is your project's ticketing system publicly visible to your users
 
 An open ticketing system allows your users to see that you are active in fixing bugs and implementing features, and are responsive to your users. This can give them confidence in you and your software and makes them more likely to use it. It also provides your users with a means to see if a problem they have is a known issue, and allow them to check progress on it, or, even, whether their issue has already been addressed and a fix is available.
 
-See our guide on Supporting open source software
-
-(http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
+See our guide on Supporting open source software (http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
 
 _Question 6.1: Is your software's architecture and design modular?_
 
-Modularity (https://en.wikipedia.org/wiki/Modular\_programming) is a fundamental software design approach centred on the creation of self-contained functional units, or modules which serve specific purposes (e.g. file I/O, authorisation, logging, linear algebra, computational fluid dynamics, DNA matching, or text analysis).
+Modularity (https://en.wikipedia.org/wiki/Modular_programming) is a fundamental software design approach centred on the creation of self-contained functional units, or modules which serve specific purposes (e.g. file I/O, authorisation, logging, linear algebra, computational fluid dynamics, DNA matching, or text analysis).
 
 Modularity has many benefits. It's easier to reuse modules in other software, rather than re-implementing their functionality, saving both time and effort. Each module is self-contained, so it can be changed or updated without affecting the other modules in the code, and it can also be tested is isolation, which is useful when developing as part of a team. Modular designs are also easier to understand.
 
 Given that source code is the final realisation of a design, it too should be modular and structured in a way that makes the modules clear. Programming languages support many ways in which a modular design can be realised e.g. packages and classes in Java; packages, modules and classes in Python; header files, source code files and data types in C; namespaces and classes in C++; or modules and classes in Fortran.
 
-See our guide on Developing maintainable software
-
-((http://software.ac.uk/resources/guides/developing-maintainable-software) and Modular Design (https://en.wikipedia.org/wiki/Modular\_design) on Wikipedia.
+See our guide on Developing maintainable software (http://software.ac.uk/resources/guides/developing-maintainable-software) and Modular Design (https://en.wikipedia.org/wiki/Modular_design) on Wikipedia.
 
 _Question 11.5: Does your documentation list the version number for all third-party dependencies?_
 
@@ -147,9 +127,7 @@ Alternatives to version numbers include, depending upon where the dependency ori
 
 source code repository commit identifier or tag, or a download date.
 
-See our guide on How to cite and describe software
-
-(http://software.ac.uk/so-exactly-what-software-did-you-use).
+See our guide on How to cite and describe software (http://software.ac.uk/so-exactly-what-software-did-you-use).
 
 _Question 11.6: Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?_ Users don't want to have to search the web for your third-party dependencies to find the information they need to package or deploy your software. You already know all the information that your users will need about suitable versions, licences and suchlike, so you should make it available to your users. In particular, licence information is very important, because users need to understand the terms and conditions of third-party dependencies so that they can determine whether they are legally permitted to use them, and, so, use your software.
 
@@ -161,21 +139,11 @@ _Question 12.1: Do you have an automated test suite for your software?_
 
 After changing your code and rebuilding it, a developer will want to check that their changes or fixes have not broken anything. Tests contribute to a fail-fast environment, which allows the rapid identification of failures introduced by changes to the code such as optimisations or bug fixes. The lack of tests can dissuade developers from fixing, extending or improving your software, as developers will be less sure of whether they are inadvertently introducing bugs as they do so. Each test might verify an individual function or method, a class or module, related modules or components or the software as a whole. Tests can ensure that the correct results are returned from a function, that an operation changes the state of a system as expected, or that the code behaves as expected when things go wrong.
 
-There are many frameworks available for writing tests in a range of languages, including JUnit (http://junit.org/) for Java, CUnit (http://cunit.sourceforge.net/) for C, CPPUnit (http://www.freedesktop.org/wiki/Software/cppunit/) and googletest
-
-(https://code.google.com/p/googletest/) for C++, FRUIT
-
-(http://sourceforge.net/projects/fortranxunit/) for Fortran, py.test (http://pytest.org/) and nosetests (http://nose.readthedocs.org/) for Python, testthat
-
-(https://cran.r-project.org/web/packages/testthat/index.html) for R and PHPUnit (https://phpunit.de) for PHP.
+There are many frameworks available for writing tests in a range of languages, including JUnit (http://junit.org/) for Java, CUnit (http://cunit.sourceforge.net/) for C, CPPUnit (http://www.freedesktop.org/wiki/Software/cppunit/) and googletest (https://code.google.com/p/googletest/) for C++, FRUIT (http://sourceforge.net/projects/fortranxunit/) for Fortran, py.test (http://pytest.org/) and nosetests (http://nose.readthedocs.org/) for Python, testthat (https://cran.r-project.org/web/packages/testthat/index.html) for R and PHPUnit (https://phpunit.de) for PHP.
 
 Automating the run of your test suite means the entire set of tests can be run in one go, making life easier for your developers. Having an automated build system is a very valuable precursor to providing a test suite, and having an automated build and test system is a valuable resource in any software project.
 
-See our guides on Testing your software
-
-(http://software.ac.uk/resources/guides/testing-your-software) and Adopting automated testing
-
-(http://github.com/softwaresaved/automated\_testing/blob/master/README.md).
+See our guides on Testing your software (http://software.ac.uk/resources/guides/testing-your-software) and Adopting automated testing (http://github.com/softwaresaved/automated_testing/blob/master/README.md).
 
 _Question 12.2: Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?_
 
@@ -195,11 +163,11 @@ See our guides on How continuous integration can help you regularly test and rel
 
 (http://software.ac.uk/how-continuous-integration-can-help-you-regularly-test-and-release-your-soft ware), Build and test examples
 
-(https://github.com/softwaresaved/build\_and\_test\_examples/blob/master/README.md) (which includes walkthroughs on Getting started with Jenkins and Getting started with Travis CI), and Hosted continuous integration
+(https://github.com/softwaresaved/build_and_test_examples/blob/master/README.md) (which includes walkthroughs on Getting started with Jenkins and Getting started with Travis CI), and Hosted continuous integration
 
 (http://www.software.ac.uk/resources/guides/hosted-continuous-integration). Going further, this can also be done automatically whenever the source code repository changes. See our guides on Testing your software
 
-(http://software.ac.uk/resources/guides/testing-your-software), Adopting automated testing (http://github.com/softwaresaved/automated\_testing/blob/master/README.md)
+(http://software.ac.uk/resources/guides/testing-your-software), Adopting automated testing (http://github.com/softwaresaved/automated_testing/blob/master/README.md)
 
 _Question 12.4: Are your test results publicly visible?_
 
@@ -251,9 +219,7 @@ _Question 15.3: Does your website and documentation clearly state the licence of
 
 If users can view the licence for your software on your website, without having to download your software, then potential users can quickly determine if the licence is suitable for how they intend to use your software.
 
-If you don't have a licence, and an open source licence might be right for you, then see our guide on Choosing an open-source licence
-
-(http://www.software.ac.uk/resources/guides/adopting-open-source-licence).
+If you don't have a licence, and an open source licence might be right for you, then see our guide on Choosing an open-source licence (http://www.software.ac.uk/resources/guides/adopting-open-source-licence).
 
 _Question 15.6: Does each of your source code files include a licence header?_ It's easy to distribute source code files, and this separates the code from any licence statement that might be on your web site or in your documentation. To cover this eventuality, and remove any ambiguity about what a developer can do with the source code, it's good practice to include a licence statement within each of your source code files, as a comment. This can also help to avoid confusion between source files that may have different licences, particularly if there are a number of third-party dependencies used within your software.
 
@@ -271,4 +237,4 @@ It's never a good idea to remove components or features without giving your user
 
 If a feature is due to be superseded by a newer, better feature or component, including both for a suitable period within the software can allow your users to transition comfortably from the older version to the new version.
 
-You could also consider developing and publicising a deprecation policy, stating how and when features or components in general are deprecated. This gives your users assurance that features will not be removed without warning. see, for example the Eclipse API deprecation policy. (https://wiki.eclipse.org/Eclipse/API\_Central/Deprecation\_Policy).
+You could also consider developing and publicising a deprecation policy, stating how and when features or components in general are deprecated. This gives your users assurance that features will not be removed without warning. see, for example the Eclipse API deprecation policy. (https://wiki.eclipse.org/Eclipse/API_Central/Deprecation_Policy).

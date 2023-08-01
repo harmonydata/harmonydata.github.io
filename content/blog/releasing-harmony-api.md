@@ -10,7 +10,7 @@ We are pleased to announce that the Harmony REST API is now released. The source
 
 Meanwhile, you can install and run Harmony Python library with
 
-````
+```
 pip install harmonydata
 ```
 
@@ -133,7 +133,7 @@ If you are not running with Docker, you can run the individual components of the
 
 Architecture of the Harmony implementation on Azure with FastAPI:
 
-![Screenshot](images/harmony_architecture_azure.png)
+![Screenshot](https://raw.githubusercontent.com/harmonydata/harmonyapi/main/images/harmony_architecture_azure.png)
 
 
 # Getting started with the Harmony Python library
@@ -331,7 +331,7 @@ The response contains a dictionary with three key-value pairs: `questions` (the 
 
 This repository also contains code for an alternative serverless deployment on AWS Lambda. The deployment has been divided into four AWS Lambda functions, managed by Terraform. Please refer to folder `serverless_deployment` for details.
 
-![Screenshot](images/deployed_harmony_architecture.png)
+![Screenshot](https://raw.githubusercontent.com/harmonydata/harmonyapi/main/images/deployed_harmony_architecture.png)
 
 # License
 

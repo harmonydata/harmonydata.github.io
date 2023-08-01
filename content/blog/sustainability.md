@@ -17,15 +17,19 @@ We found that Wordpress is not a good long-term solution, since it needs to be m
 
 We have taken the decision to migrate our blog from Wordpress to [Hugo](https://gohugo.io/), and we have registered the domain harmonydata.ac.uk via Ulster University. This ensures a more authoritative domain, making us more findable and giving us a more permanent presence in UK academia. The Hugo website/blog is static, and managed from [a Github repository](https://github.com/harmonydata/harmonydata.github.io) and hosted on [Github Pages](https://pages.github.com/). This is free and easy to work with - any member of the team can upload a blog post in Markdown format into the Github repository and the site is automatically rebuilt.
 
-With regards the Harmony API, initially we ran the tool on Microsoft Azure. This was costing about £100-£200 per month, since the tool needs to run an LLM (large language model)in the background.
+With regards the Harmony API, initially we ran the tool on Microsoft Azure. This was costing about £100-£200 per month, since the tool needs to run an LLM (large language model) in the background.
 
 We explored a number of solutions which can cut costs, and we have chosen to use the available servers in Ulster University for ongoing hosting, meaning that an Azure account is no longer needed. An alternative which we explored was serverless (function as a service, or FaaS) solutions using [AWS Lambda](https://aws.amazon.com/lambda/), which is cheap to run, but is very complicated to set up and results in long cold start times.
+
+![Screenshot](https://raw.githubusercontent.com/harmonydata/harmonyapi/main/images/deployed_harmony_architecture.png)
+
+*Alternative serverless deployment on AWS Lambda*
 
 # Code
 
 We have developed our software in accordance with best practices of open source projects. Our Github repository is publicly available and we have also posted our code on the Open Science Foundation (OSF) here: https://osf.io/bct6k/.
 
-We undertook a sustainability evaluation with the Software Sustainability Institute at the start of the Prototyping Phase of the Wellcome Data Prize. This highlighted some weaknesses of our software sustainability strategy, such as lack of clear information on licensing, how to contribute, or install the code. To correct these issues we have thoroughly updated the blog with the necessary information, and ensured that our software license (MIT) is prominent in all repositories and source code.
+We undertook a sustainability evaluation with the [Software Sustainability Institute](https://software.ac.uk) at the start of the Prototyping Phase of the Wellcome Data Prize. This highlighted some weaknesses of our software sustainability strategy, such as lack of clear information on licensing, how to contribute, or install the code. To correct these issues we have thoroughly updated the blog with the necessary information, and ensured that our software license (MIT) is prominent in all repositories and source code.
 
 We've also ensured to release our tool in both Python and R, two of the most commonly used programming languages by researchers. Our [API documentation](https://raw.githubusercontent.com/harmonydata/harmonyapi/main/docs/API_reference.pdf) is available online as a PDF download, and we've provide a series of videos on our YouTube channel to help you get started with installing and using Harmony.
 

@@ -91,6 +91,7 @@ We have developed Harmony as an open-source and open science initiative, paying 
 
 ## What do other researchers say about Harmony?
 
-We recently did a user-testing at UCL’s Centre for Longitudinal Studies with psychology researchers from several universities. After the session, one postdoctoral researcher said
+We recently did a user-testing at UCL’s Centre for Longitudinal Studies with psychology researchers from several universities. After the session, one postdoctoral researcher said:
 
-> Really useful! Would have been a great tool and saved me a lot of time when I was trying to externally validate my risk prediction model in two cohorts.
+![img](/assets/img/quote.png)
+

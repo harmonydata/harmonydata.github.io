@@ -2,7 +2,7 @@
 title: Semantic Text Matching With Deep Learning Transformer Models
 description: Semantic text matching is a task in natural language processing involving estimating the semantic similarity between two texts. For exam...
 date:
-image: /assets/img/blog/pexels-pixabay-159581-min.jpg
+image: /assets/img/gad7-becks.jpg
 ---
 
 Semantic text matching is a task in natural language processing involving estimating the semantic similarity between two texts. For example, if we had to quantify the similarity between “I feel nervous” and “I feel anxious”, most people would agree that these are closer together than either sentence is to “I feel happy”. A semantic text matching algorithm would be able to place a number on the similarity, such as 79%.

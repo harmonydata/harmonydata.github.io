@@ -4,7 +4,7 @@ title: Harmony Videos
 
 # Videos
 
-## Using the new Harmony in the browser
+## Introduction to Harmony: Data harmonisation with natural language processing
 
 {{< youtube cEZppTBj1NI >}}
 

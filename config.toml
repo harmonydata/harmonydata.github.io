@@ -29,10 +29,6 @@ name = "Videos"
 weight = 30
 url = "/videos/"
 [[languages.en.menu.main]]
-name = "Documentation"
-weight = 40
-url = "/documentation/"
-[[languages.en.menu.main]]
 name = "FAQ"
 weight = 50
 url = "/frequently-asked-questions/"

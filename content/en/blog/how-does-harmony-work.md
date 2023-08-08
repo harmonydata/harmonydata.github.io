@@ -1,7 +1,7 @@
 ---
 title: How Does Harmony Work?
 description: When you input two questionnaires into Harmony, such as the GAD-7 and Beck’s Anxiety Inventory, Harmony is able to match similar quest...
-date:
+date: 
 image: /assets/img/blog/harmony-1.png
 ---
 
@@ -14,6 +14,8 @@ Harmony uses techniques from the field of [natural language processing](https://
 ## Introduction to natural language processing: the Bag of Words
 
 ![img](/assets/img/blog/GAD-7-vs-Becks.drawio-min-1.png)
+
+{{< image src="images/blog/GAD-7-vs-Becks.drawio-min-1.png" alt="GAD-7-vs-Becks" >}}
 
 There are a number of approaches to quantify the similarity between strings of text. The simplest approach is known as the Bag-of-Words approach. This is *not* how Harmony currently works, but it is one of the first things we tried!
 

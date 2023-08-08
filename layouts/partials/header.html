@@ -6,40 +6,32 @@
 
     <nav id="navbar" class="navbar order-last order-lg-0">
       <ul>
-        <li><a class="nav-link scrollto" href="/">Home</a></li>
-        <li>
-          <a class="nav-link scrollto" href="/fair-data">FAIR Data</a>
-        </li>
-        <li>
-          <a class="nav-link scrollto" href="/projects-partners"
-            >Project and Partners</a
-          >
-        </li>
-        <li>
-          <a class="nav-link scrollto" href="/videos"
-            >Videos</a
-          >
-        </li>
-        <li class="dropdown">
-          <a href="#"
-            ><span>More About</span> <i class="bi bi-chevron-down"></i
-          ></a>
-          <ul>
-            <li><a href="/our-team">Team</a></li>
-            <li>
-              <a
-                href="https://harmonydata.ac.uk/app/"
-                target="_blank"
-                >Tools</a
-              >
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+          {{ if .HasChildren }}
+            <li class="dropdown">
+              <a href="#"><span>{{ .Name }}</span> <i class="bi bi-chevron-down"></i></a>
+              <ul>
+                {{ range .Children }}
+                  <li><a href="{{ .URL | relLangURL }}"{{ if in .URL "http" }} target="_blank"{{ end }}>{{ .Name }}</a></li>
+                {{ end }}
+              </ul>
             </li>
-            <li><a href="/blog">Blog</a></li>
-            <li><a href="/frequently-asked-questions">FAQs</a></li>
-          </ul>
-        </li>
-        <li>
-          <a class="nav-link scrollto" href="/contact">Contact Us</a>
-        </li>
+          {{ else }}
+            <li><a class="nav-link scrollto" href="{{ .URL | relLangURL }}"{{ if in .URL "http" }} target="_blank"{{ end }}>{{ .Name }}</a></li>  
+          {{ end }}
+        {{ end }}
+
+        {{ if .IsTranslated }}
+          <li class="dropdown">
+            <a href="#"><span>{{ .Language.LanguageName }}</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              {{ range .Translations }}
+                <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+              {{ end }}
+            </ul>
+          </li>
+        {{ end }}
       </ul>
       <i class="bi bi-list mobile-nav-toggle"></i>
     </nav>
@@ -53,3 +45,9 @@
     >
   </div>
 </header>
+
+
+
+
+
+

@@ -2,9 +2,49 @@
   <meta charset="utf-8" />
   <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
-  <title>{{.Title}}</title>
-  <meta content="" name="description" />
-  <meta content="" name="keywords" />
+  <title itemprop="name">{{ if .IsHome }}{{ .Site.Title }} | {{ .Title | markdownify | plainify | default .Site.Params.description }}{{ else }}{{ .Title | markdownify | plainify }} | {{ .Site.Title }}{{ end }}</title>
+  <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }} | {{ .Title | markdownify | plainify | default .Site.Params.description }}{{ else }}{{ .Title | markdownify | plainify }} | {{ .Site.Title }}{{ end }}" />
+  <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }} | {{ .Title | markdownify | plainify | default .Site.Params.description }}{{ else }}{{ .Title | markdownify | plainify }} | {{ .Site.Title }}{{ end }}" />
+  <meta itemprop="name" content="{{ if .IsHome }}{{ .Site.Title }} | {{ .Title | markdownify | plainify | default .Site.Params.description }}{{ else }}{{ .Title | markdownify | plainify }} | {{ .Site.Title }}{{ end }}" />
+  <meta name="application-name" content="{{ if .IsHome }}{{ .Site.Title }} | {{ .Title | markdownify | plainify | default .Site.Params.description }}{{ else }}{{ .Title | markdownify | plainify }} | {{ .Site.Title }}{{ end }}" />
+  <meta property="og:site_name" content="{{ .Site.Params.sitename }}" />
+  
+  <meta name="description" content="{{ .Params.description | default .Site.Params.description }}" />
+  <meta property="og:description" content="{{ .Params.description | default .Site.Params.description }}" />
+  <meta name="twitter:description" content="{{ .Params.description | default .Site.Params.description }}" />
+  
+  <base href="{{ .Permalink }}" />
+  <link rel="canonical" href="{{ .Permalink }}" />
+  <meta name="url" content="{{ .Permalink }}" />
+  <meta name="twitter:url" content="{{ .Permalink }}" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  
+  <meta property="og:locale" content="{{ .Language.Lang }}" />
+  <meta name="language" content="{{ .Language.LanguageName }}" />
+  {{ range .AllTranslations }}
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}" />
+  {{ end }}
+  
+  {{ with .Params.image }}
+    <meta itemprop="image" content="{{ . | absURL }}" />
+    <meta property="og:image" content="{{ . | absURL }}" />
+    <meta name="twitter:image" content="{{ . | absURL }}" />
+    <meta name="twitter:image:src" content="{{ . | absURL }}" />
+  {{ else }}
+    <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
+    <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
+    <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
+    <meta name="twitter:image:src" content="{{ .Site.Params.ogimage | absURL }}" />
+  {{ end }}
+  
+  <meta property="og:updated_time" content={{ .Lastmod.Format "2006-01-02T15:04:05Z0700" | safeHTML }} />
+  
+  <link rel="sitemap" type="application/xml" title="Sitemap" href='{{ "sitemap.xml" | absURL }}' />
+  
+  {{ with .OutputFormats.Get "RSS" }}
+    <link href="{{ .Permalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
+    <link href="{{ .Permalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
+  {{ end }}
 
   <!-- Favicons -->
   <link href="/assets/img/favicon.png" rel="icon" />

@@ -13,8 +13,6 @@ Harmony uses techniques from the field of [natural language processing](https://
 
 ## Introduction to natural language processing: the Bag of Words
 
-![img](/assets/img/blog/GAD-7-vs-Becks.drawio-min-1.png)
-
 {{< image src="images/blog/GAD-7-vs-Becks.drawio-min-1.png" alt="GAD-7-vs-Becks" >}}
 
 There are a number of approaches to quantify the similarity between strings of text. The simplest approach is known as the Bag-of-Words approach. This is *not* how Harmony currently works, but it is one of the first things we tried!
@@ -33,8 +31,6 @@ If we want to compare the GAD-7 question 4 (*Trouble relaxing*) to the Beck’s 
 
 In total there are 4 words between the two questions. One word (*relax*) occurs in both questions. We can calculate a similarity metric using a formula called the Jaccard similarity coefficient, which is defined as the number of words in both questions, divided by the number of words in either question, so in our case
 
-
-
 ![J(\text{``trouble relaxing''}, \text{``unable to relax''}) = \frac{1}{4} = 0.25](https://harmonydata.ac.uk/wp-content/ql-cache/quicklatex.com-1481bf052e6ff61e1fd6451407f06954_l3.svg)
 
 It is easy to see that the Jaccard similarity coefficient would come to 1 if the documents were identical and 0 if the documents were completely different.
@@ -46,7 +42,7 @@ The obvious drawbacks of the Jaccard method are that
 - It won’t notice negation (*I was not happy* and *I was very happy* both equally match *you were happy*).
 - Most crucially, our remit for the Harmony project is that we want to harmonise data from different languages, such as Portuguese and English. Clearly the bag-of-words approach would not work when the texts are in different languages, unless you translated them first.
 
-![img](/assets/img/blog/Jaccard-checklist.drawio-min-768x634.png)
+{{< image src="images/blog/Jaccard-checklist.drawio-min-768x634.png" alt="Jaccard checklist" >}}
 
 ## Vector spaces
 
@@ -54,15 +50,21 @@ The next approach that we tried was a vector space model.
 
 Vector space models allow us to represent words and concepts as numbers or points on a graph. For example, if *anxious* could be (2, 3), *worried* is (3, 4) and *relax* is (8, 2). The coordinates of each concept are themselves meaningless, but if we calculate the distance between them we would see that *anxious* and *worried* are closer to each other than either is to *relax*. 
 
-![img](/assets/img/blog/Word-vectors.drawio-min-1536x836.png)It’s important to note that the values of the vectors are completely arbitrary. There’s no meaning at all to where a concept is assigned on the *x* or *y* axes, but there is meaning in the distances.
+{{< image src="images/blog/Word-vectors.drawio-min-1536x836.png" alt="Word vectors" >}}
+
+It’s important to note that the values of the vectors are completely arbitrary. There’s no meaning at all to where a concept is assigned on the *x* or *y* axes, but there is meaning in the distances.
 
 Now we have a way to handle synonyms. This approach is called *word vector embeddings*
 
-![img](/assets/img/blog/image.png)Some real word vector values for terms occurring in our data. Typically the vectors are large, potentially up to 500 dimensions.
+{{< image src="images/blog/image.png" >}}
+
+Some real word vector values for terms occurring in our data. Typically the vectors are large, potentially up to 500 dimensions.
 
 Word vector embeddings became popular in 2013 after the Czech computer scientist Tomáš Mikolov [proposed a way that an AI can generate vectors](https://arxiv.org/abs/1310.4546) for every word in the English language simply from a huge set of documents.
 
-![img](/assets/img/blog/newplot-28-min.png)To visualise the word vectors, we can squash them down into two or three dimensions. This is a 2D visualisation of the terms in the table above. I used an algorithm called [t-SNE](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding) to squash them into a flat surface.
+{{< image src="images/blog/newplot-28-min.png" alt="newplot" >}}
+
+To visualise the word vectors, we can squash them down into two or three dimensions. This is a 2D visualisation of the terms in the table above. I used an algorithm called [t-SNE](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding) to squash them into a flat surface.
 
 If you would like to experiment with word vectors yourself, you can visit the [Nordic Language Processing Laboratory’s website](http://vectors.nlpl.eu/explore/embeddings/en/#) and try it yourself.
 
@@ -70,7 +72,7 @@ If you want to use word vector embeddings to find synonyms, you could calculate 
 
 With the Harmony data, I found that the vector space models did not correctly identify the relationship between *child bullies others* and *child is bullied by others* – which are clearly very different questions and should not be harmonised together.
 
-![img](/assets/img/blog/Vector-checklist.drawio-min-768x633.png)
+{{< image src="images/blog/Vector-checklist.drawio-min-768x633.png" alt="Vector checklist" >}}
 
 ## Transformer models
 
@@ -80,27 +82,13 @@ The transformer neural network uses an *attention mechanism*, which is a compone
 
 For example, when parsing the text *Feeling afraid as if something awful might happe*n, an attention mechanism would pay strong attention to the word *something* when parsing the word *awful*.
 
-
-
-
-
 Vector representations of the GAD-7 and Beck's Anxiety InventoryCalculated using GPT-2Collapsed to three dimensions using t-SNE.
-
-
-
-
-
-
-
-
-
-
-
-
 
 As an aside, transformers can also be used for machine translation (in fact Google Translate now uses transformers), and this attention enables a noun+adjective phrase to be translated to another language with the correct gender.
 
-![img](/assets/img/blog/English-Portuguese-translations.drawio.png)The word *red* could be translated in various different ways into Portuguese depending on the gender and the noun to be modified. Transformer models are adept at taking these clues into context and outputting the correct translation of a phrase.
+{{< image src="images/blog/English-Portuguese-translations.drawio.png" alt="English Portuguese translations" >}}
+
+The word *red* could be translated in various different ways into Portuguese depending on the gender and the noun to be modified. Transformer models are adept at taking these clues into context and outputting the correct translation of a phrase.
 
 For Harmony we are using an open-source AI transformer model called GPT-2, which was [developed by OpenAI in 2019](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf).
 
@@ -108,7 +96,7 @@ GPT-2 converts the text of each question into a vector in 1600 dimensions.
 
 The distance between any two questions is measured according to the cosine similarity metric between the two vectors. Two questions which are similar in meaning, even if worded differently or in different languages, will have a high degree of similarity between their vector representations. Questions which are very different tend to be far apart in the vector space.
 
-![img](/assets/img/blog/Transformer-checklist.drawio-min-768x633.png)
+{{< image src="images/blog/Transformer-checklist.drawio-min-768x633.png" alt="Transformer checklist" >}}
 
 ## Converting to a network graph
 
@@ -118,7 +106,9 @@ We then find the closest matches and link them together in a graph.
 
 Because this approach is potentially error-prone, we have provided the facility for a user to edit the network graph and add and remove edges if they disagree with Harmony’s decisions.
 
-![img](/assets/img/blog/image-2.png)The user has an option to add or remove edges from the graph.
+{{< image src="images/blog/image-2.png" >}}
+
+The user has an option to add or remove edges from the graph.
 
 ## Open Data and Open Science
 

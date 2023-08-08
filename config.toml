@@ -56,7 +56,7 @@ url = "/fair-data/"
 parent = "About"
 weight = 40
 [[languages.en.menu.main]]
-name = "Harmonising Mental Health Data"
+name = "Projects & Partners"
 url = "/projects-partners/"
 parent = "About"
 weight = 50
@@ -70,48 +70,48 @@ contentDir = "content/pt"
 weight = 1
 
 [[languages.pt.menu.main]]
-name = "Blocks"
+name = "Início"
 weight = 10
+url = "/"
+[[languages.en.menu.main]]
+name = "Notícias"
+weight = 20
+url = "/blog/"
+[[languages.en.menu.main]]
+name = "Videos"
+weight = 30
+url = "/videos/"
+[[languages.en.menu.main]]
+name = "Perguntas Frequentes"
+weight = 50
+url = "/frequently-asked-questions/"
+[[languages.en.menu.main]]
+name = "About"
+weight = 60
+[[languages.en.menu.main]]
+name = "Contato"
+url = "/contact/"
+parent = "About"
+weight = 10
+[[languages.en.menu.main]]
+name = "Equipe"
+url = "/our-team/"
+parent = "About"
+weight = 20
+[[languages.en.menu.main]]
+name = "Ferramenta"
+url = "/app/"
+parent = "About"
+weight = 30
+[[languages.en.menu.main]]
+name = "Princípios FAIR"
+url = "/fair-data/"
+parent = "About"
+weight = 40
+[[languages.en.menu.main]]
+name = "Projetos & Parceiros"
+url = "/projects-partners/"
+parent = "About"
+weight = 50
 
-[[languages.pt.menu.main]]
-name = "Hero blocks"
-url = "/heros/"
-parent = "Blocks"
-pre = "queue-list"
-weight = 110
 
-[[languages.pt.menu.main]]
-name = "Features blocks"
-url = "/features/"
-parent = "Blocks"
-pre = "squares-2x2"
-weight = 120
-
-
-
-[menu]
-[[menu.main]]
-  name = 'Products'
-  pageRef = '/products'
-  weight = 10
-[[menu.main]]
-  name = 'Hardware'
-  pageRef = '/products/hardware'
-  parent = 'Products'
-  weight = 1
-[[menu.main]]
-  name = 'Software'
-  pageRef = '/products/software'
-  parent = 'Products'
-  weight = 2
-[[menu.main]]
-  name = 'Services'
-  pageRef = '/services'
-  weight = 20
-[[menu.main]]
-  name = 'Hugo'
-  pre = '<i class="fa fa-heart"></i>'
-  url = 'https://gohugo.io/'
-  weight = 30
-  [menu.main.params]
-    rel = 'external'

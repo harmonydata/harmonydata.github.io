@@ -67,48 +67,48 @@ description = "A global platform for contextual data harmonisation"
 copyright = "Copyright © 2023 Ulster University."
 languageName = "Pt"
 contentDir = "content/pt"
-weight = 1
+weight = 2
 
 [[languages.pt.menu.main]]
 name = "Início"
 weight = 10
 url = "/"
-[[languages.en.menu.main]]
+[[languages.pt.menu.main]]
 name = "Notícias"
 weight = 20
-url = "/blog/"
-[[languages.en.menu.main]]
+url = "https://harmonydata.ac.uk/blog/"
+[[languages.pt.menu.main]]
 name = "Videos"
 weight = 30
 url = "/videos/"
-[[languages.en.menu.main]]
+[[languages.pt.menu.main]]
 name = "Perguntas Frequentes"
 weight = 50
 url = "/frequently-asked-questions/"
-[[languages.en.menu.main]]
+[[languages.pt.menu.main]]
 name = "About"
 weight = 60
-[[languages.en.menu.main]]
+[[languages.pt.menu.main]]
 name = "Contato"
 url = "/contact/"
 parent = "About"
 weight = 10
-[[languages.en.menu.main]]
+[[languages.pt.menu.main]]
 name = "Equipe"
 url = "/our-team/"
 parent = "About"
 weight = 20
-[[languages.en.menu.main]]
+[[languages.pt.menu.main]]
 name = "Ferramenta"
-url = "/app/"
+url = "https://harmonydata.ac.uk/app/"
 parent = "About"
 weight = 30
-[[languages.en.menu.main]]
+[[languages.pt.menu.main]]
 name = "Princípios FAIR"
 url = "/fair-data/"
 parent = "About"
 weight = 40
-[[languages.en.menu.main]]
+[[languages.pt.menu.main]]
 name = "Projetos & Parceiros"
 url = "/projects-partners/"
 parent = "About"

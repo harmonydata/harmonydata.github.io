@@ -4,7 +4,7 @@
 
   <body>
     <!-- ======= Header ======= -->
-    {{ partial "header" .}}
+    {{ partialCached "header" .}}
     <!-- End Header -->
 
     <!-- ======= Hero Section ======= -->
@@ -314,7 +314,7 @@ docker run -p 8000:8000 -p 3000:3000 harmonydata/harmonywithtika
     <!-- End #main -->
     {{ partial "chatbot.html" . }}
     <!-- ======= Footer ======= -->
-    {{ partial "footer" .}}
+    {{ partialCached "footer" .}}
     <!-- End Footer -->
   </body>
 </html>

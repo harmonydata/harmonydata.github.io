@@ -4,7 +4,7 @@
 
   <body class="inner-page">
     <!-- ======= Header ======= -->
-    {{ partial "header" . }}
+    {{ partialCached "header" . }}
     <!-- End Header -->
 
     <main id="main">
@@ -15,7 +15,7 @@
     <!-- End #main -->
     {{ partial "chatbot.html" . }}
     <!-- ======= Footer ======= -->
-    {{ partial "footer" .}}
+    {{ partialCached "footer" .}}
     <!-- End Footer -->
   </body>
 </html>

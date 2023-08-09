@@ -5,7 +5,7 @@ title = 'The Harmony project'
 defaultContentLanguage = "en"
 
 [imaging]
-quality = 90
+quality = 85
 resampleFilter = "Lanczos"
 
 [languages.en]

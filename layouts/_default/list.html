@@ -18,7 +18,7 @@
         <div class="icon-box">
           <a href="{{.Permalink}}" class="icon">
             {{ with .Params.image }}
-              {{ partial "image-responsive" (dict "src" (. | relLangURL) "alt" $.Title "class" "" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
+              {{ partial "image-responsive" (dict "src" (. | relLangURL) "alt" $.Title "class" "img-fluid" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
             {{ end }}
           </a>
           <div class="content text-start">

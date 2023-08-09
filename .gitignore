@@ -1,0 +1,11 @@
+# OS or Editor folders
+.DS_Store
+node_modules
+resources
+.vscode/settings.json
+
+# Local Netlify folder
+.netlify
+
+# Local Hugo build
+.hugo_build.lock

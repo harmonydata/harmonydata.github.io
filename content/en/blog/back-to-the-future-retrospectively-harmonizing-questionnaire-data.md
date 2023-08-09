@@ -2,7 +2,7 @@
 title: Back To The Future – Retrospectively Harmonizing Questionnaire Data
 description: Now more than ever, the international research community are keen to determine whether their findings replicate across different contexts. For ...
 date:
-image: /assets/img/blog/to-do-g9c7aee9ed_1920-1536x974.jpg
+image: /assets/images/blog/to-do-g9c7aee9ed_1920-1536x974.jpg
 ---
 
 Now more than ever, the international research community are keen to determine whether their findings replicate across different contexts. For instance, if a researcher discovers a potentially important association between two variables, they may wish to see whether this association is present in other populations (e.g. different countries, or different generations). In an ideal world, this would be achieved by conducting follow-up studies that are harmonized by design. In other words, the exact same methodologies and measures would be used in a new sample, in order to determine whether the findings can be replicated. Such direct replication is often challenging however, with research funders often preferring novel lines of inquiry.
@@ -17,7 +17,7 @@ How can researchers harmonize such complex measures? One option would be to stan
 
 An alternative approach is to apply retrospective harmonization at the item-level. Although questionnaires can differ considerably on the number and nature of questions asked, there is often considerable overlap at the semantic/content level. Let’s return to our earlier example of depression. Although there are many different questionnaires that can be used to assess this experience, they often ask the same types of questions. Below is an example of content overlap in two of the most common measures of psychological distress used in children, the Revised Children’s Anxiety and Depression Scale (RCADS), and the Mood and Feelings Questionnaire (MFQ).
 
-![img](/assets/img/blog/blog-pic-1.png)
+![img](/assets/images/blog/blog-pic-1.png)
 
 By identifying, recoding, and testing the equivalence of subsets of items from different questionnaires (for guidelines see our previous report), researchers can derive harmonized sub-scales that are directly comparable across studies. Our group has previously used this approach to study trends in mental health across different generations (Gondek et al., 2021), and examine how socio-economic deprivation impacted adolescent mental health across different cohorts (McElroy et al., 2022).
 

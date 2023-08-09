@@ -395,7 +395,7 @@ h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../images/hero-bg.jpg") top center;
   background-size: cover;
   position: relative;
 }
@@ -651,7 +651,7 @@ pre ::-webkit-scrollbar-thumb {
       rgba(13, 229, 179, 0.6) 0%,
       rgba(43, 69, 237, 0.6) 100%
     ),
-    url("/assets/img/call-to-action.jpg") fixed center center;
+    url("/assets/images/call-to-action.jpg") fixed center center;
   background-size: cover;
   padding: 60px 0;
 }

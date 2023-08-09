@@ -2,7 +2,7 @@
 title:  Harmony Questionnaire
 description: 
 date: 
-image: /assets/img/blog/pexels-alex-green-5699458-300x200.jpg
+image: /assets/images/blog/pexels-alex-green-5699458-300x200.jpg
 ---
 
 {{< htmlcode >}}

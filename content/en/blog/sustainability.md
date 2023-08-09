@@ -2,7 +2,7 @@
 title: Making Harmony sustainable long-term
 description: How we can make sure the Harmony project survives after the Wellcome Trust Mental Health Data Prize
 date:
-image: /assets/img/sustainability.png
+image: /assets/images/sustainability.png
 ---
 
 Longevity is a tricky topic in software development.

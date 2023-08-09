@@ -2,7 +2,7 @@
 title: Running Harmony In Your Browser With No Internet Connection
 description: Here’s a quick start guide to running Harmony. These instructions are for the complete version of Harmony including the graphical browser-based tool which is available onlin...
 date:
-image: /assets/img/blog/Screenshot-from-2023-07-12-21-28-48-1536x933.png
+image: /assets/images/blog/Screenshot-from-2023-07-12-21-28-48-1536x933.png
 ---
 
 Here’s a quick start guide to running Harmony. These instructions are for the complete version of Harmony including the graphical browser-based tool which is available online at https://harmonydata.ac.uk/app/. If you only need the [Python](https://github.com/harmonydata/harmonyapi) or R libraries, or the [REST API](https://github.com/harmonydata/harmonyapi), please refer to our [Github page](https://github.com/harmonydata).

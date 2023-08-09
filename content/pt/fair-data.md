@@ -8,7 +8,7 @@ The [FAIR principles](https://www.go-fair.org/fair-principles/) are a set of gui
 
 The FAIR principles were published in *Nature* in 2016 to address the difficulties in reproducing scientific research. Funding organisations, publishers, and governmental agencies are increasingly beginning to require data management plans for data generated in research. This means that if you find a scientific paper and want to reproduce the study, you should be able to reproduce the research with minimal friction.
 
-![img](/assets/img/fair.png)
+![img](/assets/images/fair.png)
 
 ## How is Harmony following FAIR principles?
 

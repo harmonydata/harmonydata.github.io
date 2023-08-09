@@ -2,7 +2,7 @@
 title: Harmony Going Forward
 description: Yesterday the Harmony team received the wonderful news that we are given the chance to continue working on Harmony for another six months, after which we c...
 date:
-image: /assets/img/blog/noah-buscher-x8ZStukS2PM-unsplash-1536x880.jpg
+image: /assets/images/blog/noah-buscher-x8ZStukS2PM-unsplash-1536x880.jpg
 ---
 
 **5 key things Implementation Science has taught us** **to focus on**
@@ -13,7 +13,7 @@ As our team embarks on the prototyping journey, I am reflecting on how we can ma
 
 The successful implementation and sustainability of digital products developed through research grant funding, has been shockingly low. We have seen this especially in the digital mental health field, where thousands of apps and platforms have been developed and only very few have been implemented and sustained in the wild. From this line of [research](https://www.psychiatrist.com/jcp/psychiatry/implementing-digital-mental-health-interventions/#ref16) and [my own work with colleagues](https://www.jmir.org/2022/11/e40347) I know that innovation and effectiveness alone are not sufficient to secure real-world adoption .
 
-![img](/assets/img/blog/noah-buscher-x8ZStukS2PM-unsplash-1536x880.jpg)
+![img](/assets/images/blog/noah-buscher-x8ZStukS2PM-unsplash-1536x880.jpg)
 
 So how can we maximise the uptake and implementation of Harmony to give it a longer shelf-life? I’ll draw on the field of implementation science[[i\]](https://harmonydata.ac.uk/harmony-going-forward-5-things-implementation-science-has-taught-us-to-focus-on/#_edn1) which provides useful insights and [frameworks](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-8-139#Abs1) on share some reflections on how this could be done and what we and our fellow teams may want to focus on at this stage.
 
@@ -48,7 +48,7 @@ So how can we maximise the uptake and implementation of Harmony to give it a lon
 
 We wish all remaining Wellcome Mental Health Data Prize teams a great start into the next stage. We are beyond excited.
 
-![img](/assets/img/blog/kelsey-knight-SFRw5GChoLA-unsplash-1-1536x1024.jpg)
+![img](/assets/images/blog/kelsey-knight-SFRw5GChoLA-unsplash-1-1536x1024.jpg)
 
 
 

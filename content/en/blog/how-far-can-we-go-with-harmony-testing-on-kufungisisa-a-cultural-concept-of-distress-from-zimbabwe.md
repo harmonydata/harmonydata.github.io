@@ -2,7 +2,7 @@
 title: How Far Can We Go With Harmony? Testing On Kufungisisa, A Cultural Concept Of Distress From Zimbabwe
 description: Many psychologists believe that mental illnesses can vary across cultures. In 1904, Emil Kraepelin initiated the field of comparative psychiatry after studying mental health disorders in Java....
 date:
-image: /assets/img/ccd.png
+image: /assets/images/ccd.png
 ---
 
 Many psychologists believe that mental illnesses can vary across cultures. In 1904, Emil Kraepelin initiated the field of comparative psychiatry after studying mental health disorders in Java, writing that _“Die Eigenart eines Volkes wird auch in der Häufigkeit und klinischen Gestaltung seiner Geistesstörungen zum Ausdruck kommen,”_ meaning “The peculiarity of a people[ethnic group] will also be expressed in the frequency and clinical form of its mental disorders.”[1]
@@ -23,7 +23,7 @@ Can we use Harmony to harmonise mental health instruments designed for different
 
 > Zvaita sei kuti chembere yorasika, bere rorutsa imvi? (How is it that the old woman is missing and the hyena is vomiting grey hairs?)
 >
-> ![img](/assets/img/pexels-bigworldinalens-11307036-1024x682.jpg)
+> ![img](/assets/images/pexels-bigworldinalens-11307036-1024x682.jpg)
 >
 > Shona proverb (similar to English “there’s no smoke without fire”)
 
@@ -46,7 +46,7 @@ I tried using Harmony to see how it would harmonise “kufungisisa” (thinking 
 
 Although English is the best-resource language for natural language processing, [multilingual NLP techniques](https://fastdatascience.com/multilingual-natural-language-processing/) are catching up even for lower-resourced languages. There exist some NLP models for Shona. I used the sentence transformer model `Davlan/xlm-roberta-base-finetuned-shona` which is a modification of ROBERTA trained on Shona texts[7]. I plugged one into Harmony and tried to match the [Shona symptom questionnaire for the detection of depression and anxiety](https://depts.washington.edu/edgh/zw/hit/web/project-resources/shona_symptom_questionnaire.pdf), which is used in Zimbabwe[6].
 
-![img](/assets/img/Screenshot-from-2023-07-13-12-34-30.png)
+![img](/assets/images/Screenshot-from-2023-07-13-12-34-30.png)
 
 Above: the text of the Shona symptom questionnaire for the detection of depression and anxiety.
 
@@ -56,7 +56,7 @@ Also, the transformer model did not operate as a sentence transformer, but rathe
 
 My model’s output is below:
 
-![img](/assets/img/image-1-b.png)
+![img](/assets/images/image-1-b.png)
 
 Harmony and the Shona transformer model matched the question about “kufungisisa” to GHQ-12 question 1 “been able to concentrate on whatever you’re doing?” which seems approximately OK. However, I would need a Shona native speaker to validate my results.
 

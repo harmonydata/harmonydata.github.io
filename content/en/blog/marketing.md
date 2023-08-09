@@ -2,7 +2,7 @@
 title: The importance of marketing for open science
 description: How we are approaching marketing in the Harmony project
 date:
-image: /assets/img/marketing.jpg
+image: /assets/images/marketing.jpg
 ---
 
 
@@ -41,7 +41,7 @@ Our brand manual is available [as a PDF](https://raw.githubusercontent.com/harmo
 
 We prepared a number of graphics using Figma (screenshot below):
 
-![0de5b2](/assets/img/figma.png)
+![0de5b2](/assets/images/figma.png)
 
 These graphics feature throughout the site and on our social media accounts.
 

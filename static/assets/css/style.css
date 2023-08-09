@@ -1052,3 +1052,61 @@ pre ::-webkit-scrollbar-thumb {
 .ml-2 {
   margin-left: 1rem;
 }
+
+#toggleChat {
+  position: fixed;
+  right: 1.25rem;
+  bottom: 2rem;
+  transition-property: color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,-webkit-backdrop-filter;
+  transition-property: color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;
+  transition-property: color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter,-webkit-backdrop-filter;
+  transition-timing-function: cubic-bezier(0.4,0,0.2,1);
+  transition-duration: 150ms;
+  padding: 1rem;
+  text-align: center;
+  border-radius: 9999px;
+  background-color: #0f1854;
+  border: none;
+  color: white;
+}
+#toggleChat svg {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+#chatWindow {
+  position: fixed;
+  right: 1.25rem;
+  bottom: 8rem;
+  z-index: 10;
+  max-width: 20rem;
+}
+#chatWindow input {
+  outline: 0;
+  box-shadow: none;
+}
+#messages {
+  overflow-y: scroll;
+  height: 25rem;
+}
+.response {
+  margin-top: 0.5rem;
+}
+.response span {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  border-radius: 4px;
+  display: inline-block;
+}
+.bot span {
+  background-color: #eee;
+  border-radius: 4px;
+}
+.user span {
+  background-color: #0f1854;
+  color: white;
+}
+.user {
+  text-align: right;
+}

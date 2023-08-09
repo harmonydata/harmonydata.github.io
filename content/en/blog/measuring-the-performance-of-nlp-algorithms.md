@@ -2,7 +2,7 @@
 title: Measuring The Performance Of NLP Algorithms
 description: "Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: chil..."
 date:
-image: /assets/images/roc.png
+image: /images/roc.png
 ---
 
 _Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: childhood **84%**, adulthood **80%**. Harmony was able to match the questions of the English and Portuguese GAD-7 instruments with AUC **100%** and the Portuguese CBCL and SDQ with AUC **89%**. Harmony was also evaluated using a variety of transformer models including MentalBERT, a publicly available pretrained language model for the mental healthcare domain._

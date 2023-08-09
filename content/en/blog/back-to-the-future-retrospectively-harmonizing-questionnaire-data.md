@@ -2,7 +2,7 @@
 title: Back To The Future – Retrospectively Harmonizing Questionnaire Data
 description: Now more than ever, the international research community are keen to determine whether their findings replicate across different contexts. For ...
 date:
-image: /assets/images/blog/to-do-g9c7aee9ed_1920-1536x974.jpg
+image: /images/blog/to-do-g9c7aee9ed_1920-1536x974.jpg
 ---
 
 Now more than ever, the international research community are keen to determine whether their findings replicate across different contexts. For instance, if a researcher discovers a potentially important association between two variables, they may wish to see whether this association is present in other populations (e.g. different countries, or different generations). In an ideal world, this would be achieved by conducting follow-up studies that are harmonized by design. In other words, the exact same methodologies and measures would be used in a new sample, in order to determine whether the findings can be replicated. Such direct replication is often challenging however, with research funders often preferring novel lines of inquiry.

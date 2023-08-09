@@ -2,7 +2,7 @@
 title: Radio Podcast About Wellcome Data Prize
 description:
 date:
-image: /assets/images/blog/pexels-scott-webb-29049.jpg
+image: /images/blog/pexels-scott-webb-29049.jpg
 ---
 
 {{< htmlcode >}}

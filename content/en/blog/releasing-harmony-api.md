@@ -2,7 +2,7 @@
 title: Releasing Harmony API
 description: Semantic text matching is a task in natural language processing involving estimating the semantic similarity between two texts. For exam...
 date:
-image: /assets/images/harmony_api.png
+image: /images/harmony_api.png
 ---
 
 

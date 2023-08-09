@@ -2,7 +2,7 @@
 title: How Does Harmony Work?
 description: When you input two questionnaires into Harmony, such as the GAD-7 and Beck’s Anxiety Inventory, Harmony is able to match similar quest...
 date: 
-image: /assets/images/blog/harmony-1.png
+image: /images/blog/harmony-1.png
 ---
 
 When you input two questionnaires into Harmony, such as the [GAD-7](https://en.wikipedia.org/wiki/Generalized_Anxiety_Disorder_7) and [Beck’s Anxiety Inventory](https://res.cloudinary.com/dpmykpsih/image/upload/great-plains-health-site-358/media/1087/anxiety.pdf), Harmony is able to match similar questions and assign a number to the match. (I have written another blog post on [how we measured Harmony’s performance in terms of AUC](https://harmonydata.ac.uk/measuring-the-performance-of-nlp-algorithms/)).

@@ -613,6 +613,7 @@ pre ::-webkit-scrollbar-thumb {
 }
 .services img {
   width: 100%;
+  height: auto;
   transition: 0.3s;
 }
 .services .content {

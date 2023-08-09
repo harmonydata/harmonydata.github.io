@@ -16,9 +16,11 @@
         data-aos-delay="100"
       >
         <div class="icon-box">
-          <div class="icon">
-            <img src="{{.Params.image}}" alt="Blog image" />
-          </div>
+          <a href="{{.Permalink}}" class="icon">
+            {{ with .Params.image }}
+              {{ partial "image-responsive" (dict "src" (. | relLangURL) "alt" $.Title "class" "" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
+            {{ end }}
+          </a>
           <div class="content text-start">
             <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
             <p>{{.Description}}</p>

@@ -8,6 +8,7 @@
               src="/assets/images/logo-green.png"
               alt="Logo"
               class="img-fluid"
+              alt="{{ .Site.Title }}" width="240" height="67"
             />
             <p>
               Harmony is a tool for retrospective harmonisation of questionnaire
@@ -17,6 +18,7 @@
               <a
                 href="https://www.facebook.com/people/Harmony-Project/100086772661697/"
                 class="facebook"
+                title="facebook"
                 target="_blank"
                 ><i class="bx bxl-facebook"></i
               ></a>
@@ -24,6 +26,7 @@
               <a
                 href="https://twitter.com/harmony_data"
                 class="twitter"
+                title="twitter"
                 target="_blank"
                 ><i class="bx bxl-twitter"></i
               ></a>
@@ -31,18 +34,21 @@
               <a
                 href="https://www.instagram.com/harmonydata/"
                 class="instagram"
+                title="instagram"
                 target="_blank"
                 ><i class="bx bxl-instagram"></i
               ></a>
               <a
                 href="https://www.youtube.com/channel/UCraLlfBr0jXwap41oQ763OQ"
                 class="google-plus"
+                title="google-plus"
                 target="_blank"
                 ><i class="bx bxl-youtube"></i
               ></a>
               <a
                 href="https://www.linkedin.com/company/harmonydata/about/?viewAsMember=true"
                 class="linkedin"
+                title="linkedin"
                 target="_blank"
                 ><i class="bx bxl-linkedin"></i
               ></a>
@@ -86,7 +92,8 @@
             cooperation in mental health research
           </p>
           <form action="" method="post">
-            <input type="email" name="email" /><input
+            <label for="email" class="sr-only">Email</label>
+            <input type="email" id="email" name="email" /><input
               type="submit"
               value="Subscribe"
             />

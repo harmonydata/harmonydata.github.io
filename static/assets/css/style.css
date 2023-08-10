@@ -33,6 +33,9 @@ h6 {
   font-family: var(--primary-font);
 }
 
+.hljs {
+  background-color: #0f1854;
+}
 .btn-secondary  {
   background-color: var(--secondary-color);
   border-color: var(--secondary-color);

@@ -563,7 +563,7 @@ pre ::-webkit-scrollbar-thumb {
 # Clients
 --------------------------------------------------------------*/
 .clients {
-  padding-top: 20px;
+  padding-top: 60px;
 }
 .clients .swiper-slide img {
   opacity: 0.5;

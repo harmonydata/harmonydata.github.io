@@ -1,255 +1,236 @@
-<!DOCTYPE html>
-<html lang="{{ .Language.Lang }}">
-{{ partial "head" .}}
+{{define "main"}}
+<!-- ======= Hero Section ======= -->
+<section id="hero" class="d-flex align-items-center justify-content-center">
+  <div class="container" data-aos="fade-up">
+    <div class="row" data-aos="fade-up" data-aos-delay="150">
+      <div class="col-xl-10 col-md-12 text-start">
+        <h1>Harmonise questionnaire items with <span>Harmony.</span></h1>
+        <p class="text-white h4 mt-3">
+          Harmony is a tool for retrospective <br />
+          harmonisation of questionnaire items.
+        </p>
 
-<body>
-  <!-- ======= Header ======= -->
-  {{ partialCached "header" .}}
-  <!-- End Header -->
-
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center justify-content-center">
-    <div class="container" data-aos="fade-up">
-      <div class="row" data-aos="fade-up" data-aos-delay="150">
-        <div class="col-xl-10 col-md-12 text-start">
-          <h1>Harmonise questionnaire items with <span>Harmony.</span></h1>
-          <h2>
-            Harmony is a tool for retrospective <br />
-            harmonisation of questionnaire items.
-          </h2>
-
-          <div style="color:white">
-            <br />
-            <p>
-              Do you need to compare questionnaire data across studies? Do you want to find the best match for a set of
-              items? Are there are different versions of the same questionnaire floating around and you want to make
-              sure how compatible they are? Are the questionnaires written in different languages that you would like to
-              compare?
-            </p>
-            <p>
-              The Harmony project is a data harmonisation project that uses <a
-                href="https://fastdatascience.com/guide-natural-language-processing-nlp/">Natural Language
-                Processing</a> to help researchers make better use of existing data from different studies by supporting
-              them with the harmonisation of various measures and items used in different studies. Harmony is a
-              collaboration project between <a href="https://ulster.ac.uk">Ulster University</a>, <a
-                href="https://ucl.ac.uk">University College London</a>, the <a href="https://www.ufsm.br/">Universidade
-                Federal de Santa Maria</a>, and <a href="http://fastdatascience.com/">Fast Data Science</a>.</p>
-          </div>
+        <div style="color:white">
+          <br />
+          <p>
+            Do you need to compare questionnaire data across studies? Do you want to find the best match for a set of
+            items? Are there are different versions of the same questionnaire floating around and you want to make
+            sure how compatible they are? Are the questionnaires written in different languages that you would like to
+            compare?
+          </p>
+          <p>
+            The Harmony project is a data harmonisation project that uses <a
+              href="https://fastdatascience.com/guide-natural-language-processing-nlp/">Natural Language
+              Processing</a> to help researchers make better use of existing data from different studies by supporting
+            them with the harmonisation of various measures and items used in different studies. Harmony is a
+            collaboration project between <a href="https://ulster.ac.uk">Ulster University</a>, <a
+              href="https://ucl.ac.uk">University College London</a>, the <a href="https://www.ufsm.br/">Universidade
+              Federal de Santa Maria</a>, and <a href="http://fastdatascience.com/">Fast Data Science</a>.</p>
         </div>
       </div>
     </div>
-  </section>
-  <!-- End Hero -->
+  </div>
+</section>
+<!-- End Hero -->
 
-  <main id="ytvideo">
-    <section id="ytvideosection" class="about">
-      <div class="container" data-aos="fade-up">
-        <div class="row align-items-center">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/cEZppTBj1NI" title="YouTube video player"
-            frameborder="0"
+<section id="ytvideosection" class="section">
+  <div class="container" data-aos="fade-up">
+    <div class="video-container">
+      <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/cEZppTBj1NI" title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen></iframe>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container" data-aos="fade-up">
+    <div class="row align-items-center">
+      <div class="col-lg-6 order-2 order-lg-1 p-4-" data-aos="fade-right" data-aos-delay="100">
+        <div class="video-container">
+          <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/CqAsrY74zNM"
+            title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowfullscreen></iframe>
         </div>
       </div>
-    </section>
-  </main>
+      <div class="col-lg-6 pt-4 pt-lg-0 pl-lg-5 order-1 order-lg-2 content" data-aos="fade-left" data-aos-delay="100">
+        <h2>Use Harmony in the browser</h2>
+        <p>
+          You can use Harmony on the web.
+        </p>
 
-  <main id="main">
-    <section id="about" class="about">
-      <div class="container" data-aos="fade-up">
-        <div class="row align-items-center">
-          <div class="col-lg-6 order-2 order-lg-1 p-4" data-aos="fade-right" data-aos-delay="100">
-
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/CqAsrY74zNM"
-              title="YouTube video player" frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen></iframe>
-
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 order-1 order-lg-2 content" data-aos="fade-left" data-aos-delay="100">
-            <h3>Use Harmony in the browser</h3>
-            <p>
-              You can use Harmony on the web.
-            </p>
-
-            <p>
-              <a href="https://harmonydata.ac.uk/app" target="_blank">https://harmonydata.ac.uk/app</a>
-            </p>
-          </div>
-        </div>
+        <p>
+          <a href="https://harmonydata.ac.uk/app" class="btn btn-secondary btn-lg" target="_blank">TRY HARMONY APP</a>
+        </p>
       </div>
-    </section>
+    </div>
+  </div>
+</section>
 
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about">
-      <div class="container" data-aos="fade-up">
-        <div class="row align-items-center">
-          <div class="col-lg-6 order-1 order-lg-2 p-4" data-aos="fade-left" data-aos-delay="100">
-            <pre><code class="language-python">
-  pip install harmonydata
-  import harmony
-  harmony.download_models()
-  instruments = harmony.example_instruments["CES_D English"], 
-  harmony.example_instruments["GAD-7 Portuguese"]
-  questions, similarity, query_similarity, _ = harmony.match_instruments
-  (instruments) 
-  # How to load a PDF, Excel or Word into an instrument
-  harmony.load_instruments_from_local_file("gad-7.pdf")
-                
-            </code></pre>
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
-            <h3>Use Harmony in Python</h3>
-            <p>
-              We've released Harmony as an easy-to-use Python library on <a href="https://pypi.org/project/harmonydata/"
-                target="_blank">Pypi</a>.
-            </p>
-
-            <p>
-              <a href="https://pypi.org/project/harmonydata/" target="_blank">Python package</a> <a
-                href="http://github.com/harmonydata/harmony" target="_blank">Source code</a> <br /><br /><a
-                href="http://github.com/harmonydata/harmonyapi" target="_blank">REST API</a> <a
-                href="https://raw.githubusercontent.com/harmonydata/harmonyapi/main/docs/API_reference.pdf"
-                target="_blank">API documentation (PDF)</a>
-            </p>
-          </div>
-        </div>
+<!-- ======= About Section ======= -->
+<section class="section">
+  <div class="container" data-aos="fade-up">
+    <div class="row align-items-center">
+      <div class="col-lg-6 order-1 order-lg-2 p-4" data-aos="fade-left" data-aos-delay="100">
+        <pre><code class="language-python">
+pip install harmonydata
+import harmony
+harmony.download_models()
+instruments = harmony.example_instruments["CES_D English"], 
+harmony.example_instruments["GAD-7 Portuguese"]
+questions, similarity, query_similarity, _ = harmony.match_instruments
+(instruments) 
+# How to load a PDF, Excel or Word into an instrument
+harmony.load_instruments_from_local_file("gad-7.pdf")
+            
+        </code></pre>
       </div>
-    </section>
-    <!-- End About Section -->
+      <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
+        <h2>Use Harmony in Python</h2>
+        <p>
+          We've released Harmony as an easy-to-use Python library on <a class="btn btn-secondary" href="https://pypi.org/project/harmonydata/"
+            target="_blank">Pypi</a>.
+        </p>
 
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about">
-      <div class="container" data-aos="fade-up">
-        <div class="row align-items-center">
-          <div class="col-lg-6 order-2 order-lg-1 p-4" data-aos="fade-right" data-aos-delay="100">
-            <pre><code >
-  install.packages("harmonydata")
-  library(harmonydata)
-                
-  instruments <- harmony.example_instruments["CES_D English"],
-  harmony.example_instruments["GAD-7 Portuguese"]
-  similarity <- harmony.match_instruments(instruments) 
-                
-                
-            </code></pre>
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 order-1 order-lg-2 content" data-aos="fade-left" data-aos-delay="100">
-            <h3>Use Harmony in R</h3>
-            <p>
-              R users can now import Harmony as an R package.
-            </p>
-
-            <p>
-              <a href="https://github.com/harmonydata/harmony_r" target="_blank">R package</a>
-            </p>
-          </div>
-        </div>
+        <p>
+          <a href="https://pypi.org/project/harmonydata/" class="btn btn-secondary mt-1" target="_blank">Python package</a> <a
+            href="http://github.com/harmonydata/harmony" class="btn btn-secondary mt-1" target="_blank">Source code</a> <a
+            href="http://github.com/harmonydata/harmonyapi" class="btn btn-secondary mt-1" target="_blank">REST API</a> <a
+            href="https://raw.githubusercontent.com/harmonydata/harmonyapi/main/docs/API_reference.pdf"
+            class="btn btn-secondary mt-1" target="_blank">API documentation (PDF)</a>
+        </p>
       </div>
-    </section>
-    <!-- End About Section -->
+    </div>
+  </div>
+</section>
+<!-- End About Section -->
 
-    <main id="main2">
-      <!-- ======= About Section ======= -->
-      <section id="about" class="about">
-        <div class="container" data-aos="fade-up">
-          <div class="row align-items-center">
-            <div class="col-lg-6 order-1 order-lg-2 p-4" data-aos="fade-left" data-aos-delay="100">
-              <pre><code class="language-bash">
+<!-- ======= About Section ======= -->
+<section class="section">
+  <div class="container" data-aos="fade-up">
+    <div class="row align-items-center">
+      <div class="col-lg-6 order-2 order-lg-1" data-aos="fade-right" data-aos-delay="100">
+        <pre><code >
+install.packages("harmonydata")
+library(harmonydata)
+            
+instruments <- harmony.example_instruments["CES_D English"],
+harmony.example_instruments["GAD-7 Portuguese"]
+similarity <- harmony.match_instruments(instruments) 
+            
+            
+        </code></pre>
+      </div>
+      <div class="col-lg-6 pt-4 pt-lg-0 order-1 order-lg-2 pl-lg-5 content" data-aos="fade-left" data-aos-delay="100">
+        <h2>Use Harmony in R</h2>
+        <p>
+          R users can now import Harmony as an R package.
+        </p>
+
+        <p>
+          <a class="btn btn-secondary btn-lg" href="https://github.com/harmonydata/harmony_r" target="_blank">R package</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End About Section -->
+
+<!-- ======= About Section ======= -->
+<section class="section">
+  <div class="container" data-aos="fade-up">
+    <div class="row align-items-center">
+      <div class="col-lg-6 order-1 order-lg-2 p-4" data-aos="fade-left" data-aos-delay="100">
+        <pre><code class="language-bash">
 docker pull harmonydata/harmonywithtika
 docker run -p 8000:8000 -p 3000:3000 harmonydata/harmonywithtika
-            </code></pre>
-            </div>
-            <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
-              <h3>Harmony Docker container</h3>
-              <p>
-                We've released Harmony as a <a href="https://www.docker.com/" target="docker">Docker</a> container on <a
-                  href="https://hub.docker.com/r/harmonydata/harmonywithtika" target="_blank">Dockerhub</a>.
-              </p>
+      </code></pre>
+      </div>
+      <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
+        <h2 class="h1">Harmony Docker container</h2>
+        <p>
+          We've released Harmony as a <a class="btn btn-secondary" href="https://www.docker.com/" target="docker">Docker</a> container on <a class="btn btn-secondary"
+            href="https://hub.docker.com/r/harmonydata/harmonywithtika" target="_blank">Dockerhub</a>.
+        </p>
 
-            </div>
-          </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End About Section -->
+
+<!-- ======= Clients Section ======= -->
+<section id="clients" class="clients">
+  <div class="container" data-aos="zoom-in">
+    <div class="clients-slider swiper">
+      <div class="swiper-wrapper align-items-center">
+        <div class="swiper-slide">
+          <a href="https://www.ulster.ac.uk/" target="_blank" title="Client">
+            {{ partial "image-responsive" (dict "src" ( "/images/clients/client-1.png" | relLangURL) "alt" "Client" "class" "img-fluid" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
+          </a>
         </div>
-      </section>
-      <!-- End About Section -->
-
-      <!-- ======= Clients Section ======= -->
-      <section id="clients" class="clients">
-        <div class="container" data-aos="zoom-in">
-          <div class="clients-slider swiper">
-            <div class="swiper-wrapper align-items-center">
-              <div class="swiper-slide">
-                <a href="https://www.ulster.ac.uk/" target="_blank" title="Client">
-                  {{ partial "image-responsive" (dict "src" ( "/images/clients/client-1.png" | relLangURL) "alt" "Client" "class" "img-fluid" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
-                </a>
-              </div>
-              <div class="swiper-slide">
-                <a href="https://www.ucl.ac.uk/" target="_blank" title="Client">
-                  {{ partial "image-responsive" (dict "src" ( "/images/clients/client-2.png" | relLangURL) "alt" "Client" "class" "img-fluid" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
-                </a>
-              </div>
-              <div class="swiper-slide">
-                <a href="https://www.ufsm.br/" target="_blank" title="Client">
-                  {{ partial "image-responsive" (dict "src" ( "/images/clients/client-3.png" | relLangURL) "alt" "Client" "class" "img-fluid" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
-                </a>
-              </div>
-              <div class="swiper-slide">
-
-                <a href="https://fastdatascience.com/" target="_blank" title="Client">
-                  {{ partial "image-responsive" (dict "src" ( "/images/clients/client-4.png" | relLangURL) "alt" "Client" "class" "img-fluid" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
-                </a>
-              </div>
-              <div class="swiper-slide">
-
-                <a href="https://wellcome.org/" target="_blank" title="Client">
-                  {{ partial "image-responsive" (dict "src" ( "/images/clients/wellcome.gif" | relLangURL) "alt" "Client" "class" "img-fluid" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
-                </a>
-              </div>
-            </div>
-            <div class="swiper-pagination"></div>
-          </div>
+        <div class="swiper-slide">
+          <a href="https://www.ucl.ac.uk/" target="_blank" title="Client">
+            {{ partial "image-responsive" (dict "src" ( "/images/clients/client-2.png" | relLangURL) "alt" "Client" "class" "img-fluid" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
+          </a>
         </div>
-      </section>
-      <!-- End Clients Section -->
-
-      <section id="cta2" class="clients">
-        <div class="container" data-aos="zoom-in">
-          <div class="text-center">
-            {{ partial "image-responsive" (dict "src" ( "/images/multilingual.jpg" | relLangURL) "alt" "USM" "class" "img-fluid" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
-          </div>
+        <div class="swiper-slide">
+          <a href="https://www.ufsm.br/" target="_blank" title="Client">
+            {{ partial "image-responsive" (dict "src" ( "/images/clients/client-3.png" | relLangURL) "alt" "Client" "class" "img-fluid" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
+          </a>
         </div>
+        <div class="swiper-slide">
 
-        <div class="text-center">
-          <img src="/assets/images/quote.png" class="img-fluid" alt="USM" />
+          <a href="https://fastdatascience.com/" target="_blank" title="Client">
+            {{ partial "image-responsive" (dict "src" ( "/images/clients/client-4.png" | relLangURL) "alt" "Client" "class" "img-fluid" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
+          </a>
         </div>
-        </div>
-      </section>
+        <div class="swiper-slide">
 
-      <!-- ======= Cta Section ======= -->
-      <section id="cta" class="cta">
-        <div class="container" data-aos="zoom-in">
-          <div class="text-center">
-            <h3>How to contribute</h3>
-            <p>
-              Join us now! Contribute or connect at harmonydata.ac.uk. <a
-                href="https://github.com/harmonydata/harmony/pulls">Pull
-                request</a> on Github or <a href="https://github.com/harmony/harmony/issues">raise an issue</a>.
-            </p>
-            <a class="cta-btn" href="/" target="_blank" title="Harmonydata"><i class="bi bi-globe"></i></a>
-            <a class="cta-btn" href="https://github.com/harmonydata/harmonyapi" title="github repository"
-              target="_blank"><i class="bi bi-github"></i></a>
-            <a class="cta-btn" href="https://github.com/harmony/harmony/issues" title="GitHub issues" target="_blank"><i
-                class="bi bi-git"></i></a>
-          </div>
+          <a href="https://wellcome.org/" target="_blank" title="Client">
+            {{ partial "image-responsive" (dict "src" ( "/images/clients/wellcome.gif" | relLangURL) "alt" "Client" "class" "img-fluid" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
+          </a>
         </div>
-      </section>
-      <!-- End Cta Section -->
-    </main>
-    <!-- End #main -->
-    {{ partial "chatbot.html" . }}
-    <!-- ======= Footer ======= -->
-    {{ partialCached "footer" .}}
-    <!-- End Footer -->
-</body>
+      </div>
+      <div class="swiper-pagination"></div>
+    </div>
+  </div>
+</section>
+<!-- End Clients Section -->
 
-</html>
+<section id="cta2" class="clients">
+  <div class="container" data-aos="zoom-in">
+    <div class="text-center">
+      {{ partial "image-responsive" (dict "src" ( "/images/multilingual.jpg" | relLangURL) "alt" "USM" "class" "img-fluid" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
+    </div>
+  </div>
+
+  <div class="text-center">
+    <img src="/assets/images/quote.png" class="img-fluid" alt="USM" />
+  </div>
+  </div>
+</section>
+
+<!-- ======= Cta Section ======= -->
+<section id="cta" class="cta">
+  <div class="container" data-aos="zoom-in">
+    <div class="text-center">
+      <h3>How to contribute</h3>
+      <p>
+        Join us now! Contribute or connect at harmonydata.ac.uk. <a
+          href="https://github.com/harmonydata/harmony/pulls">Pull
+          request</a> on Github or <a href="https://github.com/harmony/harmony/issues">raise an issue</a>.
+      </p>
+      <a class="cta-btn" href="/" target="_blank" title="Harmonydata"><i class="bi bi-globe"></i></a>
+      <a class="cta-btn" href="https://github.com/harmonydata/harmonyapi" title="github repository"
+        target="_blank"><i class="bi bi-github"></i></a>
+      <a class="cta-btn" href="https://github.com/harmony/harmony/issues" title="GitHub issues" target="_blank"><i
+          class="bi bi-git"></i></a>
+    </div>
+  </div>
+</section>
+<!-- End Cta Section -->
+
+{{end}}

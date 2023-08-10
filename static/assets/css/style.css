@@ -6,6 +6,7 @@
   --primary-color-hover: #2b45ed;
   --primary-font: "Montserrat", sans-serif;
   --secondary-color: #0de5b2;
+  --secondary-color-hover: #0ad3a4;
   --white-color: #fefcfb;
 }
 body {
@@ -32,6 +33,22 @@ h6 {
   font-family: var(--primary-font);
 }
 
+.btn-secondary  {
+  background-color: var(--secondary-color);
+  border-color: var(--secondary-color);
+  color: var(--primary-color);
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+.btn-secondary:hover {
+  background-color: var(--secondary-color-hover);
+  border-color: var(--secondary-color-hover);
+  color: var(--primary-color);
+}
+.btn-lg {
+  font-size: 1.125rem;
+  padding: .675rem 1.25rem;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -448,7 +465,7 @@ h6 {
     height: auto;
   }
   #hero h1 {
-    font-size: 28px;
+    font-size: 36px;
     line-height: 36px;
   }
   #hero h2 {
@@ -498,28 +515,20 @@ section {
 }
 
 /*--------------------------------------------------------------
-# About
+# Sections home page
 --------------------------------------------------------------*/
-.about .content h3 {
+
+.section .content h2 {
   font-weight: 600;
-  font-size: 76px;
+  font-size: 2.5rem;
   font-family: var(--primary-font);
   color: var(--primary-color);
 }
-.about .content p {
+.section .content p {
   color: var(--primary-color);
-  font-size: 28px;
+  font-size: 26px;
 }
-.about .content p a {
-  background-color: var(--primary-color);
-  padding: 8px 24px;
-  border-radius: 2px;
-  transition: all 0.6s;
-}
-.about .content p a:hover {
-  background-color: var(--primary-color-hover);
-}
-.about .content p:last-child {
+.section .content p:last-child {
   margin-bottom: 0;
 }
 .hljs {
@@ -540,6 +549,16 @@ pre ::-webkit-scrollbar-thumb {
   border-radius: 100px;
 }
 
+@media (min-width: 768px) {
+  .section .content h2 {
+    font-size: 3.5rem;
+  }
+}
+@media (min-width: 992px) {
+  .pl-lg-5 {
+    padding-left: 3rem;
+  }
+}
 /*--------------------------------------------------------------
 # Clients
 --------------------------------------------------------------*/
@@ -1154,4 +1173,22 @@ pre ::-webkit-scrollbar-thumb {
   clip: rect(0, 0, 0, 0);
   white-space: nowrap;
   border-width: 0;
+}
+
+.video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }

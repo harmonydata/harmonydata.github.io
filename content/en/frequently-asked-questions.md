@@ -79,7 +79,7 @@ If you imagine as a human, trying to match items in a questionnaire, you might d
 
 We can represent any concept as a vector of length 1, pointing to the surface of a sphere. Concepts that are similar have vectors close together. The cosine score of two vectors that are close together is close to 1.
 
-![img](/assets/images/sphere.svg)
+{{< image src="images/sphere.svg" alt="sphere" >}}
 
 ## Who made Harmony?
 
@@ -93,5 +93,5 @@ We have developed Harmony as an open-source and open science initiative, paying 
 
 We recently did a user-testing at UCL’s Centre for Longitudinal Studies with psychology researchers from several universities. After the session, one postdoctoral researcher said:
 
-![img](/assets/images/quote.png)
+{{< image src="images/quote.png" alt="quote" >}}
 

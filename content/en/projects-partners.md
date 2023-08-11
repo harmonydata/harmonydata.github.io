@@ -2,7 +2,7 @@
 title: Harmonising Mental Health Data
 ---
 
-![img](/assets/images/team.svg)
+{{< image src="images/team.svg" alt="team" >}}
 
 We are excited to announce that we are working on a new project called Harmony for the Wellcome Trust Mental Health Data Prize – Harmony will use natural language processing to help us with comparing measures and data collected with these measures across multiple studies. In most social and psychological research different questionnaires are used, such as the GAD-7 and Beck’s Anxiety Inventory, to assess people’s mental health, these questionnaires are also available indifferent languages and have been used in various countries across the world! Mental health research has often been conducted in silos, we want to break down barriers and help researchers from across the globe to come together, combine their data and tackle the mental health crisis together.
 
@@ -14,7 +14,7 @@ We are excited to announce that we are working on a new project called Harmony f
 - **Dr Mauricio Scopel Hoffman (Universidade Federal de Santa Maria, Brazil)**
 - **Thomas Wood (Fast Data Science)**
 
-![img](/assets/images/blog/gad-7-scanned-min.jpg)
+{{< image src="images/blog/gad-7-scanned-min.jpg" alt="gad-7 scanned" >}}
 
 In addition, we have a partnership with [Professor Louise Arsenault](https://www.kcl.ac.uk/people/louise-arseneault) at the [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/).
 

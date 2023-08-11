@@ -5,13 +5,12 @@
     <div class="row" data-aos="fade-up" data-aos-delay="150">
       <div class="col-xl-10 col-md-12 text-start">
         <h1>Harmonise questionnaire items with <span>Harmony.</span></h1>
-        <p class="text-white h4 mt-3">
-          Harmony is a tool for retrospective <br />
+        <p class="text-white h2 mt-4 ">
+          Harmony is a tool for retrospective 
           harmonisation of questionnaire items.
         </p>
 
-        <div style="color:white">
-          <br />
+        <div class="text-white lead mt-4">
           <p>
             Do you need to compare questionnaire data across studies? Do you want to find the best match for a set of
             items? Are there are different versions of the same questionnaire floating around and you want to make
@@ -47,7 +46,7 @@
 <section class="section">
   <div class="container" data-aos="fade-up">
     <div class="row align-items-center">
-      <div class="col-lg-6 order-2 order-lg-1 p-4-" data-aos="fade-right" data-aos-delay="100">
+      <div class="col-lg-6 order-2 order-lg-1" data-aos="fade-right" data-aos-delay="100">
         <div class="video-container">
           <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/CqAsrY74zNM"
             title="YouTube video player" frameborder="0"
@@ -210,6 +209,38 @@ docker run -p 8000:8000 -p 3000:3000 harmonydata/harmonywithtika
   <div class="text-center">
     <img src="/assets/images/quote.png" class="img-fluid" alt="USM" />
   </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container" data-aos="fade-up">
+    <div class="row">
+      <div class="col-lg-6 order-2 order-lg-1" data-aos="fade-right" data-aos-delay="100">
+        {{ partial "image-responsive" (dict "src" ( "/images/gad-7-scanned-min.webp" | relLangURL) "alt" "USM" "class" "img-fluid" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
+      </div>
+      <div class="col-lg-6 pb-5 pb-lg-0 pl-lg-5 order-1 order-lg-2 content" data-aos="fade-left" data-aos-delay="100">
+        <div>
+          <div class="lead text-primary lead font-weight-medium">Our tool, Harmony, allows researchers to upload a set of mental health questionnaires in PDF or Excel format, such as the GAD-7 anxiety questionnaire. It identifies which questions among questionnaires are identical, similar in meaning, or antonyms of each other, and generates a network graph. This allows researchers to harmonise datasets.</div>
+          
+          <div class="lead text-primary lead font-weight-medium mt-3">Uniquely, Harmony relies on Transformer neural network architectures and is not dependent on a dictionary approach or word list. This allows for multilingual support (English and Portuguese are our languages of focus), and Harmony is able to correctly map the GAD-7 used in the UK to the GAD-7 used in Brazil, despite the Brazilian questionnaire being in Brazilian Portuguese.</div>
+          
+          <div class="lead text-primary lead font-weight-medium mt-3">Using Harmony, our team was able to conduct groundbreaking research into social isolation and anxiety with NLP supplying a quantitative measure of the equivalence of the different mental health datasets.</div>						
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ======= About Section ======= -->
+<section class="section mb-5">
+  <div class="container-medium" data-aos="fade-up">
+    <div class="content" data-aos="fade-bottom" data-aos-delay="100">
+      <div class="text-center text-success mb-2"><strong>HARMONY</strong></div>
+      <h2 class="text-center">A global platform for contextual harmonisation, translation and cooperation in mental health research</h2>
+      <div class="mt-3 text-primary lead font-weight-medium">
+        This team will support better integration of mental health research through a <strong>natural language processing</strong> harmonisation tool (Harmony), allowing researchers to compare data from existing studies to investigate the active ingredients of mental health. Led by Dr Eoin McElroy from Ulster University and Dr Bettina Moltrecht from University College London, the team will develop and demonstrate Harmony to answer research questions around human connection and its influence on the development of depression and anxiety in young people.
+      </div>
+    </div>
   </div>
 </section>
 

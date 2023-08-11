@@ -52,6 +52,12 @@ h6 {
   font-size: 1.125rem;
   padding: .675rem 1.25rem;
 }
+.text-success {
+  color: var(--secondary-color) !important;
+}
+.text-primary {
+  color: var(--primary-color) !important;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -1194,4 +1200,15 @@ pre ::-webkit-scrollbar-thumb {
   left: 0;
   width: 100%;
   height: 100%;
+}
+.container-medium {
+  max-width: 68rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+.font-weight-medium {
+  font-weight: 500;
+}
+.lead {
+  font-size: 1.375rem;
 }

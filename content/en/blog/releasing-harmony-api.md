@@ -133,7 +133,7 @@ If you are not running with Docker, you can run the individual components of the
 
 Architecture of the Harmony implementation on Azure with FastAPI:
 
-![Screenshot](https://raw.githubusercontent.com/harmonydata/harmonyapi/main/images/harmony_architecture_azure.png)
+{{< image src="images/blog/harmony_architecture_azure.png" alt="harmony architecture azure" >}}
 
 
 # Getting started with the Harmony Python library
@@ -331,7 +331,8 @@ The response contains a dictionary with three key-value pairs: `questions` (the 
 
 This repository also contains code for an alternative serverless deployment on AWS Lambda. The deployment has been divided into four AWS Lambda functions, managed by Terraform. Please refer to folder `serverless_deployment` for details.
 
-![Screenshot](https://raw.githubusercontent.com/harmonydata/harmonyapi/main/images/deployed_harmony_architecture.png)
+{{< image src="images/blog/deployed_harmony_architecture.png" alt="deployed harmony architecture" >}}
+
 
 # License
 

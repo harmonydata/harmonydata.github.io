@@ -23,7 +23,9 @@ I used an existing harmonisation tool developed by a team at CLOSER ([Harmonisat
 
 This tool is available as an Excel and shows a variety of instruments from different places and times, and assigns the questions within them to a defined set of categories.
 
-![img](/assets/images/blog/image-1536x502.png)A screenshot of the harmonisation tool by McElroy et al (2020). You can download the tool in Excel format [on our Github repository](https://github.com/harmonydata/harmony/tree/main/data).
+{{< image src="images/blog/image-1536x502.png" alt="img" >}}
+
+A screenshot of the harmonisation tool by McElroy et al (2020). You can download the tool in Excel format [on our Github repository](https://github.com/harmonydata/harmony/tree/main/data).
 
 Since Harmony’s purpose is to automate, or at least facilitate, the production of harmonisation tools such as this, an easy way to validate Harmony’s output is to give Harmony this data and check that Harmony produces something similar to the existing tool.
 
@@ -79,9 +81,11 @@ For each model design, I generated a ROC curve, calculated the AUC, and also pri
 
 The baseline model, the Tf\*Idf, gave a 71% and 67% AUC on the childhood and adulthood datasets respectively. On the English vs Portuguese it scored a 49% AUC, showing that it was unable to perform any matching at all. This is not surprising as there are no words in common between the English and Portuguese GAD-7s.
 
-![img](/assets/images/blog/Model-1-1536x1303.png)
+{{< image src="images/blog/Model-1-1536x1303.png" alt="model 1" >}}
 
-![img](/assets/images/blog/Model-2-1-1536x1254.png)
+
+{{< image src="images/blog/Model-2-1-1536x1254.png" alt="Model 2 1" >}}
+
 
 With a hand-coded dictionary lookup to match English and Portuguese words to each other, the same model was able to score 100% on the GAD-7 multilingual dataset. (Dictionary CSV file available [here](https://github.com/harmonydata/harmony/blob/main/front_end/models/pt_en_map.csv)).
 
@@ -93,13 +97,15 @@ The next stage was to try a word vector similarity approach. I used spaCy, one o
 
 Overall, the smallest spaCy English and Portuguese models performed worse than the Tf\*Idf models described above. The GAD-7 performance is essentially 50% – the model is not performing any useful classification at all.
 
-![img](/assets/images/blog/Model-3-1536x1275.png)
+{{< image src="images/blog/Model-3-1536x1275.png" alt="Model 3" >}}
+
 
 This is to be expected, as we would not expect the English and Portuguese word vectors to be at all equivalent.
 
 I then tried the large spaCy model, using the English version for both languages. This performed marginally better.
 
-![img](/assets/images/blog/Model-4-1536x1303.png)
+{{< image src="images/blog/Model-4-1536x1303.png" alt="Model 4" >}}
+
 
 ### Moving on to transformers
 
@@ -107,17 +113,20 @@ The state-of-the-art in natural language processing is currently transformer mod
 
 I used the software package HuggingFace with the multilingual [Sentence-BERT model](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2), which is an implementation of BERT that is designed to generate semantically meaningful sentence embeddings which can be compared using cosine similarity.
 
-![img](/assets/images/blog/Model-50Adistiluse-base-multilingual-cased-v2-1536x1355.png)
+{{< image src="images/blog/Model-50Adistiluse-base-multilingual-cased-v2-1536x1355.png" alt="Model 50 Adistiluse base multilingual cased" >}}
+
 
 I tested Sentence-BERT with a number of different metrics parameters, switching between Cosine and Dot-product similarity, and adding a manual language-dependent preprocessing step to identify when two sentences may be similar in the opposite sense. I also tried a number of different document vector models available on the HuggingFace hub.
 
 I was able to reach 84% AUC on the childhood questionnaires, 80% AUC on the adulthood questionnaires, and again 100% on the GAD-7.
 
-![img](/assets/images/blog/Model-8-1536x1042.png)
+{{< image src="images/blog/Model-8-1536x1042.png" alt="Model 8" >}}
+
 
 The MentalBERT model did not perform as well as the other sentence transformer models, despite being domain-specific. Of course we would not expect MentalBERT to perform well on the latter two datasets since it is English-only and not multilingual.
 
-![img](/assets/images/blog/Model-10-1536x898.png)
+{{< image src="images/blog/Model-10-1536x898.png" alt="Model 10" >}}
+
 
 ### A sneak peak at the question pairs that were misclassified by Harmony
 
@@ -127,15 +136,21 @@ If you look at the code for the validations in [Github](https://github.com/harmo
 
 For example, Model 7 has clearly tagged equivalent Portuguese/English question pairs with higher similarity values
 
-![img](/assets/images/blog/image-22.png)The question pairs marked as most similar in the GAD-7 dataset by Model 7 (transformer)
+{{< image src="images/blog/image-22.png" alt="img" >}}
 
-![img](/assets/images/blog/image-23.png)The question pairs marked as least similar in the GAD-7 dataset by Model 7 (transformer)
+The question pairs marked as most similar in the GAD-7 dataset by Model 7 (transformer)
+
+{{< image src="images/blog/image-23.png" alt="img" >}}
+
+The question pairs marked as least similar in the GAD-7 dataset by Model 7 (transformer)
 
 ### False negatives
 
 Likewise, here is a printout of the Childhood dataset’s top 10 false negatives (the question pairs that are marked as similar in the McElroy et al tool but which were missed by Harmony):
 
-![img](/assets/images/blog/image-24.png)The top 10 false negatives in the Childhood dataset as classified by Model 7 (transformer)
+{{< image src="images/blog/image-24.png" alt="img" >}}
+
+The top 10 false negatives in the Childhood dataset as classified by Model 7 (transformer)
 
 We can see that some of these are texts where the meaning is really very different, but in a psychology context we would want to group them together. For example, _is nervous or clingy in new situations, easily loses confidence_ does not immediately leap out to me as a non-psychologist as something that we would group with _a dare devil_, but a psychologist may want to categorise them together.
 
@@ -143,7 +158,9 @@ We can see that some of these are texts where the meaning is really very differe
 
 Let’s have a look at the false positives – these are question pairs which McElroy et al categorised as different, but Harmony thought that they are similar.
 
-![img](/assets/images/blog/image-25.png)The top 10 false positives in the Childhood dataset as classified by Model 7 (transformer)
+{{< image src="images/blog/image-25.png" alt="img" >}}
+
+The top 10 false positives in the Childhood dataset as classified by Model 7 (transformer)
 
 We can see that some of these misclassifications are due to very subtle nuances of syntax. For the first question above, the word _diffident_ essentially negates the entire rest of the sentence – but Harmony has rated the two sentences as very similar.
 

@@ -22,9 +22,10 @@ Can we use Harmony to harmonise mental health instruments designed for different
 ## Using Harmony in Google Colab
 
 > Zvaita sei kuti chembere yorasika, bere rorutsa imvi? (How is it that the old woman is missing and the hyena is vomiting grey hairs?)
->
-> ![img](/assets/images/pexels-bigworldinalens-11307036-1024x682.jpg)
->
+
+{{< image src="images/blog/pexels-bigworldinalens-11307036-1024x682.jpg" alt="img" >}}
+
+
 > Shona proverb (similar to English “there’s no smoke without fire”)
 
 If you are a Python user, you can follow my experiment in this Jupyter Notebook, which you can open in Google Colab: https://github.com/harmonydata/
@@ -46,7 +47,8 @@ I tried using Harmony to see how it would harmonise “kufungisisa” (thinking 
 
 Although English is the best-resource language for natural language processing, [multilingual NLP techniques](https://fastdatascience.com/multilingual-natural-language-processing/) are catching up even for lower-resourced languages. There exist some NLP models for Shona. I used the sentence transformer model `Davlan/xlm-roberta-base-finetuned-shona` which is a modification of ROBERTA trained on Shona texts[7]. I plugged one into Harmony and tried to match the [Shona symptom questionnaire for the detection of depression and anxiety](https://depts.washington.edu/edgh/zw/hit/web/project-resources/shona_symptom_questionnaire.pdf), which is used in Zimbabwe[6].
 
-![img](/assets/images/Screenshot-from-2023-07-13-12-34-30.png)
+{{< image src="images/blog/Screenshot-from-2023-07-13-12-34-30.png" alt="img" >}}
+
 
 Above: the text of the Shona symptom questionnaire for the detection of depression and anxiety.
 
@@ -56,7 +58,8 @@ Also, the transformer model did not operate as a sentence transformer, but rathe
 
 My model’s output is below:
 
-![img](/assets/images/image-1-b.png)
+{{< image src="images/blog/image-1-b.png" alt="img" >}}
+
 
 Harmony and the Shona transformer model matched the question about “kufungisisa” to GHQ-12 question 1 “been able to concentrate on whatever you’re doing?” which seems approximately OK. However, I would need a Shona native speaker to validate my results.
 

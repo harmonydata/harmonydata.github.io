@@ -21,7 +21,8 @@ With regards the Harmony API, initially we ran the tool on Microsoft Azure. This
 
 We explored a number of solutions which can cut costs, and we have chosen to use the available servers in Ulster University for ongoing hosting, meaning that an Azure account is no longer needed. An alternative which we explored was serverless (function as a service, or FaaS) solutions using [AWS Lambda](https://aws.amazon.com/lambda/), which is cheap to run, but is very complicated to set up and results in long cold start times.
 
-![Screenshot](https://raw.githubusercontent.com/harmonydata/harmonyapi/main/images/deployed_harmony_architecture.png)
+{{< image src="images/blog/deployed_harmony_architecture.png" alt="Screenshot" >}}
+
 
 *Alternative serverless deployment on AWS Lambda*
 

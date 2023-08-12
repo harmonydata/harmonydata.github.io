@@ -1,7 +1,7 @@
 ---
 title: How Does Harmony Work?
 description: When you input two questionnaires into Harmony, such as the GAD-7 and Beck’s Anxiety Inventory, Harmony is able to match similar quest...
-date: 
+date: 2022-11-03
 image: /images/blog/harmony-1.png
 ---
 

@@ -293,16 +293,16 @@ function addCopyButtons(clipboard) {
       var button = document.createElement('button');
       button.className = 'copy-code-button';
       button.type = 'button';
-      button.innerHTML = '<img src="/assets/images/copy.png" alt="Copy">';
+      button.innerHTML = '<img src="/assets/images/copy.png" width="16" height="16" alt="Copy">';
 
       button.addEventListener('click', function () {
           clipboard.writeText(codeBlock.innerText).then(function () {
               button.blur();
 
-              button.innerHTML = '<img src="/assets/images/check.png" alt="Copied">';
+              button.innerHTML = '<img src="/assets/images/check.png" width="16" height="16" alt="Copied">';
 
               setTimeout(function () {
-                  button.innerHTML = '<img src="/assets/images/copy.png" alt="Copy">';
+                  button.innerHTML = '<img src="/assets/images/copy.png" width="16" height="16" alt="Copy">';
               }, 2000);
           }, function (error) {
               button.innerText = 'Error';

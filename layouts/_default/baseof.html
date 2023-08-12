@@ -3,7 +3,7 @@
   {{ partial "head" .}}
   <body{{ if (not .IsHome) }} class="inner-page"{{ end }}>
     <!-- ======= Header ======= -->
-    {{ partialCached "header" . }}
+    {{ partial "header" . }}
     <!-- End Header -->
 
     <main id="main">

@@ -4,6 +4,9 @@ title = 'The Harmony project'
 
 defaultContentLanguage = "en"
 
+[permalinks]
+blog = "/:slug/"
+
 [imaging]
 quality = 85
 resampleFilter = "Lanczos"

@@ -2,7 +2,7 @@
 title: How Far Can We Go With Harmony? Testing On Kufungisisa, A Cultural Concept Of Distress From Zimbabwe
 description: Many psychologists believe that mental illnesses can vary across cultures. In 1904, Emil Kraepelin initiated the field of comparative psychiatry after studying mental health disorders in Java....
 date:
-image: /images/ccd.png
+image: /images/blog/ccd.png
 ---
 
 Many psychologists believe that mental illnesses can vary across cultures. In 1904, Emil Kraepelin initiated the field of comparative psychiatry after studying mental health disorders in Java, writing that _“Die Eigenart eines Volkes wird auch in der Häufigkeit und klinischen Gestaltung seiner Geistesstörungen zum Ausdruck kommen,”_ meaning “The peculiarity of a people[ethnic group] will also be expressed in the frequency and clinical form of its mental disorders.”[1]

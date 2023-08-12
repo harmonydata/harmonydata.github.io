@@ -207,7 +207,7 @@ docker run -p 8000:8000 -p 3000:3000 harmonydata/harmonywithtika
   </div>
 
   <div class="text-center">
-    <img src="/assets/images/quote.png" class="img-fluid" alt="USM" />
+    {{ partial "image-responsive" (dict "src" ( "/images/quote.png" | relLangURL) "alt" "USM" "class" "img-fluid" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
   </div>
   </div>
 </section>

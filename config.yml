@@ -26,7 +26,7 @@ imaging:
 
 languages:
   en:
-    title: 'Startup'
+    title: 'The Harmony project'
     description: Flexible modular Hugo theme for businesses, startups, and organizations.
     copyright: "Copyright © 2022 All Rights Reserved"
     languageName: "En"
@@ -225,8 +225,8 @@ languages:
         weight: 30   
 
 params:
-  logo: "/images/startup-logo.svg"
-  logo_light: "/images/startup-logo-light.svg"
+  logo: "/images/logo.svg"
+  logo_light: "/images/logo-light.svg"
   author: "Startup"
   github: "#"
   ogimage: "/images/og.png"

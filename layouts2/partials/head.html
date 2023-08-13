@@ -1,0 +1,82 @@
+<head>
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+
+  <title itemprop="name">{{ if .IsHome }}{{ .Site.Title }} | {{ .Title | markdownify | plainify | default .Site.Params.description }}{{ else }}{{ .Title | markdownify | plainify }} | {{ .Site.Title }}{{ end }}</title>
+  <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }} | {{ .Title | markdownify | plainify | default .Site.Params.description }}{{ else }}{{ .Title | markdownify | plainify }} | {{ .Site.Title }}{{ end }}" />
+  <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }} | {{ .Title | markdownify | plainify | default .Site.Params.description }}{{ else }}{{ .Title | markdownify | plainify }} | {{ .Site.Title }}{{ end }}" />
+  <meta itemprop="name" content="{{ if .IsHome }}{{ .Site.Title }} | {{ .Title | markdownify | plainify | default .Site.Params.description }}{{ else }}{{ .Title | markdownify | plainify }} | {{ .Site.Title }}{{ end }}" />
+  <meta name="application-name" content="{{ if .IsHome }}{{ .Site.Title }} | {{ .Title | markdownify | plainify | default .Site.Params.description }}{{ else }}{{ .Title | markdownify | plainify }} | {{ .Site.Title }}{{ end }}" />
+  <meta property="og:site_name" content="{{ .Site.Params.sitename }}" />
+  
+  <meta name="description" content="{{ .Params.description | default .Site.Params.description }}" />
+  <meta property="og:description" content="{{ .Params.description | default .Site.Params.description }}" />
+  <meta name="twitter:description" content="{{ .Params.description | default .Site.Params.description }}" />
+  
+  <base href="{{ .Permalink }}" />
+  <link rel="canonical" href="{{ .Permalink }}" />
+  <meta name="url" content="{{ .Permalink }}" />
+  <meta name="twitter:url" content="{{ .Permalink }}" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  
+  <meta property="og:locale" content="{{ .Language.Lang }}" />
+  <meta name="language" content="{{ .Language.LanguageName }}" />
+  {{ range .AllTranslations }}
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}" />
+  {{ end }}
+  
+  {{ with .Params.image }}
+    <meta itemprop="image" content="{{ . | absURL }}" />
+    <meta property="og:image" content="{{ . | absURL }}" />
+    <meta name="twitter:image" content="{{ . | absURL }}" />
+    <meta name="twitter:image:src" content="{{ . | absURL }}" />
+  {{ else }}
+    <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
+    <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
+    <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
+    <meta name="twitter:image:src" content="{{ .Site.Params.ogimage | absURL }}" />
+  {{ end }}
+  
+  <meta property="og:updated_time" content={{ .Lastmod.Format "2006-01-02T15:04:05Z0700" | safeHTML }} />
+  
+  <link rel="sitemap" type="application/xml" title="Sitemap" href='{{ "sitemap.xml" | absURL }}' />
+  
+  {{ with .OutputFormats.Get "RSS" }}
+    <link href="{{ .Permalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
+    <link href="{{ .Permalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
+  {{ end }}
+
+  <!-- Favicons -->
+  <link href="/assets/images/favicon.png" rel="icon" />
+  <link href="/assets/images/apple-touch-icon.png" rel="apple-touch-icon" />
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap" rel="stylesheet">
+
+  <!--Code-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js"></script>
+  <link
+    rel="stylesheet"
+    href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dark.min.css"
+  />
+  <script>
+    hljs.initHighlightingOnLoad();
+  </script>
+
+  <!-- Vendor CSS Files -->
+  <link href="/assets/vendor/aos/aos.css" rel="stylesheet" />
+  <link
+    href="/assets/vendor/bootstrap/css/bootstrap.min.css"
+    rel="stylesheet"
+  />
+  <link
+    href="/assets/vendor/bootstrap-icons/bootstrap-icons.css"
+    rel="stylesheet"
+  />
+  <link href="/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
+
+  <!-- Template Main CSS File -->
+  <link href="/assets/css/style.css" rel="stylesheet" />
+</head>

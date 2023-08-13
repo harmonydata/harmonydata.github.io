@@ -1,0 +1,30 @@
+{{ partial "block-open.html" . }} 
+  <div class="space-y-4 lg:space-y-10">
+    {{ if or .superheading .heading .subheading }}
+      <div class="max-w-3xl mx-auto text-center space-y-4 lg:space-y-5">
+        {{ partial "components/superheading.html" . }}
+        {{ partial "components/h2.html" . }}
+        {{ partial "components/subheading.html" . }}
+      </div>
+    {{ end }}
+    <div class="max-w-4xl mx-auto">
+      {{ range .faqs }}
+        <div x-data="{ expanded: false }" class="border-b border-primary-200 dark:border-primary-800">
+          <h3>
+            <button x-on:click="expanded = ! expanded" class="w-full py-8 flex items-center text-left text-xl lg:text-2xl font-medium dark:text-white hover:text-primary-500 dark:hover:text-primary-500">
+              <span class="grow" :class="{ 'text-primary-500 dark:text-primary-500': expanded }">{{ .title }}</span>
+              <svg :class="{ 'rotate-90 text-primary-500 dark:text-primary-500': expanded, 'transform-none': !(expanded) }" class="h-5 w-5 duration-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor" class="w-6 h-6">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
+              </svg>              
+            </button>
+          </h3>
+          <div x-show="expanded" x-collapse>
+            <div class="max-w-none prose sm:prose-lg dark:prose-invert prose-headings:scroll-mt-32 hover:prose-a:text-primary-500 pb-8">
+              {{ .content | markdownify }}
+            </div>
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+{{ partial "block-close.html" . }}

@@ -1,0 +1,108 @@
+<section class="relative overflow-hidden bg-cover bg-no-repeat bg-center {{ if eq .mode "muted" }}bg-primary-50{{ else if eq .mode "dark-muted" }}dark bg-primary-900{{ else if eq .mode "dark" }}dark bg-primary-950{{ end }}{{ if .overlay }} -mt-24 lg:-mt-28{{ end }}" 
+{{ $isSvg := strings.HasSuffix .background_image ".svg" }}
+{{ $isRemote := strings.HasPrefix .background_image "http://" }}
+{{ $isRemote = or $isRemote (strings.HasPrefix .background_image "https://") }}
+{{ if $isRemote }}
+  style="background-image: url({{ .background_image }})"
+{{ else if $isSvg }}
+  {{ with resources.GetMatch .background_image }}  
+  style="background-image: url({{ .RelPermalink }})"
+  {{ end }}
+{{ else }}
+  {{ with resources.GetMatch .background_image }}
+    {{ $img := .Resize "1800x" }}
+    {{ $imgWebp := .Resize "1800x webp" }}
+    style="background-image: url({{ $imgWebp.RelPermalink }}), url({{ $img.RelPermalink }})"
+  {{ end }}
+{{ end }}>
+  {{ with .background_video }}
+    <div class="absolute inset-0 w-full h-full overflow-hidden">
+      <video class="min-w-full min-h-full absolute object-cover" src="{{ if in . "http" }}{{ . }}{{ else }}{{ . | absURL }}{{ end }}" type="video/mp4" autoplay muted loop></video>
+    </div>
+    <div class="absolute inset-0 bg-gradient-to-br from-black/90 to-black/50"></div>
+  {{ end }}
+  <div class="relative px-6 lg:px-8 
+    {{- if eq .padding "top" }}{{ if .overlay }} pt-36 lg:pt-48{{ else }}pt-20 lg:pt-32{{ end }}
+    {{- else }}{{ if .overlay }} pt-36 lg:pt-48{{ else }}pt-20 lg:pt-32{{ end }} pb-20 lg:pb-32
+    {{- end }}">
+    <div class="mx-auto max-w-3xl lg:max-w-7xl">
+      {{ if eq .layout "left" }}
+        <div class="lg:flex items-center ">
+          <div class="max-w-2xl lg:w-1/2 space-y-10 lg:space-y-12">
+            <div class="space-y-4 lg:space-y-5">
+              {{ partial "components/superheading.html" . }}
+              {{ partial "components/h1.html" . }}
+              {{ if .subheading }}
+                <div class="max-w-lg">
+                  {{ partial "components/subheading.html" . }}
+                </div>
+              {{ end }}
+            </div>
+            {{ partial "components/list.html" . }}
+            {{ with .buttons }}
+              <div class="flex flex-wrap gap-3">
+                {{ range . }}
+                  {{ partial "components/button.html" . }}
+                {{ end }}
+              </div>
+            {{ end }}
+            {{ with .newsletter }}
+              <div>
+                <div class="flex items-center">
+                  {{ if .mailchimp }}
+                    {{ partial "components/form-mailchimp.html" . }}
+                  {{ end }}
+                </div>
+                {{ with .subtext }}
+                  <div class="mt-5 lg:pr-20 text-base text-slate-600 dark:text-slate-300 leading-loose">{{ . | markdownify }}</div>
+                {{ end }} 
+              </div>
+            {{ end }}
+          </div>
+          <div class="h-full w-full lg:w-1/2 pt-12 lg:pt-0 lg:pl-8">
+            {{ partial "components/image-responsive" (dict "src" (.image | relLangURL) "loading" "eager" "alt" .alt "class" "rounded-3xl" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+          </div>
+        </div>
+      {{ else }}
+        <div class="max-w-4xl mx-auto space-y-10 lg:space-y-14 text-center">
+          {{ if or .superheading .heading .subheading }}
+            <div class="max-w-3xl mx-auto space-y-2 md:space-y-4">
+              {{ partial "components/superheading.html" . }}
+              {{ partial "components/h1.html" . }}
+              {{ partial "components/subheading.html" . }}
+            </div>
+          {{ end }}
+          {{ partial "components/list.html" . }}
+          {{ with .buttons }}
+            <div class="flex flex-wrap gap-3 justify-center">
+              {{ range . }}
+                {{ partial "components/button.html" . }}
+              {{ end }}
+            </div>
+          {{ end }}
+          {{ with .newsletter }}
+            <div>
+              <div class="flex justify-center items-center">
+                {{ if .mailchimp }}
+                  {{ partial "components/form-mailchimp.html" . }}
+                {{ end }}
+              </div>
+              {{ with .subtext }}
+                <div class="mt-5 lg:px-20 text-base text-slate-600 dark:text-slate-300 leading-loose text-center">{{ . | markdownify }}</div>
+              {{ end }} 
+            </div>
+          {{ end }}
+          {{ if .image }}
+            <div class="flex justify-center">
+              {{ $rounded := "rounded-3xl" }}
+              {{ if eq .padding "top" }}
+                {{ $rounded = "rounded-t-3xl" }}
+              {{ end }}
+              {{ partial "components/image-responsive" (dict "src" (.image | relLangURL) "loading" "eager" "alt" .alt "class" $rounded "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+            </div>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+</div>
+</section>

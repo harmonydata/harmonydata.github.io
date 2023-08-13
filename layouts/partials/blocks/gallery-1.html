@@ -1,0 +1,52 @@
+{{ partial "block-open.html" . }} 
+  <div class="space-y-10 lg:space-y-14">
+    {{ if or .superheading .heading .subheading }}
+      <div class="max-w-3xl mx-auto text-center space-y-4 lg:space-y-5">
+        {{ partial "components/superheading.html" . }}
+        {{ partial "components/h2.html" . }}
+        {{ partial "components/subheading.html" . }}
+      </div>
+      {{ with .buttons }}
+      <div class="flex flex-wrap justify-center gap-3">
+        {{ range . }}
+          {{ partial "components/button.html" . }}
+        {{ end }}
+      </div>
+    {{ end }}
+
+    {{ end }}
+    <div class="flex w-[600%] md:w-[400%] xl:w-[260%]">
+      <div class="flex lg:w-full slide">
+        {{ range .gallery }}
+          {{ with .url }}
+            <a class="mx-2.5 xl:mx-3.5 shadow-xl dark:shadow-none rounded-xl" href="{{ . | relLangURL }}"{{ if in . "http" }} target="_blank" rel="noopener noreferrer"{{ end }}>
+          {{ else }}
+            <div class="mx-2.5 xl:mx-3.5 shadow-xl dark:shadow-none rounded-xl">
+          {{ end }}
+            {{ partial "components/image-responsive" (dict "src" (.image | relLangURL) "alt" .alt "class" "hover:scale-110 hover:shadow-xl duration-300 transition-all rounded-xl" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+          {{ with .url }}
+            </a>
+          {{ else }}
+          </div>
+          {{ end }}
+        {{ end }}
+      </div>
+      <div class="flex lg:w-full slide">
+        {{ range .gallery }}
+          {{ with .url }}
+            <a class="mx-2.5 xl:mx-3.5 shadow-xl dark:shadow-none rounded-xl" href="{{ . | relLangURL }}"{{ if in . "http" }} target="_blank" rel="noopener noreferrer"{{ end }}>
+          {{ else }}
+            <div class="mx-2.5 xl:mx-3.5 shadow-xl dark:shadow-none rounded-xl">
+          {{ end }}
+            {{ partial "components/image-responsive" (dict "src" (.image | relLangURL) "alt" .alt "class" "hover:scale-110 hover:shadow-xl duration-300 transition-all rounded-xl" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+          {{ with .url }}
+            </a>
+          {{ else }}
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+{{ partial "block-close.html" . }}
+    

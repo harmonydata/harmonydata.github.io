@@ -1,120 +1,23 @@
-<footer id="footer">
-  <div class="footer-top">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-3 col-md-6">
-          <div class="footer-info">
-            <img
-              src="/assets/images/logo-green.png"
-              alt="Logo"
-              class="img-fluid"
-              alt="{{ .Site.Title }}" width="240" height="67"
-            />
-            <p>
-              Harmony is a tool for retrospective harmonisation of questionnaire
-              data.
-            </p>
-            <div class="social-links mt-3">
-              <a
-                href="https://www.facebook.com/people/Harmony-Project/100086772661697/"
-                class="facebook"
-                title="facebook"
-                target="_blank"
-                ><i class="bi bi-facebook"></i
-              ></a>
-
-              <a
-                href="https://twitter.com/harmony_data"
-                class="twitter"
-                title="twitter"
-                target="_blank"
-                ><i class="bi bi-twitter"></i
-              ></a>
-
-              <a
-                href="https://www.instagram.com/harmonydata/"
-                class="instagram"
-                title="instagram"
-                target="_blank"
-                ><i class="bi bi-instagram"></i
-              ></a>
-              <a
-                href="https://www.youtube.com/channel/UCraLlfBr0jXwap41oQ763OQ"
-                class="google-plus"
-                title="google-plus"
-                target="_blank"
-                ><i class="bi bi-youtube"></i
-              ></a>
-              <a
-                href="https://www.linkedin.com/company/harmonydata/about/?viewAsMember=true"
-                class="linkedin"
-                title="linkedin"
-                target="_blank"
-                ><i class="bi bi-linkedin"></i
-              ></a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-2 col-md-6 footer-links">
-          <h4>Useful Links</h4>
-          <ul>
-            <li><i class="bi bi-chevron-right"></i> <a href="/">Home</a></li>
-            <li>
-              <i class="bi bi-chevron-right"></i>
-              <a href="/fair-data">Fair Data</a>
-            </li>
-            <li>
-              <i class="bi bi-chevron-right"></i>
-              <a href="/projects-partners">Project & Partners</a>
-            </li>
-          </ul>
-        </div>
-
-        <div class="col-lg-3 col-md-6 footer-links">
-          <h4>About us</h4>
-          <ul>
-            <li>
-              <i class="bi bi-chevron-right"></i>
-              <a href="/our-team">Our team</a>
-            </li>
-            <li>
-              <i class="bi bi-chevron-right"></i>
-              <a href="/frequently-asked-questions">FAQs</a>
-            </li>
-          </ul>
-        </div>
-
-        <div class="col-lg-4 col-md-6 footer-newsletter">
-          <h4>Our Newsletter</h4>
-          <p>
-            A global platform for contextual harmonisation, translation and
-            cooperation in mental health research
-          </p>
-          <form action="" method="post">
-            <label for="email" class="sr-only">Email</label>
-            <input type="email" id="email" name="email" /><input
-              type="submit"
-              value="Subscribe"
-            />
-          </form>
-        </div>
-      </div>
+<footer class="pt-20 lg:pt-24 pb-14 px-6 lg:px-8 {{ if eq .Site.Params.footer.mode "muted" }}bg-primary-50{{ else if eq .Site.Params.footer.mode "dark-muted" }}dark bg-primary-900{{ else if eq .Site.Params.footer.mode "dark" }}dark bg-primary-950{{ end }}">
+  <div class="mx-auto max-w-7xl overflow-hidden">
+    <nav class="flex flex-col sm:flex-row flex-wrap items-center justify-center gap-6 sm:gap-12" aria-label="Footer">
+      {{ range .Site.Menus.footer }}
+        <a href="{{ .URL }}" class="text-sm text-primary-950 dark:text-slate-100 hover:text-primary-500 dark:hover:text-primary-500"> {{ .Name }} </a>
+      {{ end }}
+    </nav>
+    <div class="mt-10 flex justify-center space-x-8">
+      {{ range .Site.Menus.social }}
+        <a href="{{ .URL }}" target="_blank" rel="noopener noreferrer" class="text-slate-600 dark:text-slate-300 hover:text-primary-500 dark:hover:text-primary-500 svg-sm">
+          <span class="sr-only">{{ .Name }}</span>
+          {{ $icon := printf "%s%s%s" "icons/" .Pre ".svg" }}
+          {{ if templates.Exists (printf "%s%s" "partials/" $icon ) }}
+            {{ partial $icon }}
+          {{ end }}
+        </a>
+      {{ end }}
     </div>
-  </div>
-
-  <div class="container">
-    <div class="copyright">Copyright &copy; 2023 Ulster University. Read our <a href="/privacy-policy">privacy policy</a>.</div>
+    {{ with .Site.Copyright }}
+      <p class="text-slate-600 dark:text-slate-300 text-sm mt-10 text-center">{{ . | markdownify }}</p>
+    {{ end }}
   </div>
 </footer>
-
-<!-- Vendor JS Files -->
-<script src="/assets/vendor/purecounter/purecounter.js"></script>
-<script src="/assets/vendor/aos/aos.js"></script>
-<script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="/assets/vendor/swiper/swiper-bundle.min.js"></script>
-<script src="/assets/vendor/php-email-form/validate.js"></script>
-<script src="/highlight/highlight.min.js"></script>
-
-<!-- Template Main JS File -->
-<script src="/assets/js/main.js"></script>

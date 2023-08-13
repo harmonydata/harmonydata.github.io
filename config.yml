@@ -1,0 +1,244 @@
+baseURL: "https://hugo-startup-1.netlify.app"
+languageCode: "en-us"
+
+enableEmoji: true
+enableGitInfo: true
+enableRobotsTXT: true
+canonifyURLs: true
+
+paginate: 6
+
+taxonomies:
+  categories: 'categories'
+permalinks:
+  categories: "/:slug"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+      
+defaultContentLanguage: "en"
+
+imaging:
+  quality: 95
+  resampleFilter: Lanczos
+
+languages:
+  en:
+    title: 'Startup'
+    description: Flexible modular Hugo theme for businesses, startups, and organizations.
+    copyright: "Copyright © 2022 All Rights Reserved"
+    languageName: "En"
+    contentDir: "content/en"
+    weight: 1
+    # banner:
+    #   text: The latest product release brings even faster workflow execution
+    #   button:
+    #     text: Learn More
+    #     url: "#"
+    #     style: muted
+    #     size: small
+
+    menu:
+      navbar:
+      - name: Blocks
+        weight: 10
+      - name: Hero blocks
+        url: "/heros/"
+        parent: Blocks
+        pre: queue-list
+        weight: 110
+      - name: Features blocks
+        url: "/features/"
+        parent: Blocks
+        pre: squares-2x2
+        weight: 120
+      - name: Testimonial blocks
+        url: "/testimonials/"
+        parent: Blocks
+        pre: heart
+        weight: 130
+      - name: Gallery blocks
+        url: "/galleries/"
+        parent: Blocks
+        pre: photo
+        weight: 140
+      - name: Content page
+        url: "/page/"
+        parent: Blocks
+        pre: document-text
+        params:
+          desc: Optional link description text to add context
+        weight: 150
+      - name: About
+        weight: 30
+      - name: About light
+        url: "/about/"
+        parent: About
+        pre: sun
+        weight: 110
+      - name: About dark
+        url: "/about-dark/"
+        parent: About
+        pre: moon
+        weight: 120
+      - name: Pricing
+        weight: 40
+      - name: Pricing light
+        url: "/pricing/"
+        parent: Pricing
+        pre: sun
+        weight: 110
+      - name: Pricing dark
+        url: "/pricing-dark/"
+        parent: Pricing
+        pre: moon
+        weight: 120
+      - name: Blog
+        url: "/blog/"
+        weight: 50
+      - name: Contact
+        weight: 50
+      - name: Contact light
+        url: "/contact/"
+        parent: Contact
+        pre: sun
+        weight: 110
+      - name: Contact dark
+        url: "/contact-dark/"
+        parent: Contact
+        pre: moon
+        weight: 120
+    
+      navbar_cta:
+      - name: Contact
+        url: "/contact/"
+        pre: outline
+        weight: 20
+    
+      social:
+      - name: Facebook
+        url: "#"
+        pre: facebook
+        weight: 10
+      - name: Instagram
+        url: "#"
+        pre: instagram
+        weight: 20
+      - name: Twitter
+        url: "#"
+        pre: twitter
+        weight: 30
+      - name: GitHub
+        url: "#"
+        pre: github
+        weight: 40
+      - name: Dribbble
+        url: "#"
+        pre: dribbble
+        weight: 50
+    
+      footer:
+      - name: Services
+        weight: 10
+        url: "/xxx/"
+    
+      - name: Applications
+        url: "#"
+        parent: Services
+        weight: 10
+      - name: Work
+        url: "#"
+        parent: Services
+        weight: 20
+      - name: Custom
+        url: "#"
+        parent: Services
+        weight: 30
+    
+      - name: Company
+        weight: 20
+        url: "/xxx/"
+    
+      - name: About
+        url: "#"
+        parent: Company
+        weight: 10
+      - name: Jobs
+        url: "#"
+        parent: Company
+        weight: 20
+      - name: Terms
+        url: "#"
+        parent: Company
+        weight: 30
+        
+      - name: Resources
+        weight: 30
+        url: "/xxx/"
+        
+      - name: Blog
+        url: "#"
+        parent: Resources
+        weight: 10
+      - name: Press
+        url: "#"
+        parent: Resources
+        weight: 20
+      - name: Support
+        url: "#"
+        parent: Resources
+        weight: 30    
+      
+      - name: Products
+        weight: 40
+        url: "/xxx/"
+        
+      - name: Lorem
+        url: "#"
+        parent: Products
+        weight: 10
+      - name: Ipsum
+        url: "#"
+        parent: Products
+        weight: 20
+      - name: Dolorem
+        url: "#"
+        parent: Products
+        weight: 30      
+        
+      - name: Use Cases
+        weight: 50
+        url: "/xxx/"
+      - name: Business
+        url: "/use-case/business/"
+        parent: Use Cases
+        weight: 10
+      - name: Ipsumum
+        url: "#"
+        parent: Use Cases
+        weight: 20
+      - name: Doloremus
+        url: "#"
+        parent: Use Cases
+        weight: 30   
+
+params:
+  logo: "/images/startup-logo.svg"
+  logo_light: "/images/startup-logo-light.svg"
+  author: "Startup"
+  github: "#"
+  ogimage: "/images/og.png"
+  sitename: "Startup"
+  twitter: "#"
+  analytics_fantom:
+  analytics_google: 
+      
+  navbar:
+    sticky: true
+    mode: dark
+    
+  footer:
+    layout: footer-2
+    mode: dark

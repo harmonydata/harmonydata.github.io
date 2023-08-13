@@ -1,0 +1,21 @@
+{{ partial "block-open.html" . }} 
+  <div class="space-y-10 lg:space-y-12">
+    {{ if or .superheading .heading .subheading }}
+      <div class="max-w-3xl mx-auto text-center space-y-4 lg:space-y-5">
+        {{ partial "components/superheading.html" . }}
+        {{ partial "components/h2.html" . }}
+        {{ partial "components/subheading.html" . }}
+      </div>
+    {{ end }}
+    <div class="max-w-4xl mx-auto">
+      <div class="flex justify-center items-center mt-10" id="revue-embed">
+        {{ if .mailchimp }}
+          {{ partial "components/form-mailchimp.html" . }}
+        {{ end }}
+      </div>
+      {{ with .subtext }}
+        <div class="mt-5 lg:px-20 text-base text-slate-600 dark:text-slate-300 leading-loose text-center">{{ . | markdownify }}</div>
+      {{ end }} 
+    </div>
+  </div>
+{{ partial "block-close.html" . }}

@@ -1,4 +1,4 @@
-# How to make a new blog post
+## How to make a new blog post
 
 Put the md file in `content/en/blog`. For an idea on the format, please look at the other blog posts in `content/en/blog`.
 
@@ -13,15 +13,15 @@ So if your blog post has an image called `dog.jpg`, put it in `assets/images/dog
 Each time you upload a document to the `main` branch, Github Actions/Github Pages will automatically rebuild the site. So if possible try to make only the minimum number of edits as any change triggers the rebuild process, which lasts about 3 minutes. 
 
 
-# How to run the website locally on your computer
+## How to run the website locally on your computer
 
-Install Hugo, Node.js and NPM.
+Install [Hugo](https://gohugo.io/installation/).
 
-Then in the command line, run:
+Install dependencies:
+`npm install`
 
-```
-hugo serve
-```
+To start server: 
+`npm run dev`
 
 ## Image in content:
 ```

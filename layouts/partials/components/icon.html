@@ -1,0 +1,6 @@
+<div class="text-primary-500 dark:text-primary-500 svg-xl">
+  {{ $icon := printf "%s%s%s" "icons/" .icon ".svg" }}
+  {{ if templates.Exists (printf "%s%s" "partials/" $icon ) }}
+    {{ partial $icon }}
+  {{ end }}            
+</div>

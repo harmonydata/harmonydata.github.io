@@ -42,7 +42,7 @@ module.exports = {
         '5xl': ['2.75rem', { lineHeight: '1.2' }],
         '6xl': ['3.5rem', { lineHeight: '1.2' }],
         '7xl': ['4.25rem', { lineHeight: '1.1872' }],
-        '8xl': ['6rem', { lineHeight: '1' }],
+        '8xl': ['5rem', { lineHeight: '1.1' }],
         '9xl': ['8rem', { lineHeight: '1' }],
       },
       borderRadius: {

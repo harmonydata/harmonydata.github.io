@@ -17,6 +17,9 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+  highlight:
+    style: github-dark
+    tabWidth: 2
       
 defaultContentLanguage: "en"
 

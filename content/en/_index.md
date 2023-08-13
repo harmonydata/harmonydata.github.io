@@ -14,25 +14,123 @@ blocks:
   overlay: true #used together with navbar overlay: true option to show background image behind the navbar
   # layout: left
   # image: images/startup-launch-2.svg
-  superheading: "Increase search engine visibility"
   background_image: images/bg-globe.png
   heading: "Harmonise questionnaire items with **Harmony**."
-  subheading: Fed up with a slow site and the never-ending WordPress plugin maintenance? Switch to Hugo static generator and never look back.
+  subheading: Harmony is a tool for retrospective harmonisation of questionnaire items.
+  copy: |-
+    Do you need to compare questionnaire data across studies? Do you want to find the best match for a set of items? Are there are different versions of the same questionnaire floating around and you want to make sure how compatible they are? Are the questionnaires written in different languages that you would like to compare?
+
+    The Harmony project is a data harmonisation project that uses [Natural Language Processing](/guide-natural-language-processing-nlp/) to help researchers make better use of existing data from different studies by supporting them with the harmonisation of various measures and items used in different studies. Harmony is a collaboration project between [Ulster University](https://ulster.ac.uk/), [University College London](https://ucl.ac.uk/), the [Universidade Federal de Santa Maria](https://www.ufsm.br/), and [Fast Data Science](http://fastdatascience.com/).
+
   buttons:
-  - text: Learn more
-    url: "#"
-    style: secondary #primary secondary muted
-    size: large
-  - text: Get started
-    url: "#"
+  - text: Try Harmony Now!
+    url: "/app/"
     style: gradient-1 #primary secondary muted
     size: large
-  # newsletter:
-  #   subtext: Join 40,000 other business using our products.
-  #   button:
-  #     text: Subscribe
-  #     style: gradient-1
-  #   mailchimp: 
-  #     username: tailstackhq 
+
+- block: video
+  padding: top
+  heading: Introduction to Harmony
+  subheading: Data harmonisation with natural language processing
+  youtube: cEZppTBj1NI
+  image: images/bg-video.jpg
+
+- block: feature-2
+  padding: top
+  image: images/bg-video.jpg
+  heading: "Use Harmony in the browser"
+  subheading: You can use Harmony on the web.
+  button:
+    text: Try Harmony App
+    url: "/app/"
+    size: large
+    style: primary
+
+- block: feature-2
+  padding: top
+  align: right 
+  heading: "Use Harmony in Python"
+  subheading: We've released Harmony as an easy-to-use Python library on Pypi.
+  links: 
+  - text: Pypi
+    url: https://pypi.org/project/harmonydata/
+  - text: Python package
+    url: https://pypi.org/project/harmonydata/
+  - text: Source Code
+    url: http://github.com/harmonydata/harmony
+  - text: REST API
+    url: http://github.com/harmonydata/harmonyapi
+  - text: API Documentation (PDF)
+    url: https://raw.githubusercontent.com/harmonydata/harmonyapi/main/docs/API_reference.pdf
+  code: |
+    ```vshell
+    pip install harmonydata
+    import harmony
+    harmony.download_models()
+    instruments = harmony.example_instruments["CES_D English"], 
+    harmony.example_instruments["GAD-7 Portuguese"]
+    questions, similarity, query_similarity, _ = harmony.match_instruments
+    (instruments) 
+    # How to load a PDF, Excel or Word into an instrument
+    harmony.load_instruments_from_local_file("gad-7.pdf")
+    ```
+
+- block: feature-2
+  padding: top
+  heading: "Use Harmony in R"
+  subheading: R users can now import Harmony as an R package.
+  links: 
+  - text: R Package
+    url: https://github.com/harmonydata/harmony_r
+  code: |
+    ```vshell
+    install.packages("harmonydata")
+    library(harmonydata)
+                
+    instruments <- harmony.example_instruments["CES_D English"],
+    harmony.example_instruments["GAD-7 Portuguese"]
+    similarity <- harmony.match_instruments(instruments) 
+    ```
+
+- block: feature-2
+  padding: top
+  align: right 
+  heading: "Harmony Docker container"
+  subheading: We've released Harmony as a Docker container on Dockerhub.
+  links: 
+  - text: Docker
+    url: https://www.docker.com/
+  - text: Dockerhub
+    url: https://hub.docker.com/r/harmonydata/harmonywithtika
+  code: |
+    ```vshell
+    docker pull harmonydata/harmonywithtika
+    docker run -p 8000:8000 -p 3000:3000 harmonydata/harmonywithtika
+    ```
+
+- block: logos
+  # superheading: Partners and Customers
+  superheading: Partners
+  logos:
+  - alt: ulster
+    image: /images/clients/client-1.png
+    url: https://www.ulster.ac.uk/
+  - alt: ucl
+    image: /images/clients/client-2.png
+    url: https://www.ucl.ac.uk/
+  - alt: ufsm
+    image: /images/clients/client-3.png
+    url: https://www.ufsm.br/
+  - alt: fastdatascience
+    image: /images/clients/client-4.png
+    url: https://fastdatascience.com/
+  - alt: wellcome
+    image: /images/clients/wellcome.gif
+    url: https://wellcome.org/
 
 ---
+
+  
+
+  
+

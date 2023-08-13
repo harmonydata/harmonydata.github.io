@@ -9,7 +9,7 @@
     {{ end }}
     <div class="max-w-4xl mx-auto">
       {{ if .youtube }}
-        <div class="relative aspect-w-16 aspect-h-9 rounded-2xl overflow-hidden"
+        <div class="relative aspect-w-16 aspect-h-9 rounded-lg overflow-hidden"
           x-data="{
             player: null,
             initPlayer() {
@@ -31,7 +31,7 @@
             }
           }">
           <div class="aspect-w-16 aspect-h-9">
-            {{ partial "components/image-responsive" (dict "src" (.image | relLangURL) "alt" .alt "class" "rounded-2xl w-full h-full object-center object-cover" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+            {{ partial "components/image-responsive" (dict "src" (.image | relLangURL) "alt" .alt "class" "rounded-lg w-full h-full object-center object-cover" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
             <button x-on:click="initPlayer()" aria-label="Play" class="flex justify-center items-center left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 text-white hover:text-white/80 focus:text-white/80">
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="0.65" stroke="currentColor" class="w-28 h-28">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
@@ -44,7 +44,7 @@
         <script src="https://www.youtube.com/iframe_api"></script>
       {{ end }}
       {{ if .vimeo }}
-        <div class="rounded-2xl overflow-hidden"
+        <div class="rounded-lg overflow-hidden"
           x-data="{
             player: null,
             initPlayer() {
@@ -59,7 +59,7 @@
             }
           }">
           <div id="vimeo" class="aspect-w-16 aspect-h-9">
-            {{ partial "components/image-responsive" (dict "src" (.image | relLangURL) "alt" .alt "class" "rounded-2xl w-full h-full object-center object-cover" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+            {{ partial "components/image-responsive" (dict "src" (.image | relLangURL) "alt" .alt "class" "rounded-lg w-full h-full object-center object-cover" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
             <button x-on:click="initPlayer()" aria-label="Play" class="flex justify-center items-center left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 text-white hover:text-white/75 focus:text-white/75">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-20 h-20">
                 <path fill-rule="evenodd" d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12zm14.024-.983a1.125 1.125 0 010 1.966l-5.603 3.113A1.125 1.125 0 019 15.113V8.887c0-.857.921-1.4 1.671-.983l5.603 3.113z" clip-rule="evenodd" />

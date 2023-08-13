@@ -7,6 +7,13 @@
             {{ partial "components/superheading.html" . }}
             {{ partial "components/h2.html" . }}
             {{ partial "components/subheading.html" . }}
+            {{ with .links }}
+              <div class="flex flex-wrap gap-1.5">
+                {{ range . }}
+                  <a class="rounded px-3 py-1 text-sm bg-aqua-400 hover:bg-blue-950 hover:text-aqua-400 text-blue-950 font-heading font-bold" href="{{ .url | relURL }}">{{ .text }}</a>
+                {{ end }}
+              </div>
+            {{ end }}
           </div>
           {{ partial "components/list.html" . }}
           {{ with .button }}
@@ -17,6 +24,12 @@
       <div class="mt-12 sm:mt-16 lg:mt-0">
         {{ $plainHeading := .heading | markdownify | plainify }}
         {{ partial "components/image-responsive" (dict "src" (.image | relLangURL) "alt" $plainHeading "class" "rounded-2xl" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+
+        {{ with .code }}
+          <div class="code overflow-x-scroll">
+            {{ . | markdownify }}
+          </div>
+        {{ end }}
       </div>
     </div>
   </div>

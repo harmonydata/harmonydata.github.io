@@ -41,6 +41,12 @@
       transform: translate3d(-100%, 0, 0);
     }
   }
+  .dark .content a {
+    @apply text-aqua-400;
+  }
+  .dark .content a:hover {
+    @apply underline;
+  }
 }
 
 h1 strong, h2 strong, h3 strong, .text-highlight, .superheading strong {
@@ -77,11 +83,12 @@ h1 strong, h2 strong, h3 strong, .text-highlight, .superheading strong {
 }
 .button-primary {
   @apply border; 
-  @apply text-white; 
-  @apply bg-primary-500; 
-  @apply border-primary-500; 
-  @apply hover:bg-primary-600; 
-  @apply hover:border-primary-600; 
+  @apply text-blue-950; 
+  @apply bg-aqua-400; 
+  @apply border-aqua-400; 
+  @apply hover:bg-blue-950; 
+  @apply hover:border-blue-950; 
+  @apply hover:text-aqua-400; 
 }
 .button-secondary {
   @apply border; 
@@ -105,4 +112,38 @@ h1 strong, h2 strong, h3 strong, .text-highlight, .superheading strong {
   @apply dark:text-white; 
   @apply dark:hover:bg-white; 
   @apply dark:hover:text-primary-950;
+}
+
+.copy-code-button {
+  position: relative;
+  background-color: transparent;
+  width: 36px;
+  height: 36px;
+  border: 2px solid rgba(255, 255, 255, 0.22);
+  border-radius: 4px;
+  z-index: 1;
+  display: block;
+  margin-left: auto;
+  margin-right: 4px;
+  top: 40px;
+  padding: 2px;
+}
+.copy-code-button img {
+  margin: 0 auto !important;
+  border-radius: 0 !important;
+}
+.copy-code-button:hover {
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.copy-code-button:focus {
+  outline: 0;
+}
+.code pre {
+  @apply p-6;
+  @apply rounded-md;
+}
+.code pre {
+  @apply overflow-x-scroll;
 }

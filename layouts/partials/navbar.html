@@ -3,7 +3,7 @@
   {{ if .Page.Params.navbar.overlay }}
     {{- if eq .Params.navbar.mode "dark" }} dark{{ end }} border-transparent
   {{- else }}
-    {{- if eq .Params.navbar.mode "dark" }} dark bg-primary-950
+    {{- if eq .Params.navbar.mode "dark" }} dark bg-blue-950
     {{- else }} bg-white border-b border-primary-200{{ end -}}
   {{- end }}" 
   x-data="{ mobile: false }" 
@@ -93,7 +93,7 @@
                   <div class="overflow-hidden rounded-3xl shadow-lg">
                     <div class="relative grid gap-6 bg-white dark:bg-primary-900 p-10 sm:gap-8">
                       {{ range .Children }}
-                        <a href="{{ .URL | relLangURL }}" class="-m-4 flex items-start group rounded-xl p-4  text-primary-950 dark:text-white hover:text-primary-500 dark:hover:text-primary-500 hover:bg-primary-50 dark:hover:bg-primary-950">
+                        <a href="{{ .URL | relLangURL }}" class="-m-4 flex items-start group rounded-xl p-4  text-primary-950 dark:text-white hover:text-primary-500 dark:hover:text-primary-500 hover:bg-primary-50 dark:hover:bg-blue-950">
                           {{ if .Pre }}
                             <div class="flex-shrink-0 mr-3 w-6">
                               {{ $icon := printf "%s%s%s" "icons/" .Pre ".svg" }}
@@ -171,7 +171,7 @@
     x-transition:leave-end="opacity-0 scale-95"
     class="absolute w-full z-10 origin-top transform transition hidden lg:hidden border-y border-gray-200 dark:border-primary-800"
   >
-    <div class="overflow-hidden bg-white dark:bg-primary-950 font-medium">
+    <div class="overflow-hidden bg-white dark:bg-blue-950 font-medium">
       <div class="space-y-1 p-4 sm:p-6">
         {{ $currentPage := . }}
         {{ range .Site.Menus.navbar }}
@@ -267,9 +267,9 @@
 window.onscroll = function() {scrollFunction()};
 function scrollFunction() {
   if (document.body.scrollTop > 80 || document.documentElement.scrollTop > 80) {
-    document.getElementById("navbar").classList.add("bg-primary-950");
+    document.getElementById("navbar").classList.add("bg-blue-950");
   } else {
-    document.getElementById("navbar").classList.remove("bg-primary-950");
+    document.getElementById("navbar").classList.remove("bg-blue-950");
   }
 }
 </script>

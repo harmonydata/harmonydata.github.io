@@ -37,9 +37,9 @@
 </div>
 <div class="hidden lg:flex lg:justify-center">
   <div class="flex space-x-1 justify-center font-normal text-sm bg-slate-50 dark:bg-primary-900 rounded-full p-2">
-    <a class="{{ if in .Permalink "/blog/" }}text-primary-600 dark:text-primary-500 bg-white dark:bg-primary-950 shadow-md{{ else }}text-slate-900 dark:text-white{{ end }} hover:bg-white dark:hover:bg-primary-950 px-6 xl:px-8 py-2.5 tracking-wide rounded-full font-medium" href="{{ "/blog/" | relLangURL }}">{{ i18n "all_categories" }}</a>
+    <a class="{{ if in .Permalink "/blog/" }}text-primary-600 dark:text-primary-500 bg-white dark:bg-blue-950 shadow-md{{ else }}text-slate-900 dark:text-white{{ end }} hover:bg-white dark:hover:bg-blue-950 px-6 xl:px-8 py-2.5 tracking-wide rounded-full font-medium" href="{{ "/blog/" | relLangURL }}">{{ i18n "all_categories" }}</a>
     {{ range site.Taxonomies.categories }}
-      <a class="{{ if eq .Page.Permalink $.Permalink }}text-primary-600 dark:text-primary-500 bg-white dark:bg-primary-950 shadow-md{{ else }}text-slate-900 dark:text-white{{ end }} hover:bg-white dark:hover:bg-primary-950 px-6 xl:px-8 py-2.5 tracking-wide rounded-full font-medium" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+      <a class="{{ if eq .Page.Permalink $.Permalink }}text-primary-600 dark:text-primary-500 bg-white dark:bg-blue-950 shadow-md{{ else }}text-slate-900 dark:text-white{{ end }} hover:bg-white dark:hover:bg-blue-950 px-6 xl:px-8 py-2.5 tracking-wide rounded-full font-medium" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
     {{ end }}
   </div>
 </div>

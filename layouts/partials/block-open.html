@@ -1,4 +1,4 @@
-<section id="{{ .block }}" class="overflow-hidden bg-cover bg-no-repeat bg-center {{ if eq .mode "muted" }}bg-primary-50{{ else if eq .mode "dark-muted" }}dark bg-primary-900{{ else if eq .mode "dark" }}dark bg-primary-950{{ end }}" 
+<section id="{{ .block }}" class="overflow-hidden bg-cover bg-no-repeat bg-center {{ if eq .mode "muted" }}bg-primary-50{{ else if eq .mode "dark-muted" }}dark bg-primary-900{{ else if eq .mode "dark" }}dark bg-blue-950{{ end }}" 
 {{ with resources.GetMatch .background_image }}
   {{ $img := .Resize "1280x" }}
   style="background-image: url({{ $img.RelPermalink }})"

@@ -16,9 +16,19 @@ module.exports = {
           900: '#151332', // backgrounds muted dark
           950: '#080627', // backgrounds dark
         },
+        blue: {
+          600: '#2B45ED',
+          700: '#2B45ED',
+          950: '#0F1854',
+        },
+        aqua: {
+          400: '#0DE5B2',
+          500: '#0F1853',
+        },
       },
       fontFamily: {
-        sans: "'Wix Madefor Display',-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif",
+        sans: "Pragmatica,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif",
+        heading: "Montserrat,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif",
       },
       fontSize: {
         xs: ['0.75rem', { lineHeight: '1rem' }],

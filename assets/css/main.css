@@ -3,6 +3,14 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+  @font-face {
+    font-family: 'Pragmatica';
+    src: url(/fonts/PragmaticaRegular.woff2) format("woff2");
+    font-weight: 400;
+  }
+}
+
 .svg-sm svg {
   width: 1.375rem;
   height: 1.375rem;
@@ -40,31 +48,20 @@ h1 strong, h2 strong, h3 strong, .text-highlight, .superheading strong {
   @apply text-transparent;
   @apply bg-clip-text; 
   @apply bg-gradient-to-r;
-  @apply bg-indigo-600; 
-  @apply from-indigo-600;
-  @apply via-purple-600;
-  @apply to-pink-600;
+  @apply bg-aqua-400; 
+  @apply from-aqua-400;
+  @apply to-blue-600;
 }
 
 .button-gradient-1 {
   @apply bg-gradient-to-r;
-  @apply bg-indigo-600; 
-  @apply from-indigo-600;
-  @apply via-purple-600;
-  @apply to-pink-600;
+  @apply bg-aqua-400; 
+  @apply from-aqua-400;
+  @apply to-blue-600;
   @apply text-white;
-  @apply hover:bg-indigo-700; 
-  @apply hover:from-indigo-700;
-  @apply hover:via-purple-700;
-  @apply hover:to-pink-700;
-}
-.button-gradient-2 {
-  @apply bg-gradient-to-r;
-  @apply bg-indigo-600; 
-  @apply from-[#602CFF];
-  @apply via-[#3B6CFF];
-  @apply to-[#32BEFF];
-  @apply text-white;
+  @apply hover:bg-aqua-500; 
+  @apply hover:from-aqua-500;
+  @apply hover:to-blue-700;
 }
 .button-muted {
   @apply border;
@@ -102,7 +99,7 @@ h1 strong, h2 strong, h3 strong, .text-highlight, .superheading strong {
 .button-outline {
   @apply border; 
   @apply border-primary-950; 
-  @apply hover:bg-primary-950; 
+  @apply hover:bg-blue-950; 
   @apply hover:text-white; 
   @apply dark:border-white; 
   @apply dark:text-white; 

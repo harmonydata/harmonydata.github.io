@@ -24,7 +24,7 @@ Wood, T.A., McElroy, E., Moltrecht, B., Ploubidis, G.B., Scopel Hoffmann, M., Ha
 
 A BibTeX entry for LaTeX users is
 
-```
+```vshell
 @unpublished{harmony,
     AUTHOR = {Wood, T.A., McElroy, E., Moltrecht, B., Ploubidis, G.B., Scopel Hoffman, M.},
     TITLE  = {Harmony (Computer software), Version 1.0},
@@ -38,7 +38,7 @@ You can also cite the wider Harmony project which is registered with the [Open S
 
 McElroy, E., Moltrecht, B., Scopel Hoffmann, M., Wood, T. A., & Ploubidis, G. (2023, January 6). Harmony – A global platform for contextual harmonisation, translation and cooperation in mental health research. Retrieved from osf.io/bct6k
 
-```
+```vshell
 @misc{McElroy_Moltrecht_Scopel Hoffmann_Wood_Ploubidis_2023,
   title={Harmony - A global platform for contextual harmonisation, translation and cooperation in mental health research},
   url={osf.io/bct6k},

@@ -1,5 +1,5 @@
 baseURL: "https://hugo-startup-1.netlify.app"
-languageCode: "en-us"
+languageCode: "en-bg"
 
 enableEmoji: true
 enableGitInfo: true
@@ -12,6 +12,7 @@ taxonomies:
   categories: 'categories'
 permalinks:
   categories: "/:slug"
+  blog: "/:slug/"
 
 markup:
   goldmark:
@@ -29,203 +30,91 @@ imaging:
 
 languages:
   en:
-    title: 'The Harmony project'
-    description: Flexible modular Hugo theme for businesses, startups, and organizations.
-    copyright: "Copyright © 2022 All Rights Reserved"
-    languageName: "En"
-    contentDir: "content/en"
+    title: Harmony
+    description: A global platform for contextual data harmonisation
+    copyright: Copyright © 2023 Ulster University.
+    languageName: En
+    contentDir: content/en
     weight: 1
-    # banner:
-    #   text: The latest product release brings even faster workflow execution
-    #   button:
-    #     text: Learn More
-    #     url: "#"
-    #     style: muted
-    #     size: small
-
     menu:
       navbar:
-      - name: Blocks
+      - name: Home
         weight: 10
-      - name: Hero blocks
-        url: "/heros/"
-        parent: Blocks
-        pre: queue-list
-        weight: 110
-      - name: Features blocks
-        url: "/features/"
-        parent: Blocks
-        pre: squares-2x2
-        weight: 120
-      - name: Testimonial blocks
-        url: "/testimonials/"
-        parent: Blocks
-        pre: heart
-        weight: 130
-      - name: Gallery blocks
-        url: "/galleries/"
-        parent: Blocks
-        pre: photo
-        weight: 140
-      - name: Content page
-        url: "/page/"
-        parent: Blocks
-        pre: document-text
-        params:
-          desc: Optional link description text to add context
-        weight: 150
+        url: /
+      - name: News
+        weight: 20
+        url: /blog/
+      - name: Videos
+        weight: 30
+        url: /videos/
+      - name: FAQ
+        weight: 50
+        url: /frequently-asked-questions/
       - name: About
-        weight: 30
-      - name: About light
-        url: "/about/"
-        parent: About
-        pre: sun
-        weight: 110
-      - name: About dark
-        url: "/about-dark/"
-        parent: About
-        pre: moon
-        weight: 120
-      - name: Pricing
-        weight: 40
-      - name: Pricing light
-        url: "/pricing/"
-        parent: Pricing
-        pre: sun
-        weight: 110
-      - name: Pricing dark
-        url: "/pricing-dark/"
-        parent: Pricing
-        pre: moon
-        weight: 120
-      - name: Blog
-        url: "/blog/"
-        weight: 50
+        weight: 60
       - name: Contact
-        weight: 50
-      - name: Contact light
-        url: "/contact/"
-        parent: Contact
-        pre: sun
-        weight: 110
-      - name: Contact dark
-        url: "/contact-dark/"
-        parent: Contact
-        pre: moon
-        weight: 120
-    
-      navbar_cta:
-      - name: Contact
-        url: "/contact/"
-        pre: outline
-        weight: 20
-    
-      social:
-      - name: Facebook
-        url: "#"
-        pre: facebook
+        url: /contact/
+        parent: About
         weight: 10
-      - name: Instagram
-        url: "#"
-        pre: instagram
+      - name: Team
+        url: /our-team/
+        parent: About
         weight: 20
-      - name: Twitter
-        url: "#"
-        pre: twitter
+      - name: Tools
+        url: /app/
+        parent: About
         weight: 30
-      - name: GitHub
-        url: "#"
-        pre: github
+      - name: Fair data
+        url: /fair-data/
+        parent: About
         weight: 40
-      - name: Dribbble
-        url: "#"
-        pre: dribbble
+      - name: Projects & Partners
+        url: /projects-partners/
+        parent: About
         weight: 50
-    
-      footer:
-      - name: Services
+  pt:
+    title: Harmony
+    description: A global platform for contextual data harmonisation
+    copyright: Copyright © 2023 Ulster University.
+    languageName: Pt
+    contentDir: content/pt
+    weight: 2
+    menu:
+      navbar:
+      - name: Início
         weight: 10
-        url: "/xxx/"
-    
-      - name: Applications
-        url: "#"
-        parent: Services
-        weight: 10
-      - name: Work
-        url: "#"
-        parent: Services
+        url: /
+      - name: Notícias
         weight: 20
-      - name: Custom
-        url: "#"
-        parent: Services
+        url: '/blog/'
+      - name: Videos
         weight: 30
-    
-      - name: Company
-        weight: 20
-        url: "/xxx/"
-    
+        url: /videos/
+      - name: Perguntas Frequentes
+        weight: 50
+        url: /frequently-asked-questions/
       - name: About
-        url: "#"
-        parent: Company
+        weight: 60
+      - name: Contato
+        url: /contact/
+        parent: About
         weight: 10
-      - name: Jobs
-        url: "#"
-        parent: Company
+      - name: Equipe
+        url: /our-team/
+        parent: About
         weight: 20
-      - name: Terms
-        url: "#"
-        parent: Company
+      - name: Ferramenta
+        url: 'https://harmonydata.ac.uk/app/'
+        parent: About
         weight: 30
-        
-      - name: Resources
-        weight: 30
-        url: "/xxx/"
-        
-      - name: Blog
-        url: "#"
-        parent: Resources
-        weight: 10
-      - name: Press
-        url: "#"
-        parent: Resources
-        weight: 20
-      - name: Support
-        url: "#"
-        parent: Resources
-        weight: 30    
-      
-      - name: Products
+      - name: Princípios FAIR
+        url: /fair-data/
+        parent: About
         weight: 40
-        url: "/xxx/"
-        
-      - name: Lorem
-        url: "#"
-        parent: Products
-        weight: 10
-      - name: Ipsum
-        url: "#"
-        parent: Products
-        weight: 20
-      - name: Dolorem
-        url: "#"
-        parent: Products
-        weight: 30      
-        
-      - name: Use Cases
+      - name: Projetos & Parceiros
+        url: /projects-partners/
+        parent: About
         weight: 50
-        url: "/xxx/"
-      - name: Business
-        url: "/use-case/business/"
-        parent: Use Cases
-        weight: 10
-      - name: Ipsumum
-        url: "#"
-        parent: Use Cases
-        weight: 20
-      - name: Doloremus
-        url: "#"
-        parent: Use Cases
-        weight: 30   
 
 params:
   logo: "/images/logo.svg"

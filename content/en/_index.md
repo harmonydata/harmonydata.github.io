@@ -109,6 +109,7 @@ blocks:
     ```
 
 - block: logos
+  padding: top
   # superheading: Partners and Customers
   superheading: Partners
   logos:
@@ -127,6 +128,35 @@ blocks:
   - alt: wellcome
     image: /images/clients/wellcome.gif
     url: https://wellcome.org/
+
+- block: feature-4
+  image: images/multilingual.jpg
+  padding: top
+
+- block: testimonial-2
+  padding: top
+  copy: Really useful! Would have been a great tool and saved me a lot of time when I was trying to externally validate my risk prediction model in two cohorts.
+  author:
+    name: Researcher at UCL
+    title: on using Harmony the first time
+    image: /images/testimonial-user.svg
+
+- block: feature-2
+  padding: top
+  align: right
+  image: images/gad-7-scanned-min.webp
+  copy: |
+    Our tool, Harmony, allows researchers to upload a set of mental health questionnaires in PDF or Excel format, such as the GAD-7 anxiety questionnaire. It identifies which questions among questionnaires are identical, similar in meaning, or antonyms of each other, and generates a network graph. This allows researchers to harmonise datasets.
+
+    Uniquely, Harmony relies on Transformer neural network architectures and is not dependent on a dictionary approach or word list. This allows for multilingual support (English and Portuguese are our languages of focus), and Harmony is able to correctly map the GAD-7 used in the UK to the GAD-7 used in Brazil, despite the Brazilian questionnaire being in Brazilian Portuguese.
+
+    Using Harmony, our team was able to conduct groundbreaking research into social isolation and anxiety with NLP supplying a quantitative measure of the equivalence of the different mental health datasets.
+
+- block: feature-4
+  superheading: HARMONY
+  heading: A global platform for contextual harmonisation, translation and cooperation in mental health research
+  copy: |
+    This team will support better integration of mental health research through a natural language processing harmonisation tool (Harmony), allowing researchers to compare data from existing studies to investigate the active ingredients of mental health. Led by Dr Eoin McElroy from Ulster University and Dr Bettina Moltrecht from University College London, the team will develop and demonstrate Harmony to answer research questions around human connection and its influence on the development of depression and anxiety in young people.
 
 ---
 

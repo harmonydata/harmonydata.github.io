@@ -1,9 +1,9 @@
 {{ partial "block-open.html" . }}
   <div class="max-w-2xl lg:max-w-7xl mx-auto">
-    <div class="items-center lg:grid lg:grid-flow-col-dense lg:grid-cols-2 lg:gap-16 xl:gap-24">
-      <div class="{{ if eq .align "right" }}lg:col-start-2{{ end }}">
+    <div class="items-center lg:gap-16 xl:gap-28">
+      <div class="{{ if eq .align "right" }}lg:col-start-2{{ end }} max-w-4xl mx-auto">
         <div class="space-y-10 lg:space-y-12">
-          <div class="space-y-4 lg:space-y-5">
+          <div class="space-y-4 lg:space-y-5 text-center">
             {{ if .superheading }}
               {{ partial "components/superheading.html" . }}
             {{ end }}
@@ -13,32 +13,19 @@
             {{ if .subheading }}
               {{ partial "components/subheading.html" . }}
             {{ end }}
-            {{ if .copy }}
-              {{ partial "components/copy-lg.html" . }}
-            {{ end }}
-            {{ with .links }}
-              <div class="flex flex-wrap gap-1.5">
-                {{ range . }}
-                  <a class="rounded px-3 py-1 text-sm bg-aqua-400 hover:bg-blue-950 hover:text-aqua-400 text-blue-950 font-heading font-bold" href="{{ .url | relURL }}">{{ .text }}</a>
-                {{ end }}
-              </div>
-            {{ end }}
           </div>
+          {{ if .copy }}
+            {{ partial "components/copy-lg.html" . }}
+          {{ end }}
           {{ partial "components/list.html" . }}
           {{ with .button }}
             {{ partial "components/button.html" . }}
           {{ end }}
         </div>
       </div>
-      <div class="mt-12 sm:mt-16 lg:mt-0">
+      <div class="mt-12 sm:mt-16 lg:mt-0 flex justify-center{{ if eq .align "right" }} justify-end{{ end }}">
         {{ $plainHeading := .heading | markdownify | plainify }}
         {{ partial "components/image-responsive" (dict "src" (.image | relLangURL) "alt" $plainHeading "class" "rounded-lg" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
-        
-        {{ with .code }}
-          <div class="code overflow-x-scroll">
-            {{ . | markdownify }}
-          </div>
-        {{ end }}
       </div>
     </div>
   </div>

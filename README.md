@@ -27,6 +27,17 @@ To start server:
 ```
 {{< image src="images/image.png" alt="Lorem" title="Lorem" >}}
 ```
+## Code highlighter
+Is set in `config.yml`:
+
+```yaml
+markup:
+  highlight:
+    style: github-dark
+    tabWidth: 2
+```
+All available styles can be found: [https://xyproto.github.io/splash/docs/](https://xyproto.github.io/splash/docs/).
+
 
 ## Docs menu atem to be added
 ```

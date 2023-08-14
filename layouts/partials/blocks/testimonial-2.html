@@ -1,0 +1,23 @@
+{{ partial "block-open.html" . }}
+<figure class="mx-auto max-w-2xl relative">
+  <svg class="absolute -top-10 -left-4 lg:-top-16 lg:-left-32 w-32 lg:w-48" width="200" height="160" viewBox="0 0 200 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path opacity="0.3" d="M87.4437 3.84695L87.9656 1.94922H85.9974H41.494H40.481L40.1026 2.8888L14.0298 67.6211L14.0251 67.633C10.7258 76.0314 8.17126 82.7927 6.36475 87.9111C4.54749 93.0601 3.32001 97.6461 2.70186 101.659C2.08904 105.339 1.78394 109.165 1.78394 113.134C1.78394 126.364 5.95125 137.253 14.3606 145.662L14.3802 145.682L14.4006 145.701C23.0978 153.777 33.9637 157.789 46.8883 157.789C59.5237 157.789 70.0984 153.77 78.4968 145.682L78.4976 145.681C87.2144 137.276 91.5432 126.381 91.5432 113.134C91.5432 99.6192 87.3827 88.8475 78.925 81.0163C75.7085 78.0381 72.1327 75.6364 68.2051 73.8055L87.4437 3.84695ZM193.533 3.84695L194.055 1.94922H192.086H147.583H146.57L146.192 2.8888L120.119 67.6211L120.114 67.633C116.815 76.0314 114.26 82.7927 112.454 87.9111C110.637 93.0601 109.409 97.6462 108.791 101.659C108.178 105.339 107.873 109.165 107.873 113.134C107.873 126.364 112.04 137.253 120.45 145.662L120.469 145.682L120.49 145.701C129.187 153.777 140.053 157.789 152.977 157.789C165.613 157.789 176.187 153.77 184.586 145.682L184.587 145.681C193.303 137.276 197.632 126.381 197.632 113.134C197.632 99.6192 193.472 88.8475 185.014 81.0163C181.798 78.0381 178.222 75.6363 174.294 73.8055L193.533 3.84695Z" stroke="url(#paint0_linear_136_252)" stroke-width="3"/>
+    <defs>
+    <linearGradient id="paint0_linear_136_252" x1="-12" y1="175.941" x2="212" y2="175.941" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#2B45ED"/>
+    <stop offset="1" stop-color="#0DE5B2"/>
+    </linearGradient>
+    </defs>
+  </svg>    
+  <blockquote class="text-2xl sm:text-3xl lg:text-4xl leading-relaxed sm:leading-relaxed lg:leading-relaxed text-blue-950 dark:text-white font-bold font-heading">
+    <p>{{ .copy }}</p>
+  </blockquote>
+  <figcaption class="mt-6 lg:mt-10 flex items-center gap-x-5">
+    {{ partial "components/image-responsive" (dict "src" (.author.image | relLangURL) "alt" .author.name "class" "h-16 w-16 lg:h-24 lg:w-24 rounded-full" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 320 640 1024 2048)) }}
+    <div class="text-sm leading-6">
+      <div class="font-bold font-heading text-blue-600 dark:text-white text-xl sm:text-2xl lg:text-4xl">{{ .author.name }}</div>
+      <div class="text-blue-600 dark:text-slate-300 sm:text-lg lg:text-xl">{{ .author.title }}</div>
+    </div>
+  </figcaption>
+</figure>
+{{ partial "block-close.html" . }}

@@ -5,7 +5,7 @@
       {{ with .Params }}
         {{ partial "components/superheading.html" . }}
       {{ end }}
-      <h1 class="text-center text-4xl sm:text-5xl font-bold tracking-tight text-primary-950 dark:text-white">{{ .Title | markdownify }}</h1>
+      <h1 class="text-4xl sm:text-5xl lg:text-6xl font-heading font-bold tracking-tight text-blue-950 dark:text-white">{{ .Title | markdownify }}</h1>
       {{ with .Params }}
         {{ partial "components/subheading.html" . }}
       {{ end }}
@@ -15,7 +15,7 @@
         {{ partial "components/image-responsive" (dict "src" (. | relLangURL) "alt" $.Title "class" "rounded-2xl" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
       </div>
     {{ end }}
-    <div class="mt-10 lg:mt-14 mx-auto prose sm:prose-lg dark:prose-invert prose-headings:scroll-mt-32 hover:prose-a:text-primary-500">
+    <div class="mt-10 lg:mt-14 mx-auto prose sm:prose-lg dark:prose-invert prose-headings:text-blue-950 prose-headings:scroll-mt-32 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline">
       {{ .Content }}
     </div>
   </div>

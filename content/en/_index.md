@@ -14,7 +14,7 @@ blocks:
   overlay: true #used together with navbar overlay: true option to show background image behind the navbar
   # layout: left
   # image: images/startup-launch-2.svg
-  background_image: images/bg-globe.png
+  background_image: images/globe-min.svg
   heading: "Harmonise questionnaire items with **Harmony**."
   subheading: Harmony is a tool for retrospective harmonisation of questionnaire items.
   copy: |-
@@ -93,7 +93,7 @@ blocks:
     ```
 
 - block: feature-2
-  padding: top
+  # padding: top
   align: right 
   heading: "Harmony Docker container"
   subheading: We've released Harmony as a Docker container on Dockerhub.
@@ -109,9 +109,9 @@ blocks:
     ```
 
 - block: logos
-  padding: top
-  # superheading: Partners and Customers
-  superheading: Partners
+  # padding: top
+  mode: muted
+  superheading: "**Our Partners**"
   logos:
   - alt: ulster
     image: /images/clients/client-1.png
@@ -142,7 +142,7 @@ blocks:
     image: /images/testimonial-user.svg
 
 - block: feature-2
-  padding: top
+  # padding: top
   align: right
   image: images/gad-7-scanned-min.webp
   copy: |
@@ -153,7 +153,8 @@ blocks:
     Using Harmony, our team was able to conduct groundbreaking research into social isolation and anxiety with NLP supplying a quantitative measure of the equivalence of the different mental health datasets.
 
 - block: feature-4
-  superheading: HARMONY
+  mode: muted
+  superheading: "**HARMONY**"
   heading: A global platform for contextual harmonisation, translation and cooperation in mental health research
   copy: |
     This team will support better integration of mental health research through a natural language processing harmonisation tool (Harmony), allowing researchers to compare data from existing studies to investigate the active ingredients of mental health. Led by Dr Eoin McElroy from Ulster University and Dr Bettina Moltrecht from University College London, the team will develop and demonstrate Harmony to answer research questions around human connection and its influence on the development of depression and anxiety in young people.

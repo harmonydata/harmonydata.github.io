@@ -1,4 +1,4 @@
-<div class="flex items-center justify-center h-20 w-20 rounded-full shadow-lg shadow-slate-200 dark:shadow-none dark:bg-primary-800 text-primary-500 dark:text-primary-500 svg-xl">
+<div class="flex items-center justify-center h-20 w-20 rounded-full shadow-lg shadow-slate-200 dark:shadow-none dark:bg-primary-800 text-blue-600 dark:text-blue-600 svg-xl">
   {{ $icon := printf "%s%s%s" "icons/" .icon ".svg" }}
   {{ if templates.Exists (printf "%s%s" "partials/" $icon ) }}
     {{ partial $icon }}

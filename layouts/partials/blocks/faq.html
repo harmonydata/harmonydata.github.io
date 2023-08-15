@@ -11,9 +11,9 @@
       {{ range .faqs }}
         <div x-data="{ expanded: false }" class="border-b border-primary-200 dark:border-primary-800">
           <h3>
-            <button x-on:click="expanded = ! expanded" class="w-full py-8 flex items-center text-left text-xl lg:text-2xl font-medium dark:text-white hover:text-primary-500 dark:hover:text-primary-500">
-              <span class="grow" :class="{ 'text-primary-500 dark:text-primary-500': expanded }">{{ .title }}</span>
-              <svg :class="{ 'rotate-90 text-primary-500 dark:text-primary-500': expanded, 'transform-none': !(expanded) }" class="h-5 w-5 duration-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor" class="w-6 h-6">
+            <button x-on:click="expanded = ! expanded" class="w-full py-8 flex items-center text-left text-xl lg:text-2xl font-medium dark:text-white hover:text-blue-600 dark:hover:text-blue-600">
+              <span class="grow" :class="{ 'text-blue-600 dark:text-blue-600': expanded }">{{ .title }}</span>
+              <svg :class="{ 'rotate-90 text-blue-600 dark:text-blue-600': expanded, 'transform-none': !(expanded) }" class="h-5 w-5 duration-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor" class="w-6 h-6">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
               </svg>              
             </button>

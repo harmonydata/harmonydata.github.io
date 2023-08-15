@@ -2,12 +2,12 @@
   <div class="mx-auto max-w-7xl overflow-hidden">
     <nav class="flex flex-col sm:flex-row flex-wrap items-center justify-center gap-6 sm:gap-12" aria-label="Footer">
       {{ range .Site.Menus.footer }}
-        <a href="{{ .URL }}" class="text-sm text-primary-950 dark:text-slate-100 hover:text-primary-500 dark:hover:text-primary-500"> {{ .Name }} </a>
+        <a href="{{ .URL }}" class="text-sm text-primary-950 dark:text-slate-100 hover:text-blue-600 dark:hover:text-blue-600"> {{ .Name }} </a>
       {{ end }}
     </nav>
     <div class="mt-10 flex justify-center space-x-8">
       {{ range .Site.Menus.social }}
-        <a href="{{ .URL }}" target="_blank" rel="noopener noreferrer" class="text-slate-600 dark:text-slate-300 hover:text-primary-500 dark:hover:text-primary-500 svg-sm">
+        <a href="{{ .URL }}" target="_blank" rel="noopener noreferrer" class="text-slate-600 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-600 svg-sm">
           <span class="sr-only">{{ .Name }}</span>
           {{ $icon := printf "%s%s%s" "icons/" .Pre ".svg" }}
           {{ if templates.Exists (printf "%s%s" "partials/" $icon ) }}

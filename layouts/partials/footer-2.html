@@ -20,7 +20,7 @@
               <ul class="space-y-4">
                 {{ range .Children }}
                   <li>
-                    <a href="{{ .URL }}" class="text-sm text-primary-950 dark:text-slate-100 hover:text-primary-500 dark:hover:text-aqua-400"> {{ .Name }} </a>
+                    <a href="{{ .URL }}" class="text-sm text-primary-950 dark:text-slate-100 hover:text-blue-600 dark:hover:text-aqua-400"> {{ .Name }} </a>
                   </li>
                 {{ end }}
               </ul>
@@ -33,7 +33,7 @@
         <p class="text-slate-600 dark:text-slate-200 text-sm hidden sm:block">{{ i18n "follow_us" }}</p>
         <div class="flex space-x-4">
           {{ range .Site.Menus.social }}
-            <a href="{{ .URL }}" target="_blank" rel="noopener noreferrer" class="text-slate-600 dark:text-slate-200 hover:text-primary-500 dark:hover:text-aqua-400 svg-sm">
+            <a href="{{ .URL }}" target="_blank" rel="noopener noreferrer" class="text-slate-600 dark:text-slate-200 hover:text-blue-600 dark:hover:text-aqua-400 svg-sm">
               <span class="sr-only">{{ .Name }}</span>
               {{ $icon := printf "%s%s%s" "icons/" .Pre ".svg" }}
               {{ if templates.Exists (printf "%s%s" "partials/" $icon ) }}

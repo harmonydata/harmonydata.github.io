@@ -19,7 +19,7 @@
     <nav class="flex items-center justify-center px-4 sm:px-0">
     <div class="flex">
     {{ if $paginator.HasPrev }}
-        <a href="{{ $paginator.Prev.URL }}" class="inline-flex space-x-1 items-center pr-1 font-medium dark:text-white hover:text-primary-500 dark:hover:text-primary-500">
+        <a href="{{ $paginator.Prev.URL }}" class="inline-flex space-x-1 items-center pr-1 font-medium dark:text-white hover:text-blue-600 dark:hover:text-blue-600">
             <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
             </svg>
@@ -78,7 +78,7 @@
       <div class="hidden md:flex">
       <!-- Output page numbers. -->
       {{ if eq ($.Scratch.Get "page_number_flag") true }}
-        <a href="{{ .URL }}" class="{{ if eq . $paginator }}dark:text-white{{else }} text-primary-500 dark:text-primary-500{{ end }} font-medium hover:text-primary-500 dark:hover:text-primary-500 px-4 inline-flex items-center ">
+        <a href="{{ .URL }}" class="{{ if eq . $paginator }}dark:text-white{{else }} text-blue-600 dark:text-blue-600{{ end }} font-medium hover:text-blue-600 dark:hover:text-blue-600 px-4 inline-flex items-center ">
             {{ .PageNumber }}
         </a>
       {{ end }}
@@ -90,7 +90,7 @@
     <div class="flex">
     {{ if $paginator.HasNext }}
 
-        <a href="{{ $paginator.Next.URL }}" class="inline-flex space-x-1 items-center pl-1 font-medium dark:text-white hover:text-primary-500 dark:hover:text-primary-500">
+        <a href="{{ $paginator.Next.URL }}" class="inline-flex space-x-1 items-center pl-1 font-medium dark:text-white hover:text-blue-600 dark:hover:text-blue-600">
           <span>{{ i18n "next" }}</span>
           <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />

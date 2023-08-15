@@ -22,7 +22,7 @@
           <button
             @click="mobile = ! mobile"
             type="button"
-            class="inline-flex items-center justify-center text-primary-950 dark:text-white hover:text-primary-500 dark:hover:text-primary-500 focus:outline-none"
+            class="inline-flex items-center justify-center text-primary-950 dark:text-white hover:text-blue-600 dark:hover:text-aqua-400 focus:outline-none"
             aria-expanded="false"
           >
             <span class="sr-only">Toggle main menu</span>
@@ -58,14 +58,14 @@
                 <button
                   type="button"
                   @click.prevent="dropdown = ! dropdown"
-                  :class="{ 'text-primary-500 bg-primary-50 dark:text-primary-500 dark:bg-primary-900': dropdown, 'text-primary-950 dark:text-white': !(dropdown) }"
-                  class="group inline-flex tracking-wide transform-none items-center text-base  hover:bg-primary-50 dark:hover:bg-primary-900 dark:text-white hover:text-primary-500 dark:hover:text-primary-500 px-4 py-2.5 rounded-full focus:outline-none"
+                  :class="{ 'text-blue-600 bg-primary-50 dark:text-aqua-400 dark:bg-primary-900': dropdown, 'text-primary-950 dark:text-white': !(dropdown) }"
+                  class="group inline-flex tracking-wide transform-none items-center text-base  hover:bg-primary-50 dark:hover:bg-primary-900 dark:text-white hover:text-blue-600 dark:hover:text-aqua-400 px-4 py-2.5 rounded-full focus:outline-none"
                   aria-expanded="false"
                 >
                   <span>{{ .Name }}</span>
                   <svg
-                    :class="{ 'text-primary-500 dark:text-primary-500 rotate-180': dropdown, 'text-primary-950 dark:text-white transform-none': !(dropdown) }"
-                    class="ml-0.5 h-5 w-5 group-hover:text-primary-500 dark:group-hover:text-primary-500"
+                    :class="{ 'text-blue-600 dark:text-aqua-400 rotate-180': dropdown, 'text-primary-950 dark:text-white transform-none': !(dropdown) }"
+                    class="ml-0.5 h-5 w-5 group-hover:text-blue-600 dark:group-hover:text-aqua-400"
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 20 20"
                     fill="currentColor"
@@ -93,7 +93,7 @@
                   <div class="overflow-hidden rounded-3xl shadow-lg">
                     <div class="relative grid gap-6 bg-white dark:bg-primary-900 p-10 sm:gap-8">
                       {{ range .Children }}
-                        <a href="{{ .URL | relLangURL }}" class="-m-4 flex items-start group rounded-xl p-4  text-primary-950 dark:text-white hover:text-primary-500 dark:hover:text-primary-500 hover:bg-primary-50 dark:hover:bg-blue-950">
+                        <a href="{{ .URL | relLangURL }}" class="-m-4 flex items-start group rounded-xl p-4  text-primary-950 dark:text-white hover:text-blue-600 dark:hover:text-aqua-400 hover:bg-primary-50 dark:hover:bg-blue-950">
                           {{ if .Pre }}
                             <div class="flex-shrink-0 mr-3 w-6">
                               {{ $icon := printf "%s%s%s" "icons/" .Pre ".svg" }}
@@ -115,20 +115,20 @@
                 </div>
               </div>
             {{ else }}
-              <a href="{{ .URL | relLangURL }}" class="text-base tracking-wide  hover:bg-primary-50 dark:hover:bg-primary-900 dark:text-white hover:text-primary-500 dark:hover:text-primary-500 px-4 py-2.5 rounded-full text-primary-950"{{ if in .URL "http" }} target="_blank"{{ end }}> {{ .Name }} </a>
+              <a href="{{ .URL | relLangURL }}" class="text-base tracking-wide  hover:bg-primary-50 dark:hover:bg-primary-900 dark:text-white hover:text-blue-600 dark:hover:text-aqua-400 px-4 py-2.5 rounded-full text-primary-950"{{ if in .URL "http" }} target="_blank"{{ end }}> {{ .Name }} </a>
             {{ end }}
           {{ end }}
         </nav>
         <div class="hidden items-center font-medium justify-end lg:flex lg:w-0 lg:flex-1 gap-3">
           {{ if .IsTranslated }}
             <div class="relative" x-data="{ lang: false }" @click.outside="lang = false">
-              <button @click="lang = ! lang" type="button" class="group relative inline-flex items-center  px-4 py-2 text-left focus:outline-none text-base text-primary-950 dark:text-white hover:text-primary-500 dark:hover:text-primary-500 hover:bg-primary-50 dark:hover:bg-primary-900 rounded-full" 
-                :class="{ 'text-primary-500 dark:text-primary-500': lang, 'text-primary-950 dark:text-white': !(lang) }" 
+              <button @click="lang = ! lang" type="button" class="group relative inline-flex items-center  px-4 py-2 text-left focus:outline-none text-base text-primary-950 dark:text-white hover:text-blue-600 dark:hover:text-aqua-400 hover:bg-primary-50 dark:hover:bg-primary-900 rounded-full" 
+                :class="{ 'text-blue-600 dark:text-aqua-400': lang, 'text-primary-950 dark:text-white': !(lang) }" 
                 aria-haspopup="listbox" aria-expanded="true">
                 <span> {{ .Language.LanguageName }} </span>
                 <svg
-                  :class="{ 'text-primary-500 dark:text-primary-500 rotate-180': lang, 'text-primary-950 dark:text-white transform-none': !(lang) }"
-                  class="text-primary-500 ml-0.5 h-5 w-5 group-hover:text-primary-500 dark:group-hover:text-primary-500"
+                  :class="{ 'text-blue-600 dark:text-aqua-400 rotate-180': lang, 'text-primary-950 dark:text-white transform-none': !(lang) }"
+                  class="text-blue-600 ml-0.5 h-5 w-5 group-hover:text-blue-600 dark:group-hover:text-aqua-400"
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 20 20"
                   fill="currentColor"
@@ -144,7 +144,7 @@
               <ul :class="{ 'block': lang, 'hidden': !(lang) }" class="hidden absolute z-10 left-1.5 bg-white dark:bg-primary-900 shadow-lg max-h-56 rounded-md text-base ring-opacity-5 overflow-auto focus:outline-none" tabindex="-1">
                 {{ range .Translations }}
                   <li class="text-primary-950 cursor-default select-none relative py-2 px-3" id="listbox-option-0">
-                    <a href="{{ .Permalink }}" class="text-primary-950  dark:text-white hover:text-primary-500 dark:hover:text-primary-500 flex">
+                    <a href="{{ .Permalink }}" class="text-primary-950  dark:text-white hover:text-blue-600 dark:hover:text-aqua-400 flex">
                       {{ .Language.LanguageName }}
                     </a>
                   </li>
@@ -179,7 +179,7 @@
             <div x-data="{ accordion: false }">
               <a
                 href="#"
-                class="flex items-center rounded-xl px-4 py-3  text-lg text-primary-950 hover:text-primary-500 hover:bg-primary-50 dark:text-white dark:hover:text-primary-500 dark:hover:bg-primary-900"
+                class="flex items-center rounded-xl px-4 py-3  text-lg text-primary-950 hover:text-blue-600 hover:bg-primary-50 dark:text-white dark:hover:text-aqua-400 dark:hover:bg-primary-900"
                 @click.prevent="accordion = ! accordion"
               >
                 <span class="flex-1">{{ .Name }}</span>
@@ -199,9 +199,9 @@
               </a>
               <div x-show="accordion" :class="{ 'block': accordion, 'hidden': !(accordion) }">
                 {{ range .Children }}
-                  <a href="{{ .URL | relLangURL }}" class="ml-4 flex items-center group rounded-xl px-4 py-3 text-primary-950 hover:text-primary-500 hover:bg-primary-50 dark:text-white dark:hover:text-primary-500 dark:hover:bg-primary-900">
+                  <a href="{{ .URL | relLangURL }}" class="ml-4 flex items-center group rounded-xl px-4 py-3 text-primary-950 hover:text-blue-600 hover:bg-primary-50 dark:text-white dark:hover:text-aqua-400 dark:hover:bg-primary-900">
                     {{ if .Pre }}
-                      <div class="flex-shrink-0 mr-2.5 group-hover:text-primary-500">
+                      <div class="flex-shrink-0 mr-2.5 group-hover:text-blue-600">
                         {{ $icon := printf "%s%s%s" "icons/" .Pre ".svg" }}
                         {{ if templates.Exists (printf "%s%s" "partials/" $icon ) }}
                           {{ partial $icon }}
@@ -215,7 +215,7 @@
               </div>
             </div>
           {{ else }}
-            <a href="{{ .URL | relLangURL }}" class="block rounded-xl  tracking-wide px-4 py-3 text-lg text-primary-950 hover:text-primary-500 hover:bg-primary-50 dark:text-white dark:hover:text-primary-500 dark:hover:bg-primary-900" 
+            <a href="{{ .URL | relLangURL }}" class="block rounded-xl  tracking-wide px-4 py-3 text-lg text-primary-950 hover:text-blue-600 hover:bg-primary-50 dark:text-white dark:hover:text-aqua-400 dark:hover:bg-primary-900" 
             {{ if in .URL "http" }} target="_blank"{{ end }}>{{ .Name }}</a>
           {{ end }}
         {{ end }}
@@ -228,13 +228,13 @@
       {{ if .IsTranslated }}
         <div class="px-8 sm:px-10 pb-8 flex justify-center">
           <div class="relative" x-data="{ lang: false }" @click.outside="lang = false">
-            <button @click="lang = ! lang" type="button" class="group relative inline-flex items-center  px-4 py-2 text-left focus:outline-none text-base text-primary-950 dark:text-white hover:text-primary-500 dark:hover:text-primary-500 hover:bg-primary-50 dark:hover:bg-primary-900 rounded-full" 
-              :class="{ 'text-primary-500 dark:text-primary-500': lang, 'text-primary-950 dark:text-white': !(lang) }" 
+            <button @click="lang = ! lang" type="button" class="group relative inline-flex items-center  px-4 py-2 text-left focus:outline-none text-base text-primary-950 dark:text-white hover:text-blue-600 dark:hover:text-aqua-400 hover:bg-primary-50 dark:hover:bg-primary-900 rounded-full" 
+              :class="{ 'text-blue-600 dark:text-aqua-400': lang, 'text-primary-950 dark:text-white': !(lang) }" 
               aria-haspopup="listbox" aria-expanded="true">
               <span> {{ .Language.LanguageName }} </span>
               <svg
-                :class="{ 'text-primary-500 dark:text-primary-500 rotate-180': lang, 'text-primary-950 dark:text-white transform-none': !(lang) }"
-                class="text-primary-500 ml-0.5 h-5 w-5 group-hover:text-primary-500 dark:group-hover:text-primary-500"
+                :class="{ 'text-blue-600 dark:text-aqua-400 rotate-180': lang, 'text-primary-950 dark:text-white transform-none': !(lang) }"
+                class="text-blue-600 ml-0.5 h-5 w-5 group-hover:text-blue-600 dark:group-hover:text-aqua-400"
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 20 20"
                 fill="currentColor"
@@ -250,7 +250,7 @@
             <ul :class="{ 'block': lang, 'hidden': !(lang) }" class="hidden absolute z-10 left-1.5  bg-white dark:bg-primary-900 shadow-lg max-h-56 rounded-md text-base ring-opacity-5 overflow-auto focus:outline-none" tabindex="-1">
               {{ range .Translations }}
                 <li class="text-primary-950 cursor-default select-none relative py-2 px-3" id="listbox-option-0">
-                  <a href="{{ .Permalink }}" class="text-primary-950  dark:text-white hover:text-primary-500 dark:hover:text-primary-500 flex">
+                  <a href="{{ .Permalink }}" class="text-primary-950  dark:text-white hover:text-blue-600 dark:hover:text-aqua-400 flex">
                     {{ .Language.LanguageName }}
                   </a>
                 </li>

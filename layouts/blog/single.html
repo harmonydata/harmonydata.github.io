@@ -4,7 +4,7 @@
     <div class="max-w-3xl mx-auto text-center space-y-4 lg:space-y-5">
       {{ if .Params.categories }}
         <div class="gap-x-3 flex justify-center capitalize mb-4">
-          {{ range .Params.categories }}<span class="px-4 py-2.5 rounded-full bg-primary-100 dark:bg-primary-900 text-primary-500 text-sm font-medium leading-none tracking-wider uppercase inline-block flex-shrink-0">{{ . }}</span>{{ end }}
+          {{ range .Params.categories }}<span class="px-4 py-2.5 rounded-full bg-primary-100 dark:bg-primary-900 text-blue-600 text-sm font-medium leading-none tracking-wider uppercase inline-block flex-shrink-0">{{ . }}</span>{{ end }}
         </div>
       {{ end }}    
       <h1 class="text-center text-5xl sm:text-6xl font-bold tracking-tight text-primary-950 dark:text-white">{{ .Title | markdownify }}</h1>
@@ -25,7 +25,7 @@
     </div>
     <div class="mt-16 lg:mt-20 grid gap-5 grid-cols-1 md:grid-cols-2">
       {{ with .NextInSection }}
-        <a class="flex items-center dark:text-white hover:text-primary-500 dark:hover:text-primary-500 border border-primary-200 dark:border-primary-800 rounded-xl "
+        <a class="flex items-center dark:text-white hover:text-blue-600 dark:hover:text-blue-600 border border-primary-200 dark:border-primary-800 rounded-xl "
           href="{{ .Permalink }}">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 ml-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
             <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
@@ -36,7 +36,7 @@
         <div></div>
       {{ end }}      
       {{ with .PrevInSection }}
-        <a class="flex items-center text-right dark:text-white hover:text-primary-500 dark:hover:text-primary-500 border border-primary-200 dark:border-primary-800 rounded-xl "
+        <a class="flex items-center text-right dark:text-white hover:text-blue-600 dark:hover:text-blue-600 border border-primary-200 dark:border-primary-800 rounded-xl "
           href="{{ .Permalink }}">
           <span class="ml-4 mr-2 my-4 grow">{{ i18n "next" }}<br><strong class="text-lg sm:text-xl font-bold">{{ .Title }}</strong></span>
           <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 mr-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">

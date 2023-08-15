@@ -1,11 +1,11 @@
 <div x-data="{ dropdown: false }" class="relative lg:hidden flex justify-center">
   <button @click="dropdown = ! dropdown" type="button" 
-    :class="{ 'text-primary-600 dark:text-primary-500': dropdown, 'dark:text-white': !(dropdown) }"
-    class="relative group lg:hidden hover:text-primary-600 dark:hover:text-primary-500 bg-slate-50 dark:bg-primary-900 px-6 xl:px-8 py-2.5 tracking-wide rounded-full inline-flex items-center justify-center">
+    :class="{ 'text-primary-600 dark:text-blue-600': dropdown, 'dark:text-white': !(dropdown) }"
+    class="relative group lg:hidden hover:text-primary-600 dark:hover:text-blue-600 bg-slate-50 dark:bg-primary-900 px-6 xl:px-8 py-2.5 tracking-wide rounded-full inline-flex items-center justify-center">
     <span>{{ i18n "categories" }}</span>
     <svg
-      :class="{ 'text-primary-600 dark:text-primary-500 rotate-180': dropdown, 'dark:text-white transform-none': !(dropdown) }"
-      class="text-primary-600 dark:text-primary-500 ml-0.5 mt-0.5 h-6 w-6 group-hover:text-primary-600 dark:group-hover:text-primary-500"
+      :class="{ 'text-primary-600 dark:text-blue-600 rotate-180': dropdown, 'dark:text-white transform-none': !(dropdown) }"
+      class="text-primary-600 dark:text-blue-600 ml-0.5 mt-0.5 h-6 w-6 group-hover:text-primary-600 dark:group-hover:text-blue-600"
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 20 20"
       fill="currentColor"
@@ -29,17 +29,17 @@
     x-transition:leave-end="opacity-0 translate-y-1"
     @click.outside="dropdown = false"
    class="absolute z-10 top-14 min-w-[16rem] bg-white dark:bg-primary-900 rounded-xl shadow-xl hidden py-2.5">
-   <a class="{{ if in .Permalink "/blog/" }}text-primary-600 dark:text-primary-500{{ else }}dark:text-white{{ end }} hover:text-primary-600 dark:hover:text-primary-500 block px-5 py-3" href="{{ "/blog/" | relLangURL }}">{{ i18n "all_categories" }}</a>
+   <a class="{{ if in .Permalink "/blog/" }}text-primary-600 dark:text-blue-600{{ else }}dark:text-white{{ end }} hover:text-primary-600 dark:hover:text-blue-600 block px-5 py-3" href="{{ "/blog/" | relLangURL }}">{{ i18n "all_categories" }}</a>
    {{ range site.Taxonomies.categories }}
-      <a class="{{ if eq .Page.Permalink $.Permalink }}text-primary-600 dark:text-primary-500{{ else }}dark:text-white{{ end }} hover:text-primary-600 dark:hover:text-primary-500 block px-5 py-3" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+      <a class="{{ if eq .Page.Permalink $.Permalink }}text-primary-600 dark:text-blue-600{{ else }}dark:text-white{{ end }} hover:text-primary-600 dark:hover:text-blue-600 block px-5 py-3" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
     {{ end }}
   </div>
 </div>
 <div class="hidden lg:flex lg:justify-center">
   <div class="flex space-x-1 justify-center font-normal text-sm bg-slate-50 dark:bg-primary-900 rounded-full p-2">
-    <a class="{{ if in .Permalink "/blog/" }}text-primary-600 dark:text-primary-500 bg-white dark:bg-blue-950 shadow-md{{ else }}text-slate-900 dark:text-white{{ end }} hover:bg-white dark:hover:bg-blue-950 px-6 xl:px-8 py-2.5 tracking-wide rounded-full font-medium" href="{{ "/blog/" | relLangURL }}">{{ i18n "all_categories" }}</a>
+    <a class="{{ if in .Permalink "/blog/" }}text-primary-600 dark:text-blue-600 bg-white dark:bg-blue-950 shadow-md{{ else }}text-slate-900 dark:text-white{{ end }} hover:bg-white dark:hover:bg-blue-950 px-6 xl:px-8 py-2.5 tracking-wide rounded-full font-medium" href="{{ "/blog/" | relLangURL }}">{{ i18n "all_categories" }}</a>
     {{ range site.Taxonomies.categories }}
-      <a class="{{ if eq .Page.Permalink $.Permalink }}text-primary-600 dark:text-primary-500 bg-white dark:bg-blue-950 shadow-md{{ else }}text-slate-900 dark:text-white{{ end }} hover:bg-white dark:hover:bg-blue-950 px-6 xl:px-8 py-2.5 tracking-wide rounded-full font-medium" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+      <a class="{{ if eq .Page.Permalink $.Permalink }}text-primary-600 dark:text-blue-600 bg-white dark:bg-blue-950 shadow-md{{ else }}text-slate-900 dark:text-white{{ end }} hover:bg-white dark:hover:bg-blue-950 px-6 xl:px-8 py-2.5 tracking-wide rounded-full font-medium" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
     {{ end }}
   </div>
 </div>

@@ -58,7 +58,7 @@
                 <button
                   type="button"
                   @click.prevent="dropdown = ! dropdown"
-                  :class="{ 'text-blue-600 bg-primary-50 dark:text-aqua-400 dark:bg-primary-900': dropdown, 'text-primary-950 dark:text-white': !(dropdown) }"
+                  :class="{ 'text-blue-600 bg-primary-50 dark:text-aqua-400 dark:bg-blue-980': dropdown, 'text-primary-950 dark:text-white': !(dropdown) }"
                   class="group inline-flex tracking-wide transform-none items-center text-base  hover:bg-primary-50 dark:hover:bg-primary-900 dark:text-white hover:text-blue-600 dark:hover:text-aqua-400 px-4 py-2.5 rounded-full focus:outline-none"
                   aria-expanded="false"
                 >
@@ -90,10 +90,10 @@
                   @click.outside="dropdown = false"
                   class="absolute z-10 -ml-4 mt-3 hidden w-screen max-w-[18rem] transform px-2 sm:px-0 lg:left-1/2 lg:ml-0 lg:-translate-x-1/2"
                 >
-                  <div class="overflow-hidden rounded-3xl shadow-lg">
-                    <div class="relative grid gap-6 bg-white dark:bg-primary-900 p-10 sm:gap-8">
+                  <div class="overflow-hidden rounded-xl shadow-lg">
+                    <div class="relative grid gap-6 bg-white dark:bg-blue-980 p-10 sm:gap-8">
                       {{ range .Children }}
-                        <a href="{{ .URL | relLangURL }}" class="-m-4 flex items-start group rounded-xl p-4  text-primary-950 dark:text-white hover:text-blue-600 dark:hover:text-aqua-400 hover:bg-primary-50 dark:hover:bg-blue-950">
+                        <a href="{{ .URL | relLangURL }}" class="-m-4 flex items-start group rounded-lg p-4  text-primary-950 dark:text-white hover:text-blue-600 dark:hover:text-aqua-400 hover:bg-primary-50 dark:hover:bg-blue-950">
                           {{ if .Pre }}
                             <div class="flex-shrink-0 mr-3 w-6">
                               {{ $icon := printf "%s%s%s" "icons/" .Pre ".svg" }}
@@ -141,7 +141,7 @@
                   />
                 </svg>
               </button>
-              <ul :class="{ 'block': lang, 'hidden': !(lang) }" class="hidden absolute z-10 left-1.5 bg-white dark:bg-primary-900 shadow-lg max-h-56 rounded-md text-base ring-opacity-5 overflow-auto focus:outline-none" tabindex="-1">
+              <ul :class="{ 'block': lang, 'hidden': !(lang) }" class="hidden absolute z-10 left-1.5 bg-white dark:bg-blue-980 shadow-lg max-h-56 rounded-md text-base ring-opacity-5 overflow-auto focus:outline-none" tabindex="-1">
                 {{ range .Translations }}
                   <li class="text-primary-950 cursor-default select-none relative py-2 px-3" id="listbox-option-0">
                     <a href="{{ .Permalink }}" class="text-primary-950  dark:text-white hover:text-blue-600 dark:hover:text-aqua-400 flex">
@@ -171,7 +171,7 @@
     x-transition:leave-end="opacity-0 scale-95"
     class="absolute w-full z-10 origin-top transform transition hidden lg:hidden border-y border-gray-200 dark:border-primary-800"
   >
-    <div class="overflow-hidden bg-white dark:bg-blue-950 font-medium">
+    <div class="overflow-hidden bg-white dark:bg-blue-980 font-medium">
       <div class="space-y-1 p-4 sm:p-6">
         {{ $currentPage := . }}
         {{ range .Site.Menus.navbar }}
@@ -179,7 +179,7 @@
             <div x-data="{ accordion: false }">
               <a
                 href="#"
-                class="flex items-center rounded-xl px-4 py-3  text-lg text-primary-950 hover:text-blue-600 hover:bg-primary-50 dark:text-white dark:hover:text-aqua-400 dark:hover:bg-primary-900"
+                class="flex items-center rounded-lg px-4 py-3 text-lg text-primary-950 hover:text-blue-600 hover:bg-primary-50 dark:text-white dark:hover:text-aqua-400 dark:hover:bg-blue-950"
                 @click.prevent="accordion = ! accordion"
               >
                 <span class="flex-1">{{ .Name }}</span>
@@ -199,7 +199,7 @@
               </a>
               <div x-show="accordion" :class="{ 'block': accordion, 'hidden': !(accordion) }">
                 {{ range .Children }}
-                  <a href="{{ .URL | relLangURL }}" class="ml-4 flex items-center group rounded-xl px-4 py-3 text-primary-950 hover:text-blue-600 hover:bg-primary-50 dark:text-white dark:hover:text-aqua-400 dark:hover:bg-primary-900">
+                  <a href="{{ .URL | relLangURL }}" class="ml-4 flex items-center group rounded-xl px-4 py-3 text-primary-950 hover:text-blue-600 hover:bg-primary-50 dark:text-white dark:hover:text-aqua-400 dark:hover:bg-blue-950">
                     {{ if .Pre }}
                       <div class="flex-shrink-0 mr-2.5 group-hover:text-blue-600">
                         {{ $icon := printf "%s%s%s" "icons/" .Pre ".svg" }}
@@ -215,7 +215,7 @@
               </div>
             </div>
           {{ else }}
-            <a href="{{ .URL | relLangURL }}" class="block rounded-xl  tracking-wide px-4 py-3 text-lg text-primary-950 hover:text-blue-600 hover:bg-primary-50 dark:text-white dark:hover:text-aqua-400 dark:hover:bg-primary-900" 
+            <a href="{{ .URL | relLangURL }}" class="block rounded-xl  tracking-wide px-4 py-3 text-lg text-primary-950 hover:text-blue-600 hover:bg-primary-50 dark:text-white dark:hover:text-aqua-400 dark:hover:bg-blue-950" 
             {{ if in .URL "http" }} target="_blank"{{ end }}>{{ .Name }}</a>
           {{ end }}
         {{ end }}
@@ -247,7 +247,7 @@
                 />
               </svg>
             </button>
-            <ul :class="{ 'block': lang, 'hidden': !(lang) }" class="hidden absolute z-10 left-1.5  bg-white dark:bg-primary-900 shadow-lg max-h-56 rounded-md text-base ring-opacity-5 overflow-auto focus:outline-none" tabindex="-1">
+            <ul :class="{ 'block': lang, 'hidden': !(lang) }" class="hidden absolute z-10 left-1.5  bg-white dark:bg-blue-980 shadow-lg max-h-56 rounded-md text-base ring-opacity-5 overflow-auto focus:outline-none" tabindex="-1">
               {{ range .Translations }}
                 <li class="text-primary-950 cursor-default select-none relative py-2 px-3" id="listbox-option-0">
                   <a href="{{ .Permalink }}" class="text-primary-950  dark:text-white hover:text-blue-600 dark:hover:text-aqua-400 flex">

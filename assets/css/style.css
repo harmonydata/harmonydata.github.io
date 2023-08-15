@@ -2288,6 +2288,11 @@ select {
   background-color: rgb(255 255 255 / 0.05);
 }
 
+.bg-blue-980 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(8 14 58 / var(--tw-bg-opacity));
+}
+
 .bg-gradient-to-br {
   background-image: linear-gradient(to bottom right, var(--tw-gradient-stops));
 }
@@ -3618,6 +3623,11 @@ h1 strong, h2 strong, h3 strong, .text-highlight, .superheading strong {
 :is(.dark .dark\:bg-red-500) {
   --tw-bg-opacity: 1;
   background-color: rgb(239 68 68 / var(--tw-bg-opacity));
+}
+
+:is(.dark .dark\:bg-blue-980) {
+  --tw-bg-opacity: 1;
+  background-color: rgb(8 14 58 / var(--tw-bg-opacity));
 }
 
 :is(.dark .dark\:text-aqua-400) {

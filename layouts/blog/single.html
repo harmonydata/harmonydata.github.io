@@ -1,13 +1,13 @@
 {{define "main"}}
 <div class="dark:bg-blue-950">
   <div class="max-w-7xl mx-auto px-6 lg:px-8 py-16 lg:py-24">
-    <div class="max-w-3xl mx-auto text-center space-y-4 lg:space-y-5">
+    <div class="max-w-4xl mx-auto text-center space-y-4 lg:space-y-5">
       {{ if .Params.categories }}
         <div class="gap-x-3 flex justify-center capitalize mb-4">
           {{ range .Params.categories }}<span class="px-4 py-2.5 rounded-full bg-primary-100 dark:bg-primary-900 text-blue-600 text-sm font-medium leading-none tracking-wider uppercase inline-block flex-shrink-0">{{ . }}</span>{{ end }}
         </div>
       {{ end }}    
-      <h1 class="text-center text-5xl sm:text-6xl font-bold tracking-tight text-primary-950 dark:text-white">{{ .Title | markdownify }}</h1>
+      <h1 class="text-center text-5xl sm:text-6xl font-bold font-heading tracking-tight text-blue-950 dark:text-white">{{ .Title | markdownify }}</h1>
       <time datetime="2020-03-16" class="text-slate-600 dark:text-slate-300 flex justify-center mt-4 whitespace-nowrap">
         {{ dateFormat "Jan 02, 2006" .Date }}
       </time>
@@ -17,7 +17,7 @@
     </div>
     {{ with .Params.image }}
       <div class="flex justify-center mt-10 lg:mt-14 max-w-5xl mx-auto aspect-w-16 aspect-h-8">
-        {{ partial "components/image-responsive" (dict "src" (. | relLangURL) "alt" $.Title "class" "rounded-2xl w-full h-full object-center object-cover shadow-2xl" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
+        {{ partial "components/image-responsive" (dict "src" (. | relLangURL) "alt" $.Title "class" "rounded-xl w-full h-full object-center object-cover shadow-xl" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
       </div>
     {{ end }}
     <div class="mt-10 lg:mt-14 mx-auto prose sm:prose-lg dark:prose-invert prose-headings:text-blue-950 prose-headings:scroll-mt-32 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline">
@@ -25,7 +25,7 @@
     </div>
     <div class="mt-16 lg:mt-20 grid gap-5 grid-cols-1 md:grid-cols-2">
       {{ with .NextInSection }}
-        <a class="flex items-center dark:text-white hover:text-blue-600 dark:hover:text-blue-600 border border-primary-200 dark:border-primary-800 rounded-xl "
+        <a class="flex items-center text-blue-950 dark:text-white hover:text-blue-600 dark:hover:text-blue-600 border border-primary-200 dark:border-primary-800 rounded-lg "
           href="{{ .Permalink }}">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 ml-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
             <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
@@ -36,7 +36,7 @@
         <div></div>
       {{ end }}      
       {{ with .PrevInSection }}
-        <a class="flex items-center text-right dark:text-white hover:text-blue-600 dark:hover:text-blue-600 border border-primary-200 dark:border-primary-800 rounded-xl "
+        <a class="flex items-center text-blue-950 text-right dark:text-white hover:text-blue-600 dark:hover:text-blue-600 border border-primary-200 dark:border-primary-800 rounded-lg "
           href="{{ .Permalink }}">
           <span class="ml-4 mr-2 my-4 grow">{{ i18n "next" }}<br><strong class="text-lg sm:text-xl font-bold">{{ .Title }}</strong></span>
           <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 mr-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -46,7 +46,7 @@
       {{ end }}                        
     </div>
     <div class="mt-16 lg:mt-20 max-w-md lg:max-w-none mx-auto">
-      <h2 class="text-3xl sm:text-4xl font-bold tracking-tight dark:text-white text-center">{{ i18n "related_posts" }}</h2>
+      <h2 class="text-3xl sm:text-4xl font-bold font-heading text-blue-950 tracking-tight dark:text-white text-center">{{ i18n "related_posts" }}</h2>
       <div class="grid gap-8 lg:gap-10 lg:grid-cols-2 mt-10 lg:mt-14">
         {{ $posts := where site.RegularPages "Section" "blog" }}
         {{ range first 2 (where $posts "Title" "!=" .Title) }}

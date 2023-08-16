@@ -45,9 +45,23 @@
     @apply text-aqua-400;
     @apply underline;
   }
-  /* .dark .content a:hover {
-    @apply underline;
-  } */
+  .response span {
+    @apply py-2;
+    @apply px-3;
+    @apply rounded;
+    @apply inline-block;
+  }
+  .bot span {
+    @apply bg-slate-100;
+    @apply rounded;
+  }
+  .user span {
+    @apply bg-blue-900;
+    @apply text-white;
+  }
+  .user {
+    @apply text-right;
+  }
 }
 
 h1 strong, h2 strong, h3 strong, .text-highlight, .superheading strong {

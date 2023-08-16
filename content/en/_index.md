@@ -41,6 +41,7 @@ blocks:
   image: images/bg-video.jpg
   heading: "Use Harmony in the browser"
   subheading: You can use Harmony on the web.
+  youtube: CqAsrY74zNM
   button:
     text: Try Harmony App
     url: "/app/"

@@ -67,8 +67,10 @@
           </div>
           <script src="https://www.youtube.com/iframe_api"></script>
         {{ else }}
-          {{ $plainHeading := .heading | markdownify | plainify }}
-          {{ partial "components/image-responsive" (dict "src" (.image | absURL) "alt" $plainHeading "class" "rounded-lg" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+          {{ if .image }}
+            {{ $plainHeading := .heading | markdownify | plainify }}
+            {{ partial "components/image-responsive" (dict "src" (.image | absURL) "alt" $plainHeading "class" "rounded-lg" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+          {{ end }}
         {{ end }}
         
         {{ with .code }}

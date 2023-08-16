@@ -48,6 +48,16 @@ buttons:
   size: large #options: small | large | leave blank for medium
 ```
 
+## Gradient text
+Headings and superheadings can be set to gradient text using `**text**`, example:
+```yaml
+- block: video
+  superheading: "**Harmony**"
+  heading: "Introduction to **Harmony**"
+
+```
+
+
 ## Docs menu atem to be added
 ```
 [[languages.en.menu.main]]

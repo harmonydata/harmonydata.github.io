@@ -30,6 +30,7 @@ blocks:
 
 - block: video
   padding: top
+  superheading: "**Harmony**"
   heading: Introduction to Harmony
   subheading: Data harmonisation with natural language processing
   youtube: cEZppTBj1NI

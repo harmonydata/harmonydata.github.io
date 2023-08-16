@@ -58,7 +58,7 @@ Headings and superheadings can be set to gradient text using `**text**`, example
 ```
 
 
-## Docs menu atem to be added
+## Docs menu item to be added
 ```
 [[languages.en.menu.main]]
 name = "Docs"

@@ -12,10 +12,10 @@
         <div class="w-1/2 sm:w-1/3 md:w-1/4 lg:w-1/5 p-8">
           {{ if .url }}
             <a href="{{ .url }}"{{ if in .url "http" }} target="_blank" rel="noopener noreferrer"{{ end }}>
-              {{ partial "components/image-responsive" (dict "src" (.image | absURL) "alt" .alt "class" "mx-auto" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+              {{ partial "components/image-responsive" (dict "src" (.image | relURL) "alt" .alt "class" "mx-auto" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
             </a>
           {{ else }}
-            {{ partial "components/image-responsive" (dict "src" (.image | absURL) "alt" .alt "class" "mx-auto" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+            {{ partial "components/image-responsive" (dict "src" (.image | relURL) "alt" .alt "class" "mx-auto" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
           {{ end }}
         </div>
       {{ end }}

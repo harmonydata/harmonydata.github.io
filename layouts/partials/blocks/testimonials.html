@@ -15,7 +15,7 @@
           <figcaption class="mt-7 flex items-center space-x-3">
             {{ with .author.image }}
               <div class="flex-none">
-                {{ partial "components/image-responsive" (dict "src" (. | relLangURL) "alt" $.author.name "class" "rounded-full w-12" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 320 640 1024 2048)) }}
+                {{ partial "components/image-responsive" (dict "src" (. | absURL) "alt" $.author.name "class" "rounded-full w-12" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 320 640 1024 2048)) }}
               </div>
             {{ end }}
             <p class="text-primary-950 dark:text-white font-medium">{{ .author.name }}

@@ -1,7 +1,7 @@
 <div class="relative p-4 sm:p-6 lg:p-8 border border-primary-200 dark:border-primary-800 rounded-lg hover:shadow-xl">
   {{ with .Params.image }}
     <div class="aspect-w-16 aspect-h-9 lg:aspect-h-10 rounded overflow-hidden block mb-7">
-      {{ partial "components/image-responsive" (dict "src" (. | relLangURL) "alt" $.Title "class" "w-full h-full object-center object-cover" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
+      {{ partial "components/image-responsive" (dict "src" (. | absURL) "alt" $.Title "class" "w-full h-full object-center object-cover" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
     </div>
   {{ end }}
   <div class="flex- items-start justify-between hidden">

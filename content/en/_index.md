@@ -9,11 +9,8 @@ navbar:
 blocks:
 - block: hero
   layout: left
-  # padding: top #applies only top padding not bottom
   mode: dark #dark mode, leave blank for light mode
   overlay: true #used together with navbar overlay: true option to show background image behind the navbar
-  # layout: left
-  # image: images/startup-launch-2.svg
   background_image: images/globe-min.svg
   heading: "Harmonise questionnaire items with **Harmony**."
   subheading: Harmony is a tool for retrospective harmonisation of questionnaire items.
@@ -25,7 +22,7 @@ blocks:
   buttons:
   - text: Try Harmony Now!
     url: "/app/"
-    style: gradient-1 #primary secondary muted
+    style: gradient
     size: large
 
 - block: video
@@ -46,7 +43,7 @@ blocks:
     text: Try Harmony App
     url: "/app/"
     size: large
-    style: primary
+    style: secondary
 
 - block: feature-2
   padding: top

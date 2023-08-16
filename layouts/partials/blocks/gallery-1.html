@@ -23,7 +23,7 @@
           {{ else }}
             <div class="mx-2.5 xl:mx-3.5 shadow-xl dark:shadow-none rounded-xl">
           {{ end }}
-            {{ partial "components/image-responsive" (dict "src" (.image | relLangURL) "alt" .alt "class" "hover:scale-110 hover:shadow-xl duration-300 transition-all rounded-xl" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+            {{ partial "components/image-responsive" (dict "src" (.image | absURL) "alt" .alt "class" "hover:scale-110 hover:shadow-xl duration-300 transition-all rounded-xl" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
           {{ with .url }}
             </a>
           {{ else }}
@@ -38,7 +38,7 @@
           {{ else }}
             <div class="mx-2.5 xl:mx-3.5 shadow-xl dark:shadow-none rounded-xl">
           {{ end }}
-            {{ partial "components/image-responsive" (dict "src" (.image | relLangURL) "alt" .alt "class" "hover:scale-110 hover:shadow-xl duration-300 transition-all rounded-xl" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+            {{ partial "components/image-responsive" (dict "src" (.image | absURL) "alt" .alt "class" "hover:scale-110 hover:shadow-xl duration-300 transition-all rounded-xl" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
           {{ with .url }}
             </a>
           {{ else }}

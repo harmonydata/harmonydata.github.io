@@ -2228,11 +2228,6 @@ select {
   border-color: transparent;
 }
 
-.bg-aqua-400 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(13 229 178 / var(--tw-bg-opacity));
-}
-
 .bg-black {
   --tw-bg-opacity: 1;
   background-color: rgb(0 0 0 / var(--tw-bg-opacity));
@@ -3055,7 +3050,7 @@ h1 strong, h2 strong, h3 strong, .text-highlight, .superheading strong {
   --tw-gradient-to: #2B45ED var(--tw-gradient-to-position);
 }
 
-.button-gradient-1 {
+.button-gradient {
   background-image: linear-gradient(to right, var(--tw-gradient-stops));
   --tw-bg-opacity: 1;
   background-color: rgb(13 229 178 / var(--tw-bg-opacity));
@@ -3067,11 +3062,11 @@ h1 strong, h2 strong, h3 strong, .text-highlight, .superheading strong {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
-.button-gradient-1:hover {
+.button-gradient:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(7 212 163 / var(--tw-bg-opacity));
-  --tw-gradient-from: #07d4a3 var(--tw-gradient-from-position);
-  --tw-gradient-to: rgb(7 212 163 / 0) var(--tw-gradient-to-position);
+  background-color: rgb(4 218 169 / var(--tw-bg-opacity));
+  --tw-gradient-from: #04daa9 var(--tw-gradient-from-position);
+  --tw-gradient-to: rgb(4 218 169 / 0) var(--tw-gradient-to-position);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
   --tw-gradient-to: #1e36d6 var(--tw-gradient-to-position);
 }
@@ -3086,9 +3081,9 @@ h1 strong, h2 strong, h3 strong, .text-highlight, .superheading strong {
 
 :is(.dark .button-muted) {
   --tw-bg-opacity: 1;
-  background-color: rgb(33 31 73 / var(--tw-bg-opacity));
+  background-color: rgb(30 58 138 / var(--tw-bg-opacity));
   --tw-border-opacity: 1;
-  border-color: rgb(33 31 73 / var(--tw-border-opacity));
+  border-color: rgb(30 58 138 / var(--tw-border-opacity));
 }
 
 .button-muted {
@@ -3122,11 +3117,11 @@ h1 strong, h2 strong, h3 strong, .text-highlight, .superheading strong {
 
 .button-primary:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(15 24 84 / var(--tw-bg-opacity));
+  background-color: rgb(4 218 169 / var(--tw-bg-opacity));
   --tw-border-opacity: 1;
-  border-color: rgb(15 24 84 / var(--tw-border-opacity));
+  border-color: rgb(4 218 169 / var(--tw-border-opacity));
   --tw-text-opacity: 1;
-  color: rgb(13 229 178 / var(--tw-text-opacity));
+  color: rgb(15 24 84 / var(--tw-text-opacity));
 }
 
 .button-secondary {
@@ -3134,48 +3129,30 @@ h1 strong, h2 strong, h3 strong, .text-highlight, .superheading strong {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
   --tw-bg-opacity: 1;
-  background-color: rgb(21 19 50 / var(--tw-bg-opacity));
+  background-color: rgb(43 69 237 / var(--tw-bg-opacity));
 }
 
 .button-secondary:hover {
-  background-color: transparent;
+  --tw-bg-opacity: 1;
+  background-color: rgb(30 54 214 / var(--tw-bg-opacity));
 }
 
 .button-secondary {
   --tw-border-opacity: 1;
-  border-color: rgb(21 19 50 / var(--tw-border-opacity));
+  border-color: rgb(30 54 214 / var(--tw-border-opacity));
 }
 
 .button-secondary:hover {
-  --tw-text-opacity: 1;
-  color: rgb(21 19 50 / var(--tw-text-opacity));
-}
-
-:is(.dark .button-secondary) {
-  --tw-text-opacity: 1;
-  color: rgb(21 19 50 / var(--tw-text-opacity));
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
-}
-
-:is(.dark .button-secondary:hover) {
-  background-color: transparent;
-}
-
-:is(.dark .button-secondary) {
-  --tw-border-opacity: 1;
-  border-color: rgb(255 255 255 / var(--tw-border-opacity));
-}
-
-:is(.dark .button-secondary:hover) {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
 .button-outline {
   border-width: 1px;
+  --tw-text-opacity: 1;
+  color: rgb(15 24 84 / var(--tw-text-opacity));
   --tw-border-opacity: 1;
-  border-color: rgb(8 6 39 / var(--tw-border-opacity));
+  border-color: rgb(15 24 84 / var(--tw-border-opacity));
 }
 
 .button-outline:hover {
@@ -3196,7 +3173,7 @@ h1 strong, h2 strong, h3 strong, .text-highlight, .superheading strong {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
   --tw-text-opacity: 1;
-  color: rgb(8 6 39 / var(--tw-text-opacity));
+  color: rgb(15 24 84 / var(--tw-text-opacity));
 }
 
 .copy-code-button {
@@ -3534,6 +3511,11 @@ h1 strong, h2 strong, h3 strong, .text-highlight, .superheading strong {
 .hover\:text-blue-600:hover {
   --tw-text-opacity: 1;
   color: rgb(43 69 237 / var(--tw-text-opacity));
+}
+
+.hover\:text-blue-700:hover {
+  --tw-text-opacity: 1;
+  color: rgb(30 54 214 / var(--tw-text-opacity));
 }
 
 .hover\:text-primary-600:hover {

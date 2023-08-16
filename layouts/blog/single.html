@@ -17,7 +17,7 @@
     </div>
     {{ with .Params.image }}
       <div class="flex justify-center mt-10 lg:mt-14 max-w-5xl mx-auto aspect-w-16 aspect-h-8">
-        {{ partial "components/image-responsive" (dict "src" (. | relLangURL) "alt" $.Title "class" "rounded-xl w-full h-full object-center object-cover shadow-xl" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
+        {{ partial "components/image-responsive" (dict "src" (. | absURL) "alt" $.Title "class" "rounded-xl w-full h-full object-center object-cover shadow-xl" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 1024 2048)) }}
       </div>
     {{ end }}
     <div class="mt-10 lg:mt-14 mx-auto prose sm:prose-lg dark:prose-invert prose-headings:text-blue-950 prose-headings:scroll-mt-32 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline">

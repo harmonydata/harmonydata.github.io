@@ -38,6 +38,15 @@ markup:
 ```
 All available styles can be found: [https://xyproto.github.io/splash/docs/](https://xyproto.github.io/splash/docs/).
 
+## Buttons
+```yaml
+buttons:
+- text: Try Harmony Now!
+  url: "/app/"
+.button-outline {
+  style: gradient #options: gradient | outline | muted | primary | secondary
+  size: large #options: small | large | leave blank for medium
+```
 
 ## Docs menu atem to be added
 ```

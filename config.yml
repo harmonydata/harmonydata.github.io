@@ -74,6 +74,11 @@ languages:
         parent: About
         weight: 50
 
+      navbar_cta:
+      - name: Try Harmony
+        url: "/app/"
+        pre: outline
+
       social:
       - name: Facebook
         url: https://www.facebook.com/people/Harmony-Project/100086772661697/
@@ -151,10 +156,10 @@ languages:
     weight: 2
     menu:
       navbar:
-      - name: Início
+      - name: Inicio
         weight: 10
         url: /
-      - name: Notícias
+      - name: Noticias
         weight: 20
         url: '/blog/'
       - name: Videos
@@ -177,7 +182,7 @@ languages:
         url: 'https://harmonydata.ac.uk/app/'
         parent: About
         weight: 30
-      - name: Princípios FAIR
+      - name: Principios FAIR
         url: /fair-data/
         parent: About
         weight: 40
@@ -185,6 +190,79 @@ languages:
         url: /projects-partners/
         parent: About
         weight: 50
+
+      navbar_cta:
+      - name: Try Harmony
+        url: "/app/"
+        pre: outline
+
+      social:
+      - name: Facebook
+        url: https://www.facebook.com/people/Harmony-Project/100086772661697/
+        pre: facebook
+        weight: 10
+      - name: Instagram
+        url: https://www.instagram.com/harmonydata/
+        pre: instagram
+        weight: 20
+      - name: Twitter
+        url: https://twitter.com/harmony_data
+        pre: twitter
+        weight: 30
+      - name: YouTube
+        url: https://www.youtube.com/channel/UCraLlfBr0jXwap41oQ763OQ
+        pre: youtube
+        weight: 40
+      - name: Linkedin
+        url: https://www.linkedin.com/company/harmonydata/about/?viewAsMember=true
+        pre: linkedin
+        weight: 50
+    
+      footer:
+      - name: About us
+        weight: 20    
+      - name: Our team
+        url: "/our-team/"
+        parent: About us
+        weight: 10
+      - name: Contact
+        url: "/contact/"
+        parent: About us
+        weight: 20
+
+      - name: Resources
+        weight: 30    
+      - name: Blog
+        url: "/blog/"
+        parent: Resources
+        weight: 10
+      - name: Videos
+        url: "/videos/"
+        parent: Resources
+        weight: 20
+      - name: FAQ
+        url: "/frequently-asked-questions/"
+        parent: Resources
+        weight: 30
+        
+      - name: Useful links
+        weight: 40    
+      - name: Fair data
+        url: /fair-data/
+        parent: Useful links
+        weight: 10
+      - name: Projects & partners
+        url: /projects-partners/
+        parent: Useful links
+        weight: 20
+
+      - name: Tools
+        weight: 50
+      - name: Harmony
+        url: "/app/"
+        parent: Tools
+        weight: 10
+        
 
 params:
   logo: "/images/logo.svg"

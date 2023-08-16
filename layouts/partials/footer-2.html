@@ -20,7 +20,7 @@
               <ul class="space-y-4">
                 {{ range .Children }}
                   <li>
-                    <a href="{{ .URL }}" class="text-sm text-primary-950 dark:text-slate-100 hover:text-blue-600 dark:hover:text-aqua-400"> {{ .Name }} </a>
+                    <a href="{{ .URL | relLangURL }}" class="text-sm text-primary-950 dark:text-slate-100 hover:text-blue-600 dark:hover:text-aqua-400"> {{ .Name }} </a>
                   </li>
                 {{ end }}
               </ul>

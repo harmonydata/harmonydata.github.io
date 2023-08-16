@@ -14,7 +14,7 @@
             {{ if .image }}
               <div class="flex justify-center mb-8">
                 <div class="rounded-xl overflow-hidden">
-                  {{ partial "components/image-responsive" (dict "src" (.image | relLangURL) "alt" .alt "class" "rounded-xl" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+                  {{ partial "components/image-responsive" (dict "src" (.image | absURL) "alt" .alt "class" "rounded-xl" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
                 </div>
               </div>
             {{ end }}

@@ -1,6 +1,6 @@
 <section class="relative overflow-hidden bg-none bg-contain bg-no-repeat bg-right {{ if eq .mode "muted" }}bg-primary-50{{ else if eq .mode "dark-muted" }}dark bg-primary-900{{ else if eq .mode "dark" }}dark bg-blue-950{{ end }}{{ if .overlay }} -mt-24 lg:-mt-28{{ end }}">
   {{ with .background_image }}
-    {{ partial "components/image-responsive" (dict "src" (. | relLangURL) "loading" "eager" "alt" $.heading "class" "absolute right-0 top-0 bottom-0 h-full" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+    {{ partial "components/image-responsive" (dict "src" (. | absURL) "loading" "eager" "alt" $.heading "class" "absolute right-0 top-0 bottom-0 h-full" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
     <div class="absolute inset-0 bg-gradient-to-br from-blue-950 to-blue-950/75 xl:from-blue-950 xl:via-blue-950/90 xl:to-blue-950/50"></div>
   {{ end }}
   <div class="relative px-6 lg:px-8 
@@ -79,7 +79,7 @@
               {{ if eq .padding "top" }}
                 {{ $rounded = "rounded-t-3xl" }}
               {{ end }}
-              {{ partial "components/image-responsive" (dict "src" (.image | relLangURL) "loading" "eager" "alt" .alt "class" $rounded "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+              {{ partial "components/image-responsive" (dict "src" (.image | absURL) "loading" "eager" "alt" .alt "class" $rounded "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
             </div>
           {{ end }}
         </div>

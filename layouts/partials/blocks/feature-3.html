@@ -34,7 +34,7 @@
       <div class="mt-12 sm:mt-16 lg:mt-0 flex items-start{{ if eq .align "right" }} justify-end{{ end }}">
         {{ range $i, $p := .cards }}
           <div x-show="tab == {{ $i }}" x-transition>
-            {{ partial "components/image-responsive" (dict "src" (.image | relLangURL) "alt" .heading "class" "rounded-2xl max-w-xl sm:max-w-5xl" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+            {{ partial "components/image-responsive" (dict "src" (.image | absURL) "alt" .heading "class" "rounded-2xl max-w-xl sm:max-w-5xl" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
           </div>
         {{ end }}
       </div>

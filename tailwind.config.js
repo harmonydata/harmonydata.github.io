@@ -6,15 +6,15 @@ module.exports = {
     extend: {
       colors: {
         primary: {
-          50: '#F8F9FF',  // backgrounds muted light
-          100: '#eff0ff', // labels background light
-          200: '#ECEFF8', // borders light
-          500: '#575dff', // primary ascent color text and backgrounds
+          50: '#F8F9FF',  
+          100: '#eff0ff', 
+          200: '#ECEFF8', 
+          500: '#575dff', 
           600: '#642EFF',
-          700: '#2b33ff', // label text light
-          800: '#211F49', // borders dark
-          900: '#151332', // backgrounds muted dark
-          950: '#080627', // backgrounds dark
+          700: '#2b33ff', 
+          800: '#211F49', 
+          900: '#151332', 
+          950: '#080627', 
         },
         blue: {
           600: '#2B45ED',
@@ -24,7 +24,7 @@ module.exports = {
         },
         aqua: {
           400: '#0DE5B2',
-          500: '#07d4a3',
+          500: '#04daa9',
         },
       },
       fontFamily: {

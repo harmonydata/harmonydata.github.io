@@ -1,17 +1,22 @@
-<div id="chatWindow" class="bg-white shadow-lg rounded border" style="display: none">
-  <div id="chat">
-    <div id="messages" class="p-3 pt-1 border-bottom text-sm">
-      <div id="bot" class="bot response"><span>Hello! How can I assist you today?</span></div>
-    </div>
-    <input id="input" type="text" placeholder="Write something..." autocomplete="off" autofocus="true" 
-    class="w-100 border-0 p-3">
-  </div>  
+<div class="fixed right-5 bottom-8" x-data="{ dropdown: false }">
+  <div x-show="dropdown" x-transition:enter="transition ease-out duration-200" x-transition:enter-start="opacity-0 translate-y-1" x-transition:enter-end="opacity-100 translate-y-0" x-transition:leave="transition ease-in duration-150" x-transition:leave-start="opacity-100 translate-y-0" x-transition:leave-end="opacity-0 translate-y-1" @click.outside="dropdown = false" 
+    class="absolute bottom-16 right-0 z-10 mb-5 w-screen max-w-[20rem] bg-white shadow-lg rounded-lg border border-slate-200" 
+    style="display: none;">
+    <div id="chat">
+      <div id="messages" class="overflow-y-scroll h-80 p-4 border-b border-slate-200 text-sm text-slate-700 leading-relaxed space-y-5">
+        <div id="bot" class="bot response"><span>Hello! How can I assist you today?</span></div>
+      </div>
+      <input id="input" type="text" placeholder="Write something..." autocomplete="off" autofocus="true" 
+      class="w-full border-0 focus:ring-0 text-slate-800 placeholder:text-slate-600 py-4 px-4">
+    </div>  
+  </div>
+  <button @click.prevent="dropdown = ! dropdown" type="button" aria-label="Chat" class="text-center tracking-wide p-4 transition whitespace-nowrap
+  text-white bg-blue-600 border border-blue-600 hover:opacity-90 rounded-full font-semibold shadow-lg">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M7.5 8.25h9m-9 3H12m-9.75 1.51c0 1.6 1.123 2.994 2.707 3.227 1.129.166 2.27.293 3.423.379.35.026.67.21.865.501L12 21l2.755-4.133a1.14 1.14 0 01.865-.501 48.172 48.172 0 003.423-.379c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0012 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018z" />
+    </svg>
+  </button>
 </div>
-<button id="toggleChat" type="button" aria-label="Chat" class="shadow-lg">
-  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8">
-    <path stroke-linecap="round" stroke-linejoin="round" d="M7.5 8.25h9m-9 3H12m-9.75 1.51c0 1.6 1.123 2.994 2.707 3.227 1.129.166 2.27.293 3.423.379.35.026.67.21.865.501L12 21l2.755-4.133a1.14 1.14 0 01.865-.501 48.172 48.172 0 003.423-.379c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0012 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018z" />
-  </svg>
-</button>
 
 <script>
   let conversation = [];
@@ -59,13 +64,4 @@
   function scrollToBottom(messagesContainer) {
       messagesContainer.scrollTop = messagesContainer.scrollHeight;
   }
-
-  document.getElementById("toggleChat").addEventListener("click", function() {
-  var contentDiv = document.getElementById("chatWindow");
-  if (contentDiv.style.display === "none") {
-    contentDiv.style.display = "block";
-  } else {
-    contentDiv.style.display = "none";
-  }
-});
 </script>

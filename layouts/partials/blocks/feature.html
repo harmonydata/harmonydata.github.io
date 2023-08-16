@@ -1,0 +1,23 @@
+{{ partial "block-open.html" . }}
+  <div class="max-w-2xl lg:max-w-7xl mx-auto">
+    <div class="items-center lg:grid lg:grid-flow-col-dense lg:grid-cols-2 lg:gap-16 xl:gap-28">
+      <div class="{{ if eq .align "right" }}lg:col-start-2{{ end }}">
+        <div class="space-y-10 lg:space-y-12">
+          <div class="space-y-4 lg:space-y-5">
+            {{ partial "components/superheading.html" . }}
+            {{ partial "components/h2.html" . }}
+            {{ partial "components/subheading.html" . }}
+          </div>
+          {{ partial "components/list.html" . }}
+          {{ with .button }}
+            {{ partial "components/button.html" . }}
+          {{ end }}
+        </div>
+      </div>
+      <div class="mt-12 sm:mt-16 lg:mt-0 flex items-start{{ if eq .align "right" }} justify-end{{ end }}">
+        {{ $plainHeading := .heading | markdownify | plainify }}
+        {{ partial "components/image-responsive" (dict "src" (.image | relURL) "alt" $plainHeading "class" "rounded-2xl max-w-5xl" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+      </div>
+    </div>
+  </div>
+{{ partial "block-close.html" . }} 

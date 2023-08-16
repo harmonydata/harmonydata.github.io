@@ -1,0 +1,49 @@
+{{ if eq .layout "left" }}
+  <div class="relative isolate overflow-hidden {{ if in .background "gradient" }}{{ .background }}{{ else if eq .background "muted" }}bg-blue-50{{ else if eq .background "dark" }}dark bg-black{{ else if eq .background "primary" }}dark bg-primary-600{{ end }}">
+    <div class="mx-auto max-w-7xl px-6 pb-24 pt-14 lg:flex lg:px-8 lg:py-28">
+      <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl lg:pt-8">
+        {{ partial "components/superheading.html" . }}
+        <h1 class="mt-10 text-6xl font-bold tracking-tight text-white sm:text-7xl xl:text-8xl">{{ .heading }}</h1>
+        {{ with .subheading }}
+          <p class="mt-6 text-lg leading-8 text-gray-300">{{ . }}</p>
+        {{ end }}
+        {{ with .buttons }}
+          <div class="flex flex-wrap gap-3 mt-10">
+            {{ range . }}
+              {{ partial "components/button.html" . }}
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+      <div class="mx-auto mt-16 flex max-w-2xl sm:mt-24 lg:ml-10 lg:mr-0 lg:mt-0 lg:max-w-none lg:flex-none xl:ml-32">
+        <div class="max-w-3xl flex-none sm:max-w-5xl lg:max-w-none">
+          {{ partial "components/image-responsive" (dict "src" (.image | relURL) "alt" .heading "class" "w-[76rem] rounded-md bg-white/5 shadow-2xl ring-1 ring-white/10" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+        </div>
+      </div>
+    </div>
+  </div>
+{{ else }}
+  <div class="{{ if in .background "gradient" }}{{ .background }}{{ else if eq .background "muted" }}bg-blue-50{{ else if eq .background "dark" }}dark bg-black{{ else if eq .background "primary" }}dark bg-primary-600{{ end }}">
+    <div class="relative isolate">
+      <div class="{{ if eq .padding "top" }}pt-24 sm:pt-32 lg:pt-32{{ else if eq .padding "bottom" }}pb-24 sm:pb-32 lg:pb-40{{ else if eq .padding "none" }}{{ else }}py-24 sm:py-32 lg:py-32 lg:pb-40{{ end }}">
+        <div class="mx-auto max-w-7xl px-6 lg:px-8">
+          <div class="mx-auto max-w-4xl text-center">
+            {{ partial "components/superheading.html" . }}
+            <h1 class="text-6xl font-bold tracking-tight text-white sm:text-7xl xl:text-8xl">{{ .heading }}</h1>
+            {{ with .subheading }}
+              <p class="mx-auto max-w-2xl mt-6 text-lg leading-8 text-gray-300">{{ . }}</p>
+            {{ end }}
+            {{ with .buttons }}
+              <div class="flex flex-wrap justify-center gap-3 mt-10">
+                {{ range . }}
+                  {{ partial "components/button.html" . }}
+                {{ end }}
+              </div>
+            {{ end }}
+            </div>
+          {{ partial "components/image-responsive" (dict "src" (.image | relURL) "alt" .heading "class" "mt-16 rounded-md bg-white/5 shadow-2xl ring-1 ring-white/10 sm:mt-24" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+        </div>
+      </div>
+    </div>
+  </div>
+{{ end }}

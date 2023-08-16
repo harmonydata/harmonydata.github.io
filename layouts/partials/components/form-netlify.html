@@ -1,0 +1,50 @@
+<div id="contact-success" class="bg-green-50 dark:bg-green-600 text-green-500 dark:text-white p-2.5 text-center mb-6 rounded-md hidden">{{ i18n "message_sent" }}</div>
+<div id="contact-error" class="bg-red-50 dark:bg-red-500 text-red-600 dark:text-white p-2.5 text-center mb-6 rounded-md hidden"></div>
+<form method="POST" name="job" class="grid grid-cols-1 gap-y-7" data-netlify="true">
+  <div>
+    <label for="name" class="block text-sm font-medium text-primary-950 dark:text-slate-300">{{ i18n "name" }}*</label>
+    <div class="mt-2">
+      <input type="text" name="name" id="name" autocomplete="name" class="dark:bg-primary-900 py-3 px-5 block w-full text-sm focus:ring-0 border-2 border-primary-100 dark:border-primary-800 dark:text-white focus:border-blue-600 dark:focus:border-blue-600 rounded-full placeholder-slate-400" required placeholder="{{ i18n "name" }}">
+    </div>
+  </div>
+  <div>
+    <label for="email" class="block text-sm font-medium text-primary-950 dark:text-slate-300">{{ i18n "email" }}*</label>
+    <div class="mt-2">
+      <input id="email" name="email" type="email" autocomplete="email" class="dark:bg-primary-900 py-3 px-5 block w-full text-sm focus:ring-0 border-2 border-primary-100 dark:border-primary-800 dark:text-white focus:border-blue-600 dark:focus:border-blue-600 rounded-full placeholder-slate-400" required placeholder="{{ i18n "email" }}">
+    </div>
+  </div>
+  <div>
+    <label for="phone" class="block text-sm font-medium text-primary-950 dark:text-slate-300">{{ i18n "phone" }}</label>
+    <div class="mt-2">
+      <input id="phone" name="phone" type="tel" autocomplete="tel" class="dark:bg-primary-900 py-3 px-5 block w-full text-sm focus:ring-0 border-2 border-primary-100 dark:border-primary-800 dark:text-white focus:border-blue-600 dark:focus:border-blue-600 rounded-full placeholder-slate-400" placeholder="{{ i18n "phone" }}">
+    </div>
+  </div>
+  <div>
+    <label for="message" class="block text-sm font-medium text-primary-950 dark:text-slate-300">{{ i18n "message" }}*</label>
+    <div class="mt-2">
+      <textarea id="message" name="message" rows="4" class="dark:bg-primary-900 py-3 px-5 block w-full text-sm focus:ring-0 border-2 border-primary-100 dark:border-primary-800 dark:text-white focus:border-blue-600 dark:focus:border-blue-600 rounded-2xl placeholder-slate-400" maxlength="2000" required placeholder="{{ i18n "message" }}"></textarea>
+    </div>
+  </div>
+  <div class="mt-3 flex justify-center">
+    <button type="submit" class="w-full inline-block py-2.5 sm:py-3 px-6 rounded-full font-medium text-base text-center focus:outline-none button-{{ with .button.style }}{{ . }}{{ else }}primary{{ end }}">{{ i18n "send_message" }}</button>
+  </div>
+</form>
+<script>
+  document.forms.job.addEventListener("submit", (event) => {
+    event.preventDefault();
+    const jobSuccess = document.getElementById("contact-success");
+    const jobError = document.getElementById("contact-error");
+    fetch("/", {
+      body: new FormData(event.target),
+      method: "POST",
+    })
+    .then(() => {
+      jobSuccess.classList.remove("hidden");
+      document.forms.job.reset();
+    })
+    .catch((error) => {
+      jobError.classList.remove("hidden");
+      jobError.innerHTML = `Error:: ${error}`;
+    });
+  });
+</script>

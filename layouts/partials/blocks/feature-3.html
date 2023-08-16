@@ -1,0 +1,44 @@
+{{ partial "block-open.html" . }}
+<div class="space-y-10 lg:space-y-14">
+  {{ if or .superheading .heading .subheading }}
+    <div class="max-w-3xl mx-auto text-center space-y-4 lg:space-y-5">
+      {{ partial "components/superheading.html" . }}
+      {{ partial "components/h2.html" . }}
+      {{ partial "components/subheading.html" . }}
+    </div>
+  {{ end }}
+  <div class="max-w-2xl lg:max-w-7xl mx-auto">
+    <div x-data="{ tab: 0 }" class="items-center lg:grid lg:grid-flow-col-dense lg:grid-cols-2 lg:gap-16 xl:gap-28">
+      <div class="{{ if eq .align "right" }}lg:col-start-2{{ end }}">
+        <div class="space-y-6 max-w-lg{{ if ne .align "right" }} ml-auto{{ end }}">
+          {{ range $i, $p := .cards }}
+            <a href="#" 
+            @click.prevent="tab = {{ $i }}" 
+            :class="{'shadow-2xl border-primary-100 dark:border-primary-800': tab === {{ $i }}, 'border-transparent': tab !== {{ $i }}}" 
+            class="flex gap-5 rounded-2xl shadow-gray-200 dark:shadow-none hover:shadow-gray-200 hover:shadow-2xl hover:border-primary-100 border border-transparent dark:border-primary-800 px-5 py-6{{- if eq $.mode "dark" }} bg-primary-900{{ else if eq $.mode "muted" }} bg-white{{ end -}}">
+            {{ if .icon }}
+              <div class="-mt-1">
+                {{ partial "components/icon.html" . }} 
+              </div>
+            {{ end }}
+              <div class="flex-1">
+                {{ partial "components/h3.html" . }}
+                <div class="hidden sm:block sm:mt-2">
+                  {{ partial "components/copy.html" . }}
+                </div>
+              </div>
+            </a>
+          {{ end }}
+        </div>
+      </div>
+      <div class="mt-12 sm:mt-16 lg:mt-0 flex items-start{{ if eq .align "right" }} justify-end{{ end }}">
+        {{ range $i, $p := .cards }}
+          <div x-show="tab == {{ $i }}" x-transition>
+            {{ partial "components/image-responsive" (dict "src" (.image | relURL) "alt" .heading "class" "rounded-2xl max-w-xl sm:max-w-5xl" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>
+{{ partial "block-close.html" . }} 

@@ -1,0 +1,48 @@
+{{ partial "block-open.html" . }}
+  <div class="space-y-10 lg:space-y-14">
+    {{ if or .superheading .heading .subheading }}
+      <div class="max-w-3xl mx-auto text-center space-y-4 md:space-y-5">
+        {{ partial "components/superheading.html" . }}
+        {{ partial "components/h2.html" . }}
+        {{ partial "components/subheading.html" . }}
+      </div>
+    {{ end }}
+    <div class="max-w-lg md:max-w-7xl mx-auto md:columns-2 lg:columns-3 gap-x-6 lg:gap-x-10">
+      {{ range .testimonials }}
+        <figure class="break-inside-avoid border border-primary-200 dark:border-primary-800 rounded-2xl p-6 sm:px-11 sm:py-9 mb-6 lg:mb-10{{- if eq $.mode "dark" }} bg-primary-900{{ else if eq $.mode "muted" }} bg-white{{ end -}}">
+          <p class="font-bold -mb-3 text-slate-300 dark:text-white text-6xl leading-none">“</p>
+          <blockquote class="text-lg xl:text-xl leading-relaxed xl:leading-relaxed text-primary-950 dark:text-white" cite="https://developer.mozilla.org/samples/html/figure.html">{{ .copy | markdownify }}</blockquote>
+          <figcaption class="mt-7 flex items-center space-x-3">
+            {{ with .author.image }}
+              <div class="flex-none">
+                {{ partial "components/image-responsive" (dict "src" (. | relURL) "alt" $.author.name "class" "rounded-full w-12" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 320 640 1024 2048)) }}
+              </div>
+            {{ end }}
+            <p class="text-primary-950 dark:text-white font-medium">{{ .author.name }}
+              {{ with .author.title }}
+                <br><span class="text-sm text-slate-600 dark:text-slate-300 font-normal">{{ . }}</span>
+              {{ end}}
+            </p>
+          </figcaption>
+          <div class="mt-8 text-blue-600 dark:text-white flex space-x-0.5">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-6 h-6">
+              <path fill-rule="evenodd" d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z" clip-rule="evenodd" />
+            </svg>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-6 h-6">
+              <path fill-rule="evenodd" d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z" clip-rule="evenodd" />
+            </svg>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-6 h-6">
+              <path fill-rule="evenodd" d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z" clip-rule="evenodd" />
+            </svg>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-6 h-6">
+              <path fill-rule="evenodd" d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z" clip-rule="evenodd" />
+            </svg>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-6 h-6">
+              <path fill-rule="evenodd" d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z" clip-rule="evenodd" />
+            </svg>                                                            
+          </div>
+        </figure>
+      {{ end }}
+    </div>
+  </div>
+{{ partial "block-close.html" . }}

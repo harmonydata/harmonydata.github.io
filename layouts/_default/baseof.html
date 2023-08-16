@@ -1,20 +1,19 @@
 <!DOCTYPE html>
-<html lang="{{ .Language.Lang }}">
-  {{ partial "head" .}}
-  <body{{ if (not .IsHome) }} class="inner-page"{{ end }}>
-    <!-- ======= Header ======= -->
-    {{ partial "header" . }}
-    <!-- End Header -->
-
-    <main id="main">
-      {{ block "main" . }}
-      <!-- The part of the page that begins to differ between templates -->
-      {{ end }}
-    </main>
-    <!-- End #main -->
+<html lang="{{ .Language.Lang }}" class="scroll-smooth">
+<head>
+    {{ partial "head.html" . }}
+</head>
+<body class="antialiased">
+    {{ if .Site.Params.banner.text }}
+        {{ partialCached "banner.html" . }}
+    {{ end }}
+    {{ partial "navbar.html" . }}
+    {{ block "main" . }}{{ end }}
     {{ partial "chatbot.html" . }}
-    <!-- ======= Footer ======= -->
-    {{ partialCached "footer" .}}
-    <!-- End Footer -->
-  </body>
+    {{ $footer := (printf "%s%s%s" "" .Site.Params.footer.layout ".html" ) }}
+    {{ if templates.Exists (printf "%s%s" "partials/" $footer ) }}
+      {{ partialCached $footer . }}
+    {{ end }} 
+</body>
 </html>
+

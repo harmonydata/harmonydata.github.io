@@ -1,0 +1,16 @@
+{{ partial "block-open.html" . }}
+  <div class="space-y-10 lg:space-y-14">
+    {{ if or .superheading .heading .subheading }}
+      <div class="max-w-3xl mx-auto text-center space-y-4 lg:space-y-5">
+        {{ partial "components/superheading.html" . }}
+        {{ partial "components/h2.html" . }}
+        {{ partial "components/subheading.html" . }}
+      </div>
+    {{ end }}
+    <div class="max-w-xl mx-auto">
+      <div class="border border-primary-200 dark:border-primary-800 p-10 rounded-2xl">
+        {{ partial "components/form-netlify.html" . }}
+      </div>
+    </div>
+  </div>
+{{ partial "block-close.html" . }}

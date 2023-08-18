@@ -1,5 +1,5 @@
 ---
-title: Sign Up To Test Harmony
+title: Inscreva-se para testar o Harmony
 description: We are running workshops to test Harmony – see the signup link here.
 date: 2023-06-28
 image: /images/blog/Social-media-posts_LinkedIn_06.png

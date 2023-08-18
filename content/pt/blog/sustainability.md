@@ -1,5 +1,5 @@
 ---
-title: Making Harmony sustainable long-term
+title: Tornar o Harmony sustentável a longo prazo
 description: How we can make sure the Harmony project survives after the Wellcome Trust Mental Health Data Prize
 date:
 image: /images/blog/sustainability.png
@@ -15,7 +15,7 @@ Para a primeira iteração do Harmony, desenvolvemos o painel em [Plotly Dash](h
 
 Descobrimos que o Wordpress não é uma boa solução a longo prazo, pois precisa ser mantido e atualizado para reduzir o risco de violações de segurança. Também não seria compatível com nenhuma solução em que hospedaríamos na infraestrutura administrada pela Ulster University, devido a questões de segurança. Além disso, o Wordpress precisa de hospedagem paga para uma boa experiência do usuário, embora haja ofertas gratuitas disponíveis.
 
-Tomamos a decisão de migrar nosso blog do Wordpress para [Hugo](https://gohugo.io/) e registramos o domínio harmonitydata.ac.uk via Ulster University. Isso garante um domínio mais confiável, tornando-nos mais fáceis de encontrar e uma presença mais permanente na academia do Reino Unido. O site/blog Hugo é estático e gerenciado a partir de [um repositório Github](https://github.com/harmonydata/harmonydata.github.io) e hospedado em [Github Pages](https://pages.github.com /). Isso é gratuito e fácil de trabalhar - qualquer membro da equipe pode fazer upload de uma postagem de blog no formato Markdown no repositório Github e o site é reconstruído automaticamente.
+Tomamos a decisão de migrar nosso blog do Wordpress para [Hugo](https://gohugo.io/) e registramos o domínio Harmonydata.ac.uk via Ulster University. Isso garante um domínio mais confiável, tornando-nos mais fáceis de encontrar e uma presença mais permanente na academia do Reino Unido. O site/blog Hugo é estático e gerenciado a partir de [um repositório Github](https://github.com/harmonydata/harmonydata.github.io) e hospedado em [Github Pages](https://pages.github.com /). Isso é gratuito e fácil de trabalhar - qualquer membro da equipe pode fazer upload de uma postagem de blog no formato Markdown no repositório Github e o site é reconstruído automaticamente.
 
 Com relação à API do Harmony, inicialmente rodamos a ferramenta no Microsoft Azure. Isso custava cerca de £ 100 a £ 200 por mês, já que a ferramenta precisa executar um LLM (large language model) em segundo plano.
 
@@ -28,11 +28,11 @@ Exploramos várias soluções que podem reduzir custos e optamos por usar os ser
 
 # Código
 
-Desenvolvemos nosso software de acordo com as melhores práticas de projetos open source. Nosso repositório Github está disponível publicamente e também publicamos nosso código na Open Science Foundation (OSF) aqui: https://osf.io/bct6k/.
+Desenvolvemos nosso software de acordo com as melhores práticas de projetos de código aberto. Nosso repositório Github está disponível publicamente e também publicamos nosso código na Open Science Foundation (OSF) aqui: https://osf.io/bct6k/.
 
 Realizamos uma avaliação de sustentabilidade com o [Instituto de Sustentabilidade de Software] (https://software.ac.uk) no início da Fase de Prototipagem do Prêmio Wellcome Data. Isso destacou alguns pontos fracos de nossa estratégia de sustentabilidade de software, como a falta de informações claras sobre licenciamento, como contribuir ou instalar o código. Para corrigir esses problemas, atualizamos completamente o blog com as informações necessárias e garantimos que nossa licença de software (MIT) seja destacada em todos os repositórios e código-fonte.
 
-Também garantimos o lançamento de nossa ferramenta em Python e R, duas das linguagens de programação mais usadas pelos pesquisadores. Nossa [documentação da API](https://raw.githubusercontent.com/harmonydata/harmonyapi/main/docs/API_reference.pdf) está disponível online para download em PDF e fornecemos uma série de vídeos em nosso canal do YouTube para ajudá-lo a começar a instalar e usar o Harmony.
+Também garantimos o lançamento de nossa ferramenta em Python e R, duas das linguagens de programação mais usadas pelos pesquisadores. Nossa [documentação da API](https://raw.githubusercontent.com/harmonydata/harmonyapi/main/docs/API_reference.pdf) está disponível on-line para download em PDF e fornecemos uma série de vídeos em nosso canal do YouTube para ajudá-lo a começar a instalar e usar o Harmony.
 
 Para completar, incluímos nosso relatório inicial de avaliação de sustentabilidade do software.ac.uk (o Instituto de Sustentabilidade de Software) abaixo.
 
@@ -72,7 +72,7 @@ Consulte nosso guia sobre suporte a software de código aberto (http://software.
 
 _Pergunta 5.2: Seu site e documentação descrevem qual suporte, se houver, você fornece aos usuários e desenvolvedores?_
 
-O nível de suporte que um usuário pode esperar receber costuma ser um elemento vital na escolha do software pelo usuário. Isso significa que o suporte que você fornece – seja uma resposta garantida em vinte e quatro horas ou uma possível resposta com base no melhor esforço – precisa estar claro em seu site e em sua documentação.
+O nível de suporte que um usuário pode esperar receber costuma ser um elemento vital na escolha do software pelo usuário. Isso significa que o suporte que você fornece – seja uma resposta garantida em vinte e quatro horas ou uma possível resposta com base no melhor esforço – precisa ser esclarecido em seu site e em sua documentação.
 
 Essas informações podem ajudar a gerenciar as expectativas dos usuários. Um usuário sempre desejará que seu problema seja resolvido o mais rápido possível e pode ficar descontente (e pode até deixar de ser um usuário) se esse não for o caso. Se você for claro e honesto sobre o nível de suporte que pode fornecer, é mais provável que mantenha seus usuários satisfeitos.
 
@@ -112,9 +112,9 @@ Consulte nosso guia sobre suporte a software de código aberto (http://software.
 
 _Pergunta 6.1: A arquitetura e o design do seu software são modulares?_
 
-Modularidade (https://en.wikipedia.org/wiki/Modular_programming) é uma abordagem fundamental de design de software centrada na criação de unidades funcionais independentes ou módulos que servem a propósitos específicos (por exemplo, arquivo I/O, autorização, registro, álgebra linear, dinâmica de fluidos computacional, correspondência de DNA ou análise de texto).
+Modularidade (https://en.wikipedia.org/wiki/Modular_programming) é uma abordagem fundamental de design de software centrada na criação de unidades funcionais independentes ou módulos que atendem a propósitos específicos (por exemplo, E/S de arquivo, autorização, registro, álgebra linear, dinâmica de fluidos computacional, correspondência de DNA ou análise de texto).
 
-A modularidade tem muitos benefícios. É mais fácil reutilizar módulos em outro software, em vez de reimplementar sua funcionalidade, economizando tempo e esforço. Cada módulo é independente, portanto pode ser alterado ou atualizado sem afetar os outros módulos no código e também pode ser testado quanto ao isolamento, o que é útil ao desenvolver como parte de uma equipe. Projetos modulares também são mais fáceis de entender.
+A modularidade tem muitos benefícios. É mais fácil reutilizar módulos em outro software, em vez de reimplementar sua funcionalidade, economizando tempo e esforço. Cada módulo é independente, portanto pode ser alterado ou atualizado sem afetar os outros módulos no código, e também pode ser testado quanto ao isolamento, o que é útil ao desenvolver como parte de uma equipe. Projetos modulares também são mais fáceis de entender.
 
 Dado que o código-fonte é a realização final de um projeto, ele também deve ser modular e estruturado de forma a tornar os módulos claros. As linguagens de programação suportam muitas maneiras pelas quais um design modular pode ser realizado, por exemplo, pacotes e classes em Java; pacotes, módulos e classes em Python; arquivos de cabeçalho, arquivos de código-fonte e tipos de dados em C; namespaces e classes em C++; ou módulos e classes em Fortran.
 
@@ -158,7 +158,7 @@ Consulte nosso guia sobre como testar seu software
 
 _Pergunta 12.3: Você usa integração contínua, executando testes automaticamente sempre que alterações são feitas em seu código-fonte?_
 
-Ter um sistema automatizado de compilação e teste é uma base sólida para executar testes automaticamente na versão mais recente do código-fonte sempre que forem feitas alterações no código no repositório de código-fonte. Isso significa que sua equipe (e outros, se você publicar os resultados do teste de forma mais ampla) obterá um feedback muito rápido sobre o impacto das mudanças. Os servidores de integração contínua podem executar tarefas automaticamente para criar software e executar testes sempre que as alterações forem confirmadas em um repositório de código-fonte. Por exemplo, Jenkins (http://jenkins-ci.org) é um servidor de integração contínua que pode acionar trabalhos em resposta a mudanças no Git, Mercurial, Subversion e CVS. Travis CI (http://travis-ci.org) é um servidor de integração contínua hospedado que pode acionar tarefas em resposta a alterações nos repositórios Git hospedados no GitHub (https://github.com).
+Ter um sistema de compilação e teste automatizado é uma base sólida para executar testes automaticamente na versão mais recente do código-fonte sempre que forem feitas alterações no código no repositório de código-fonte. Isso significa que sua equipe (e outros, se você publicar os resultados do teste de forma mais ampla) obterá um feedback muito rápido sobre o impacto das mudanças. Os servidores de integração contínua podem executar tarefas automaticamente para criar software e executar testes sempre que as alterações forem confirmadas em um repositório de código-fonte. Por exemplo, Jenkins (http://jenkins-ci.org) é um servidor de integração contínua que pode acionar trabalhos em resposta a mudanças no Git, Mercurial, Subversion e CVS. Travis CI (http://travis-ci.org) é um servidor de integração contínua hospedado que pode acionar tarefas em resposta a alterações nos repositórios Git hospedados no GitHub (https://github.com).
 
 Consulte nossos guias sobre como a integração contínua pode ajudá-lo a testar e liberar regularmente seu software
 
@@ -196,7 +196,7 @@ Uma ótima maneira de mostrar seu software é escrever estudos de caso sobre as 
 
 _Pergunta 13.8: Se o seu software é desenvolvido como um projeto de código aberto (e não apenas um projeto de desenvolvimento de software de código aberto), você possui um modelo de governança?_
 
-Um modelo de governança define como um projeto de código aberto é executado. Descreve as funções dentro do projeto e sua comunidade e as responsabilidades associadas a cada função; como o projeto apóia sua comunidade; que contribuições podem ser feitas ao projeto, como são feitas, quaisquer condições às quais as contribuições devem obedecer, quem retém os direitos autorais das contribuições e o processo seguido pelo projeto ao aceitar a contribuição; e, o processo de tomada de decisão dentro do projeto.
+Um modelo de governança define como um projeto de código aberto é executado. Descreve as funções dentro do projeto e sua comunidade e as responsabilidades associadas a cada função; como o projeto apóia sua comunidade; quais contribuições podem ser feitas ao projeto, como são feitas, quaisquer condições às quais as contribuições devem obedecer, quem retém os direitos autorais das contribuições e o processo seguido pelo projeto ao aceitar a contribuição; e, o processo de tomada de decisão dentro do projeto.
 
 Embora sejam projetados para projetos de código aberto, muitas de suas preocupações são relevantes para qualquer projeto de software.
 
@@ -208,15 +208,15 @@ Uma política de contribuições fornece informações aos usuários sobre o que
 
 _Pergunta 14.3: A política de suas contribuições está disponível publicamente?_
 
-Os usuários não podem contribuir se não souberem que podem contribuir. A publicação de sua política de contribuições fornece informações aos usuários sobre o que eles podem contribuir, como podem contribuir, quaisquer requisitos que devem atender e o que acontece com suas contribuições depois de enviadas. Ele também informa aos usuários quem possui os direitos autorais de sua contribuição.
+Os usuários não podem contribuir se não souberem que podem contribuir. Publicar sua política de contribuições fornece informações aos usuários sobre o que eles podem contribuir, como podem contribuir, quaisquer requisitos que devem atender e o que acontece com suas contribuições depois de enviadas. Ele também informa aos usuários quem possui os direitos autorais de sua contribuição.
 
 Para obter informações sobre como gerenciar contribuições, consulte os Contratos de licença de colaborador do OSS Watch (http://oss-watch.ac.uk/resources/cla).
 
-_Pergunta 14.4: Os colaboradores mantêm os direitos autorais/IP de suas contribuições?_ Pedir aos colaboradores que assinem seus direitos autorais e propriedade intelectual para seu projeto ou organização pode impedir os usuários de contribuir. Com efeito, pede-lhes que abram mão de algo que pode ser novo e que pode representar um aspecto fundamental de sua pesquisa. Permitir que os contribuidores mantenham seus próprios direitos autorais e propriedade intelectual remove essa barreira, tornando a contribuição uma opção mais atraente. Também contribui para promover uma comunidade em torno de seu software – todos compartilhando seus resultados em vez de entregá-los a um grupo seleto. Para obter informações sobre como gerenciar contribuições, consulte os Contratos de licença de colaborador do OSS Watch (http://oss-watch.ac.uk/resources/cla).
+_Pergunta 14.4: Os contribuidores mantêm os direitos autorais/IP de suas contribuições?_ Pedir aos contribuidores que assinem seus direitos autorais e propriedade intelectual para seu projeto ou organização pode impedir os usuários de contribuir. Com efeito, pede-lhes que abram mão de algo que pode ser novo e que pode representar um aspecto fundamental de sua pesquisa. Permitir que os contribuidores mantenham seus próprios direitos autorais e propriedade intelectual remove essa barreira, tornando a contribuição uma opção mais atraente. Também contribui para promover uma comunidade em torno de seu software – todos compartilhando seus resultados em vez de entregá-los a um grupo seleto. Para obter informações sobre como gerenciar contribuições, consulte os Contratos de licença de colaborador do OSS Watch (http://oss-watch.ac.uk/resources/cla).
 
 _Pergunta 15.2: Cada um de seus arquivos de código-fonte inclui uma declaração de direitos autorais?_ É fácil distribuir arquivos de código-fonte e isso separa o código de qualquer declaração de direitos autorais que possa estar em seu site ou em sua documentação. Para cobrir essa eventualidade e remover qualquer ambigüidade sobre propriedade, é uma boa prática incluir uma declaração de direitos autorais com cada um de seus arquivos de código-fonte, como um comentário ou, se o idioma permitir, como uma string constante.
 
-_Pergunta 15.3: Seu site e documentação declaram claramente a licença de seu software?_ Os usuários precisam conhecer as condições de licenciamento de seu software e também de qualquer software de terceiros que o acompanha, pois isso pode impor restrições e obrigações sobre como eles podem usá-lo ou redistribuí-lo. Os desenvolvedores precisam saber as condições sob as quais podem alterar ou estender seu software e quaisquer restrições sobre suas modificações e extensões e sua redistribuição. Também é essencial que usuários e desenvolvedores conheçam o licenciamento de qualquer software de terceiros incluído em uma versão pelos mesmos motivos. Isso pode incluir: código-fonte de terceiros, copiado e usado como está; código-fonte de terceiros modificado, estendido ou corrigido; binários de terceiros (por exemplo, DLLs, arquivos JAR, etc.) enviados por você; e software de terceiros baixado e instalado pelos usuários.
+_Pergunta 15.3: Seu site e documentação declaram claramente a licença de seu software?_ Os usuários precisam conhecer as condições de licenciamento de seu software e também de qualquer software de terceiros que o acompanha, pois isso pode impor restrições e obrigações sobre como eles podem usá-lo ou redistribuí-lo. Os desenvolvedores precisam conhecer as condições sob as quais podem alterar ou estender seu software e quaisquer restrições sobre suas modificações e extensões e sua redistribuição. Também é essencial que usuários e desenvolvedores conheçam o licenciamento de qualquer software de terceiros incluído em uma versão pelos mesmos motivos. Isso pode incluir: código-fonte de terceiros, copiado e usado como está; código-fonte de terceiros modificado, estendido ou corrigido; binários de terceiros (por exemplo, DLLs, arquivos JAR, etc.) enviados por você; e software de terceiros baixado e instalado pelos usuários.
 
 Se os usuários puderem visualizar a licença do seu software em seu site, sem precisar fazer o download do software, os usuários em potencial poderão determinar rapidamente se a licença é adequada para a forma como pretendem usar o software.
 

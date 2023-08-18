@@ -1,5 +1,5 @@
 ---
-title: Harmonising Mental Health Data
+title: Harmonizando dados de saúde mental
 ---
 
 {{< image src="images/team.svg" alt="team" >}}

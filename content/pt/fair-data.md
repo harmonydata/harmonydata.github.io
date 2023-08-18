@@ -1,12 +1,12 @@
 ---
-title: Fair data
+title: dados justos
 ---
 
 ## Quais são os Princípios de Dados FAIR?
 
 Os [princípios FAIR](https://www.go-fair.org/fair-principles/) são um conjunto de diretrizes para tornar os dados mais **detectáveis**, **acessíveis**, **interoperáveis**, e **reutilizável**. Os princípios destinam-se a ajudar organizações e indivíduos a maximizar o valor de seus dados, tornando-os mais fáceis de encontrar, acessar e usar.
 
-Os princípios FAIR foram publicados na *Nature* em 2016 para abordar as dificuldades na reprodução de pesquisas científicas. Organizações financiadoras, editoras e agências governamentais estão cada vez mais começando a exigir planos de gerenciamento de dados para dados gerados em pesquisas. Isso significa que, se você encontrar um artigo científico e quiser reproduzir o estudo, poderá reproduzir a pesquisa com o mínimo de atrito.
+Os princípios FAIR foram publicados na *Nature* em 2016 para abordar as dificuldades na reprodução de pesquisas científicas. Organizações de financiamento, editores e agências governamentais estão cada vez mais começando a exigir planos de gerenciamento de dados para dados gerados em pesquisas. Isso significa que, se você encontrar um artigo científico e quiser reproduzir o estudo, poderá reproduzir a pesquisa com o mínimo de atrito.
 
 {{< image src="images/fair.png" alt="Fair" >}}
 
@@ -23,10 +23,10 @@ O projeto Harmony está registrado na [Open Science Foundation](https://osf.io/b
 
 ### Os dados do Harmony são acessíveis
 
-Como nosso conjunto de dados é de acesso público no repositório Github, uma vez que um usuário tenha clonado (baixado) o repositório e executado o shell script, todos os documentos estarão em seu computador.
+Como nosso conjunto de dados é de acesso público no repositório do Github, uma vez que um usuário tenha clonado (baixado) o repositório e executado o shell script, todos os documentos estarão em seu computador.
 
 - A1. (Meta)dados são recuperáveis por seu identificador usando um protocolo de comunicação padronizado – o Harmony pode ser baixado clonando o repositório Github. O script para baixar quaisquer questionários extras não fornecidos com o Harmony está incluído no repositório do Github.
-- A2. Os metadados são acessíveis, mesmo quando os dados não estão mais disponíveis - uma vez que o ID exclusivo do Harmony é o perfil OSF, se o Harmony fosse hospedado em outro lugar, o perfil OSF permaneceria com os metadados relevantes. A lista de protocolos para teste está incluída no script de shell. Todos os protocolos sem restrições de acesso aberto estão incluídos em [esta pasta](https://github.com/harmonydata/harmony/tree/main/front_end/hard_coded_questionnaires).
+- A2. Os metadados são acessíveis, mesmo quando os dados não estão mais disponíveis - uma vez que o ID exclusivo do Harmony é o perfil OSF, se o Harmony fosse hospedado em outro lugar, o perfil OSF permaneceria com os metadados relevantes. A lista de protocolos para teste está incluída no script de shell. Todos os protocolos sem restrições de acesso aberto estão incluídos [nesta pasta](https://github.com/harmonydata/harmony/tree/main/front_end/hard_coded_questionnaires).
 
 ### Os dados do Harmony são interoperáveis
 

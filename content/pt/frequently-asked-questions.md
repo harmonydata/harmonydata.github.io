@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions
+title: perguntas frequentes
 ---
 
 ## O que é harmonização?
@@ -12,7 +12,7 @@ Para um exemplo de uma ferramenta de harmonização pré-existente, consulte:
 
 McElroy, E., Villadsen, A., Patalay, P., Goodman, A., Richards, M., Northstone, K., Fearon, P., Tibber, M., Gondek, D., & Ploubidis, GB ( 2020). [Propriedades de harmonização e medição de medidas de saúde mental em seis coortes britânicas](https://www.closer.ac.uk/wp-content/uploads/210715-Harmonisation-measurement-properties-mental-health-measures-british-cohorts .pdf). Londres, Reino Unido: CLOSER.
 
-## O que a Harmonia faz?
+## O que O Harmony faz?
 
 O Harmony é uma ferramenta que ajuda os pesquisadores a automatizar o processo de harmonização usando [processamento de linguagem natural](https://fastdatascience.com/what-is-nlp/).
 
@@ -55,7 +55,7 @@ Se você carregar um questionário ou instrumento, o Harmony não o armazena ou 
 
 ## Como funciona o Harmonia?
 
-O Harmony passa o texto de cada item do questionário por uma rede neural chamada Sentence-BERT, para convertê-lo em um vetor. A similaridade de dois textos é então medida como a similaridade entre seus vetores. Dois textos idênticos têm uma semelhança de 100%, enquanto dois textos completamente diferentes têm uma semelhança de 0%. Você pode ler mais nesta [postagem técnica do blog](https://harmonydata.ac.uk/how-does-harmony-work/) e pode até baixar e executar o [código-fonte] do Harmony(https://github. com/harmonydata/harmony).
+O Harmony passa o texto de cada item do questionário por uma rede neural chamada Sentence-BERT, para convertê-lo em um vetor. A similaridade de dois textos é então medida como a similaridade entre seus vetores. Dois textos idênticos têm uma semelhança de 100%, enquanto dois textos completamente diferentes têm uma semelhança de 0%. Você pode ler mais nesta [postagem do blog técnico](https://harmonydata.ac.uk/how-does-harmony-work/) e pode até baixar e executar o [código-fonte] do Harmony(https://github. com/harmonydata/harmony).
 
 ## Quão confiável é o Harmony?
 
@@ -73,7 +73,7 @@ Neste momento, o Harmony não fornece valores-p. Harmonia combina vetores usando
 
 Os itens foram combinados no conteúdo usando a ferramenta online [Harmony](https://harmonydata.ac.uk/), que combina itens convertendo texto em vetores usando uma rede neural transformadora ([Reimers & Gurevych, 2019](https:/ /arxiv.org/abs/1908.10084)). O Harmony produz uma pontuação de cosseno variando de +/- 1, com valores mais próximos de 1 indicando uma correspondência mais próxima.
 
-## Como a Harmonia se compara à harmonização humana?
+## Como O Harmony se compara à harmonização humana?
 
 Se você se imaginar como um ser humano, tentando combinar os itens de um questionário, poderá concluir que “sinto-me deprimido” e “sinto-me triste” são semelhantes. Se você tivesse que colocá-los na superfície de uma esfera, poderia colocá-los próximos uns dos outros. Considerando que diferentes conceitos podem estar distantes uns dos outros.
 

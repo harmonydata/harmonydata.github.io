@@ -1,15 +1,15 @@
 ---
-title: How Far Can We Go With Harmony? Testing On Kufungisisa, A Cultural Concept Of Distress From Zimbabwe
+title: Até onde podemos ir com o Harmony? Testando em Kufungisisa, um conceito cultural de angústia do Zimbábue
 description: Many psychologists believe that mental illnesses can vary across cultures. In 1904, Emil Kraepelin initiated the field of comparative psychiatry after studying mental health disorders in Java....
 date:
 image: /images/blog/ccd.png
 ---
 
-Muitos psicólogos acreditam que as doenças mentais podem variar entre as culturas. Em 1904, Emil Kraepelin iniciou o campo da psiquiatria comparada depois de estudar os distúrbios de saúde mental em Java, escrevendo que _“Die Eigenart eines Volkes wird auch in der Häufigkeit und klinischen Gestaltung seiner Geistesstörungen zum Ausdruck kommen,”_ que significa “A peculiaridade de um povo [grupo étnico] também se expressará na frequência e na forma clínica de seus transtornos mentais.”[1]
+Muitos psicólogos acreditam que as doenças mentais podem variar entre as culturas. Em 1904, Emil Kraepelin iniciou o campo da psiquiatria comparada depois de estudar distúrbios de saúde mental em Java, escrevendo que _“Die Eigenart eines Volkes wird auch in der Häufigkeit und klinischen Gestaltung seiner Geistesstörungen zum Ausdruck kommen,”_ que significa “A peculiaridade de um povo [grupo étnico] também se expressará na frequência e na forma clínica de seus transtornos mentais.”[1]
 
 Mais de um século depois, o surgimento de projetos globais de pesquisa em saúde mental abriu uma série de debates sobre a aplicabilidade de categorias psiquiátricas a diferentes contextos culturais, como os da série Manual Diagnóstico e Estatístico de Transtornos Mentais (DSM)[2] .
 
-Em 2013, a publicação do DSM-5 incluiu pela primeira vez os Conceitos Culturais de Angústia (CCD), referindo-se a “maneiras pelas quais grupos culturais vivenciam, compreendem e comunicam sofrimento, problemas comportamentais ou pensamentos e emoções perturbadoras”[2].
+Em 2013, a publicação do DSM-5 incluiu pela primeira vez os Conceitos Culturais de Distress (CCD), referindo-se a “maneiras pelas quais grupos culturais experimentam, compreendem e comunicam sofrimento, problemas comportamentais ou pensamentos e emoções perturbadoras”[2].
 
 Exemplos de conceitos culturais de angústia incluem:
 
@@ -32,8 +32,8 @@ Se você é um usuário Python, pode acompanhar meu experimento neste Jupyter No
 
 Shona (_chiShona_) é falado no Zimbábue e pertence à família linguística bantu, que também inclui zulu, xhosa e suaíli.
 
-| Shona | inglês |
-| ----------- | -------------------------------------------------- -------------------------- |
+| Shona | Inglês |
+| ----------- | ---------------------------------------------------------------------------- |
 | fungos | pense |
 | kufunga | pensar |
 | ndofunga | eu acho |
@@ -54,7 +54,7 @@ Acima: o texto do questionário de sintomas Shona para detecção de depressão 
 
 Um problema que encontrei foi que o modelo do transformador não funcionava tanto para Shona quanto para o inglês (não é multilíngue, como o modelo de transformador padrão do Harmony). O Google traduziu GHQ-12 para Shona como uma medida temporária.
 
-Além disso, o modelo do transformador não operava como um transformador de sentença, mas sim como um transformador de nível de token, então meus vetores de sentença foram feitos pela média dos vetores de token em uma entrada.
+Além disso, o modelo do transformador não operava como um transformador de sentença, mas sim como um transformador de nível de token, então meus vetores de sentença foram feitos pela média de vetores de token em uma entrada.
 
 A saída do meu modelo está abaixo:
 

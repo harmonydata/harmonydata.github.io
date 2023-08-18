@@ -1,11 +1,11 @@
 ---
-title: Measuring The Performance Of NLP Algorithms
+title: Medindo o desempenho dos algoritmos de PNL
 description: "Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: chil..."
 date:
 image: /images/blog/roc.png
 ---
 
-_Harmony conseguiu reconstruir as correspondências da ferramenta de harmonização do questionário desenvolvida por McElroy et al em 2020 com as seguintes pontuações AUC: infância **84%**, idade adulta **80%**. O Harmony foi capaz de igualar as questões dos instrumentos GAD-7 em inglês e português com AUC **100%** e o CBCL e SDQ em português com AUC **89%**. A harmonia também foi avaliada usando uma variedade de modelos transformadores, incluindo MentalBERT, um modelo de linguagem pré-treinado publicamente disponível para o domínio da saúde mental._
+_Harmony conseguiu reconstruir as correspondências da ferramenta de harmonização do questionário desenvolvida por McElroy et al em 2020 com as seguintes pontuações AUC: infância **84%**, idade adulta **80%**. O Harmony foi capaz de igualar as questões dos instrumentos GAD-7 em inglês e português com AUC **100%** e o CBCL e SDQ em português com AUC **89%**. A Harmony também foi avaliada usando uma variedade de modelos transformadores, incluindo MentalBERT, um modelo de linguagem pré-treinado publicamente disponível para o domínio da saúde mental._
 
 O conteúdo desta postagem no blog foi escrito como uma [pré-impressão para publicação na OSF](https://osf.io/9x5ej).
 
@@ -89,7 +89,7 @@ O modelo de linha de base, o Tf\*Idf, deu uma AUC de 71% e 67% nos conjuntos de 
 
 Com uma pesquisa de dicionário codificada manualmente para combinar palavras em inglês e português, o mesmo modelo foi capaz de pontuar 100% no conjunto de dados multilíngue GAD-7. (Arquivo CSV de dicionário disponível [aqui](https://github.com/harmonydata/harmony/blob/main/front_end/models/pt_en_map.csv)).
 
-O desempenho do modelo Tf\*Idf pode ser melhorado por uma pesquisa de dicionário bilíngüe.
+O desempenho do modelo Tf\*Idf pode ser melhorado por uma pesquisa de dicionário bilíngue.
 
 ### Abordagens do vetor de palavras
 
@@ -152,7 +152,7 @@ Da mesma forma, aqui está uma impressão dos 10 principais falsos negativos do 
 
 Os 10 principais falsos negativos no conjunto de dados da Infância, classificados pelo Modelo 7 (transformador)
 
-Podemos ver que alguns deles são textos em que o significado é realmente muito diferente, mas em um contexto psicológico gostaríamos de agrupá-los. Por exemplo, _está nervoso ou pegajoso em novas situações, perde a confiança com facilidade_ não salta imediatamente para mim como um não psicólogo como algo que agruparíamos com _um desafio demoníaco_, mas um psicólogo pode querer categorizá-los juntos.
+Podemos ver que alguns deles são textos em que o significado é realmente muito diferente, mas em um contexto psicológico gostaríamos de agrupá-los. Por exemplo, _está nervoso ou pegajoso em novas situações, perde a confiança facilmente_ não salta imediatamente para mim como um não psicólogo como algo que agruparíamos com _um desafio demoníaco_, mas um psicólogo pode querer categorizá-los juntos.
 
 ### Falso-positivo
 
@@ -175,7 +175,7 @@ Como poderíamos melhorar o desempenho do Harmony nesses casos? Há uma série d
 ## Resumo dos Resultados
 
 | Modelo | Criança | Adulto | GAD-7 | CBCL/SDQ |
-| -------------------------------------------------- -------------------------------------------------- ----- | ----- | ----- | ----- | -------- |
+| --------------------------------------------------------------------------------------------------------- | ----- | ----- | ----- | -------- |
 | 1. Saco-de-palavras | 70 | 69 | 49 | 63 |
 | 2. Saco de palavras + pesquisa de dicionário | 70 | 69 | 100 | 69 |
 | 3. Pequeno modelo spaCy EN+PT | 66 | 65 | 67 | 59 |

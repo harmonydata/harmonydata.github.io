@@ -1,5 +1,5 @@
 ---
-title: PPIE For Secondary Data Analysis
+title: PPIE para análise de dados secundários
 description: "Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: chil..."
 date: 2022-11-09
 image: /images/blog/joanna-kosinska-1_CMoFsPfso-unsplash-1536x1025.jpg
@@ -38,7 +38,7 @@ Envolver especialistas por experiência em sua análise e na interpretação de 
 
 1. ** Redação e Divulgação**
 
-O PPIE pode ajudar a tornar sua pesquisa mais acessível e visível para aqueles que têm maior interesse nela e podem se beneficiar mais de suas descobertas. Obter informações de especialistas sobre *o que, como e onde* compartilhar e apresentar suas descobertas pode ser muito divertido (se você gosta de ser criativo) e perspicaz. Eles podem lhe dizer quais mensagens-chave escolher em sua pesquisa e por que seriam mais úteis para eles, bem como qual meio ou design escolher para que sua pesquisa atinja seu grupo-alvo da melhor maneira possível. 
+O PPIE pode ajudar a tornar sua pesquisa mais acessível e visível para aqueles que têm maior interesse nela e podem se beneficiar mais de suas descobertas. Obter informações de especialistas sobre *o que, como e onde* compartilhar e apresentar suas descobertas pode ser muito divertido (se você gosta de ser criativo) e perspicaz. Eles podem lhe dizer quais mensagens-chave escolher em sua pesquisa e por que elas seriam mais úteis para eles, bem como qual meio ou design escolher para que sua pesquisa atinja seu grupo-alvo da melhor maneira possível. 
 
 *** Dito isso, [Harmony] (https://harmonydata.ac.uk/) está tentando ativamente envolver usuários e especialistas em experiência ao longo do caminho, e estamos nos beneficiando de seu apoio a cada passo do caminho. Se você quiser se envolver, avise-nos.*** 
 

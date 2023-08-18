@@ -1,5 +1,5 @@
 ---
-title: Harmony Videos
+title: Vídeos de Harmonia
 ---
 
 # Vídeos
@@ -63,7 +63,7 @@ Este vídeo é um bom recurso para qualquer pessoa com algum conhecimento de pro
 
 {{< youtube uHjPNKb8SI4 >}}
 
-## Como harmonizar os dados do questionário em psicologia usando o Harmony em Harmonydata.ac.uk
+## Como harmonizar os dados do questionário em psicologia usando Harmony em Harmonydata.ac.uk
 
 {{< youtube IxRDAU84ACU >}}
 

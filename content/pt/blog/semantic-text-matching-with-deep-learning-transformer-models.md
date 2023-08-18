@@ -1,11 +1,11 @@
 ---
-title: Semantic Text Matching With Deep Learning Transformer Models
+title: Correspondência semântica de texto com modelos transformadores de aprendizado profundo
 description: Semantic text matching is a task in natural language processing involving estimating the semantic similarity between two texts. For exam...
 date: 2023-02-08
 image: /images/blog/gad7-becks.jpg
 ---
 
-A correspondência semântica de texto é uma tarefa no processamento de linguagem natural que envolve estimar a semelhança semântica entre dois textos. Por exemplo, se tivéssemos que quantificar a semelhança entre “sinto-me nervoso” e “sinto-me ansioso”, a maioria das pessoas concordaria que essas duas frases estão mais próximas do que “sinto-me feliz”. Um algoritmo de correspondência semântica de texto seria capaz de colocar um número na similaridade, como 79%.
+A correspondência semântica de texto é uma tarefa no processamento de linguagem natural que envolve estimar a semelhança semântica entre dois textos. Por exemplo, se tivéssemos que quantificar a semelhança entre “estou nervoso” e “estou ansioso”, a maioria das pessoas concordaria que essas duas frases estão mais próximas do que “estou feliz”. Um algoritmo de correspondência semântica de texto seria capaz de colocar um número na similaridade, como 79%.
 
 Um algoritmo de correspondência semântica de texto é diferente de um algoritmo simples de similaridade de texto, que meramente examina a forma superficial de um texto. Uma correspondência semântica deve estar ciente da semelhança de significado entre “nervoso” e “ansioso”.
 
@@ -25,6 +25,6 @@ Avanços recentes em aprendizado profundo permitiram um novo tipo de técnica de
 
 Os modelos transformadores operam em sequências de palavras e transformam sentenças inteiras em vários idiomas em uma representação vetorial no espaço de alta dimensão. Em seguida, podemos quantificar a semelhança entre as sentenças com uma métrica simples, como distância euclidiana ou cosseno. Isso nos permite medir a semelhança entre as palavras.
 
-No desenvolvimento do Harmony, o algoritmo de maior desempenho testado até agora foi o GPT-3, no entanto, como o campo está evoluindo tão rapidamente, é provável que fique desatualizado muito em breve. Portanto, assista ao nosso blog e, enquanto isso, você pode [testar o Harmony](https://harmonydata.ac.uk/app/) em seus dados.
+No desenvolvimento do Harmony, o algoritmo de melhor desempenho testado até agora foi o GPT-3, no entanto, como o campo está evoluindo tão rapidamente, é provável que fique desatualizado muito em breve. Portanto, assista ao nosso blog e, enquanto isso, você pode [testar o Harmony](https://harmonydata.ac.uk/app/) em seus dados.
 
 Os modelos Transformer provaram ser muito eficazes na correspondência semântica de texto. Eles também são muito eficientes em termos de recursos computacionais e podem facilmente escalar para grandes conjuntos de dados. Isso os torna uma ótima opção para aplicativos relacionados a tarefas de correspondência de texto.

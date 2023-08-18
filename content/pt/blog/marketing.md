@@ -1,5 +1,5 @@
 ---
-title: The importance of marketing for open science
+title: A importância do marketing para a ciência aberta
 description: How we are approaching marketing in the Harmony project
 date:
 image: /images/blog/marketing.jpg
@@ -18,7 +18,7 @@ Além desses benefícios específicos, o marketing também pode ajudar a:
 * Crie um senso de comunidade em torno do projeto. Isso pode ajudar a sustentar o projeto a longo prazo.
 * Posicione o projeto como um líder no campo. Isso pode ajudar a atrair financiamento, colaboradores e usuários.
 
-No geral, o marketing é uma parte essencial de qualquer projeto de pesquisa na escala da Harmonia. Não temos patrocínio corporativo e não somos financiados por um departamento universitário. Ao comunicar com eficácia o valor e o potencial do projeto, o marketing pode ajudar a atingir os objetivos do projeto e causar um impacto real no mundo.
+No geral, o marketing é uma parte essencial de qualquer projeto de pesquisa na escala dO Harmony. Não temos patrocínio corporativo e não somos financiados por um departamento universitário. Ao comunicar com eficácia o valor e o potencial do projeto, o marketing pode ajudar a atingir os objetivos do projeto e causar um impacto real no mundo.
 
 A fim de aumentar a conscientização sobre Harmony, tomamos as seguintes iniciativas de marketing:
 

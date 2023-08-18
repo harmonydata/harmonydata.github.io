@@ -1,5 +1,5 @@
 ---
-title: How Does Harmony Work?
+title: Como Funciona O Harmony?
 description: When you input two questionnaires into Harmony, such as the GAD-7 and Beck’s Anxiety Inventory, Harmony is able to match similar quest...
 date: 2022-11-03
 image: /images/blog/harmony-1.png
@@ -17,7 +17,7 @@ O Harmony usa técnicas do campo de [processamento de linguagem natural](https:/
 
 Há uma série de abordagens para quantificar a semelhança entre strings de texto. A abordagem mais simples é conhecida como abordagem Bag-of-Words. *Não* é assim que o Harmony funciona atualmente, mas é uma das primeiras coisas que tentamos!
 
-Se quisermos comparar a pergunta 4 do GAD-7 (*Problemas para relaxar*) com a pergunta 4 do Inventário de Ansiedade de Beck (*Incapaz de relaxar*), decomporíamos cada texto nas palavras presentes. Normalmente removemos sufixos como *ing* neste estágio (isso é chamado de lematização).
+Se quisermos comparar a pergunta 4 do GAD-7 (*Problemas para relaxar*) com a pergunta 4 do Inventário de Ansiedade de Beck (*Incapaz de relaxar*), dividiríamos cada texto nas palavras presentes. Normalmente removemos sufixos como *ing* neste estágio (isso é chamado de lematização).
 
 | | GAD-7 Q4 | Beck Q4 |
 | ---------- | -------- | ------- |
@@ -27,7 +27,7 @@ Se quisermos comparar a pergunta 4 do GAD-7 (*Problemas para relaxar*) com a per
 | para | 0 | 1 |
 | nervoso | 0 | 0 |
 | ansioso | 0 | 0 |
-| … | … | … |
+| …          | …        | …       |
 
 No total, existem 4 palavras entre as duas perguntas. Uma palavra (*relax*) ocorre em ambas as perguntas. Podemos calcular uma métrica de similaridade usando uma fórmula chamada coeficiente de similaridade de Jaccard, que é definido como o número de palavras em ambas as perguntas, dividido pelo número de palavras em qualquer uma das perguntas, portanto, em nosso caso
 
@@ -114,7 +114,7 @@ O usuário tem a opção de adicionar ou remover arestas do gráfico.
 
 Com o objetivo de tornar nossa pesquisa o mais acessível possível ao público, tornamos o Harmony, seu código-fonte e dados públicos. O código-fonte e os dados-fonte estão no [GitHub](https://github.com/harmonydata) e são executados em Python. Se você tem algum conhecimento básico de Python, fique à vontade para baixá-lo e pode até contribuir com o projeto, fazendo um branch e enviando um pull request.
 
-## O que vem a seguir para Harmonia?
+## O que vem a seguir parO Harmony?
 
 ### Correspondência de escala de Likert
 

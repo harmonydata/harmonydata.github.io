@@ -28,7 +28,7 @@ blocks:
     copy: Data scientist and natural language processing expert at Fast Data Science Ltd
     social:
       linkedin: https://uk.linkedin.com/in/woodthom
-  - heading: xProf. George Ploubidisx
+  - heading: Prof. George Ploubidis
     image: /images/team/George.jpg
     copy: Professor of Population Health and Statistics at the Social Research Institute at University College London
     social:

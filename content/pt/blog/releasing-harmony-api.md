@@ -1,5 +1,5 @@
 ---
-title: Releasing Harmony API
+title: Liberando Harmony API
 description: Semantic text matching is a task in natural language processing involving estimating the semantic similarity between two texts. For exam...
 date:
 image: /images/blog/harmony_api.png
@@ -148,7 +148,7 @@ pip install harmonydata
 
 Você pode ler o guia do usuário em [./harmony_pypi_package/README.md](harmony_pypi_package/README.md).
 
-## Chamando a API Harmony
+## Chamando a API do Harmony
 
 ### Analisando um arquivo bruto em um instrumento
 
@@ -413,7 +413,7 @@ URL: https://fastdatascience.com
 ## ÍNDICE
 
 - 1. VERIFICAÇÃO DE SAÚDE
-- 1.1 GET / verificação de saúde
+- 1.1 GET / verificação de integridade
 - 2. INFORMAÇÕES
 - 2.1 GET /info/versão
 - 3. TEXTO
@@ -427,7 +427,7 @@ URL: https://fastdatascience.com
 
 ## 1. VERIFICAÇÃO DE SAÚDE
 
-## 1.1 GET / verificação de saúde
+## 1.1 GET / verificação de integridade
 
 Exame de saúde
 

@@ -1,5 +1,5 @@
 ---
-title: Harmony Going Forward
+title: Harmonia indo para frente
 description: Yesterday the Harmony team received the wonderful news that we are given the chance to continue working on Harmony for another six months, after which we c...
 date:
 image: /images/blog/noah-buscher-x8ZStukS2PM-unsplash-1536x880.jpg
@@ -11,7 +11,7 @@ Ontem, a [equipe Harmony](https://harmonydata.ac.uk/team/) recebeu a maravilhosa
 
 À medida que nossa equipe embarca na jornada de prototipagem, estou refletindo sobre como podemos maximizar o sucesso da implementação de nossa [ferramenta Harmony] digital (https://harmonydata.ac.uk/app/?_ga=2.55018287.544219844.1678452210-721610193.1678452210&_gl= 1*7y76do*_ga*NzIxNjEwMTkzLjE2Nzg0NTIyMTA.*_ga_5B3RD8TY0P*MTY3ODQ1MjIxMC4xLjEuMTY3ODQ1MjIyNC4wLjAuMA..). Eu **quero** que o Harmony tenha um financiamento vitalício pós-subvenção e garanta que tenha um impacto mensurável na comunidade de pesquisadores mais ampla e nos esforços globais de saúde mental.
 
-A implementação bem-sucedida e a sustentabilidade de produtos digitais desenvolvidos por meio de financiamento de bolsas de pesquisa têm sido surpreendentemente baixas. Vimos isso especialmente no campo da saúde mental digital, onde milhares de aplicativos e plataformas foram desenvolvidos e apenas alguns poucos foram implementados e mantidos na natureza. A partir desta linha de [pesquisa](https://www.psychiatrist.com/jcp/psychiatry/implementing-digital-mental-health-interventions/#ref16) e [meu próprio trabalho com colegas](https://www. jmir.org/2022/11/e40347) Sei que inovação e eficácia por si só não são suficientes para garantir a adoção no mundo real.
+A implementação bem-sucedida e a sustentabilidade de produtos digitais desenvolvidos por meio de financiamento de bolsas de pesquisa têm sido surpreendentemente baixas. Vimos isso especialmente no campo da saúde mental digital, onde milhares de aplicativos e plataformas foram desenvolvidos e apenas alguns poucos foram implementados e sustentados na natureza. A partir desta linha de [pesquisa](https://www.psychiatrist.com/jcp/psychiatry/implementing-digital-mental-health-interventions/#ref16) e [meu próprio trabalho com colegas](https://www. jmir.org/2022/11/e40347) Sei que inovação e eficácia por si só não são suficientes para garantir a adoção no mundo real.
 
 {{< image src="images/blog/noah-buscher-x8ZStukS2PM-unsplash-1536x880.jpg" alt=" noah buscher" >}}
 

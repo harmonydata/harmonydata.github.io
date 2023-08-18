@@ -1,8 +1,8 @@
 ---
-title: Harmony Privacy Policy
+title: Política de Privacidade dO Harmony
 ---
 
-# Política de Privacidade da Harmonia
+# Política de Privacidade dO Harmony
 
 ## Nossos dados de contato
 
@@ -126,9 +126,9 @@ Se você tiver alguma dessas solicitações, entre em contato com nosso Diretor 
 
 ## Links para outros sites
 
-harmoniadata.ac.uk contém links para outros sites.
+Harmonydata.ac.uk contém links para outros sites.
 
-Este aviso de privacidade aplica-se apenas a harmoniadata.ac.uk.
+Este aviso de privacidade aplica-se apenas o Harmonydata.ac.uk.
 
 ### Seguindo um link para outro site
 
@@ -136,7 +136,7 @@ Se você acessar outro site a partir deste, leia a política de privacidade dess
 
 ### Seguindo um link para Harmonydata.ac.uk de outro site
 
-Se você vier para a harmoniadata.ac.uk de outro site, podemos receber informações pessoais do outro site. Você deve ler a política de privacidade do site de onde veio para saber mais sobre isso.
+Se você vier para o Harmonydata.ac.uk de outro site, podemos receber informações pessoais do outro site. Você deve ler a política de privacidade do site de onde veio para saber mais sobre isso.
 
 ## Entre em contato conosco ou faça uma reclamação
 

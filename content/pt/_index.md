@@ -1,5 +1,5 @@
 ---
-title: A global platform for contextual data harmonisation
+title: Uma plataforma global para harmonização de dados contextuais
 layout: blocks
 description: 
 image: 
@@ -12,8 +12,8 @@ blocks:
   mode: dark #dark mode, leave blank for light mode
   overlay: true #used together with navbar overlay: true option to show background image behind the navbar
   background_image: images/globe-min.svg
-  heading: "Harmonise questionnaire items with **Harmony**."
-  subheading: Harmony is a tool for retrospective harmonisation of questionnaire items.
+  heading: "Harmonize os itens do questionário com **Harmony**."
+  subheading: O Harmony é uma ferramenta para harmonização retrospectiva dos itens do questionário.
   copy: |-
     Você precisa comparar os dados do questionário entre os estudos? Você quer encontrar a melhor correspondência para um conjunto de itens? Existem versões diferentes do mesmo questionário flutuando e você quer ter certeza de quão compatíveis elas são? Os questionários estão escritos em idiomas diferentes que você gostaria de comparar?
 
@@ -27,20 +27,20 @@ blocks:
 
 - block: video
   padding: top
-  superheading: "**Harmony**"
-  heading: Introduction to Harmony
-  subheading: Data harmonisation with natural language processing
+  superheading: "**Harmonia**"
+  heading: Introdução à Harmonia
+  subheading: Harmonização de dados com processamento de linguagem natural
   youtube: cEZppTBj1NI
   image: images/bg-video.jpg
 
 - block: feature-2
   padding: top
   image: images/bg-video.jpg
-  heading: "Use Harmony in the browser"
-  subheading: You can use Harmony on the web.
+  heading: "Use o Harmony no navegador"
+  subheading: Você pode usar o Harmony na web.
   youtube: CqAsrY74zNM
   button:
-    text: Try Harmony App
+    text: Experimente o aplicativo Harmony
     url: "/app/"
     size: large
     style: secondary
@@ -48,8 +48,8 @@ blocks:
 - block: feature-2
   padding: top
   align: right 
-  heading: "Use Harmony in Python"
-  subheading: We've released Harmony as an easy-to-use Python library on Pypi.
+  heading: "Use Harmony em Python"
+  subheading: Lançamos o Harmony como uma biblioteca Python fácil de usar no Pypi.
   links: 
   - text: Pypi
     url: https://pypi.org/project/harmonydata/
@@ -63,39 +63,39 @@ blocks:
     url: https://raw.githubusercontent.com/harmonydata/harmonyapi/main/docs/API_reference.pdf
   code: |
     ```vshell
-    pip instalar dados de harmonia
-    importar harmonia
-    harmonia.download_models()
-    instrumentos = harmonia.exemplo_instrumentos["CES_D Inglês"], 
-    harmonia.exemplo_instrumentos["GAD-7 Português"]
-    perguntas, similaridade, query_similarity, _ = Harmony.match_instruments
-    (instrumentos) 
-    # Como carregar um PDF, Excel ou Word em um instrumento
-    harmonia.load_instruments_from_local_file("gad-7.pdf")
+    pip install harmonydata
+    import harmony
+    harmony.download_models()
+    instruments = harmony.example_instruments["CES_D English"], 
+    harmony.example_instruments["GAD-7 Portuguese"]
+    questions, similarity, query_similarity, _ = harmony.match_instruments
+    (instruments) 
+    # How to load a PDF, Excel or Word into an instrument
+    harmony.load_instruments_from_local_file("gad-7.pdf")
     ```
 
 - block: feature-2
   padding: top
-  heading: "Use Harmony in R"
-  subheading: R users can now import Harmony as an R package.
+  heading: "Use Harmonia em R"
+  subheading: Os usuários do R agora podem importar o Harmony como um pacote do R.
   links: 
   - text: R Package
     url: https://github.com/harmonydata/harmony_r
   code: |
     ```vshell
     install.packages("harmonydata")
-    biblioteca(harmonydata)
+    library(harmonydata)
                 
     instruments <- harmony.example_instruments["CES_D English"],
-    harmonia.exemplo_instrumentos["GAD-7 Português"]
+    harmony.example_instruments["GAD-7 Portuguese"]
     similarity <- harmony.match_instruments(instruments) 
     ```
 
 - block: feature-2
   # preenchimento: superior
   align: right 
-  heading: "Harmony Docker container"
-  subheading: We've released Harmony as a Docker container on Dockerhub.
+  heading: "Contêiner Harmony Docker"
+  subheading: Lançamos o Harmony como um contêiner do Docker no Dockerhub.
   links: 
   - text: Docker
     url: https://www.docker.com/
@@ -103,14 +103,14 @@ blocks:
     url: https://hub.docker.com/r/harmonydata/harmonywithtika
   code: |
     ```vshell
-    docker pull Harmonydata/harmonywithtika
-    docker run -p 8000:8000 -p 3000:3000harmonydata/harmonywithtika
+    docker pull harmonydata/harmonywithtika
+    docker run -p 8000:8000 -p 3000:3000 harmonydata/harmonywithtika
     ```
 
 - block: logos
   # preenchimento: superior
   mode: muted
-  superheading: "**Our Partners**"
+  superheading: "**Nossos Parceiros**"
   logos:
   - alt: ulster
     image: /images/clients/client-1.png
@@ -134,10 +134,10 @@ blocks:
 
 - block: testimonial-2
   padding: top
-  copy: Really useful! Would have been a great tool and saved me a lot of time when I was trying to externally validate my risk prediction model in two cohorts.
+  copy: Muito útil! Teria sido uma ótima ferramenta e me pouparia muito tempo quando estava tentando validar externamente meu modelo de previsão de risco em duas coortes.
   author:
-    name: Researcher at UCL
-    title: on using Harmony the first time
+    name: Pesquisador da UCL
+    title: ao usar o Harmony pela primeira vez
     image: /images/testimonial-user.svg
 
 - block: feature-2
@@ -154,7 +154,7 @@ blocks:
 - block: feature-4
   mode: muted
   superheading: "**HARMONY**"
-  heading: A global platform for contextual harmonisation, translation and cooperation in mental health research
+  heading: Uma plataforma global para harmonização contextual, tradução e cooperação em pesquisa em saúde mental
   copy: |
     Essa equipe apoiará uma melhor integração da pesquisa em saúde mental por meio de uma ferramenta de harmonização de processamento de linguagem natural (Harmony), permitindo que os pesquisadores comparem dados de estudos existentes para investigar os ingredientes ativos da saúde mental. Liderada pelo Dr. Eoin McElroy, da Ulster University, e pela Dra. Bettina Moltrecht, da University College London, a equipe desenvolverá e demonstrará o Harmony para responder a perguntas de pesquisa sobre a conexão humana e sua influência no desenvolvimento de depressão e ansiedade em jovens.
 

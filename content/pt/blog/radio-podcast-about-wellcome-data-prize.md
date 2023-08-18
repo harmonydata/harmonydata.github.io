@@ -1,5 +1,5 @@
 ---
-title: Radio Podcast About Wellcome Data Prize
+title: Podcast de rádio sobre o Wellcome Data Prize
 description:
 date:
 image: /images/blog/pexels-scott-webb-29049.jpg

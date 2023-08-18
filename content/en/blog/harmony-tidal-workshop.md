@@ -8,6 +8,11 @@ image: /images/harmony-tidal-workshop.jpg
 
 On Thursday, August 17th, 2023, the Harmony and [TIDAL](https://github.com/AmeliaES/TIDAL) teams teamed up to run a workshop at [University College London](https://www.ucl.ac.uk/) to allow researchers to try out their software tools. The workshop was attended by researchers interested in using these tools to study child and adolescent mental health, and other areas in social science research, from the effects of gambling addiction to asking questions about nature vs nurture in twin studies.
 
+{{< image src="/images/tidal.png" alt="TIDAL" title="TIDAL" >}}
+
+
+{{< image src="/images/logo-dark-blue.png" alt="Harmony" title="Harmony" >}}
+
 ## Aim of the workshop
 
 The aim of the workshop was to give participants hands-on experience with Harmony and TIDAL, and to demonstrate how they can be used to answer research questions about mental health, covering the following topics.
@@ -38,8 +43,18 @@ After becoming familiar with both Harmony and TIDAL, participants were able to u
 
 The workshop was a great success and participants learned a lot about how to use these powerful tools. We've also gathered a great deal of user testing experience on both these tools. If you are interested in using Harmony or TIDAL to study child and adolescent mental health, please visit [harmonydata.ac.uk](https://harmonydata.ac.uk) and [the TIDAL repo](https://github.com/AmeliaES/TIDAL) and [the TIDAL app](https://tidal.shinyapps.io/tidalapp/) for more information.
 
+## About Harmony
+
 Harmony is a software tool using natural language processing and Transformer models (LLMs) that can be used to harmonise questionnaires and create comparable measures of mental health symptoms. It is a valuable tool for researchers who want to study mental health across different populations and settings.
 
-Harmony uses natural language processing to identify and match items across questionnaires. This process is more accurate and efficient than traditional methods of harmonization. Harmony also provides a number of features that make it easy to use, such as a user-friendly interface and a built-in thesaurus.
+Harmony uses natural language processing to identify and match items across questionnaires. This process is more accurate and efficient than traditional methods of harmonisation. Harmony also provides a number of features that make it easy to use, such as a user-friendly interface, responsive design, and Python and R bindings and REST API.
 
 If you are interested in learning more about Harmony, please check out some of our [videos](/videos) and [blog posts](/blog).
+
+## About TIDAL
+
+TIDAL stands for Tool to Implement Developmental Analyses of Longitudinal Data. TIDAL is designed to facilitate work trajectories and remove barriers to implementing longitudinal research to researchers without specialist statistical backgrounds, enabling them to address questions like:
+
+* How mental health is changing over specific periods of time.
+* When mental health is improving or worsening at the fastest rate (points of acceleration).
+* How variable mental health responses are over time within individuals (stability).

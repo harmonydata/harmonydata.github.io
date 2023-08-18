@@ -36,6 +36,7 @@ languages:
     footer_text: Harmony is a tool for retrospective harmonisation of questionnaire data.
     languageName: En
     contentDir: content/en
+    languageCode: en-GB
     weight: 1
     menu:
       navbar:

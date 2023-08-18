@@ -2,46 +2,46 @@
 title: Fair data
 ---
 
-## What are the FAIR Data Principles?
+## Quais são os Princípios de Dados FAIR?
 
-The [FAIR principles](https://www.go-fair.org/fair-principles/) are a set of guidelines for making data more **discoverable**, **accessible**, **interoperable**, and **reusable**. The principles are intended to help organizations and individuals maximise the value of their data by making it easier to find, access, and use.
+Os [princípios FAIR](https://www.go-fair.org/fair-principles/) são um conjunto de diretrizes para tornar os dados mais **detectáveis**, **acessíveis**, **interoperáveis**, e **reutilizável**. Os princípios destinam-se a ajudar organizações e indivíduos a maximizar o valor de seus dados, tornando-os mais fáceis de encontrar, acessar e usar.
 
-The FAIR principles were published in *Nature* in 2016 to address the difficulties in reproducing scientific research. Funding organisations, publishers, and governmental agencies are increasingly beginning to require data management plans for data generated in research. This means that if you find a scientific paper and want to reproduce the study, you should be able to reproduce the research with minimal friction.
+Os princípios FAIR foram publicados na *Nature* em 2016 para abordar as dificuldades na reprodução de pesquisas científicas. Organizações financiadoras, editoras e agências governamentais estão cada vez mais começando a exigir planos de gerenciamento de dados para dados gerados em pesquisas. Isso significa que, se você encontrar um artigo científico e quiser reproduzir o estudo, poderá reproduzir a pesquisa com o mínimo de atrito.
 
 {{< image src="images/fair.png" alt="Fair" >}}
 
-## How is Harmony following FAIR principles?
+## Como a Harmony está seguindo os princípios FAIR?
 
-### Harmony’s data is Findable
+### Os dados do Harmony podem ser encontrados
 
-The Harmony project is registered with the [Open Science Foundation](https://osf.io/bct6k/). With the exception of copyrighted protocols such as Beck’s Anxiety Inventory, all datasets (protocols) used in the development and testing of Harmony is available on our [Github repository](https://github.com/harmonydata/harmony) which is public access. Datasets not provided in raw form is provided in a [shell script](https://github.com/harmonydata/harmony/blob/main/data/raw_pdf/download_raw_pdfs.sh) which downloads documents from the web. The evaluation set from McElroy et al is provided in the Github repository.
+O projeto Harmony está registrado na [Open Science Foundation](https://osf.io/bct6k/). Com exceção dos protocolos protegidos por direitos autorais, como o inventário de ansiedade de Beck, todos os conjuntos de dados (protocolos) usados no desenvolvimento e teste do Harmony estão disponíveis em nosso [repositório Github](https://github.com/harmonydata/harmony), que é de acesso público . Conjuntos de dados não fornecidos em formato bruto são fornecidos em um [shell script](https://github.com/harmonydata/harmony/blob/main/data/raw_pdf/download_raw_pdfs.sh) que baixa documentos da web. O conjunto de avaliação de McElroy et al é fornecido no repositório Github.
 
-- F1. (Meta)data are assigned a globally unique and persistent identifier – The unique identifier for the Harmony project is https://osf.io/bct6k/ with the Open Science Foundation. The OSF profile links to Harmony’s [Github page](https://github.com/harmonydata). The Github repository contains a folder of [hard coded questionnaires](https://github.com/harmonydata/harmony/tree/main/front_end/hard_coded_questionnaires) where each questionnaire is in CSV format which serves as the unique ID. For raw PDF questionnaires available on the internet, a shell script is supplied which downloads each data file to an exact filename which serves as a unique identifier.
-- F2. Data are described with rich metadata – The OSF profile contains all relevant metadata on the project. The spreadsheet [Final harmonised item tool EM.xlsx](https://github.com/harmonydata/harmony/blob/main/data/Final harmonised item tool EM.xlsx) in the repository has a descriptions tab.
-- F3. Metadata clearly and explicitly include the identifier of the data they describe – the OSF profile links to Github and the Github URL is the unique identifier of the Github repository. All references to a questionnaire refer to the file name in the same format such as **GHQ 12 English**.
-- F4. (Meta)data are registered or indexed in a searchable resource – the OSF profile is searchable. In the Github repository, the files are downloaded by the shell script into a folder and there is a script to extract all data into a txt format which is searchable.
+- F1. (Meta)dados recebem um identificador único e persistente globalmente – O identificador exclusivo do projeto Harmony é https://osf.io/bct6k/ com a Open Science Foundation. O perfil OSF está vinculado à [página do Github] do Harmony (https://github.com/harmonydata). O repositório do Github contém uma pasta de [questionários codificados](https://github.com/harmonydata/harmony/tree/main/front_end/hard_coded_questionnaires) onde cada questionário está no formato CSV, que serve como ID exclusivo. Para questionários PDF brutos disponíveis na Internet, é fornecido um script de shell que baixa cada arquivo de dados para um nome de arquivo exato que serve como um identificador exclusivo.
+- F2. Os dados são descritos com metadados avançados – O perfil OSF contém todos os metadados relevantes do projeto. A planilha [ferramenta de item harmonizado final EM.xlsx](https://github.com/harmonydata/harmony/blob/main/data/ferramenta de item harmonizado final EM.xlsx) no repositório tem uma guia de descrições.
+- F3. Os metadados incluem clara e explicitamente o identificador dos dados que descrevem – os links do perfil OSF para o Github e o URL do Github é o identificador exclusivo do repositório do Github. Todas as referências a um questionário referem-se ao nome do arquivo no mesmo formato, como **GHQ 12 English**.
+- F4. (Meta)dados são registrados ou indexados em um recurso pesquisável – o perfil OSF é pesquisável. No repositório do Github, os arquivos são baixados pelo shell script em uma pasta e há um script para extrair todos os dados em um formato txt pesquisável.
 
-### Harmony’s data is Accessible
+### Os dados do Harmony são acessíveis
 
-Since our dataset is public access on the Github repository, once a user has cloned (downloaded) the repository and run the shell script, all documents will be on their computer.
+Como nosso conjunto de dados é de acesso público no repositório Github, uma vez que um usuário tenha clonado (baixado) o repositório e executado o shell script, todos os documentos estarão em seu computador.
 
-- A1. (Meta)data are retrievable by their identifier using a standardised communications protocol – Harmony can be downloaded by cloning the Github repository. The script to download any extra questionnaires not supplied with Harmony is included in the Github repository.
-- A2. Metadata are accessible, even when the data are no longer available – since the unique ID of Harmony is the OSF profile, if Harmony were to be hosted elsewhere the OSF profile would remain with relevant metadata. The list of protocols for testing is included in the shell script. All protocols without open-access restrictions are included in [this folder](https://github.com/harmonydata/harmony/tree/main/front_end/hard_coded_questionnaires).
+- A1. (Meta)dados são recuperáveis por seu identificador usando um protocolo de comunicação padronizado – o Harmony pode ser baixado clonando o repositório Github. O script para baixar quaisquer questionários extras não fornecidos com o Harmony está incluído no repositório do Github.
+- A2. Os metadados são acessíveis, mesmo quando os dados não estão mais disponíveis - uma vez que o ID exclusivo do Harmony é o perfil OSF, se o Harmony fosse hospedado em outro lugar, o perfil OSF permaneceria com os metadados relevantes. A lista de protocolos para teste está incluída no script de shell. Todos os protocolos sem restrições de acesso aberto estão incluídos em [esta pasta](https://github.com/harmonydata/harmony/tree/main/front_end/hard_coded_questionnaires).
 
-### Harmony’s data is Interoperable
+### Os dados do Harmony são interoperáveis
 
-Data is downloaded in PDF format and the library Apache Tika is used to convert to raw text format. There are no interoperability issues with raw text format.
+Os dados são baixados em formato PDF e a biblioteca Apache Tika é usada para converter para o formato de texto bruto. Não há problemas de interoperabilidade com o formato de texto bruto.
 
-- I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation. – all questionnaires are converted to a single structure where the text of a question is in one column.
-- I2. (Meta)data use vocabularies that follow FAIR principles. – You can read the data schema [here](https://github.com/harmonydata/harmony/blob/main/README.md#data-schema).
-- I3. (Meta)data include qualified references to other (meta)data – this item is not applicable since no datasets build on other datasets.
+- I1. (Meta)dados usam uma linguagem formal, acessível, compartilhada e amplamente aplicável para representação do conhecimento. – todos os questionários são convertidos em uma única estrutura onde o texto de uma pergunta está em uma coluna.
+- I2. (Meta)dados usam vocabulários que seguem os princípios FAIR. – Você pode ler o esquema de dados [aqui](https://github.com/harmonydata/harmony/blob/main/README.md#data-schema).
+- I3. (Meta)dados incluem referências qualificadas a outros (meta)dados – este item não é aplicável, pois nenhum conjunto de dados se baseia em outros conjuntos de dados.
 
-### Harmony’s data is Reusable
+### Os dados do Harmony são reutilizáveis
 
-Harmony is released under the [MIT License](https://github.com/harmonydata/harmony/blob/main/LICENSE), which allows commercial use, modification, distribution, and private use of the tool and data.
+O Harmony é lançado sob a [Licença MIT](https://github.com/harmonydata/harmony/blob/main/LICENSE), que permite o uso comercial, modificação, distribuição e uso privado da ferramenta e dos dados.
 
-- R1. (Meta)data are richly described with a plurality of accurate and relevant attributes – our [project Github page](https://github.com/harmonydata) has information about the project, while the source repository has a [LICENCE](https://github.com/harmonydata/harmony/blob/main/LICENSE) and [README.md](https://github.com/harmonydata/harmony/blob/main/README.md) containing all relevant information about the project and reusability.
+- R1. (Meta)dados são ricamente descritos com uma pluralidade de atributos precisos e relevantes – nossa [página Github do projeto](https://github.com/harmonydata) tem informações sobre o projeto, enquanto o repositório de origem tem uma [LICENÇA](https ://github.com/harmonydata/harmony/blob/main/LICENSE) e [README.md](https://github.com/harmonydata/harmony/blob/main/README.md) contendo todas as informações relevantes sobre o projeto e reutilização.
 
-## References
+## Referências
 
-Wilkinson, Mark D., et al. “The FAIR Guiding Principles for scientific data management and stewardship.” Scientific data 3.1 (2016): 1-9.
+Wilkinson, Mark D., e outros. “Os Princípios Orientadores FAIR para gerenciamento e administração de dados científicos.” Dados científicos 3.1 (2016): 1-9.

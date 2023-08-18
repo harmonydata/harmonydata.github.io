@@ -2,68 +2,68 @@
 title: Harmony Videos
 ---
 
-# Videos
+# Vídeos
 
-## Introduction to Harmony: Data harmonisation with natural language processing
+## Introdução ao Harmony: harmonização de dados com processamento de linguagem natural
 
 {{< youtube cEZppTBj1NI >}}
 
-**Summary**
+**Resumo**
 
-Harmony is a tool that helps researchers harmonize and compare questionnaires and instruments across social sciences, market research, and political polling. The video shows how to use Harmony to integrate data from different sources.
+O Harmony é uma ferramenta que ajuda os pesquisadores a harmonizar e comparar questionários e instrumentos em ciências sociais, pesquisa de mercado e pesquisas políticas. O vídeo mostra como usar o Harmony para integrar dados de diferentes fontes.
 
-The video begins by showing how to upload a PDF or Excel file of a questionnaire into Harmony. If the file is a PDF, Harmony will extract the questions from it. If the extraction fails, the user can edit or delete rows.
+O vídeo começa mostrando como carregar um arquivo PDF ou Excel de um questionário no Harmony. Se o arquivo for um PDF, o Harmony extrairá as perguntas dele. Se a extração falhar, o usuário pode editar ou excluir linhas.
 
-The video then shows how to select multiple questionnaires to be harmonized. In this example, the user selects the CES-D, SCARED English questionnaire, and GAD-7 Portuguese questionnaire collected in Brazil.
+O vídeo mostra como selecionar vários questionários a serem harmonizados. Neste exemplo, o usuário seleciona os questionários CES-D, SCARED English e GAD-7 Portuguese coletados no Brasil.
 
-Once the questionnaires have been selected, Harmony will match the questions from each questionnaire to the questions in the other questionnaires. The user can then adjust the match threshold percentage to control how strict or lenient the question match is.
+Uma vez selecionados os questionários, o Harmony fará a correspondência das perguntas de cada questionário com as perguntas dos outros questionários. O usuário pode então ajustar a porcentagem do limite de correspondência para controlar o grau de rigidez ou tolerância da correspondência da pergunta.
 
-The video concludes by showing how to export the harmonized data from Harmony.
+O vídeo termina mostrando como exportar os dados harmonizados do Harmony.
 
-Here are some of the key features of Harmony:
+Aqui estão alguns dos principais recursos do Harmony:
 
-* It can harmonize questionnaires in PDF or Excel format.
-* It can match questions from different questionnaires based on their meaning, not just their exact wording.
-* It allows the user to adjust the match threshold percentage to control how strict or lenient the question match is.
-* It can export the harmonized data in a variety of formats, including Excel, CSV, and JSON.
-* Harmony is a powerful tool that can help researchers harmonize and compare questionnaires and instruments across different sources. It is easy to use and can be customised to meet the specific needs of the user.
+* Pode harmonizar questionários em formato PDF ou Excel.
+* Ele pode combinar perguntas de diferentes questionários com base em seu significado, não apenas em suas palavras exatas.
+* Ele permite que o usuário ajuste a porcentagem do limite de correspondência para controlar o grau de rigidez ou tolerância da correspondência da pergunta.
+* Ele pode exportar os dados harmonizados em vários formatos, incluindo Excel, CSV e JSON.
+* O Harmony é uma ferramenta poderosa que pode ajudar os pesquisadores a harmonizar e comparar questionários e instrumentos em diferentes fontes. É fácil de usar e pode ser personalizado para atender às necessidades específicas do usuário.
 
-## Installing Harmony Python library and getting started with French and English instruments
+## Instalando a biblioteca Harmony Python e começando com instrumentos franceses e ingleses
 
 {{< youtube enWh0-4I0Sg >}}
 
-**Summary**
+**Resumo**
 
-This video is about how to install and use Harmony, a tool for harmonizing and comparing questionnaires and instruments. The video starts by explaining what Harmony is and how it can be used. Then, the video walks through the steps of installing Harmony, including installing Python, Anaconda, Tika, and Java. Once Harmony is installed, the video shows how to use it to match questionnaires. The video also shows how to download an instrument from a PDF and how to work with a multilingual model.
+Este vídeo é sobre como instalar e usar o Harmony, uma ferramenta para harmonizar e comparar questionários e instrumentos. O vídeo começa explicando o que é o Harmony e como ele pode ser usado. Em seguida, o vídeo percorre as etapas de instalação do Harmony, incluindo a instalação do Python, Anaconda, Tika e Java. Depois que o Harmony estiver instalado, o vídeo mostra como usá-lo para corresponder aos questionários. O vídeo também mostra como baixar um instrumento de um PDF e como trabalhar com um modelo multilíngue.
 
-Here are some of the key points from the video:
+Aqui estão alguns dos principais pontos do vídeo:
 
-* Harmony is a Python library that can be used to harmonise and compare questionnaires and instruments.
-* Harmony can be used to match questionnaires across different languages.
-* Harmony can be used to extract instrument texts from PDFs.
-* Harmony works with multilingual documents - in fact, it supports over eight languages!
+* Harmony é uma biblioteca Python que pode ser usada para harmonizar e comparar questionários e instrumentos.
+* Harmony pode ser usado para combinar questionários em diferentes idiomas.
+* O Harmony pode ser usado para extrair textos de instrumentos de PDFs.
+* O Harmony funciona com documentos multilíngues - na verdade, ele suporta mais de oito idiomas!
 
-The video is a good introduction to Harmony and how it can be used. The video is clear and easy to follow, and it provides a good overview of the features of Harmony.
+O vídeo é uma boa introdução ao Harmony e como ele pode ser usado. O vídeo é claro e fácil de seguir e fornece uma boa visão geral dos recursos do Harmony.
 
-Here are some of the specific steps that are shown in the video:
+Aqui estão algumas das etapas específicas mostradas no vídeo:
 
-* Installing Python and Anaconda.
-* Installing Tika and Java.
-* Downloading Harmony.
-* Loading example instruments.
-* Matching questionnaires.
-* Downloading an instrument from a PDF.
-* Working with a multilingual model.
+* Instalando Python e Anaconda.
+* Instalando Tika e Java.
+* Baixando Harmonia.
+* Carregando exemplos de instrumentos.
+* Questionários correspondentes.
+* Baixando um instrumento de um PDF.
+* Trabalhando com um modelo multilíngue.
   
-The video also includes some helpful tips, such as how to use the `match_instruments_with_function` function to use a different matching function such as OpenAI.
+O vídeo também inclui algumas dicas úteis, como usar a função `match_instruments_with_function` para usar uma função de correspondência diferente, como OpenAI.
 
-This video is a good resource for anyone with some Python programming knowledge, who wants to learn more about Harmony and become an advanced user of the tool. The video is clear, easy to follow, and provides a good overview of the features of Harmony.
+Este vídeo é um bom recurso para qualquer pessoa com algum conhecimento de programação em Python, que queira aprender mais sobre o Harmony e se tornar um usuário avançado da ferramenta. O vídeo é claro, fácil de acompanhar e oferece uma boa visão geral dos recursos do Harmony.
 
-## How easy is it to harmonise questionnaires?
+## Quão fácil é harmonizar questionários?
 
 {{< youtube uHjPNKb8SI4 >}}
 
-## How to harmonise questionnaire data in psychology using Harmony at harmonydata.ac.uk
+## Como harmonizar os dados do questionário em psicologia usando Harmony em Harmonydata.ac.uk
 
 {{< youtube IxRDAU84ACU >}}
 

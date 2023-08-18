@@ -5,135 +5,135 @@ date: 2022-11-03
 image: /images/blog/harmony-1.png
 ---
 
-When you input two questionnaires into Harmony, such as the [GAD-7](https://en.wikipedia.org/wiki/Generalized_Anxiety_Disorder_7) and [Beck’s Anxiety Inventory](https://res.cloudinary.com/dpmykpsih/image/upload/great-plains-health-site-358/media/1087/anxiety.pdf), Harmony is able to match similar questions and assign a number to the match. (I have written another blog post on [how we measured Harmony’s performance in terms of AUC](https://harmonydata.ac.uk/measuring-the-performance-of-nlp-algorithms/)).
+Quando você insere dois questionários no Harmony, como o [GAD-7](https://en.wikipedia.org/wiki/Generalized_Anxiety_Disorder_7) e o [Beck's Anxiety Inventory](https://res.cloudinary.com/dpmykpsih/ image/upload/great-plains-health-site-358/media/1087/anxiety.pdf), Harmony é capaz de combinar perguntas semelhantes e atribuir um número à correspondência. (Escrevi outra postagem no blog sobre [como medimos o desempenho do Harmony em termos de AUC](https://harmonydata.ac.uk/measuring-the-performance-of-nlp-algorithms/)).
 
-So how does Harmony achieve this?
+Então, como Harmony consegue isso?
 
-Harmony uses techniques from the field of [natural language processing](https://fastdatascience.com/what-is-nlp/) to identify when two questions deal with a similar topic. Natural language processing, or NLP, is the field of study concerning interactions between humans and computers via human language.
+O Harmony usa técnicas do campo de [processamento de linguagem natural](https://fastdatascience.com/what-is-nlp/) para identificar quando duas perguntas tratam de um tópico semelhante. Processamento de linguagem natural, ou NLP, é o campo de estudo sobre as interações entre humanos e computadores por meio da linguagem humana.
 
-## Introduction to natural language processing: the Bag of Words
+## Introdução ao processamento de linguagem natural: o saco de palavras
 
 {{< image src="images/blog/GAD-7-vs-Becks.drawio-min-1.png" alt="GAD-7-vs-Becks" >}}
 
-There are a number of approaches to quantify the similarity between strings of text. The simplest approach is known as the Bag-of-Words approach. This is *not* how Harmony currently works, but it is one of the first things we tried!
+Há uma série de abordagens para quantificar a semelhança entre strings de texto. A abordagem mais simples é conhecida como abordagem Bag-of-Words. *Não* é assim que o Harmony funciona atualmente, mas é uma das primeiras coisas que tentamos!
 
-If we want to compare the GAD-7 question 4 (*Trouble relaxing*) to the Beck’s Anxiety Inventory question 4 (*Unable to relax*), we would break down each text into the words present. We usually remove suffixes like *ing* at this stage (this is called lemmatisation).
+Se quisermos comparar a pergunta 4 do GAD-7 (*Problemas para relaxar*) com a pergunta 4 do Inventário de Ansiedade de Beck (*Incapaz de relaxar*), dividiríamos cada texto nas palavras presentes. Normalmente removemos sufixos como *ing* neste estágio (isso é chamado de lematização).
 
-|            | GAD-7 Q4 | Beck Q4 |
+| | GAD-7 Q4 | Beck Q4 |
 | ---------- | -------- | ------- |
-| trouble    | 1        | 0       |
-| relax(ing) | 1        | 1       |
-| unable     | 0        | 1       |
-| to         | 0        | 1       |
-| nervous    | 0        | 0       |
-| anxious    | 0        | 0       |
-| …          | …        | …       |
+| problemas | 1 | 0 |
+| relax(ing) | 1 | 1 |
+| incapaz | 0 | 1 |
+| para | 0 | 1 |
+| nervoso | 0 | 0 |
+| ansioso | 0 | 0 |
+| … | … | … |
 
-In total there are 4 words between the two questions. One word (*relax*) occurs in both questions. We can calculate a similarity metric using a formula called the Jaccard similarity coefficient, which is defined as the number of words in both questions, divided by the number of words in either question, so in our case
+No total, existem 4 palavras entre as duas perguntas. Uma palavra (*relax*) ocorre em ambas as perguntas. Podemos calcular uma métrica de similaridade usando uma fórmula chamada coeficiente de similaridade de Jaccard, que é definido como o número de palavras em ambas as perguntas, dividido pelo número de palavras em qualquer uma das perguntas, portanto, em nosso caso
 
 ![J(\text{``trouble relaxing''}, \text{``unable to relax''}) = \frac{1}{4} = 0.25](https://harmonydata.ac.uk/wp-content/ql-cache/quicklatex.com-1481bf052e6ff61e1fd6451407f06954_l3.svg)
 
-It is easy to see that the Jaccard similarity coefficient would come to 1 if the documents were identical and 0 if the documents were completely different.
+É fácil ver que o coeficiente de similaridade de Jaccard chegaria a 1 se os documentos fossem idênticos e 0 se os documentos fossem completamente diferentes.
 
-The obvious drawbacks of the Jaccard method are that
+As desvantagens óbvias do método Jaccard são que
 
-- It ignores syntax (the order of the words in the texts).
-- It cannot cope with synonyms.
-- It won’t notice negation (*I was not happy* and *I was very happy* both equally match *you were happy*).
-- Most crucially, our remit for the Harmony project is that we want to harmonise data from different languages, such as Portuguese and English. Clearly the bag-of-words approach would not work when the texts are in different languages, unless you translated them first.
+- Ignora a sintaxe (a ordem das palavras nos textos).
+- Não pode lidar com sinônimos.
+- Não notará negação (*eu não estava feliz* e *eu estava muito feliz* ambos correspondem igualmente a *você estava feliz*).
+- Mais importante ainda, nossa missão para o projeto Harmony é que queremos harmonizar dados de diferentes idiomas, como português e inglês. Claramente, a abordagem do saco de palavras não funcionaria quando os textos estivessem em idiomas diferentes, a menos que você os traduzisse primeiro.
 
 {{< image src="images/blog/Jaccard-checklist.drawio-min-768x634.png" alt="Jaccard checklist" >}}
 
-## Vector spaces
+## espaços vetoriais
 
-The next approach that we tried was a vector space model.
+A próxima abordagem que tentamos foi um modelo de espaço vetorial.
 
-Vector space models allow us to represent words and concepts as numbers or points on a graph. For example, if *anxious* could be (2, 3), *worried* is (3, 4) and *relax* is (8, 2). The coordinates of each concept are themselves meaningless, but if we calculate the distance between them we would see that *anxious* and *worried* are closer to each other than either is to *relax*. 
+Os modelos de espaço vetorial nos permitem representar palavras e conceitos como números ou pontos em um gráfico. Por exemplo, se *ansioso* pode ser (2, 3), *preocupado* é (3, 4) e *relaxar* é (8, 2). As coordenadas de cada conceito não têm sentido, mas se calcularmos a distância entre eles, veremos que *ansioso* e *preocupado* estão mais próximos um do outro do que *relaxar*. 
 
 {{< image src="images/blog/Word-vectors.drawio-min-1536x836.png" alt="Word vectors" >}}
 
-It’s important to note that the values of the vectors are completely arbitrary. There’s no meaning at all to where a concept is assigned on the *x* or *y* axes, but there is meaning in the distances.
+É importante notar que os valores dos vetores são completamente arbitrários. Não há nenhum significado para onde um conceito é atribuído nos eixos *x* ou *y*, mas há significado nas distâncias.
 
-Now we have a way to handle synonyms. This approach is called *word vector embeddings*
+Agora temos uma maneira de lidar com sinônimos. Essa abordagem é chamada *embeddings de vetores de palavras*
 
 {{< image src="images/blog/image.png" >}}
 
-Some real word vector values for terms occurring in our data. Typically the vectors are large, potentially up to 500 dimensions.
+Alguns valores vetoriais de palavras reais para termos que ocorrem em nossos dados. Normalmente, os vetores são grandes, potencialmente até 500 dimensões.
 
-Word vector embeddings became popular in 2013 after the Czech computer scientist Tomáš Mikolov [proposed a way that an AI can generate vectors](https://arxiv.org/abs/1310.4546) for every word in the English language simply from a huge set of documents.
+A incorporação de vetores de palavras tornou-se popular em 2013, depois que o cientista da computação tcheco Tomáš Mikolov [propôs uma maneira pela qual uma IA pode gerar vetores](https://arxiv.org/abs/1310.4546) para cada palavra no idioma inglês simplesmente a partir de um conjunto enorme de documentos.
 
 {{< image src="images/blog/newplot-28-min.png" alt="newplot" >}}
 
-To visualise the word vectors, we can squash them down into two or three dimensions. This is a 2D visualisation of the terms in the table above. I used an algorithm called [t-SNE](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding) to squash them into a flat surface.
+Para visualizar os vetores de palavras, podemos esmagá-los em duas ou três dimensões. Esta é uma visualização 2D dos termos na tabela acima. Usei um algoritmo chamado [t-SNE](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding) para esmagá-los em uma superfície plana.
 
-If you would like to experiment with word vectors yourself, you can visit the [Nordic Language Processing Laboratory’s website](http://vectors.nlpl.eu/explore/embeddings/en/#) and try it yourself.
+Se você quiser experimentar vetores de palavras, visite o [site do Nordic Language Processing Laboratory](http://vectors.nlpl.eu/explore/embeddings/en/#) e tente você mesmo.
 
-If you want to use word vector embeddings to find synonyms, you could calculate the average vector of each question, and calculate the distances between vectors in this way. This will not handle things like negation (*I do not feel anxious*) but it is much more powerful than the bag-of-words approach. Words such as *bank*, which has a different meaning depending on context, will always be represented as the same vector. 
+Se você quiser usar incorporações de vetores de palavras para encontrar sinônimos, poderá calcular o vetor médio de cada pergunta e calcular as distâncias entre os vetores dessa maneira. Isso não vai lidar com coisas como negação (*eu não me sinto ansioso*), mas é muito mais poderoso do que a abordagem do saco de palavras. Palavras como *banco*, que tem um significado diferente dependendo do contexto, sempre serão representadas como o mesmo vetor. 
 
-With the Harmony data, I found that the vector space models did not correctly identify the relationship between *child bullies others* and *child is bullied by others* – which are clearly very different questions and should not be harmonised together.
+Com os dados do Harmony, descobri que os modelos de espaço vetorial não identificaram corretamente a relação entre *criança intimida os outros* e *criança é intimidada pelos outros* – que são questões claramente muito diferentes e não devem ser harmonizadas juntas.
 
 {{< image src="images/blog/Vector-checklist.drawio-min-768x633.png" alt="Vector checklist" >}}
 
-## Transformer models
+## modelos de transformadores
 
-In 2017 a team of researchers at Google published a paper titled [Attention Is All You Need](https://arxiv.org/abs/1706.03762), where they proposed a special kind of neural network called a Transformer network which is able to move along a string of text and output a vector at each point in the document, taking into account the context in the rest of the document. 
+Em 2017, uma equipe de pesquisadores do Google publicou um artigo intitulado [Attention Is All You Need](https://arxiv.org/abs/1706.03762), onde propuseram um tipo especial de rede neural chamada rede Transformer, capaz de mover ao longo de uma string de texto e gerar um vetor em cada ponto do documento, levando em consideração o contexto no restante do documento. 
 
-The transformer neural network uses an *attention mechanism*, which is a component that causes it to pay extra attention to words in the sentence which are strongly linked to the word it’s looking at.
+A rede neural do transformador usa um *mecanismo de atenção*, que é um componente que faz com que ela preste atenção extra às palavras da frase que estão fortemente ligadas à palavra que está olhando.
 
-For example, when parsing the text *Feeling afraid as if something awful might happe*n, an attention mechanism would pay strong attention to the word *something* when parsing the word *awful*.
+Por exemplo, ao analisar o texto *Sentindo medo como se algo horrível pudesse acontecer*n, um mecanismo de atenção prestaria muita atenção à palavra *algo* ao analisar a palavra *horrível*.
 
-Vector representations of the GAD-7 and Beck's Anxiety InventoryCalculated using GPT-2Collapsed to three dimensions using t-SNE.
+Representações vetoriais do GAD-7 e do Inventário de Ansiedade de Beck Calculado usando GPT-2 Reduzido para três dimensões usando t-SNE.
 
-As an aside, transformers can also be used for machine translation (in fact Google Translate now uses transformers), and this attention enables a noun+adjective phrase to be translated to another language with the correct gender.
+Como um aparte, os transformadores também podem ser usados para tradução automática (na verdade, o Google Tradutor agora usa transformadores), e essa atenção permite que uma frase substantivo+adjetivo seja traduzida para outro idioma com o gênero correto.
 
 {{< image src="images/blog/English-Portuguese-translations.drawio.png" alt="English Portuguese translations" >}}
 
-The word *red* could be translated in various different ways into Portuguese depending on the gender and the noun to be modified. Transformer models are adept at taking these clues into context and outputting the correct translation of a phrase.
+A palavra *vermelho* pode ser traduzida de várias maneiras diferentes para o português, dependendo do gênero e do substantivo a ser modificado. Os modelos de transformadores são hábeis em levar essas pistas ao contexto e produzir a tradução correta de uma frase.
 
-For Harmony we are using an open-source AI transformer model called GPT-2, which was [developed by OpenAI in 2019](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf).
+Para o Harmony, estamos usando um modelo de transformador de IA de código aberto chamado GPT-2, que foi [desenvolvido pela OpenAI em 2019](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf).
 
-GPT-2 converts the text of each question into a vector in 1600 dimensions. 
+GPT-2 converte o texto de cada pergunta em um vetor em 1600 dimensões. 
 
-The distance between any two questions is measured according to the cosine similarity metric between the two vectors. Two questions which are similar in meaning, even if worded differently or in different languages, will have a high degree of similarity between their vector representations. Questions which are very different tend to be far apart in the vector space.
+A distância entre quaisquer duas questões é medida de acordo com a métrica de similaridade de cosseno entre os dois vetores. Duas perguntas com significado semelhante, mesmo que redigidas de maneira diferente ou em idiomas diferentes, terão um alto grau de semelhança entre suas representações vetoriais. Questões muito diferentes tendem a estar distantes no espaço vetorial.
 
 {{< image src="images/blog/Transformer-checklist.drawio-min-768x633.png" alt="Transformer checklist" >}}
 
-## Converting to a network graph
+## Convertendo para um gráfico de rede
 
-When Harmony receives two or more questionnaires, the text of each question is compared to each question in every other document. For example, GAD-7 question 1 would be vectorised and compared to all of the questions in the PHQ-9, but not to any other questions in GAD-7.
+Quando o Harmony recebe dois ou mais questionários, o texto de cada pergunta é comparado a cada pergunta em todos os outros documentos. Por exemplo, a pergunta 1 do GAD-7 seria vetorizada e comparada com todas as perguntas do PHQ-9, mas não com qualquer outra pergunta do GAD-7.
 
-We then find the closest matches and link them together in a graph.
+Em seguida, encontramos as correspondências mais próximas e as vinculamos em um gráfico.
 
-Because this approach is potentially error-prone, we have provided the facility for a user to edit the network graph and add and remove edges if they disagree with Harmony’s decisions.
+Como essa abordagem é potencialmente propensa a erros, fornecemos a facilidade para um usuário editar o gráfico de rede e adicionar e remover arestas se discordar das decisões do Harmony.
 
 {{< image src="images/blog/image-2.png" >}}
 
-The user has an option to add or remove edges from the graph.
+O usuário tem a opção de adicionar ou remover arestas do gráfico.
 
-## Open Data and Open Science
+## Dados Abertos e Ciência Aberta
 
-With an aim to make our research as accessible to the public as possible, we have made Harmony and its source code and data public. The source code and source data are on [GitHub](https://github.com/harmonydata) and runs in Python. If you have some basic knowledge of Python, feel free to download it and you can even contribute to the project, by making a branch and submitting a pull request.
+Com o objetivo de tornar nossa pesquisa o mais acessível possível ao público, tornamos o Harmony, seu código-fonte e dados públicos. O código-fonte e os dados-fonte estão no [GitHub](https://github.com/harmonydata) e são executados em Python. Se você tem algum conhecimento básico de Python, fique à vontade para baixá-lo e pode até contribuir com o projeto, fazendo um branch e enviando um pull request.
 
-## What’s next for Harmony?
+## O que vem a seguir para Harmonia?
 
-### Likert scale matching
+### Correspondência de escala de Likert
 
-The questions often come with a set of options such as *definitely not, somewhat anxious*, and the like. These are often a form of [Likert scale](https://en.wikipedia.org/wiki/Likert_scale). We would like to apply the same logic to match the candidate answers in a question, and identify when questions have opposite polarity (*I often feel anxious* vs *I rarely feel anxious*).
+As perguntas geralmente vêm com um conjunto de opções como *definitivamente não, um pouco ansioso* e assim por diante. Estes são frequentemente uma forma de [escala Likert](https://en.wikipedia.org/wiki/Likert_scale). Gostaríamos de aplicar a mesma lógica para corresponder às respostas do candidato em uma pergunta e identificar quando as perguntas têm polaridade oposta (*muitas vezes me sinto ansioso* versus *raramente me sinto ansioso*).
 
-### PDF processing
+### Processamento de PDF
 
-Harmony is designed to process input files in Excel or PDF format. Extracting the questions from a PDF is fraught with difficulty because of the huge variety of formats and numbering systems. We would like to add better support for different PDF formats.
+O Harmony foi projetado para processar arquivos de entrada no formato Excel ou PDF. Extrair as perguntas de um PDF é muito difícil devido à enorme variedade de formatos e sistemas de numeração. Gostaríamos de adicionar um melhor suporte para diferentes formatos de PDF.
 
-### Data calibration
+### Calibração de dados
 
-At present Harmony only processes the question texts but does not handle survey responses. After harmonisation, survey data calibration is the next step in the process of consolidating research from different sources. We would like to add a facility to process raw survey data into the tool.
+No momento, o Harmony processa apenas os textos das perguntas, mas não lida com as respostas da pesquisa. Após a harmonização, a calibração dos dados de pesquisa é o próximo passo no processo de consolidação da pesquisa de diferentes fontes. Gostaríamos de adicionar um recurso para processar dados brutos de pesquisa na ferramenta.
 
-### Priming, anchoring, and other effects
+### Priming, ancoragem e outros efeitos
 
-We have so far ignored the order of the questions in an instrument. In the real world, people respond differently to a question depending on the questions which have come beforehand. There may be an opportunity to model these effects in Harmony at a later stage of the project.
+Até agora ignoramos a ordem das perguntas em um instrumento. No mundo real, as pessoas respondem de maneira diferente a uma pergunta, dependendo das perguntas anteriores. Pode haver uma oportunidade de modelar esses efeitos no Harmony em um estágio posterior do projeto.
 
-## References
+## Referências
 
-1. Mikolov, Tomas; Sutskever, Ilya; Chen, Kai; Corrado, Greg S.; Dean, Jeff (2013). Distributed representations of words and phrases and their compositionality. Advances in Neural Information Processing Systems. arXiv:1310.4546. Bibcode:2013arXiv1310.4546M.
-2. Vaswani, Ashish; Shazeer, Noam; Parmar, Niki; Uszkoreit, Jakob; Jones, Llion; Gomez, Aidan N.; Kaiser, Lukasz; Polosukhin, Illia (2017-06-12). “Attention Is All You Need”. arXiv:1706.03762 [cs.CL].
-3. Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei,Ilya Sutskever, Language Models are Unsupervised Multitask Learners (2019)
+1. Mikolov, Tomas; Sutskever, Ilya; Chen, Kai; Corrado, Greg S.; Dean, Jeff (2013). Representações distribuídas de palavras e frases e sua composicionalidade. Avanços em Sistemas de Processamento de Informação Neural. arXiv:1310.4546. Código Bib:2013arXiv1310.4546M.
+2. Vaswani, Ashish; Shazeer, Noam; Parmar, Niki; Uszkoreit, Jakob; Jones, Lion; Gomez, Aidan N.; Kaiser, Lucas; Polosukhin, Illia (2017-06-12). “Atenção é tudo que você precisa”. arXiv:1706.03762 [cs.CL].
+3. Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever, Language Models are Unsupervisioned Multitask Learners (2019)

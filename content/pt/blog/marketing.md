@@ -6,52 +6,52 @@ image: /images/blog/marketing.jpg
 ---
 
 
-Marketing is important for an open science NLP project such as Harmony for several reasons:
+O marketing é importante para um projeto de PNL de ciência aberta como o Harmony por vários motivos:
 
-* To raise awareness of the project and its goals. Research projects are often complex and technical, so it's important to communicate their value and potential to a wide audience. Marketing can help to do this by creating clear and concise messaging, and by promoting the project through channels that reach the target audience. 
-* To attract contributors and collaborators. Open science projects rely on the participation of a community of contributors and collaborators. Marketing can help to attract these individuals by highlighting the project's benefits, and by providing easy ways to get involved.
-* To build support for the project. Harmony was initially funded by Wellcome, but for a finite time. Marketing can help to build support for the project by demonstrating its value, and by generating positive buzz.
+* Sensibilizar para o projeto e seus objetivos. Os projetos de pesquisa costumam ser complexos e técnicos, por isso é importante comunicar seu valor e potencial para um público amplo. O marketing pode ajudar a fazer isso criando mensagens claras e concisas e promovendo o projeto por meio de canais que atingem o público-alvo. 
+* Atrair contribuintes e colaboradores. Os projetos de ciência aberta contam com a participação de uma comunidade de contribuintes e colaboradores. O marketing pode ajudar a atrair esses indivíduos destacando os benefícios do projeto e fornecendo maneiras fáceis de se envolver.
+* Para construir o suporte para o projeto. Harmony foi inicialmente financiado pela Wellcome, mas por um tempo finito. O marketing pode ajudar a criar suporte para o projeto, demonstrando seu valor e gerando buzz positivo.
 
-In addition to these specific benefits, marketing can also help to:
+Além desses benefícios específicos, o marketing também pode ajudar a:
 
-* Increase the visibility of the project. This can lead to more downloads, more citations, and more opportunities for collaboration. We hope that more researchers use Harmony and cite us in the future.
-* Create a sense of community around the project. This can help to sustain the project over the long term.
-* Position the project as a leader in the field. This can help to attract funding, collaborators, and users.
+* Aumentar a visibilidade do projeto. Isso pode levar a mais downloads, mais citações e mais oportunidades de colaboração. Esperamos que mais pesquisadores usem o Harmony e nos citem no futuro.
+* Crie um senso de comunidade em torno do projeto. Isso pode ajudar a sustentar o projeto a longo prazo.
+* Posicione o projeto como um líder no campo. Isso pode ajudar a atrair financiamento, colaboradores e usuários.
 
-Overall, marketing is an essential part of any research project on the scale of Harmony. We don't have corporate sponsorship and we're not funded by a university department. By effectively communicating the project's value and potential, marketing can help to achieve the project's goals and make a real impact on the world.
+No geral, o marketing é uma parte essencial de qualquer projeto de pesquisa na escala da Harmonia. Não temos patrocínio corporativo e não somos financiados por um departamento universitário. Ao comunicar com eficácia o valor e o potencial do projeto, o marketing pode ajudar a atingir os objetivos do projeto e causar um impacto real no mundo.
 
-In order to raise awareness of Harmony, we have taken the following marketing initiatives:
+A fim de aumentar a conscientização sobre Harmony, tomamos as seguintes iniciativas de marketing:
 
-* We have created a website to share information about the project, its goals, and its progress.
-* We are publishing articles and blog posts about Harmony.
-* We are using social media to promote the project. This is a great way to reach a large audience and generate engagement.
+* Criamos um site para compartilhar informações sobre o projeto, seus objetivos e seu andamento.
+* Estamos publicando artigos e postagens de blog sobre Harmony.
+* Estamos usando as redes sociais para divulgar o projeto. Esta é uma ótima maneira de alcançar um grande público e gerar engajamento.
 
-In future, we plan to:
+No futuro, planejamos:
 
-* Present at conferences and workshops. This is a great way to connect with potential contributors and collaborators.
-* Attend hackathons and other events. This is a great way to connect with potential contributors and collaborators.
+* Presente em conferências e workshops. Esta é uma ótima maneira de se conectar com potenciais contribuidores e colaboradores.
+* Participe de hackathons e outros eventos. Esta é uma ótima maneira de se conectar com potenciais contribuidores e colaboradores.
 
-We hope to raise awareness, attract contributors, build support, and enable Harmony to prosper and develop further in the long term.
+Esperamos aumentar a conscientização, atrair colaboradores, obter apoio e permitir que o Harmony prospere e se desenvolva ainda mais a longo prazo.
 
-# Harmony's marketing and branding
+# Marketing e branding da Harmony
 
-We have prepared branding material for the Harmony project. In the modern online world, even academic projects can benefit from branding initiatives.
+Preparamos material de branding para o projeto Harmony. No mundo online moderno, até mesmo projetos acadêmicos podem se beneficiar de iniciativas de branding.
 
-Our brand manual is available [as a PDF](https://raw.githubusercontent.com/harmonydata/brand/main/Brandbook.pdf) and we have a Github repository with all branding resources: https://github.com/harmonydata/brand
+Nosso manual de marca está disponível [em PDF](https://raw.githubusercontent.com/harmonydata/brand/main/Brandbook.pdf) e temos um repositório Github com todos os recursos de branding: https://github.com/ Harmoniadata/marca
 
-We prepared a number of graphics using Figma (screenshot below):
+Preparamos vários gráficos usando o Figma (captura de tela abaixo):
 
 ![0de5b2](/assets/images/figma.png)
 
-These graphics feature throughout the site and on our social media accounts.
+Esses gráficos aparecem em todo o site e em nossas contas de mídia social.
 
-# Harmony branding summary
+# Resumo da marca Harmony
 
-The fonts used for Harmony are Montserrat and Pragmatica.
+As fontes usadas para Harmony são Montserrat e Pragmatica.
 
-## Primary colours
+## Cores primárias
 
-### Aquamarine
+### água-marinha
 
 ![0de5b2](https://raw.githubusercontent.com/harmonydata/brand/main/colours/0de5b2.svg)
 ```
@@ -61,7 +61,7 @@ The fonts used for Harmony are Montserrat and Pragmatica.
 rgb(13, 229, 178)
 ```
 
-### Pann blue
+### Pann azul
 
 ![0f1854](https://raw.githubusercontent.com/harmonydata/brand/main/colours/0f1854.svg)
 ```
@@ -71,7 +71,7 @@ rgb(13, 229, 178)
 rgb(15, 24, 84)
 ```
 
-### Palatinate Blue
+### Palatinado Azul
 
 ![2b45ed](https://raw.githubusercontent.com/harmonydata/brand/main/colours/2b45ed.svg)
 ```
@@ -81,9 +81,9 @@ rgb(15, 24, 84)
 rgb(43, 69, 237)
 ```
 
-You can also have Gradient (Aquamarine + Platinate Blue)
+Você também pode ter Gradiente (Aquamarine + Platinate Blue)
 
-### White
+### Branco
 
 ![fefcfb](https://raw.githubusercontent.com/harmonydata/brand/main/colours/fefcfb.svg)
 ```
@@ -94,7 +94,7 @@ rgb(254, 252, 251)
 ```
 
 
-## Additional colours
+## Cores adicionais
 
 
 ![00af54](https://raw.githubusercontent.com/harmonydata/brand/main/colours/00af54.svg)

@@ -9,6 +9,8 @@
 <meta name="application-name" content="{{ if .IsHome }}{{ .Site.Title }} | {{ .Title | markdownify | plainify | default .Site.Params.description }}{{ else }}{{ .Title | markdownify | plainify }} | {{ .Site.Title }}{{ end }}" />
 <meta property="og:site_name" content="{{ .Site.Params.sitename }}" />
 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+
 <meta name="description" content="{{ .Params.description | default .Site.Params.description }}" />
 <meta property="og:description" content="{{ .Params.description | default .Site.Params.description }}" />
 <meta name="twitter:description" content="{{ .Params.description | default .Site.Params.description }}" />

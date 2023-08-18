@@ -6,93 +6,93 @@ image: /images/blog/harmony_api.png
 ---
 
 
-We are pleased to announce that the Harmony REST API is now released. The source code is at https://github.com/harmonydata/harmonyapi and the API reference PDF can be seen at https://github.com/harmonydata/harmonyapi/blob/main/docs/API_reference.pdf.
+Temos o prazer de anunciar que a API REST do Harmony foi lançada. O código-fonte está em https://github.com/harmonydata/harmonyapi e o PDF de referência da API pode ser visto em https://github.com/harmonydata/harmonyapi/blob/main/docs/API_reference.pdf.
 
-Meanwhile, you can install and run Harmony Python library with
+Enquanto isso, você pode instalar e executar a biblioteca Harmony Python com
 
 ```
 pip install harmonydata
 ```
 
 
-## How does Harmony work in layman's terms?
+## Como o Harmony funciona em termos leigos?
 
-Harmony compares questions from different instruments by converting them to a vector representation and calculating their similarity. You can read more at https://harmonydata.org/how-does-harmony-work/ 
+O Harmony compara questões de diferentes instrumentos convertendo-as em uma representação vetorial e calculando sua similaridade. Você pode ler mais em https://harmonydata.org/how-does-harmony-work/ 
 
-## Do you want to run Harmony in your browser locally from a pre-built Docker container? 
+## Deseja executar o Harmony em seu navegador localmente a partir de um contêiner Docker pré-construído? 
 
-Download and install Docker:
+Baixe e instale o Docker:
 
 * https://docs.docker.com/desktop/install/mac-install/
 * https://docs.docker.com/desktop/install/windows-install/
 * https://docs.docker.com/desktop/install/linux-install/
 
-Open a Terminal and run
+Abra um Terminal e execute
 
 ```
 docker run -p 8000:8000 -p 3000:3000 harmonydata/harmonylocal
 ```
 
-Then go to http://localhost:3000 in your browser.
+Em seguida, acesse http://localhost:3000 em seu navegador.
 
-## Docker images
+## Imagens do Docker
 
-If you are a Docker user, you can run Harmony from a pre-built Docker image.
+Se você for um usuário do Docker, poderá executar o Harmony a partir de uma imagem pré-criada do Docker.
 
-* https://hub.docker.com/repository/docker/harmonydata/harmonyapi - just the Harmony API
-* https://hub.docker.com/repository/docker/harmonydata/harmonylocal - Harmony API and React front end
+* https://hub.docker.com/repository/docker/harmonydata/harmonyapi - apenas a API Harmony
+* https://hub.docker.com/repository/docker/harmonydata/harmonylocal - Harmony API e React front end
 
-# Getting started: running and developing the API on your computer using Docker
+# Introdução: executando e desenvolvendo a API em seu computador usando o Docker
 
-A prerequisite is Tika, which is a PDF parsing library. This must run as a server in Java. We use the Tika Python bindings.
+Um pré-requisito é Tika, que é uma biblioteca de análise de PDF. Isso deve ser executado como um servidor em Java. Usamos as ligações Tika Python.
 
-First, clone the API and make sure to clone with `--recurse-submodules`.
+Primeiro, clone a API e certifique-se de clonar com `--recurse-submodules`.
 
 ```
 git clone --recurse-submodules git@github.com:harmonydata/harmonyapi.git
 ```
 
-The Harmony API includes the `harmony` repo as a submodule using its SSH clone address. So for this clone to work you will may to enable SSH access on your Github account (i.e. add a public key to https://github.com/settings/keys. If you get an access error when trying to clone the repo then that is probably what has gone wrong.)
+A API Harmony inclui o repositório `harmony` como um submódulo usando seu endereço de clone SSH. Portanto, para que este clone funcione, você poderá habilitar o acesso SSH em sua conta do Github (ou seja, adicionar uma chave pública a https://github.com/settings/keys. Se você receber um erro de acesso ao tentar clonar o repositório, isso é provavelmente o que deu errado.)
 
-## 1. Run Tika
+## 1. Execute o Tika
 
-Download and install Java if you don't have it already. Download and install Apache Tika and run it on your computer https://tika.apache.org/download.html
+Baixe e instale o Java, caso ainda não o tenha. Baixe e instale o Apache Tika e execute-o em seu computador https://tika.apache.org/download.html
 
 ```
 java -jar tika-server-standard-2.3.0.jar
 ```
 
-## 2. Build Docker container
+## 2. Crie um contêiner do Docker
 
 ```
 docker build -t harmonyapi .
 ```
 
-## 3. Run Docker container
+## 3. Execute o contêiner do Docker
 
-Don't forget to expose port 8080:
+Não se esqueça de expor a porta 8080:
 
 ```
 docker run -p 8080:80 harmonyapi
 ```
 
-You should now be able to visit http://0.0.0.0:8080/docs and view the data.
+Agora você deve ser capaz de visitar http://0.0.0.0:8080/docs e visualizar os dados.
 
-If you want to run the Harmony API container and execute Bash commands inside it, you can run:
+Se você deseja executar o contêiner Harmony API e executar comandos Bash dentro dele, você pode executar:
 
 ```
 docker run -it harmonyapi bash
 ```
 
-# Architecture of deployed Harmony API server
+# Arquitetura do servidor Harmony API implantado
 
-Harmony is deployed with Docker Compose - see `docker_compose.yml`.
+O Harmony é implantado com o Docker Compose - consulte `docker_compose.yml`.
 
-## MHC data
+## dados MHC
 
-When the app is run, there is an environment variable `HARMONY_DATA_PATH` which is set to `/data` on the production server, and that's where you need to put any data files. But you could set it to anything you like on your local machine e.g. `/home/xxx/data/` and put the files there and it will find them.
+Quando o aplicativo é executado, há uma variável de ambiente `HARMONY_DATA_PATH` que é definida como `/data` no servidor de produção, e é aí que você precisa colocar todos os arquivos de dados. Mas você pode configurá-lo para qualquer coisa que quiser em sua máquina local, por exemplo, `/home/xxx/data/` e colocar os arquivos lá e ele os encontrará.
 
-These 3 files are the files it looks for in the /data folder, although the app will run without them. It's a cached version of the Mental Health Catalogue:
+Esses 3 arquivos são os arquivos que ele procura na pasta /data, embora o aplicativo seja executado sem eles. É uma versão em cache do Catálogo de Saúde Mental:
 
 ```
 mhc_all_metadatas.json
@@ -100,11 +100,11 @@ mhc_embeddings.npy
 mhc_questions.json
 ```
 
-When Harmony is deployed to Azure, there is an Azure blob storage which is mounted under `/data`.
+Quando o Harmony é implantado no Azure, há um armazenamento de blob do Azure que é montado em `/data`.
 
-## Environment variables
+## Variáveis ambientais
 
-There are also other environment variables which tell the API where to look to load the sentence transformer or contact Tika:
+Existem também outras variáveis de ambiente que informam à API onde procurar para carregar o transformador de sentença ou entrar em contato com a Tika:
 
 ```
      environment:
@@ -113,46 +113,46 @@ There are also other environment variables which tell the API where to look to l
        TIKA_SERVER_ENDPOINT: http://tika:9998
 ```
 
-`HARMONY_DATA_PATH` - determines where model files are stored. Defaults to `HOME DIRECTORY/harmony`
+`HARMONY_DATA_PATH` - determina onde os arquivos de modelo são armazenados. O padrão é 'HOME DIRECTORY/harmony'
 
-You can ideally set these environment variables to show Harmony where to look for dependencies and data, but it will work without it (it will download the sentence transformer from HuggingFace Hub, etc).
+Idealmente, você pode definir essas variáveis de ambiente para mostrar ao Harmony onde procurar dependências e dados, mas funcionará sem ele (ele fará o download do transformador de sentença do HuggingFace Hub, etc).
 
-The deployed Harmony uses an Azure Function to run spaCy, available in the repository here: https://github.com/harmonydata/spacyfunctionapp
+O Harmony implantado usa uma função do Azure para executar o spaCy, disponível no repositório aqui: https://github.com/harmonydata/spaceyfunctionapp
 
-You can ideally set these environment variables to show Harmony where to look for dependencies and data, but it will work without it (it will download the sentence transformer from HuggingFace Hub, etc).
+Idealmente, você pode definir essas variáveis de ambiente para mostrar ao Harmony onde procurar dependências e dados, mas funcionará sem ele (ele fará o download do transformador de sentença do HuggingFace Hub, etc).
 
-So to run locally with Docker Compose you can do 
+Então, para executar localmente com o Docker Compose, você pode fazer 
 
 ```
 docker compose up
 ```
 
-# Harmony FastAPI API implementation
+# Implementação da API Harmony FastAPI
 
-If you are not running with Docker, you can run the individual components of the Harmony API separately.
+Se você não estiver executando com o Docker, poderá executar os componentes individuais da API do Harmony separadamente.
 
-Architecture of the Harmony implementation on Azure with FastAPI:
+Arquitetura da implementação do Harmony no Azure com FastAPI:
 
 {{< image src="images/blog/harmony_architecture_azure.png" alt="harmony architecture azure" >}}
 
 
-# Getting started with the Harmony Python library
+# Introdução à biblioteca Harmony Python
 
-## Installing Python library
+## Instalando a biblioteca Python
 
-You can install from [PyPI](https://pypi.org/project/harmonydata/0.1.0/).
+Você pode instalar a partir de [PyPI](https://pypi.org/project/harmonydata/0.1.0/).
 
 ```
 pip install harmonydata
 ```
 
-You can read the user guide at [./harmony_pypi_package/README.md](harmony_pypi_package/README.md).
+Você pode ler o guia do usuário em [./harmony_pypi_package/README.md](harmony_pypi_package/README.md).
 
-## Calling the Harmony API
+## Chamando a API do Harmony
 
-### Parsing a raw file into an Instrument
+### Analisando um arquivo bruto em um instrumento
 
-If you want to read in a raw (unstructured) PDF or Excel file, you can do this via a POST request to the REST API. This will convert the file into an Instrument object in JSON.
+Se você deseja ler um arquivo PDF ou Excel bruto (não estruturado), pode fazer isso por meio de uma solicitação POST para a API REST. Isso converterá o arquivo em um objeto Instrument em JSON.
 
 ```
 curl -X 'POST' \
@@ -182,7 +182,7 @@ curl -X 'POST' \
 ]'
 ```
 
-**Example response from the /parse endpoint:**
+**Exemplo de resposta do endpoint /parse:**
 
 ```
 [
@@ -214,9 +214,9 @@ curl -X 'POST' \
 ]
 ```
 
-### Matching instruments
+### instrumentos de harmonização
 
-You can request the similarities between instruments with a second POST request:
+Você pode solicitar as semelhanças entre os instrumentos com uma segunda solicitação POST:
 
 ```
 curl -X 'POST' \
@@ -304,9 +304,9 @@ curl -X 'POST' \
 }'
 ```
 
-**Example response**
+** Exemplo de resposta**
 
-The response contains a dictionary with three key-value pairs: `questions` (the questions matched in order), `matches` (the matrix of matches between all items), and `query_similarity` (the degree of similarity to the query term).
+A resposta contém um dicionário com três pares chave-valor: `questions` (as perguntas correspondentes em ordem), `matches` (a matriz de correspondências entre todos os itens) e `query_similarity` (o grau de semelhança com o termo de consulta) .
 
 ```
 {
@@ -327,45 +327,45 @@ The response contains a dictionary with three key-value pairs: `questions` (the 
 }
 ```
 
-## Alternative serverless deployment on AWS Lambda
+## Implantação sem servidor alternativa no AWS Lambda
 
-This repository also contains code for an alternative serverless deployment on AWS Lambda. The deployment has been divided into four AWS Lambda functions, managed by Terraform. Please refer to folder `serverless_deployment` for details.
+Este repositório também contém código para uma implantação sem servidor alternativa no AWS Lambda. A implantação foi dividida em quatro funções do AWS Lambda, gerenciadas pelo Terraform. Consulte a pasta `serverless_deployment` para obter detalhes.
 
 {{< image src="images/blog/deployed_harmony_architecture.png" alt="deployed harmony architecture" >}}
 
 
-# License
+# Licença
 
-License: MIT License
+Licença: Licença MIT
 
-# Contact
+# Contato
 
 thomas@fastdatascience.com
 
-## Built With
+## construído com
 
-- [Docker](https://docs.docker.com/) - Used for deployment to the web
-- [Apache Tika](https://tika.apache.org/) - Used for parsing PDFs to text
-- [HuggingFace](https://huggingface.co/) - Used for machine learning
-- [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2) - SentenceBERT model
-- [spaCy](https://spacy.io/) - Used for NLP analysis
-- [NLTK](https://www.nltk.org/) - Used for NLP analysis
-- [Scikit-Learn](https://scikit-learn.org/) - Used for machine learning
+- [Docker](https://docs.docker.com/) - Usado para implantação na web
+- [Apache Tika](https://tika.apache.org/) - Usado para converter PDFs em texto
+- [HuggingFace](https://huggingface.co/) - Usado para aprendizado de máquina
+- [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2) - modelo SentenceBERT
+- [spaCy](https://spacy.io/) - Usado para análise de PNL
+- [NLTK](https://www.nltk.org/) - Usado para análise de PNL
+- [Scikit-Learn](https://scikit-learn.org/) - Usado para aprendizado de máquina
 
-## Licences of Third Party Software
+## Licenças de software de terceiros
 
-- Apache Tika: [Apache 2.0 License](https://tika.apache.org/license.html)
-- spaCy: [MIT License](https://github.com/explosion/spaCy/blob/master/LICENSE)
-- NLTK: [Apache 2.0 License](https://github.com/nltk/nltk/blob/develop/LICENSE.txt)
+- Apache Tika: [Licença Apache 2.0](https://tika.apache.org/license.html)
+- spaCy: [Licença MIT](https://github.com/explosion/spaCy/blob/master/LICENSE)
+- NLTK: [Licença Apache 2.0](https://github.com/nltk/nltk/blob/develop/LICENSE.txt)
 - Scikit-Learn: [BSD 3-Clause](https://github.com/scikit-learn/scikit-learn/blob/main/COPYING)
 - 
-## How do I cite Harmony?
+## Como faço para citar Harmonia?
 
-If you would like to cite the tool alone, you can cite:
+Caso queira citar apenas a ferramenta, você pode citar:
 
-Wood, T.A., McElroy, E., Moltrecht, B., Ploubidis, G.B., Scopel Hoffmann, M., Harmony [Computer software], Version 1.0, accessed at https://app.harmonydata.org. Ulster University (2022)
+Wood, TA, McElroy, E., Moltrecht, B., Ploubidis, GB, Scopel Hoffmann, M., Harmony [Software de computador], Versão 1.0, acessado em https://app.harmonydata.org. Universidade do Ulster (2022)
 
-A BibTeX entry for LaTeX users is
+Uma entrada BibTeX para usuários LaTeX é
 
 ```
 @unpublished{harmony,
@@ -377,9 +377,9 @@ A BibTeX entry for LaTeX users is
 }
 ```
 
-You can also cite the wider Harmony project which is registered with the Open Science Foundation:
+Você também pode citar o projeto Harmony mais amplo, registrado na Open Science Foundation:
 
-McElroy, E., Moltrecht, B., Scopel Hoffmann, M., Wood, T. A., & Ploubidis, G. (2023, January 6). Harmony – A global platform for contextual harmonisation, translation and cooperation in mental health research. Retrieved from osf.io/bct6k
+McElroy, E., Moltrecht, B., Scopel Hoffmann, M., Wood, TA e Ploubidis, G. (2023, 6 de janeiro). Harmony – Uma plataforma global para harmonização contextual, tradução e cooperação em pesquisa em saúde mental. Recuperado de osf.io/bct6k
 
 ```
 @misc{McElroy_Moltrecht_Scopel Hoffmann_Wood_Ploubidis_2023,
@@ -392,51 +392,51 @@ McElroy, E., Moltrecht, B., Scopel Hoffmann, M., Wood, T. A., & Ploubidis, G. (2
 }
 ```
 
-# API Reference
+# Referência da API
 
 # Harmony API
 
-API Version: 2.
+Versão da API: 2.
 
-Documentation for Harmony API.
+Documentação para Harmony API.
 
-Harmony is a tool using AI which allows you to compare items from questionnaires and identify similar content.
+O Harmony é uma ferramenta que usa IA que permite comparar itens de questionários e identificar conteúdos semelhantes.
 You can try Harmony at <a href="https://app.harmonydata.org">app.harmonydata.org</a> and you can read our blog
 at <a href="https://harmonydata.org/blog/">harmonydata.org/blog/</a>.
 
-CONTACT
+CONTATO
 
-NAME: Thomas Wood
+NOME: Thomas Wood
 URL: https://fastdatascience.com
 
 
-## INDEX
+## ÍNDICE
 
-- 1. HEALTH CHECK
-- 1.1 GET /health-check
-- 2. INFO
-- 2.1 GET /info/version
-- 3. TEXT
-- 3.1 POST /text/parse
-- 3.2 POST /text/match
-- 3.3 POST /text/examples
-- 3.4 GET /text/cache
+- 1. VERIFICAÇÃO DE SAÚDE
+- 1.1 GET / verificação de integridade
+- 2. INFORMAÇÕES
+- 2.1 GET /info/versão
+- 3. TEXTO
+- 3.1 POST /texto/parse
+- 3.2 POST /texto/correspondência
+- 3.3 POST /texto/exemplos
+- 3.4 GET /texto/cache
 
 
 ## API
 
-## 1. HEALTH CHECK
+## 1. VERIFICAÇÃO DE SAÚDE
 
-## 1.1 GET /health-check
+## 1.1 GET / verificação de integridade
 
-Health Check
+Exame de saúde
 
-REQUEST
+SOLICITAR
 
 ```
 No request parameters
 ```
-RESPONSE
+RESPOSTA
 
 ```
 STATUS CODE - 200: Successful Response
@@ -446,18 +446,18 @@ RESPONSE MODEL - application/json
 undefined
 ```
 
-## 2. INFO
+## 2. INFORMAÇÕES
 
-## 2.1 GET /info/version
+## 2.1 GET /info/versão
 
-Show Version
+Mostrar versão
 
-REQUEST
+SOLICITAR
 
 ```
 No request parameters
 ```
-RESPONSE
+RESPOSTA
 
 ```
 STATUS CODE - 200: Successful Response
@@ -467,19 +467,19 @@ RESPONSE MODEL - application/json
 undefined
 ```
 
-## 3. TEXT
+## 3. TEXTO
 
-## 3.1 POST /text/parse
+## 3.1 POST /texto/parse
 
-Parse Instruments
-Parse PDFs or Excels or text files into Instruments, and identifies the language.
+Analisar instrumentos
+Analisa PDFs ou Excels ou arquivos de texto em Instrumentos e identifica o idioma.
 
-If the file is binary (Excel or PDF), you must supply each file with the content in MIME format and the bytes in base
-encoding, like the example RawFile in the schema.
+Se o arquivo for binário (Excel ou PDF), deve-se fornecer a cada arquivo o conteúdo em formato MIME e os bytes em base
+codificação, como o exemplo RawFile no esquema.
 
-If the file is plain text, supply the file content as a standard string.
+Se o arquivo for texto simples, forneça o conteúdo do arquivo como uma string padrão.
 
-REQUEST
+SOLICITAR
 
 ```
 REQUEST BODY - application/json
@@ -495,7 +495,7 @@ text_content string The plain text content
 tables [undefined]
 }]
 ```
-RESPONSE
+RESPOSTA
 
 ```
 STATUS CODE - 200: Successful Response
@@ -571,12 +571,12 @@ type* string
 }]
 }
 ```
-## 3.2 POST /text/match
+## 3.2 POST /texto/correspondência
 
-Match
-Match instruments
+Corresponder
+Instrumentos de jogo
 
-REQUEST
+SOLICITAR
 
 ```
 REQUEST BODY - application/json
@@ -639,7 +639,7 @@ Model
 }
 }
 ```
-RESPONSE
+RESPOSTA
 
 ```
 STATUS CODE - 200: Successful Response
@@ -690,18 +690,18 @@ type* string
 }]
 }
 ```
-## 3.3 POST /text/examples
+## 3.3 POST /texto/exemplos
 
-Get Example Instruments
+Obter instrumentos de exemplo
 
-Get example instruments
+Obter instrumentos de exemplo
 
-REQUEST
+SOLICITAR
 
 ```
 No request parameters
 ```
-RESPONSE
+RESPOSTA
 
 ```
 STATUS CODE - 200: Successful Response
@@ -757,17 +757,17 @@ Automatically identified nearest MHC match
 }]
 }]
 ```
-## 3.4 GET /text/cache
+## 3.4 GET /texto/cache
 
-Get Cache
-Get all items in cache
+Obter Cache
+Obter todos os itens no cache
 
-REQUEST
+SOLICITAR
 
 ```
 No request parameters
 ```
-RESPONSE
+RESPOSTA
 
 ```
 STATUS CODE - 200: Successful Response
@@ -783,47 +783,47 @@ instrument_name string DEFAULT:Untitled instrument
 Human-readable name of the instrument
 ```
 
-file_name string DEFAULT:Untitled file
-The name of the input file
-file_type enum ALLOWED:pdf, xlsx, txt, docx
-The file type (pdf, xlsx, txt)
-file_section string The sub-section of the file, e.g. Excel tab
-study string The study
-sweep string The sweep
+file_name string DEFAULT:Arquivo sem título
+O nome do arquivo de entrada
+file_type enum PERMITIDO:pdf, xlsx, txt, docx
+O tipo de arquivo (pdf, xlsx, txt)
+file_section string A subseção do arquivo, por exemplo, guia Excel
+cadeia de estudo O estudo
+sequência de varredura A varredura
 metadata {
-Optional metadata about the instrument (URL, citation, DOI, copyright holder)
+Metadados opcionais sobre o instrumento (URL, citação, DOI, detentor dos direitos autorais)
 }
-language enum DEFAULT:en
-ALLOWED:de, el, en, es, fr, it, he, ja, ko, pt, ru, uk,
+idioma enum DEFAULT:en
+PERMITIDO: de, el, en, es, fr, it, he, ja, ko, pt, ru, uk,
 zh, ar, la, tr, af, ak, am, as, ay, az, be, bg, bho,
 bm, bn, bs, ca, ceb, ckb, co, cs, cy, da, doi, dv, ee,
 eo, et, eu, fa, fi, fil, fy, ga, gd, gl, gn, gom, gu,
-ha, haw, hi, hmn, hr, ht, hu, hy, id, ig, ilo, is, jv,
+ha, haw, oi, hmn, hr, ht, hu, hy, id, ig, ilo, is, jv,
 ka, kk, km, kn, kri, ku, ky, lb, lg, ln, lo, lt, lus,
 lv, mai, mg, mi, mk, ml, mn, mni-mtei, mr, ms, mt, my,
-ne, nl, no, nso, ny, om, or, pa, pl, ps, qu, ro, rw,
+ne, nl, não, nso, ny, om, ou, pa, pl, ps, qu, ro, rw,
 sa, sd, si, sk, sl, sm, sn, so, sq, sr, st, su, sv,
 sw, ta, te, tg, th, ti, tk, tl, ts, tt, ug, ur, uz,
 vi, xh, yi, yo, zh-tw, zu, yue
-The ISO 639-2 (alpha-2) encoding of the instrument language
+A codificação ISO 639-2 (alfa-2) do idioma do instrumento
 questions* [{
-Array of object:
-question_no string Number of the question
-question_intro string Introductory text applying to the question
-question_text* string Text of the question
-options [string]
-source_page integer DEFAULT: 0
-The page of the PDF on which the question was located, zero-indexed
-instrument_id string Unique identifier for the instrument (UUID-4)
-instrument_name string Human readable name for the instrument
-topics_auto [undefined]
+Matriz de objeto:
+question_no string Número da pergunta
+question_intro string Texto introdutório aplicável à pergunta
+question_text* string Texto da pergunta
+opções [string]
+source_page inteiro PADRÃO: 0
+A página do PDF em que a pergunta foi localizada, indexada em zero
+instrument_id string Identificador exclusivo para o instrumento (UUID-4)
+instrument_name string Nome legível por humanos para o instrumento
+tópicos_auto [indefinido]
 nearest_match_from_mhc_auto {
-Automatically identified nearest MHC match
+Correspondência MHC mais próxima identificada automaticamente
 }
 }]
 }]
 vectors* [{
-Array of object:
+Matriz de objeto:
 }]
 }
 

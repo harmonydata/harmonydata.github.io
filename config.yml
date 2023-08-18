@@ -153,6 +153,7 @@ languages:
     copyright: Copyright © 2023 Ulster University.
     languageName: Pt
     contentDir: content/pt
+    languageCode: pt-BR
     weight: 2
     menu:
       navbar:

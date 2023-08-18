@@ -2,27 +2,27 @@
 title: Frequently Asked Questions
 ---
 
-## What is harmonisation?
+## O que é harmonização?
 
-Harmonisation means taking variables from different studies and manipulating them to make them comparable.
+Harmonização significa pegar variáveis de diferentes estudos e manipulá-las para torná-las comparáveis.
 
-For example, if we have datasets of depression from different countries, which is typically measured using a questionnaire, how can we harmonise two depression questionnaires? Typically this is a manual process – we would look at the content and find common elements between the questionnaires.
+Por exemplo, se tivermos conjuntos de dados de depressão de diferentes países, que normalmente são medidos por meio de um questionário, como podemos harmonizar dois questionários de depressão? Normalmente, este é um processo manual – olharíamos para o conteúdo e encontraríamos elementos comuns entre os questionários.
 
-For an example of a pre-existing harmonisation tool, please see:
+Para um exemplo de uma ferramenta de harmonização pré-existente, consulte:
 
-McElroy, E., Villadsen, A., Patalay, P., Goodman, A., Richards, M., Northstone, K., Fearon, P., Tibber, M., Gondek, D., & Ploubidis, G.B. (2020). [Harmonisation and Measurement Properties of Mental Health Measures in Six British Cohorts](https://www.closer.ac.uk/wp-content/uploads/210715-Harmonisation-measurement-properties-mental-health-measures-british-cohorts.pdf). London, UK: CLOSER.
+McElroy, E., Villadsen, A., Patalay, P., Goodman, A., Richards, M., Northstone, K., Fearon, P., Tibber, M., Gondek, D., & Ploubidis, GB ( 2020). [Propriedades de harmonização e medição de medidas de saúde mental em seis coortes britânicas](https://www.closer.ac.uk/wp-content/uploads/210715-Harmonisation-measurement-properties-mental-health-measures-british-cohorts .pdf). Londres, Reino Unido: CLOSER.
 
-## What does Harmony do?
+## O que a Harmonia faz?
 
-Harmony is a tool that helps researchers automate the process of harmonisation using [natural language processing](https://fastdatascience.com/what-is-nlp/).
+O Harmony é uma ferramenta que ajuda os pesquisadores a automatizar o processo de harmonização usando [processamento de linguagem natural](https://fastdatascience.com/what-is-nlp/).
 
-## How do I cite Harmony?
+## Como faço para citar Harmonia?
 
-If you would like to cite the tool alone, you can cite:
+Caso queira citar apenas a ferramenta, você pode citar:
 
-Wood, T.A., McElroy, E., Moltrecht, B., Ploubidis, G.B., Scopel Hoffmann, M., Harmony [Computer software], Version 1.0, accessed at https://harmonydata.ac.uk/app. Ulster University (2022)
+Wood, TA, McElroy, E., Moltrecht, B., Ploubidis, GB, Scopel Hoffmann, M., Harmony [Computer software], Versão 1.0, acessado em https://harmonydata.ac.uk/app. Universidade do Ulster (2022)
 
-A BibTeX entry for LaTeX users is
+Uma entrada BibTeX para usuários LaTeX é
 
 ```vshell
 @unpublished{harmony,
@@ -34,9 +34,9 @@ A BibTeX entry for LaTeX users is
 }
 ```
 
-You can also cite the wider Harmony project which is registered with the [Open Science Foundation](https://osf.io/bct6k/):
+Você também pode citar o projeto Harmony mais amplo que está registrado na [Open Science Foundation](https://osf.io/bct6k/):
 
-McElroy, E., Moltrecht, B., Scopel Hoffmann, M., Wood, T. A., & Ploubidis, G. (2023, January 6). Harmony – A global platform for contextual harmonisation, translation and cooperation in mental health research. Retrieved from osf.io/bct6k
+McElroy, E., Moltrecht, B., Scopel Hoffmann, M., Wood, TA e Ploubidis, G. (2023, 6 de janeiro). Harmony – Uma plataforma global para harmonização contextual, tradução e cooperação em pesquisa em saúde mental. Recuperado de osf.io/bct6k
 
 ```vshell
 @misc{McElroy_Moltrecht_Scopel Hoffmann_Wood_Ploubidis_2023,
@@ -49,49 +49,49 @@ McElroy, E., Moltrecht, B., Scopel Hoffmann, M., Wood, T. A., & Ploubidis, G. (2
 }
 ```
 
-## Does Harmony store my data?
+## A Harmony guarda os meus dados?
 
-If you upload a questionnaire or instrument, Harmony does not store or save it. You can read more on our [Privacy Policy page](https://harmonydata.ac.uk/privacy-policy/).
+Se você carregar um questionário ou instrumento, o Harmony não o armazena ou salva. Você pode ler mais em nossa [página de Política de Privacidade](https://harmonydata.ac.uk/privacy-policy/).
 
-## How does Harmony work?
+## Como funciona o Harmonia?
 
-Harmony passes the text of each questionnaire item through a neural network called Sentence-BERT, in order to convert it into a vector. The similarity of two texts is then measured as the similarity between their vectors. Two identical texts have a similarity of 100% while two completely different texts have a similarity of 0%. You can read more in this [technical blog post](https://harmonydata.ac.uk/how-does-harmony-work/) and you can even download and run Harmony’s [source code](https://github.com/harmonydata/harmony).
+O Harmony passa o texto de cada item do questionário por uma rede neural chamada Sentence-BERT, para convertê-lo em um vetor. A similaridade de dois textos é então medida como a similaridade entre seus vetores. Dois textos idênticos têm uma semelhança de 100%, enquanto dois textos completamente diferentes têm uma semelhança de 0%. Você pode ler mais nesta [postagem técnica do blog](https://harmonydata.ac.uk/how-does-harmony-work/) e pode até baixar e executar o [código-fonte] do Harmony(https://github. com/harmonydata/harmony).
 
-## How reliable is Harmony?
+## Quão confiável é o Harmony?
 
-Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: childhood **84%**, adulthood **80%**. Harmony was able to match the questions of the English and Portuguese GAD-7 instruments with AUC **100%** and the Portuguese CBCL and SDQ with AUC **89%**. You can read more in [this blog post](https://harmonydata.ac.uk/measuring-the-performance-of-nlp-algorithms/).
+Harmony conseguiu reconstruir as correspondências da ferramenta de harmonização do questionário desenvolvida por McElroy et al em 2020 com as seguintes pontuações AUC: infância **84%**, idade adulta **80%**. O Harmony foi capaz de igualar as questões dos instrumentos GAD-7 em inglês e português com AUC **100%** e o CBCL e SDQ em português com AUC **89%**. Você pode ler mais em [esta postagem no blog](https://harmonydata.ac.uk/measuring-the-performance-of-nlp-algorithms/).
 
-## What do the numbers mean?
+## O que os números significam?
 
 The numbers are the cosine similarity of document vectors. The cosine similarity of two vectors can range from -1 to 1 based on the angle between the two vectors being compared. We have converted these to percentages. We have also used a preprocessing stage to convert positive sentences to negative and vice-versa (e.g. _I feel anxious_ -> _I do not feel anxious_). If the match between two sentences improves once this preprocessing has been applied, then the items are assigned a negative similarity.
 
-## Does Harmony give p-values?
+## O Harmony fornece valores-p?
 
-At this time Harmony does not give p-values. Harmony matches vectors using a cosine score and p-values are not applicable in this context.
+Neste momento, o Harmony não fornece valores-p. Harmonia combina vetores usando uma pontuação de cosseno e valores p não são aplicáveis neste contexto.
 
-## How should I report the numbers from Harmony in my paper?
+## Como devo reportar os números do Harmony no meu jornal?
 
-Items were matched on content using the online tool [Harmony](https://harmonydata.ac.uk/), which matches items by converting text to vectors using a transformer neural network ([Reimers & Gurevych, 2019](https://arxiv.org/abs/1908.10084)). Harmony produces a cosine score ranging from +/- 1, with values closer to 1 indicating a closer match.
+Os itens foram combinados no conteúdo usando a ferramenta online [Harmony](https://harmonydata.ac.uk/), que combina itens convertendo texto em vetores usando uma rede neural transformadora ([Reimers & Gurevych, 2019](https:/ /arxiv.org/abs/1908.10084)). O Harmony produz uma pontuação de cosseno variando de +/- 1, com valores mais próximos de 1 indicando uma correspondência mais próxima.
 
-## How does Harmony compare to human harmonisation?
+## Como a Harmonia se compara à harmonização humana?
 
-If you imagine as a human, trying to match items in a questionnaire, you might decide that “I feel depressed” and “I feel sad” are similar. If you had to place them on the surface of a sphere, you might place them close to each other. Whereas different concepts might be far from each other.
+Se você se imaginar como um ser humano, tentando combinar os itens de um questionário, poderá concluir que “sinto-me deprimido” e “sinto-me triste” são semelhantes. Se você tivesse que colocá-los na superfície de uma esfera, poderia colocá-los próximos uns dos outros. Considerando que diferentes conceitos podem estar distantes uns dos outros.
 
-We can represent any concept as a vector of length 1, pointing to the surface of a sphere. Concepts that are similar have vectors close together. The cosine score of two vectors that are close together is close to 1.
+Podemos representar qualquer conceito como um vetor de comprimento 1, apontando para a superfície de uma esfera. Conceitos semelhantes têm vetores próximos. A pontuação do cosseno de dois vetores que estão próximos é próxima de 1.
 
 {{< image src="images/sphere.svg" alt="sphere" >}}
 
-## Who made Harmony?
+## Quem fez Harmonia?
 
-The Python code of Harmony was written by [Thomas Wood](https://freelancedatascientist.net/) (Fast Data Science) in collaboration with Eoin McElroy, Bettina Moltrecht, George Ploubidis, and Mauricio Scopel Hoffman.
+O código Python do Harmony foi escrito por [Thomas Wood](https://freelancedatascientist.net/) (Fast Data Science) em colaboração com Eoin McElroy, Bettina Moltrecht, George Ploubidis e Mauricio Scopel Hoffman.
 
-## Does Harmony comply with FAIR data principles?
+## O Harmony cumpre os princípios de dados FAIR?
 
-We have developed Harmony as an open-source and open science initiative, paying attention to the [FAIR Guiding Principles for scientific data management and stewardship](https://www.go-fair.org/fair-principles/) (**F**indability, **A**ccessibility, **I**nteroperability, and **R**euse of digital assets). You can read more on our [FAIR data page](https://harmonydata.ac.uk/fair-data/).
+Desenvolvemos o Harmony como uma iniciativa de código aberto e ciência aberta, prestando atenção aos [Princípios orientadores FAIR para gerenciamento e administração de dados científicos](https://www.go-fair.org/fair-principles/) (** F**indabilidade, **A**acessibilidade, **I**interoperabilidade e **R**uso de ativos digitais). Você pode ler mais em nossa [página de dados FAIR](https://harmonydata.ac.uk/fair-data/).
 
-## What do other researchers say about Harmony?
+## O que outros pesquisadores dizem sobre o Harmony?
 
-We recently did a user-testing at UCL’s Centre for Longitudinal Studies with psychology researchers from several universities. After the session, one postdoctoral researcher said:
+Recentemente, fizemos um teste de usuário no Centro de Estudos Longitudinais da UCL com pesquisadores de psicologia de várias universidades. Após a sessão, um pesquisador de pós-doutorado disse:
 
 {{< image src="images/quote.png" alt="quote" >}}
 

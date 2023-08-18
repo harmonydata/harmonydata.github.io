@@ -4,21 +4,21 @@ title: Harmonising Mental Health Data
 
 {{< image src="images/team.svg" alt="team" >}}
 
-We are excited to announce that we are working on a new project called Harmony for the Wellcome Trust Mental Health Data Prize – Harmony will use natural language processing to help us with comparing measures and data collected with these measures across multiple studies. In most social and psychological research different questionnaires are used, such as the GAD-7 and Beck’s Anxiety Inventory, to assess people’s mental health, these questionnaires are also available indifferent languages and have been used in various countries across the world! Mental health research has often been conducted in silos, we want to break down barriers and help researchers from across the globe to come together, combine their data and tackle the mental health crisis together.
+Temos o prazer de anunciar que estamos trabalhando em um novo projeto chamado Harmony for the Wellcome Trust Mental Health Data Prize – o Harmony usará o processamento de linguagem natural para nos ajudar a comparar medidas e dados coletados com essas medidas em vários estudos. Na maioria das pesquisas sociais e psicológicas, diferentes questionários são usados, como o GAD-7 e o Beck's Anxiety Inventory, para avaliar a saúde mental das pessoas, esses questionários também estão disponíveis em diferentes idiomas e têm sido usados em vários países do mundo! A pesquisa em saúde mental costuma ser realizada em silos, queremos quebrar barreiras e ajudar pesquisadores de todo o mundo a se unirem, combinarem seus dados e enfrentarem juntos a crise da saúde mental.
 
-**The team at Harmony is made up of:**
+**A equipa da Harmony é composta por:**
 
 - **Bettina Moltrecht, PhD (UCL)**
-- **Dr Eoin McElroy (University of Ulster)**
+- **Dr Eoin McElroy (Universidade de Ulster)**
 - **Dr George Ploubidis (UCL)**
-- **Dr Mauricio Scopel Hoffman (Universidade Federal de Santa Maria, Brazil)**
+- **Dr Mauricio Scopel Hoffman (Universidade Federal de Santa Maria, Brasil)**
 - **Thomas Wood (Fast Data Science)**
 
 {{< image src="images/blog/gad-7-scanned-min.jpg" alt="gad-7 scanned" >}}
 
-In addition, we have a partnership with [Professor Louise Arsenault](https://www.kcl.ac.uk/people/louise-arseneault) at the [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/).
+Além disso, temos uma parceria com a [Professora Louise Arsenault](https://www.kcl.ac.uk/people/louise-arseneault) no [Catálogo de Medidas de Saúde Mental](https://www.cataloguementalhealth. ac.uk/).
 
-#### Here is an interesting radio programme about the Wellcome Trust Data Prize in mental health from the South African radio station Fabrik FM.
+#### Aqui está um programa de rádio interessante sobre o Wellcome Trust Data Prize em saúde mental da estação de rádio sul-africana Fabrik FM.
 
 {{< htmlcode >}}
 

@@ -2,155 +2,155 @@
 title: Harmony Privacy Policy
 ---
 
-# ​Harmony Privacy Policy
+# Política de Privacidade da Harmonia
 
-## ​Our contact details
+## Nossos dados de contato
 
-harmonydata.ac.uk (Harmony, the Harmony project) is provided by [Ulster University](https://www.ulster.ac.uk/).
+Harmonydata.ac.uk (Harmony, o projeto Harmony) é fornecido pela [Ulster University](https://www.ulster.ac.uk/).
 
-The Office of the University Secretary is the data controller for harmonydata.ac.uk. A data controller determines how and why personal data is processed.
+O Office of the University Secretary é o controlador de dados de Harmonydata.ac.uk. Um controlador de dados determina como e por que os dados pessoais são processados.
 
-## ​What data we collect
+## Quais dados coletamos
 
-The personal data we collect from you may include the following:
+Os dados pessoais que coletamos de você podem incluir o seguinte:
 
-- questions, queries or feedback you leave, including your email address if you contact us or sign up to our email alerts
-- your name
-- telephone numbers
-- how you use our emails – for example whether you open them and which links you click on
-- your Internet Protocol (IP) address, and details of which version of web browser you used
-- information on how you use the site, using cookies and page tagging techniques
+- perguntas, dúvidas ou feedback que você deixar, incluindo seu endereço de e-mail se você entrar em contato conosco ou se inscrever em nossos alertas de e-mail
+- seu nome
+- números de telefone
+- como você usa nossos e-mails – por exemplo, se você os abre e em quais links você clica
+- seu endereço de Protocolo de Internet (IP) e detalhes de qual versão do navegador da web você usou
+- informações sobre como você usa o site, usando cookies e técnicas de marcação de página
 
-## ​Third party cookies
+## Cookies de terceiros
 
-We use third party cookies, including Google Analytics, to collect information about how you use harmonydata.ac.uk. This includes IP addresses. The data is anonymised before being used for analytics processing.
+Usamos cookies de terceiros, incluindo o Google Analytics, para coletar informações sobre como você usa o Harmonydata.ac.uk. Isso inclui endereços IP. Os dados são anonimizados antes de serem usados para processamento analítico.
 
-This includes anonymised information about:
+Isso inclui informações anônimas sobre:
 
-- the pages you visit on harmonydata.ac.uk
-- how long you spend on each harmonydata.ac.uk page
-- how you got to the site
-- what you click on while you're visiting the site
+- as páginas que você visita em Harmonydata.ac.uk
+- quanto tempo você gasta em cada página Harmonydata.ac.uk
+- como você chegou ao site
+- no que você clica enquanto visita o site
 
-We do not store your personal information through analytics information (for example your name or address).
+Não armazenamos suas informações pessoais por meio de informações analíticas (por exemplo, seu nome ou endereço).
 
-We will not identify you through analytics information, and we will not combine analytics information with other data sets in a way that would identify who you are.
+Não o identificaremos por meio de informações analíticas e não combinaremos as informações analíticas com outros conjuntos de dados de forma a identificar quem você é.
 
-We continuously test and monitor our data protection controls to make sure they're effective and to detect any weaknesses.
+Testamos e monitoramos continuamente nossos controles de proteção de dados para garantir que sejam eficazes e para detectar quaisquer pontos fracos.
 
-## ​Why we need your data
+## Por que precisamos dos seus dados
 
-We collect information to see how you use the site and our digital services.
+Coletamos informações para ver como você usa o site e nossos serviços digitais.
 
-We do this to help:
+Fazemos isso para ajudar:
 
-- make sure the site is meeting the needs of its users
-- make improvements, for example, improving site search
+- verifique se o site está atendendo às necessidades de seus usuários
+- fazer melhorias, por exemplo, melhorar a pesquisa do site
 
-We also collect data in order to:
+Também recolhemos dados para:
 
-- gather feedback to improve our services, for example our email alerts
-- respond to any feedback you send us, if you've asked us to
-- send email alerts to users who request them
-- monitor use of the site to identify security threats
+- coletar feedback para melhorar nossos serviços, por exemplo, nossos alertas de e-mail
+- responder a qualquer feedback que você nos enviar, se você nos pediu para
+- enviar alertas por e-mail aos usuários que os solicitarem
+- monitorar o uso do site para identificar ameaças à segurança
 
-## ​Our legal basis for processing your data
+## ​A nossa base legal para processar os seus dados
 
-The legal basis for processing personal data in relation to site security is our legitimate interests, and the legitimate interests of our users, in ensuring the security and integrity of harmonydata.ac.uk.
+A base legal para o processamento de dados pessoais em relação à segurança do site são nossos interesses legítimos e os interesses legítimos de nossos usuários em garantir a segurança e a integridade do Harmonydata.ac.uk.
 
-The legal basis for processing anonymised cookies data such as data for Google Analytics is your consent.
+A base legal para o processamento de dados anonimizados de cookies, como dados para o Google Analytics, é o seu consentimento.
 
-The legal basis for processing all other personal data is that it's necessary:
+A base legal para processar todos os outros dados pessoais é que é necessário:
 
-- to perform a task in the public interest
-- in the exercise of our function as an online tool for research.
+- realizar uma tarefa de interesse público
+- no exercício de nossa função como ferramenta online de pesquisa.
 
-## ​What we do with your data
+## O que fazemos com seus dados
 
-The data we collect may be shared with other agencies and public bodies. It may also be shared with our technology suppliers.
+Os dados que coletamos podem ser compartilhados com outros órgãos e órgãos públicos. Também pode ser compartilhado com nossos fornecedores de tecnologia.
 
-We will not:
+Não vamos:
 
-- sell or rent your data to third parties
-- share your data with third parties for marketing purposes
-- use your data in analytics
+- vender ou alugar os seus dados a terceiros
+- compartilhe seus dados com terceiros para fins de marketing
+- use seus dados em análises
 
-We only allow 3rd parties to handle your data if we are satisfied they have taken appropriate measures to protect your data.  We also impose contractual obligations to ensure they protect your personal data.
+Só permitimos que terceiros manipulem seus dados se estivermos convencidos de que eles tomaram as medidas apropriadas para proteger seus dados. Também impomos obrigações contratuais para garantir que protegem os seus dados pessoais.
 
-We will share your data if we are required to do so by law – for example, by court order, or to prevent fraud or other crime.
+Compartilharemos seus dados se formos obrigados a fazê-lo por lei – por exemplo, por ordem judicial ou para prevenir fraude ou outro crime.
 
-## ​How long we keep your data
+## Por quanto tempo mantemos seus dados
 
-We will only retain your personal data for as long as:
+Apenas reteremos os seus dados pessoais enquanto:
 
-- it is needed for the purposes set out in this document
-- the law requires us to
+- é necessário para os fins estabelecidos neste documento
+- a lei obriga-nos a
 
-## ​Children's privacy protection
+## Proteção da privacidade das crianças
 
-Our services are not designed for, or intentionally targeted at, children 13 years of age or younger.
+Nossos serviços não são projetados ou direcionados intencionalmente para crianças de 13 anos de idade ou menos.
 
-We do not intentionally collect or maintain data about anyone under the age of 13.
+Não coletamos ou mantemos intencionalmente dados sobre menores de 13 anos.
 
-## ​Where your data is processed and stored
+## Onde seus dados são processados ​​e armazenados
 
-We design, build and run our systems to make sure that your data is as safe as possible at all stages, both while it's processed and when it's stored.
+Projetamos, construímos e executamos nossos sistemas para garantir que seus dados estejam o mais seguros possível em todas as etapas, tanto durante o processamento quanto no armazenamento.
 
-All personal data is stored in the European Economic Area (EEA).
+Todos os dados pessoais são armazenados no Espaço Econômico Europeu (EEA).
 
-Data collected by cookies and Google Analytics may be transferred outside the EEA for processing.
+Os dados coletados por cookies e Google Analytics podem ser transferidos para fora do EEE para processamento.
 
-## ​How we protect your data and keep it secure
+## Como protegemos seus dados e os mantemos seguros
 
-We are committed to doing all that we can to keep your data secure.
+Estamos empenhados em fazer tudo o que pudermos para manter seus dados seguros.
 
-We have set up systems and processes to prevent unauthorised access or disclosure of your data – for example, we protect your data using varying levels of encryption.
+Estabelecemos sistemas e processos para impedir o acesso não autorizado ou a divulgação de seus dados – por exemplo, protegemos seus dados usando vários níveis de criptografia.
 
-We also make sure that any third parties that we deal with keep all personal data they process on our behalf secure.
+Também garantimos que quaisquer terceiros com os quais lidamos mantenham todos os dados pessoais que processam em nosso nome seguros.
 
-## ​Your rights
+## Seus direitos
 
-You have the right to request:
+Você tem o direito de solicitar:
 
-- information about how your personal data is processed
-- a copy of that personal data
-- that anything inaccurate in your personal data is corrected immediately
+- informações sobre como seus dados pessoais são processados
+- uma cópia desses dados pessoais
+- que qualquer imprecisão em seus dados pessoais seja corrigida imediatamente
 
-You can also:
+Você também pode:
 
-- raise an objection about how your personal data is processed
-- request that your personal data is erased if there is no longer a justification for it
-- ask that the processing of your personal data is restricted in certain circumstances
+- levantar uma objeção sobre como seus dados pessoais são processados
+- solicitar o apagamento dos seus dados pessoais caso já não haja justificação para tal
+- solicitar que o processamento de seus dados pessoais seja restrito em determinadas circunstâncias
 
-If you have any of these requests, get in contact with our Data Protection Officer.
+Se você tiver alguma dessas solicitações, entre em contato com nosso Diretor de Proteção de Dados.
 
-## ​Links to other websites
+## Links para outros sites
 
-harmonydata.ac.uk contains links to other websites.
+harmoniadata.ac.uk contém links para outros sites.
 
-This privacy notice only applies to harmonydata.ac.uk.
+Este aviso de privacidade aplica-se apenas a harmoniadata.ac.uk.
 
-### ​Following a link to another website
+### Seguindo um link para outro site
 
-If you go to another website from this one, read the privacy policy on that website to find out what it does with your information.
+Se você acessar outro site a partir deste, leia a política de privacidade desse site para saber o que ele faz com suas informações.
 
-### ​Following a link to harmonydata.ac.uk from another website
+### Seguindo um link para Harmonydata.ac.uk de outro site
 
-If you come to harmonydata.ac.uk from another website, we may receive personal information from the other website. You should read the privacy policy of the website you came from to find out more about this.
+Se você vier para a harmoniadata.ac.uk de outro site, podemos receber informações pessoais do outro site. Você deve ler a política de privacidade do site de onde veio para saber mais sobre isso.
 
-## ​Contact us or make a complaint
+## Entre em contato conosco ou faça uma reclamação
 
-Contact the Data Protection Officer if you:
+Entre em contato com o Diretor de Proteção de Dados se você:
 
-- have a question about anything in this privacy notice
-- think that your personal data has been misused or mishandled
+- tiver uma pergunta sobre qualquer coisa neste aviso de privacidade
+- acha que seus dados pessoais foram mal utilizados ou manipulados
 
-The data protection officer can be contacted at [gpdr@ulster.ac.uk](mailto:gpdr@ulster.ac.uk)
+O responsável pela proteção de dados pode ser contatado em [gpdr@ulster.ac.uk](mailto:gpdr@ulster.ac.uk)
 
 [Get more information on our GDPR policies](https://www.ulster.ac.uk/about/governance/compliance/gdpr).
 
-The Data Protection Officer provides independent advice and monitoring of our use of personal information.
+O Diretor de Proteção de Dados fornece aconselhamento independente e monitoramento de nosso uso de informações pessoais.
 
 [You can also make a complaint to the Information Commissioner](https://ico.org.uk/make-a-complaint/), who is an independent regulator.
 
-Ulster University's registration number is Z6533200.
+O número de registro da Ulster University é Z6533200.

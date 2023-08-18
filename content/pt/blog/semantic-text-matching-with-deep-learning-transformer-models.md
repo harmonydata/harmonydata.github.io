@@ -5,26 +5,26 @@ date: 2023-02-08
 image: /images/blog/gad7-becks.jpg
 ---
 
-Semantic text matching is a task in natural language processing involving estimating the semantic similarity between two texts. For example, if we had to quantify the similarity between “I feel nervous” and “I feel anxious”, most people would agree that these are closer together than either sentence is to “I feel happy”. A semantic text matching algorithm would be able to place a number on the similarity, such as 79%.
+A correspondência semântica de texto é uma tarefa no processamento de linguagem natural que envolve estimar a semelhança semântica entre dois textos. Por exemplo, se tivéssemos que quantificar a semelhança entre “sinto-me nervoso” e “sinto-me ansioso”, a maioria das pessoas concordaria que essas duas frases estão mais próximas do que “sinto-me feliz”. Um algoritmo de correspondência semântica de texto seria capaz de colocar um número na similaridade, como 79%.
 
-A semantic text matching algorithm is distinct from a simple text similarity algorithm, which merely looks at the surface form of a text. A semantic matching must be aware of the similarity of meaning between “nervous” and “anxious”.
+Um algoritmo de correspondência semântica de texto é diferente de um algoritmo simples de similaridade de texto, que meramente examina a forma superficial de um texto. Uma correspondência semântica deve estar ciente da semelhança de significado entre “nervoso” e “ansioso”.
 
-## Why do we need semantic text matching?
+## Por que precisamos de correspondência semântica de texto?
 
-The main applications of semantic text matching are in areas such as web search or information retrieval, question answering, and recommendation systems. However, there are other, more niche, applications. For example, in the Harmony project, we are using semantic text matching for harmonisation of datasets in the social sciences. 
+As principais aplicações da correspondência semântica de texto estão em áreas como pesquisa na Web ou recuperação de informações, respostas a perguntas e sistemas de recomendação. No entanto, existem outras aplicações mais específicas. Por exemplo, no projeto Harmony, estamos usando correspondência semântica de texto para harmonização de conjuntos de dados nas ciências sociais. 
 
-A semantic text matching problem is usually framed as matching a source text to many target texts.
+Um problema de correspondência semântica de texto geralmente é enquadrado como correspondência de um texto de origem para muitos textos de destino.
 
-In an information retrieval system, this would mean that the documents to be searched must be indexed efficiently. So, if you have a query like “What is data harmonisation?” and 1000 documents to search, you would not necessarily calculate the semantic similarity between all pairs, as this would be inefficient. More probably, you would use a less sophisticated tool, such as text-level matching, to generate a shortlist of candidate documents.
+Em um sistema de recuperação de informações, isso significaria que os documentos a serem pesquisados devem ser indexados de forma eficiente. Portanto, se você tiver uma pergunta como "O que é harmonização de dados?" e 1000 documentos para pesquisar, você não necessariamente calcularia a similaridade semântica entre todos os pares, pois isso seria ineficiente. Mais provavelmente, você usaria uma ferramenta menos sofisticada, como correspondência em nível de texto, para gerar uma lista restrita de documentos candidatos.
 
-In the case of Harmony, we want to measure the similarity of every item in a questionnaire, to every item in another questionnaire. The simplest way to do this is to convert every questionnaire item to a semantic representation, and then calculate the *n*×*n* matrix of similarities for all *n* items.
+No caso do Harmony, queremos medir a similaridade de cada item de um questionário com cada item de outro questionário. A maneira mais simples de fazer isso é converter cada item do questionário em uma representação semântica e, em seguida, calcular a matriz *n*×*n* de similaridades para todos os *n* itens.
 
-## Semantic text matching with Transformers
+## Correspondência semântica de texto com Transformers
 
-Recent advancements in deep learning have enabled a new type of semantic text matching technique through [Transformer models](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)), such as BERT, [GPT-3](https://openai.com/api/), and the recently announced [Google BARD](https://blog.google/technology/ai/bard-google-ai-search-updates/).
+Avanços recentes em aprendizado profundo permitiram um novo tipo de técnica de correspondência semântica de texto por meio de [modelos Transformer](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)), como BERT, [GPT-3](https ://openai.com/api/) e o recentemente anunciado [Google BARD](https://blog.google/technology/ai/bard-google-ai-search-updates/).
 
-Transformer models operate on sequences of words, and transform entire sentences in many languages into a vector representation in high-dimensional space. Then we can quantify the similarity between sentences with a simple metric such as Euclidean or cosine distance. This enables us to measure the similarity between words.
+Os modelos transformadores operam em sequências de palavras e transformam sentenças inteiras em vários idiomas em uma representação vetorial no espaço de alta dimensão. Em seguida, podemos quantificar a semelhança entre as sentenças com uma métrica simples, como distância euclidiana ou cosseno. Isso nos permite medir a semelhança entre as palavras.
 
-In developing Harmony, the most performant algorithm tested so far was GPT-3, however, as the field is evolving so rapidly, this is likely to be out of date very soon. So please watch our blog, and in the meantime you can [test out Harmony](https://harmonydata.ac.uk/app/) on your data.
+No desenvolvimento do Harmony, o algoritmo de maior desempenho testado até agora foi o GPT-3, no entanto, como o campo está evoluindo tão rapidamente, é provável que fique desatualizado muito em breve. Portanto, assista ao nosso blog e, enquanto isso, você pode [testar o Harmony](https://harmonydata.ac.uk/app/) em seus dados.
 
-Transformer models have proven to be very effective in semantic text matching. They are also very efficient in terms of computational resources and can easily scale to large datasets. This makes them a great choice for applications related to text matching tasks.
+Os modelos Transformer provaram ser muito eficazes na correspondência semântica de texto. Eles também são muito eficientes em termos de recursos computacionais e podem facilmente escalar para grandes conjuntos de dados. Isso os torna uma ótima opção para aplicativos relacionados a tarefas de correspondência de texto.

@@ -5,21 +5,21 @@ date:
 image: /images/blog/ccd.png
 ---
 
-Many psychologists believe that mental illnesses can vary across cultures. In 1904, Emil Kraepelin initiated the field of comparative psychiatry after studying mental health disorders in Java, writing that _“Die Eigenart eines Volkes wird auch in der Häufigkeit und klinischen Gestaltung seiner Geistesstörungen zum Ausdruck kommen,”_ meaning “The peculiarity of a people[ethnic group] will also be expressed in the frequency and clinical form of its mental disorders.”[1]
+Muitos psicólogos acreditam que as doenças mentais podem variar entre as culturas. Em 1904, Emil Kraepelin iniciou o campo da psiquiatria comparada depois de estudar os distúrbios de saúde mental em Java, escrevendo que _“Die Eigenart eines Volkes wird auch in der Häufigkeit und klinischen Gestaltung seiner Geistesstörungen zum Ausdruck kommen,”_ que significa “A peculiaridade de um povo [grupo étnico] também se expressará na frequência e na forma clínica de seus transtornos mentais.”[1]
 
-More than a century later, the emergence of global mental health research projects has opened a number of debates about the applicability of psychiatric categories to different cultural settings, such as those in the Diagnostic and Statistical Manual of Mental Disorders (DSM) series[2].
+Mais de um século depois, o surgimento de projetos globais de pesquisa em saúde mental abriu uma série de debates sobre a aplicabilidade de categorias psiquiátricas a diferentes contextos culturais, como os da série Manual Diagnóstico e Estatístico de Transtornos Mentais (DSM)[2] .
 
-In 2013, the publication of DSM-5 included for the first time Cultural Concepts of Distress (CCD), referring to “ways that cultural groups experience, understand, and communicate suffering, behavioral problems, or troubling thoughts and emotions”[2].
+Em 2013, a publicação do DSM-5 incluiu pela primeira vez os Conceitos Culturais de Angústia (CCD), referindo-se a “maneiras pelas quais grupos culturais vivenciam, compreendem e comunicam sofrimento, problemas comportamentais ou pensamentos e emoções perturbadoras”[2].
 
-Examples of cultural concepts of distress include:
+Exemplos de conceitos culturais de angústia incluem:
 
-- “Los nervios” or “ataque de nervios” (Spanish) – literally “attack of nerves”, a concept of severe distress, often linked to interpersonal disputes in Latino and Spanish-speaking cultures[3]. “Los nervios” are associated with physical and functional impairments.
-- “Kufungisisa” (Shona) – literally “thinking too much”, this is a term used in Zimbabwe to describe both the cause and the symptoms of mental health problems such as anxiety and depression. Patel et al[4] suggested describing this as “feeling stressed” or as a “non-specific neurotic mental illness”.
-- “Hikikomori” (Japanese) – a form of severe social withdrawal whereby an adolescent or young adult becomes a recluse in their parents’ home and does not work or attend school for long periods of time[5].
+- “Los nervios” ou “ataque de nervios” (espanhol) – literalmente “ataque de nervos”, um conceito de sofrimento severo, muitas vezes ligado a disputas interpessoais nas culturas latinas e de língua espanhola[3]. “Los nervios” estão associados a deficiências físicas e funcionais.
+- “Kufungisisa” (Shona) – literalmente “pensar demais”, este é um termo usado no Zimbábue para descrever tanto a causa quanto os sintomas de problemas de saúde mental, como ansiedade e depressão. Patel et al [4] sugeriram descrever isso como “sentir-se estressado” ou como uma “doença mental neurótica não específica”.
+- “Hikikomori” (japonês) – uma forma de retraimento social severo em que um adolescente ou jovem adulto se torna recluso na casa de seus pais e não trabalha ou frequenta a escola por longos períodos de tempo[5].
 
-Can we use Harmony to harmonise mental health instruments designed for different cultural settings where some disorders may have no direct equivalent in one culture?
+Podemos usar o Harmony para harmonizar instrumentos de saúde mental projetados para diferentes contextos culturais onde alguns distúrbios podem não ter equivalente direto em uma cultura?
 
-## Using Harmony in Google Colab
+## Usando o Harmony no Google Colab
 
 > Zvaita sei kuti chembere yorasika, bere rorutsa imvi? (How is it that the old woman is missing and the hyena is vomiting grey hairs?)
 
@@ -28,49 +28,49 @@ Can we use Harmony to harmonise mental health instruments designed for different
 
 > Shona proverb (similar to English “there’s no smoke without fire”)
 
-If you are a Python user, you can follow my experiment in this Jupyter Notebook, which you can open in Google Colab: https://github.com/harmonydata/
+Se você é um usuário Python, pode acompanhar meu experimento neste Jupyter Notebook, que pode ser aberto no Google Colab: https://github.com/harmonydata/
 
-Shona (_chiShona_) is spoken in Zimbabwe and belongs to the Bantu language family, which also includes Zulu, Xhosa, and Swahili.
+Shona (_chiShona_) é falado no Zimbábue e pertence à família linguística bantu, que também inclui zulu, xhosa e suaíli.
 
-| Shona       | English                                                                      |
-| ----------- | ---------------------------------------------------------------------------- |
-| funga       | think                                                                        |
-| kufunga     | to think                                                                     |
-| ndofunga    | I think                                                                      |
-| -isa        | (causative suffix: “to cause to do”)                                         |
-| -isisa      | (intensive suffix: “to do quickly”)                                          |
-| kufungisisa | think deeply, think too much; a Shona idiom for non-psychotic mental illness |
+| Shona | inglês |
+| ----------- | -------------------------------------------------- -------------------------- |
+| fungos | pense |
+| kufunga | pensar |
+| ndofunga | eu acho |
+| -isa | (sufixo causativo: “causar fazer”) |
+| -isisa | (sufixo intensivo: “fazer rapidamente”) |
+| kufungisisa | pense profundamente, pense demais; um idioma Shona para doenças mentais não psicóticas |
 
-In Shona, derived verbs can be created from simple verbs by attaching suffixes to the verb stem.
+Em Shona, verbos derivados podem ser criados a partir de verbos simples anexando sufixos ao radical do verbo.
 
-I tried using Harmony to see how it would harmonise “kufungisisa” (thinking too much) to a Western instrument such as GHQ-12.
+Tentei usar o Harmony para ver como harmonizaria “kufungisisa” (pensar demais) com um instrumento ocidental como o GHQ-12.
 
-Although English is the best-resource language for natural language processing, [multilingual NLP techniques](https://fastdatascience.com/multilingual-natural-language-processing/) are catching up even for lower-resourced languages. There exist some NLP models for Shona. I used the sentence transformer model `Davlan/xlm-roberta-base-finetuned-shona` which is a modification of ROBERTA trained on Shona texts[7]. I plugged one into Harmony and tried to match the [Shona symptom questionnaire for the detection of depression and anxiety](https://depts.washington.edu/edgh/zw/hit/web/project-resources/shona_symptom_questionnaire.pdf), which is used in Zimbabwe[6].
+Embora o inglês seja o idioma com melhor recurso para o processamento de linguagem natural, as [técnicas de PNL multilíngue](https://fastdatascience.com/multilingual-natural-language-processing/) estão alcançando até mesmo para idiomas com recursos mais baixos. Existem alguns modelos de PNL para Shona. Eu usei o modelo de transformador de sentença `Davlan/xlm-roberta-base-finetuned-shona` que é uma modificação do ROBERTA treinado em textos Shona[7]. Conectei um ao Harmony e tentei corresponder ao [questionário de sintomas Shona para detecção de depressão e ansiedade](https://depts.washington.edu/edgh/zw/hit/web/project-resources/shona_symptom_questionnaire.pdf), que é usado no Zimbábue[6].
 
 {{< image src="images/blog/Screenshot-from-2023-07-13-12-34-30.png" alt="img" >}}
 
 
-Above: the text of the Shona symptom questionnaire for the detection of depression and anxiety.
+Acima: o texto do questionário de sintomas Shona para detecção de depressão e ansiedade.
 
-A problem I encountered was that the transformer model didn’t work for both Shona and English (it’s not multilingual, like Harmony’s default transformer model). I Google translated GHQ-12 into Shona as a temporary measure.
+Um problema que encontrei foi que o modelo do transformador não funcionava tanto para Shona quanto para o inglês (não é multilíngue, como o modelo de transformador padrão do Harmony). O Google traduziu GHQ-12 para Shona como uma medida temporária.
 
-Also, the transformer model did not operate as a sentence transformer, but rather as a token-level transformer, so my sentence vectors were made by averaging token vectors across an input.
+Além disso, o modelo do transformador não operava como um transformador de sentença, mas sim como um transformador de nível de token, então meus vetores de sentença foram feitos pela média dos vetores de token em uma entrada.
 
-My model’s output is below:
+A saída do meu modelo está abaixo:
 
 {{< image src="images/blog/image-1-b.png" alt="img" >}}
 
 
-Harmony and the Shona transformer model matched the question about “kufungisisa” to GHQ-12 question 1 “been able to concentrate on whatever you’re doing?” which seems approximately OK. However, I would need a Shona native speaker to validate my results.
+Harmony e o modelo do transformador Shona combinaram a pergunta sobre “kufungisisa” com a pergunta 1 do GHQ-12 “conseguiu se concentrar no que quer que esteja fazendo?” o que parece aproximadamente OK. No entanto, eu precisaria de um falante nativo de Shona para validar meus resultados.
 
-Also, when we are using English and Portuguese texts, which has until now been our go-to bilingual combination, we have had the advantage that some multilingual models cover both languages and so it’s possible to directly compare in both source languages. In the absence of an LLM (large language model) which can handle both Shona and English, it’s not possible to directly compare English and Shona text, but my experiment above shows that Harmony can work on monolingual Shona text.
+Além disso, quando usamos textos em inglês e português, que até agora era nossa combinação bilíngue preferida, tivemos a vantagem de alguns modelos multilíngues cobrirem os dois idiomas e, portanto, é possível comparar diretamente nos dois idiomas de origem. Na ausência de um LLM (large language model) que possa lidar com Shona e Inglês, não é possível comparar diretamente o texto em Inglês e Shona, mas meu experimento acima mostra que o Harmony pode funcionar em texto Shona monolíngue.
 
-## References
+## Referências
 
-1. E. Kraepelin: Vergleichende Psychiatrie. Zentralblatt für Nervenheilk. u. Psychiat. Nr. 174, 433-437. 1904 (39)
-2. American Psychiatric Association (2013) Diagnostic and statistical manual of mental disorders, 5th Edition. Washington, D.C.: American Psychiatric Publishing, Inc.
-3. Kohrt, Brandon A., et al. “Cultural concepts of distress and psychiatric disorders: literature review and research recommendations for global mental health epidemiology.” International journal of epidemiology 43.2 (2014): 365-406.
-4. Patel, Vikram, Essie Simunyu, and Fungisai Gwanzura. “Kufungisisa (thinking too much): a Shona idiom for non-psychotic mental illness.” The Central African journal of medicine 41.7 (1995): 209-215.
-5. Teo, Alan Robert, and Albert C. Gaw. “Hikikomori, a Japanese culture-bound syndrome of social withdrawal? A proposal for DSM-V.” The Journal of nervous and mental disease 198.6 (2010): 444.
-6. Shona symptom questionnaire, https://depts.washington.edu/edgh/zw/hit/web/project-resources/shona_symptom_questionnaire.pdf, retrieved 13 July 2023
-7. Alabi, Jesujoba O., et al. “[Adapting pre-trained language models to African languages via multilingual adaptive fine-tuning](https://arxiv.org/abs/2204.06487).” arXiv preprint arXiv:2204.06487 (2022).
+1. E. Kraepelin: Vergleichende Psychiatrie. Zentralblatt für Nervenheilk. você. psiquiatra. Nº 174, 433-437. 1904 (39)
+2. Associação Americana de Psiquiatria (2013) Manual diagnóstico e estatístico de transtornos mentais, 5ª edição. Washington, DC: American Psychiatric Publishing, Inc.
+3. Kohrt, Brandon A., e outros. “Conceitos culturais de sofrimento e transtornos psiquiátricos: revisão da literatura e recomendações de pesquisa para epidemiologia global da saúde mental.” Jornal internacional de epidemiologia 43.2 (2014): 365-406.
+4. Patel, Vikram, Essie Simunyu e Fungisai Gwanzura. “Kufungisisa (pensar demais): um idioma Shona para doenças mentais não psicóticas.” The Central African Journal of Medicine 41.7 (1995): 209-215.
+5. Teo, Alan Robert e Albert C. Gaw. “Hikikomori, uma síndrome de retraimento social ligada à cultura japonesa? Uma proposta para o DSM-V.” O Jornal de doenças nervosas e mentais 198,6 (2010): 444.
+6. Questionário de sintomas Shona, https://depts.washington.edu/edgh/zw/hit/web/project-resources/shona_symptom_questionnaire.pdf, recuperado em 13 de julho de 2023
+7. Alabi, Jesujoba O., et al. “[Adaptando modelos de linguagem pré-treinados para idiomas africanos por meio de ajuste fino adaptável multilíngue](https://arxiv.org/abs/2204.06487).” pré-impressão arXiv arXiv:2204.06487 (2022).

@@ -15,9 +15,9 @@ blocks:
   heading: "Harmonise questionnaire items with **Harmony**."
   subheading: Harmony is a tool for retrospective harmonisation of questionnaire items.
   copy: |-
-    Do you need to compare questionnaire data across studies? Do you want to find the best match for a set of items? Are there are different versions of the same questionnaire floating around and you want to make sure how compatible they are? Are the questionnaires written in different languages that you would like to compare?
+    Você precisa comparar os dados do questionário entre os estudos? Você quer encontrar a melhor correspondência para um conjunto de itens? Existem versões diferentes do mesmo questionário flutuando e você quer ter certeza de quão compatíveis elas são? Os questionários estão escritos em idiomas diferentes que você gostaria de comparar?
 
-    The Harmony project is a data harmonisation project that uses [Natural Language Processing](/guide-natural-language-processing-nlp/) to help researchers make better use of existing data from different studies by supporting them with the harmonisation of various measures and items used in different studies. Harmony is a collaboration project between [Ulster University](https://ulster.ac.uk/), [University College London](https://ucl.ac.uk/), the [Universidade Federal de Santa Maria](https://www.ufsm.br/), and [Fast Data Science](http://fastdatascience.com/).
+    O projeto Harmony é um projeto de harmonização de dados que usa [Natural Language Processing] (/guide-natural-language-processing-nlp/) para ajudar os pesquisadores a fazer melhor uso dos dados existentes de diferentes estudos, apoiando-os com a harmonização de várias medidas e itens usados em diferentes estudos. Harmony é um projeto de colaboração entre a [Ulster University](https://ulster.ac.uk/), [University College London](https://ucl.ac.uk/), a [Universidade Federal de Santa Maria]( https://www.ufsm.br/) e [Fast Data Science](http://fastdatascience.com/).
 
   buttons:
   - text: Try Harmony Now!
@@ -63,15 +63,15 @@ blocks:
     url: https://raw.githubusercontent.com/harmonydata/harmonyapi/main/docs/API_reference.pdf
   code: |
     ```vshell
-    pip install harmonydata
-    import harmony
-    harmony.download_models()
-    instruments = harmony.example_instruments["CES_D English"], 
-    harmony.example_instruments["GAD-7 Portuguese"]
-    questions, similarity, query_similarity, _ = harmony.match_instruments
-    (instruments) 
-    # How to load a PDF, Excel or Word into an instrument
-    harmony.load_instruments_from_local_file("gad-7.pdf")
+    pip instalar dados de harmonia
+    importar harmonia
+    harmonia.download_models()
+    instrumentos = harmonia.exemplo_instrumentos["CES_D Inglês"], 
+    harmonia.exemplo_instrumentos["GAD-7 Português"]
+    perguntas, similaridade, query_similarity, _ = Harmony.match_instruments
+    (instrumentos) 
+    # Como carregar um PDF, Excel ou Word em um instrumento
+    harmonia.load_instruments_from_local_file("gad-7.pdf")
     ```
 
 - block: feature-2
@@ -84,15 +84,15 @@ blocks:
   code: |
     ```vshell
     install.packages("harmonydata")
-    library(harmonydata)
+    biblioteca(harmonydata)
                 
     instruments <- harmony.example_instruments["CES_D English"],
-    harmony.example_instruments["GAD-7 Portuguese"]
+    harmonia.exemplo_instrumentos["GAD-7 Português"]
     similarity <- harmony.match_instruments(instruments) 
     ```
 
 - block: feature-2
-  # padding: top
+  # preenchimento: superior
   align: right 
   heading: "Harmony Docker container"
   subheading: We've released Harmony as a Docker container on Dockerhub.
@@ -103,12 +103,12 @@ blocks:
     url: https://hub.docker.com/r/harmonydata/harmonywithtika
   code: |
     ```vshell
-    docker pull harmonydata/harmonywithtika
-    docker run -p 8000:8000 -p 3000:3000 harmonydata/harmonywithtika
+    docker pull Harmonydata/harmonywithtika
+    docker run -p 8000:8000 -p 3000:3000harmonydata/harmonywithtika
     ```
 
 - block: logos
-  # padding: top
+  # preenchimento: superior
   mode: muted
   superheading: "**Our Partners**"
   logos:
@@ -141,22 +141,22 @@ blocks:
     image: /images/testimonial-user.svg
 
 - block: feature-2
-  # padding: top
+  # preenchimento: superior
   align: right
   image: images/gad-7-scanned-min.webp
   copy: |
-    Our tool, Harmony, allows researchers to upload a set of mental health questionnaires in PDF or Excel format, such as the GAD-7 anxiety questionnaire. It identifies which questions among questionnaires are identical, similar in meaning, or antonyms of each other, and generates a network graph. This allows researchers to harmonise datasets.
+    Nossa ferramenta, Harmony, permite que os pesquisadores carreguem um conjunto de questionários de saúde mental em formato PDF ou Excel, como o questionário de ansiedade GAD-7. Ele identifica quais perguntas entre os questionários são idênticas, semelhantes em significado ou antônimas umas das outras e gera um gráfico de rede. Isso permite que os pesquisadores harmonizem os conjuntos de dados.
 
-    Uniquely, Harmony relies on Transformer neural network architectures and is not dependent on a dictionary approach or word list. This allows for multilingual support (English and Portuguese are our languages of focus), and Harmony is able to correctly map the GAD-7 used in the UK to the GAD-7 used in Brazil, despite the Brazilian questionnaire being in Brazilian Portuguese.
+    Excepcionalmente, o Harmony depende de arquiteturas de rede neural Transformer e não depende de uma abordagem de dicionário ou lista de palavras. Isso permite suporte multilíngue (inglês e português são nossos idiomas de foco) e o Harmony é capaz de mapear corretamente o GAD-7 usado no Reino Unido para o GAD-7 usado no Brasil, apesar do questionário brasileiro estar em português do Brasil.
 
-    Using Harmony, our team was able to conduct groundbreaking research into social isolation and anxiety with NLP supplying a quantitative measure of the equivalence of the different mental health datasets.
+    Usando o Harmony, nossa equipe conseguiu realizar pesquisas inovadoras sobre isolamento social e ansiedade com a PNL, fornecendo uma medida quantitativa da equivalência dos diferentes conjuntos de dados de saúde mental.
 
 - block: feature-4
   mode: muted
   superheading: "**HARMONY**"
   heading: A global platform for contextual harmonisation, translation and cooperation in mental health research
   copy: |
-    This team will support better integration of mental health research through a natural language processing harmonisation tool (Harmony), allowing researchers to compare data from existing studies to investigate the active ingredients of mental health. Led by Dr Eoin McElroy from Ulster University and Dr Bettina Moltrecht from University College London, the team will develop and demonstrate Harmony to answer research questions around human connection and its influence on the development of depression and anxiety in young people.
+    Essa equipe apoiará uma melhor integração da pesquisa em saúde mental por meio de uma ferramenta de harmonização de processamento de linguagem natural (Harmony), permitindo que os pesquisadores comparem dados de estudos existentes para investigar os ingredientes ativos da saúde mental. Liderada pelo Dr. Eoin McElroy, da Ulster University, e pela Dra. Bettina Moltrecht, da University College London, a equipe desenvolverá e demonstrará o Harmony para responder a perguntas de pesquisa sobre a conexão humana e sua influência no desenvolvimento de depressão e ansiedade em jovens.
 
 ---
 

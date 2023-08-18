@@ -15,4 +15,4 @@ image: /images/blog/how_can_harmony_help_you.png
 
 
 
-Click [here](https://docs.google.com/forms/d/e/1FAIpQLSdhAweAusEF7EPUh3geKY9c09djdEzW_1CSPBFToWBfNLf0ow/viewanalytics) to view other people’s responses.
+Clique [aqui](https://docs.google.com/forms/d/e/1FAIpQLSdhAweAusEF7EPUh3geKY9c09djdEzW_1CSPBFToWBfNLf0ow/viewanalytics) para ver as respostas de outras pessoas.

@@ -11,7 +11,7 @@ Você precisará primeiro baixar e instalar alguns programas que o Harmony preci
 
 Você precisa de um computador com pelo menos 16 GB de RAM – em outras palavras, um computador bastante sofisticado. Isso ocorre porque o Harmony faz duas coisas que precisam de algum trabalho computacional pesado:
 
-- extração de textos de perguntas de PDFs (incluindo OCR em PDFs digitalizados) – isso é feito usando a biblioteca [Apache Tika](https://tika.apache.org/), com a biblioteca de processamento de linguagem natural [spaCy](https:// space.io/).
+- extração de textos de perguntas de PDFs (incluindo OCR em PDFs digitalizados) – isso é feito usando a biblioteca [Apache Tika](https://tika.apache.org/), com a biblioteca de processamento de linguagem natural [spaCy](https://space.io/).
 - transformando textos em vetores, usando uma rede neural transformadora de [HuggingFace](https://huggingface.co/).
 
 Além disso, o front-end baseado em navegador está sendo executado em [Node.js](https://nodejs.org/en) para criar os belos gráficos que você pode ver em nossa ferramenta da web.

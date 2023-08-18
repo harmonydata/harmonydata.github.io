@@ -17,7 +17,7 @@ blocks:
   copy: |-
     Você precisa comparar os dados do questionário entre os estudos? Você quer encontrar a melhor correspondência para um conjunto de itens? Existem versões diferentes do mesmo questionário flutuando e você quer ter certeza de quão compatíveis elas são? Os questionários estão escritos em idiomas diferentes que você gostaria de comparar?
 
-    O projeto Harmony é um projeto de harmonização de dados que usa [Natural Language Processing] (/guide-natural-language-processing-nlp/) para ajudar os pesquisadores a fazer melhor uso dos dados existentes de diferentes estudos, apoiando-os com a harmonização de várias medidas e itens usados em diferentes estudos. Harmony é um projeto de colaboração entre a [Ulster University](https://ulster.ac.uk/), [University College London](https://ucl.ac.uk/), a [Universidade Federal de Santa Maria]( https://www.ufsm.br/) e [Fast Data Science](http://fastdatascience.com/).
+    O projeto Harmony é um projeto de harmonização de dados que usa [Natural Language Processing](/guide-natural-language-processing-nlp/) para ajudar os pesquisadores a fazer melhor uso dos dados existentes de diferentes estudos, apoiando-os com a harmonização de várias medidas e itens usados em diferentes estudos. Harmony é um projeto de colaboração entre a [Ulster University](https://ulster.ac.uk/), [University College London](https://ucl.ac.uk/), a [Universidade Federal de Santa Maria]( https://www.ufsm.br/) e [Fast Data Science](http://fastdatascience.com/).
 
   buttons:
   - text: Try Harmony Now!

@@ -1,5 +1,5 @@
 ---
-title: Quais recursos você gostaria de ver no Harmony?
+title: Quais recursos você gostaria de ver no Harmony ?
 description: Click here to view other people’s responses.
 date:
 image: /images/blog/how_can_harmony_help_you.png
@@ -15,4 +15,4 @@ image: /images/blog/how_can_harmony_help_you.png
 
 
 
-Clique [aqui](https://docs.google.com/forms/d/e/1FAIpQLSdhAweAusEF7EPUh3geKY9c09djdEzW_1CSPBFToWBfNLf0ow/viewanalytics) para ver as respostas de outras pessoas.
+Clique [ aqui ](https://docs.google.com/forms/d/e/1FAIpQLSdhAweAusEF7EPUh3geKY9c09djdEzW_1CSPBFToWBfNLf0ow/viewanalytics) para ver as respostas de outras pessoas.

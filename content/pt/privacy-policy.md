@@ -1,12 +1,12 @@
 ---
-title: Política de Privacidade dO Harmony
+title: a Política de Privacidade Harmony
 ---
 
-# Política de Privacidade dO Harmony
+# Política de Privacidade Harmony
 
 ## Nossos dados de contato
 
-Harmonydata.ac.uk (Harmony, o projeto Harmony) é fornecido pela [Ulster University](https://www.ulster.ac.uk/).
+Harmonydata.ac.uk (o Harmony , o projeto Harmony ) é fornecido pela [ Ulster University ](https://www.ulster.ac.uk/) .
 
 O Office of the University Secretary é o controlador de dados de Harmonydata.ac.uk. Um controlador de dados determina como e por que os dados pessoais são processados.
 
@@ -145,7 +145,7 @@ Entre em contato com o Diretor de Proteção de Dados se você:
 - tiver uma pergunta sobre qualquer coisa neste aviso de privacidade
 - acha que seus dados pessoais foram mal utilizados ou manipulados
 
-O responsável pela proteção de dados pode ser contatado em [gpdr@ulster.ac.uk](mailto:gpdr@ulster.ac.uk)
+O responsável pela proteção de dados pode ser contatado em [ gpdr@ulster.ac.uk ](mailto:gpdr@ulster.ac.uk)
 
 [Get more information on our GDPR policies](https://www.ulster.ac.uk/about/governance/compliance/gdpr).
 

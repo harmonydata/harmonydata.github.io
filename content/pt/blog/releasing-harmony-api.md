@@ -1,12 +1,12 @@
 ---
-title: Liberando Harmony API
+title: Liberando a API Harmony
 description: Semantic text matching is a task in natural language processing involving estimating the semantic similarity between two texts. For exam...
 date:
 image: /images/blog/harmony_api.png
 ---
 
 
-Temos o prazer de anunciar que a API REST do Harmony foi lançada. O código-fonte está em https://github.com/harmonydata/harmonyapi e o PDF de referência da API pode ser visto em https://github.com/harmonydata/harmonyapi/blob/main/docs/API_reference.pdf.
+Temos o prazer de anunciar que a API REST Harmony foi lançada. O código-fonte está em https://github.com/harmonydata/harmonyapi e o PDF de referência da API pode ser visto em https://github.com/harmonydata/harmonyapi/blob/main/docs/API_reference.pdf.
 
 Enquanto isso, você pode instalar e executar a biblioteca Harmony Python com
 
@@ -15,11 +15,11 @@ pip install harmonydata
 ```
 
 
-## Como o Harmony funciona em termos leigos?
+## Como funciona o Harmony em termos leigos?
 
-O Harmony compara questões de diferentes instrumentos convertendo-as em uma representação vetorial e calculando sua similaridade. Você pode ler mais em https://harmonydata.org/how-does-harmony-work/ 
+o Harmony compara questões de diferentes instrumentos convertendo-as em uma representação vetorial e calculando sua similaridade. Você pode ler mais em https://harmonydata.org/how-does-harmony-work/ 
 
-## Deseja executar o Harmony em seu navegador localmente a partir de um contêiner Docker pré-construído? 
+## Deseja executar o Harmony em seu navegador localmente a partir de um contêiner Docker pré-criado? 
 
 Baixe e instale o Docker:
 
@@ -39,8 +39,8 @@ Em seguida, acesse http://localhost:3000 em seu navegador.
 
 Se você for um usuário do Docker, poderá executar o Harmony a partir de uma imagem pré-criada do Docker.
 
-* https://hub.docker.com/repository/docker/harmonydata/harmonyapi - apenas a API Harmony
-* https://hub.docker.com/repository/docker/harmonydata/harmonylocal - Harmony API e React front end
+* https://hub.docker.com/repository/docker/harmonydata/harmonyapi - apenas a API do Harmony
+* https://hub.docker.com/repository/docker/harmonydata/harmonylocal - a API Harmony e o front-end do React
 
 # Introdução: executando e desenvolvendo a API em seu computador usando o Docker
 
@@ -52,7 +52,7 @@ Primeiro, clone a API e certifique-se de clonar com `--recurse-submodules`.
 git clone --recurse-submodules git@github.com:harmonydata/harmonyapi.git
 ```
 
-A API Harmony inclui o repositório `harmony` como um submódulo usando seu endereço de clone SSH. Portanto, para que este clone funcione, você poderá habilitar o acesso SSH em sua conta do Github (ou seja, adicionar uma chave pública a https://github.com/settings/keys. Se você receber um erro de acesso ao tentar clonar o repositório, isso é provavelmente o que deu errado.)
+A API do Harmony inclui o repositório `harmony` como um submódulo usando seu endereço de clone SSH. Portanto, para que este clone funcione, você poderá habilitar o acesso SSH em sua conta do Github (ou seja, adicionar uma chave pública a https://github.com/settings/keys. Se você receber um erro de acesso ao tentar clonar o repositório, isso é provavelmente o que deu errado.)
 
 ## 1. Execute o Tika
 
@@ -86,7 +86,7 @@ docker run -it harmonyapi bash
 
 # Arquitetura do servidor Harmony API implantado
 
-O Harmony é implantado com o Docker Compose - consulte `docker_compose.yml`.
+o Harmony é implantado com o Docker Compose - veja `docker_compose.yml`.
 
 ## dados MHC
 
@@ -117,7 +117,7 @@ Existem também outras variáveis de ambiente que informam à API onde procurar 
 
 Idealmente, você pode definir essas variáveis de ambiente para mostrar ao Harmony onde procurar dependências e dados, mas funcionará sem ele (ele fará o download do transformador de sentença do HuggingFace Hub, etc).
 
-O Harmony implantado usa uma função do Azure para executar o spaCy, disponível no repositório aqui: https://github.com/harmonydata/spaceyfunctionapp
+O Harmony implantado usa uma Azure Function para executar o spaCy, disponível no repositório aqui: https://github.com/harmonydata/spaceyfunctionapp
 
 Idealmente, você pode definir essas variáveis de ambiente para mostrar ao Harmony onde procurar dependências e dados, mas funcionará sem ele (ele fará o download do transformador de sentença do HuggingFace Hub, etc).
 
@@ -127,7 +127,7 @@ Então, para executar localmente com o Docker Compose, você pode fazer
 docker compose up
 ```
 
-# Implementação da API Harmony FastAPI
+# a implementação da API Harmony FastAPI
 
 Se você não estiver executando com o Docker, poderá executar os componentes individuais da API do Harmony separadamente.
 
@@ -140,13 +140,13 @@ Arquitetura da implementação do Harmony no Azure com FastAPI:
 
 ## Instalando a biblioteca Python
 
-Você pode instalar a partir de [PyPI](https://pypi.org/project/harmonydata/0.1.0/).
+Você pode instalar de [ PyPI ](https://pypi.org/project/harmonydata/0.1.0/) .
 
 ```
 pip install harmonydata
 ```
 
-Você pode ler o guia do usuário em [./harmony_pypi_package/README.md](harmony_pypi_package/README.md).
+Você pode ler o guia do usuário em [ ./harmony_pypi_package/README.md ](harmony_pypi_package/README.md) .
 
 ## Chamando a API do Harmony
 
@@ -344,26 +344,26 @@ thomas@fastdatascience.com
 
 ## construído com
 
-- [Docker](https://docs.docker.com/) - Usado para implantação na web
-- [Apache Tika](https://tika.apache.org/) - Usado para converter PDFs em texto
-- [HuggingFace](https://huggingface.co/) - Usado para aprendizado de máquina
-- [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2) - modelo SentenceBERT
-- [spaCy](https://spacy.io/) - Usado para análise de PNL
-- [NLTK](https://www.nltk.org/) - Usado para análise de PNL
-- [Scikit-Learn](https://scikit-learn.org/) - Usado para aprendizado de máquina
+- [ Docker ](https://docs.docker.com/) - Usado para implantação na web
+- [ Apache Tika ](https://tika.apache.org/) - Usado para converter PDFs em texto
+- [ HuggingFace ](https://huggingface.co/) - Usado para aprendizado de máquina
+- [ transformadores de sentença/parafrase-multilingual-MiniLM-L12-v2 ](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2) - modelo SentenceBERT
+- [ spaCy ](https://spacy.io/) - Usado para análise de PNL
+- [ NLTK ](https://www.nltk.org/) - Usado para análise de PNL
+- [ Scikit-Learn ](https://scikit-learn.org/) - Usado para aprendizado de máquina
 
 ## Licenças de software de terceiros
 
-- Apache Tika: [Licença Apache 2.0](https://tika.apache.org/license.html)
-- spaCy: [Licença MIT](https://github.com/explosion/spaCy/blob/master/LICENSE)
-- NLTK: [Licença Apache 2.0](https://github.com/nltk/nltk/blob/develop/LICENSE.txt)
-- Scikit-Learn: [BSD 3-Clause](https://github.com/scikit-learn/scikit-learn/blob/main/COPYING)
+- Apache Tika: [ Licença Apache 2.0 ](https://tika.apache.org/license.html)
+- spaCy: [ Licença MIT ](https://github.com/explosion/spaCy/blob/master/LICENSE)
+- NLTK: [ Licença Apache 2.0 ](https://github.com/nltk/nltk/blob/develop/LICENSE.txt)
+- Scikit-Learn: [ BSD 3-Clause ](https://github.com/scikit-learn/scikit-learn/blob/main/COPYING)
 - 
-## Como faço para citar Harmonia?
+## Como faço para citar o Harmony ?
 
 Caso queira citar apenas a ferramenta, você pode citar:
 
-Wood, TA, McElroy, E., Moltrecht, B., Ploubidis, GB, Scopel Hoffmann, M., Harmony [Software de computador], Versão 1.0, acessado em https://app.harmonydata.org. Universidade do Ulster (2022)
+Wood, TA, McElroy, E., Moltrecht, B., Ploubidis, GB, Scopel Hoffmann, M., the Harmony [software de computador], versão 1.0, acessado em https://app.harmonydata.org. Universidade do Ulster (2022)
 
 Uma entrada BibTeX para usuários LaTeX é
 
@@ -377,9 +377,9 @@ Uma entrada BibTeX para usuários LaTeX é
 }
 ```
 
-Você também pode citar o projeto Harmony mais amplo, registrado na Open Science Foundation:
+Você também pode citar o projeto Harmony mais amplo que está registrado na Open Science Foundation:
 
-McElroy, E., Moltrecht, B., Scopel Hoffmann, M., Wood, TA e Ploubidis, G. (2023, 6 de janeiro). Harmony – Uma plataforma global para harmonização contextual, tradução e cooperação em pesquisa em saúde mental. Recuperado de osf.io/bct6k
+McElroy, E., Moltrecht, B., Scopel Hoffmann, M., Wood, TA e Ploubidis, G. (2023, 6 de janeiro). the Harmony – Uma plataforma global para harmonização contextual, tradução e cooperação em pesquisa em saúde mental. Recuperado de osf.io/bct6k
 
 ```
 @misc{McElroy_Moltrecht_Scopel Hoffmann_Wood_Ploubidis_2023,
@@ -394,13 +394,13 @@ McElroy, E., Moltrecht, B., Scopel Hoffmann, M., Wood, TA e Ploubidis, G. (2023,
 
 # Referência da API
 
-# Harmony API
+# API Harmony
 
 Versão da API: 2.
 
-Documentação para Harmony API.
+Documentação para a API Harmony .
 
-O Harmony é uma ferramenta que usa IA que permite comparar itens de questionários e identificar conteúdos semelhantes.
+o Harmony é uma ferramenta que usa IA que permite comparar itens de questionários e identificar conteúdos semelhantes.
 You can try Harmony at <a href="https://app.harmonydata.org">app.harmonydata.org</a> and you can read our blog
 at <a href="https://harmonydata.org/blog/">harmonydata.org/blog/</a>.
 
@@ -413,7 +413,7 @@ URL: https://fastdatascience.com
 ## ÍNDICE
 
 - 1. VERIFICAÇÃO DE SAÚDE
-- 1.1 GET / verificação de integridade
+- 1.1 GET / verificação de saúde
 - 2. INFORMAÇÕES
 - 2.1 GET /info/versão
 - 3. TEXTO
@@ -427,7 +427,7 @@ URL: https://fastdatascience.com
 
 ## 1. VERIFICAÇÃO DE SAÚDE
 
-## 1.1 GET / verificação de integridade
+## 1.1 GET / verificação de saúde
 
 Exame de saúde
 

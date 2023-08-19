@@ -1,15 +1,15 @@
 ---
-title: Como Funciona O Harmony?
+title: Como Funciona o Harmony ?
 description: When you input two questionnaires into Harmony, such as the GAD-7 and Beck’s Anxiety Inventory, Harmony is able to match similar quest...
 date: 2022-11-03
 image: /images/blog/harmony-1.png
 ---
 
-Quando você insere dois questionários no Harmony, como o [GAD-7](https://en.wikipedia.org/wiki/Generalized_Anxiety_Disorder_7) e o [Beck's Anxiety Inventory](https://res.cloudinary.com/dpmykpsih/ image/upload/great-plains-health-site-358/media/1087/anxiety.pdf), Harmony é capaz de combinar perguntas semelhantes e atribuir um número à correspondência. (Escrevi outra postagem no blog sobre [como medimos o desempenho do Harmony em termos de AUC](https://harmonydata.ac.uk/measuring-the-performance-of-nlp-algorithms/)).
+Quando você insere dois questionários no Harmony , como o [ GAD-7 ](https://en.wikipedia.org/wiki/Generalized_Anxiety_Disorder_7) e o [ Beck's Anxiety Inventory ](https://res.cloudinary.com/dpmykpsih/image/upload/great-plains-health-site-358/media/1087/anxiety.pdf) , o Harmony é capaz de combinar perguntas semelhantes e atribuir um número à correspondência. (Escrevi outra postagem no blog sobre [ como medimos o desempenho do Harmony em termos de AUC ](https://harmonydata.ac.uk/measuring-the-performance-of-nlp-algorithms/) ).
 
-Então, como Harmony consegue isso?
+Então, como o Harmony consegue isso?
 
-O Harmony usa técnicas do campo de [processamento de linguagem natural](https://fastdatascience.com/what-is-nlp/) para identificar quando duas perguntas tratam de um tópico semelhante. Processamento de linguagem natural, ou NLP, é o campo de estudo sobre as interações entre humanos e computadores por meio da linguagem humana.
+o Harmony usa técnicas do campo de [ processamento de linguagem natural ](https://fastdatascience.com/what-is-nlp/) para identificar quando duas perguntas tratam de um tópico semelhante. Processamento de linguagem natural, ou NLP, é o campo de estudo sobre as interações entre humanos e computadores por meio da linguagem humana.
 
 ## Introdução ao processamento de linguagem natural: o saco de palavras
 
@@ -60,23 +60,23 @@ Agora temos uma maneira de lidar com sinônimos. Essa abordagem é chamada *embe
 
 Alguns valores vetoriais de palavras reais para termos que ocorrem em nossos dados. Normalmente, os vetores são grandes, potencialmente até 500 dimensões.
 
-A incorporação de vetores de palavras tornou-se popular em 2013, depois que o cientista da computação tcheco Tomáš Mikolov [propôs uma maneira pela qual uma IA pode gerar vetores](https://arxiv.org/abs/1310.4546) para cada palavra no idioma inglês simplesmente a partir de um conjunto enorme de documentos.
+A incorporação de vetores de palavras tornou-se popular em 2013, depois que o cientista da computação tcheco Tomáš Mikolov [ propôs uma maneira pela qual uma IA pode gerar vetores ](https://arxiv.org/abs/1310.4546) para cada palavra no idioma inglês simplesmente a partir de um conjunto enorme de documentos.
 
 {{< image src="images/blog/newplot-28-min.png" alt="newplot" >}}
 
-Para visualizar os vetores de palavras, podemos esmagá-los em duas ou três dimensões. Esta é uma visualização 2D dos termos na tabela acima. Usei um algoritmo chamado [t-SNE](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding) para esmagá-los em uma superfície plana.
+Para visualizar os vetores de palavras, podemos esmagá-los em duas ou três dimensões. Esta é uma visualização 2D dos termos na tabela acima. Usei um algoritmo chamado [ t-SNE ](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding) para esmagá-los em uma superfície plana.
 
-Se você quiser experimentar vetores de palavras, visite o [site do Nordic Language Processing Laboratory](http://vectors.nlpl.eu/explore/embeddings/en/#) e tente você mesmo.
+Se você quiser experimentar vetores de palavras, visite o site do [ Nordic Language Processing Laboratory ](http://vectors.nlpl.eu/explore/embeddings/en/#) e tente você mesmo.
 
 Se você quiser usar incorporações de vetores de palavras para encontrar sinônimos, poderá calcular o vetor médio de cada pergunta e calcular as distâncias entre os vetores dessa maneira. Isso não vai lidar com coisas como negação (*eu não me sinto ansioso*), mas é muito mais poderoso do que a abordagem do saco de palavras. Palavras como *banco*, que tem um significado diferente dependendo do contexto, sempre serão representadas como o mesmo vetor. 
 
-Com os dados do Harmony, descobri que os modelos de espaço vetorial não identificaram corretamente a relação entre *criança intimida os outros* e *criança é intimidada pelos outros* – que são claramente questões muito diferentes e não devem ser harmonizadas juntas.
+Com os dados do Harmony , descobri que os modelos de espaço vetorial não identificaram corretamente a relação entre *criança intimida os outros* e *criança é intimidada pelos outros* – que são claramente questões muito diferentes e não devem ser harmonizadas juntas.
 
 {{< image src="images/blog/Vector-checklist.drawio-min-768x633.png" alt="Vector checklist" >}}
 
 ## modelos de transformadores
 
-Em 2017, uma equipe de pesquisadores do Google publicou um artigo intitulado [Attention Is All You Need](https://arxiv.org/abs/1706.03762), onde propuseram um tipo especial de rede neural chamada rede Transformer, capaz de mover ao longo de uma string de texto e gerar um vetor em cada ponto do documento, levando em consideração o contexto no restante do documento. 
+Em 2017, uma equipe de pesquisadores do Google publicou um artigo intitulado [ Atenção é tudo que você precisa ](https://arxiv.org/abs/1706.03762) , onde propuseram um tipo especial de rede neural chamada rede Transformer, capaz de mover ao longo de uma string de texto e gerar um vetor em cada ponto do documento, levando em consideração o contexto no restante do documento. 
 
 A rede neural do transformador usa um *mecanismo de atenção*, que é um componente que faz com que ela preste atenção extra às palavras da frase que estão fortemente ligadas à palavra que está olhando.
 
@@ -90,7 +90,7 @@ Como um aparte, os transformadores também podem ser usados para tradução auto
 
 A palavra *vermelho* pode ser traduzida de várias maneiras diferentes para o português, dependendo do gênero e do substantivo a ser modificado. Os modelos de transformadores são hábeis em levar essas pistas ao contexto e produzir a tradução correta de uma frase.
 
-Para o Harmony, estamos usando um modelo de transformador de IA de código aberto chamado GPT-2, que foi [desenvolvido pela OpenAI em 2019](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf).
+Para o Harmony , estamos usando um modelo de transformador AI de código aberto chamado GPT-2, que foi [ desenvolvido pela OpenAI em 2019 ](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) .
 
 GPT-2 converte o texto de cada pergunta em um vetor em 1600 dimensões. 
 
@@ -104,7 +104,7 @@ Quando o Harmony recebe dois ou mais questionários, o texto de cada pergunta é
 
 Em seguida, encontramos as correspondências mais próximas e as vinculamos em um gráfico.
 
-Como essa abordagem é potencialmente propensa a erros, fornecemos a facilidade para um usuário editar o gráfico de rede e adicionar e remover arestas se discordar das decisões do Harmony.
+Como essa abordagem é potencialmente propensa a erros, fornecemos a facilidade para um usuário editar o gráfico de rede e adicionar e remover arestas se discordar das decisões do Harmony .
 
 {{< image src="images/blog/image-2.png" >}}
 
@@ -112,17 +112,17 @@ O usuário tem a opção de adicionar ou remover arestas do gráfico.
 
 ## Dados Abertos e Ciência Aberta
 
-Com o objetivo de tornar nossa pesquisa o mais acessível possível ao público, tornamos o Harmony, seu código-fonte e dados públicos. O código-fonte e os dados-fonte estão no [GitHub](https://github.com/harmonydata) e são executados em Python. Se você tem algum conhecimento básico de Python, fique à vontade para baixá-lo e pode até contribuir com o projeto, fazendo um branch e enviando um pull request.
+Com o objetivo de tornar nossa pesquisa o mais acessível possível ao público, tornamos o Harmony , seu código-fonte e dados públicos. O código-fonte e os dados-fonte estão no [ GitHub ](https://github.com/harmonydata) e são executados em Python. Se você tem algum conhecimento básico de Python, fique à vontade para baixá-lo e pode até contribuir com o projeto, fazendo um branch e enviando um pull request.
 
-## O que vem a seguir parO Harmony?
+## O que vem a seguir para o Harmony ?
 
 ### Correspondência de escala de Likert
 
-As perguntas geralmente vêm com um conjunto de opções como *definitivamente não, um pouco ansioso* e assim por diante. Estes são frequentemente uma forma de [escala Likert](https://en.wikipedia.org/wiki/Likert_scale). Gostaríamos de aplicar a mesma lógica para corresponder às respostas do candidato em uma pergunta e identificar quando as perguntas têm polaridade oposta (*muitas vezes me sinto ansioso* versus *raramente me sinto ansioso*).
+As perguntas geralmente vêm com um conjunto de opções como *definitivamente não, um pouco ansioso* e assim por diante. Geralmente, são uma forma de [ escala Likert ](https://en.wikipedia.org/wiki/Likert_scale) . Gostaríamos de aplicar a mesma lógica para corresponder às respostas do candidato em uma pergunta e identificar quando as perguntas têm polaridade oposta (*muitas vezes me sinto ansioso* versus *raramente me sinto ansioso*).
 
 ### Processamento de PDF
 
-O Harmony foi projetado para processar arquivos de entrada no formato Excel ou PDF. Extrair as perguntas de um PDF é muito difícil devido à enorme variedade de formatos e sistemas de numeração. Gostaríamos de adicionar um melhor suporte para diferentes formatos de PDF.
+o Harmony foi projetado para processar arquivos de entrada em formato Excel ou PDF. Extrair as perguntas de um PDF é muito difícil devido à enorme variedade de formatos e sistemas de numeração. Gostaríamos de adicionar um melhor suporte para diferentes formatos de PDF.
 
 ### Calibração de dados
 

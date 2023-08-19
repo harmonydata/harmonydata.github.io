@@ -28,7 +28,7 @@ blocks:
     copy: Cientista de dados e especialista em processamento de linguagem natural na Fast Data Science Ltd
     social:
       linkedin: https://uk.linkedin.com/in/woodthom
-  - heading: xProf. George Ploubidisx
+  - heading: Prof. George Ploubidis
     image: /images/team/George.jpg
     copy: Professor de Saúde e Estatística da População no Instituto de Pesquisa Social da University College London
     social:

@@ -194,7 +194,7 @@ languages:
         weight: 50
 
       navbar_cta:
-      - name: Try Harmony
+      - name: Use o Harmony
         url: "/app/"
         pre: outline
 

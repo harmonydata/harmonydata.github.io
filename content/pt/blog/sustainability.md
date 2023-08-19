@@ -11,15 +11,15 @@ Temos pensado em como podemos garantir que o Harmony continue a operar por muito
 
 # A infraestrutura
 
-Para a primeira iteração do Harmony, desenvolvemos o painel em [Plotly Dash](https://plotly.com/dash/) e o implantamos em um domínio .org em execução no [Microsoft Azure App Service](https:// azure.microsoft.com/en-gb/products/app-service). O site estava rodando em [Wordpress](https://wordpress.com/), hospedado em [Siteground](https://www.siteground.co.uk/). Todas essas são soluções pagas que estavam saindo do orçamento do projeto.
+Para a primeira iteração do Harmony , desenvolvemos o painel em [ Plotly Dash ](https://plotly.com/dash/) e o implantamos em um domínio .org em execução no [ Microsoft Azure App Service ](https://azure.microsoft.com/en-gb/products/app-service) . O site estava rodando em [ Wordpress ](https://wordpress.com/) , hospedado em [ Siteground ](https://www.siteground.co.uk/) . Todas essas são soluções pagas que estavam saindo do orçamento do projeto.
 
 Descobrimos que o Wordpress não é uma boa solução a longo prazo, pois precisa ser mantido e atualizado para reduzir o risco de violações de segurança. Também não seria compatível com nenhuma solução em que hospedaríamos na infraestrutura administrada pela Ulster University, devido a questões de segurança. Além disso, o Wordpress precisa de hospedagem paga para uma boa experiência do usuário, embora haja ofertas gratuitas disponíveis.
 
-Tomamos a decisão de migrar nosso blog do Wordpress para [Hugo](https://gohugo.io/) e registramos o domínio Harmonydata.ac.uk via Ulster University. Isso garante um domínio mais confiável, tornando-nos mais fáceis de encontrar e uma presença mais permanente na academia do Reino Unido. O site/blog Hugo é estático e gerenciado a partir de [um repositório Github](https://github.com/harmonydata/harmonydata.github.io) e hospedado em [Github Pages](https://pages.github.com /). Isso é gratuito e fácil de trabalhar - qualquer membro da equipe pode fazer upload de uma postagem de blog no formato Markdown no repositório Github e o site é reconstruído automaticamente.
+Tomamos a decisão de migrar nosso blog do Wordpress para [ Hugo ](https://gohugo.io/) e registramos o domínio harmonitydata.ac.uk via Ulster University. Isso garante um domínio mais confiável, tornando-nos mais fáceis de encontrar e uma presença mais permanente na academia do Reino Unido. O site/blog do Hugo é estático e gerenciado de [ um repositório Github ](https://github.com/harmonydata/harmonydata.github.io) e hospedado em [ Páginas do Github ](https://pages.github.com/) . Isso é gratuito e fácil de trabalhar - qualquer membro da equipe pode fazer upload de uma postagem de blog no formato Markdown no repositório Github e o site é reconstruído automaticamente.
 
-Com relação à API do Harmony, inicialmente rodamos a ferramenta no Microsoft Azure. Isso custava cerca de £ 100 a £ 200 por mês, já que a ferramenta precisa executar um LLM (large language model) em segundo plano.
+Com relação à API do Harmony , inicialmente rodamos a ferramenta no Microsoft Azure. Isso custava cerca de £ 100 a £ 200 por mês, já que a ferramenta precisa executar um LLM (large language model) em segundo plano.
 
-Exploramos várias soluções que podem reduzir custos e optamos por usar os servidores disponíveis na Ulster University para hospedagem contínua, o que significa que uma conta do Azure não é mais necessária. Uma alternativa que exploramos foram soluções sem servidor (função como serviço, ou FaaS) usando [AWS Lambda](https://aws.amazon.com/lambda/), que é barato de executar, mas muito complicado de configurar e resulta em longos tempos de partida a frio.
+Exploramos várias soluções que podem reduzir custos e optamos por usar os servidores disponíveis na Ulster University para hospedagem contínua, o que significa que uma conta do Azure não é mais necessária. Uma alternativa que exploramos foram as soluções sem servidor (função como serviço, ou FaaS) usando [ AWS Lambda ](https://aws.amazon.com/lambda/) , que é barato de executar, mas muito complicado de configurar e resulta em longos tempos de partida a frio.
 
 {{< image src="images/blog/deployed_harmony_architecture.png" alt="Screenshot" >}}
 
@@ -28,17 +28,17 @@ Exploramos várias soluções que podem reduzir custos e optamos por usar os ser
 
 # Código
 
-Desenvolvemos nosso software de acordo com as melhores práticas de projetos de código aberto. Nosso repositório Github está disponível publicamente e também publicamos nosso código na Open Science Foundation (OSF) aqui: https://osf.io/bct6k/.
+Desenvolvemos nosso software de acordo com as melhores práticas de projetos open source. Nosso repositório Github está disponível publicamente e também publicamos nosso código na Open Science Foundation (OSF) aqui: https://osf.io/bct6k/.
 
-Realizamos uma avaliação de sustentabilidade com o [Instituto de Sustentabilidade de Software] (https://software.ac.uk) no início da Fase de Prototipagem do Prêmio Wellcome Data. Isso destacou alguns pontos fracos de nossa estratégia de sustentabilidade de software, como a falta de informações claras sobre licenciamento, como contribuir ou instalar o código. Para corrigir esses problemas, atualizamos completamente o blog com as informações necessárias e garantimos que nossa licença de software (MIT) seja destacada em todos os repositórios e código-fonte.
+Realizamos uma avaliação de sustentabilidade com o [ Instituto de Sustentabilidade de Software ](https://software.ac.uk) no início da Fase de Prototipagem do Prêmio Wellcome Data. Isso destacou alguns pontos fracos de nossa estratégia de sustentabilidade de software, como a falta de informações claras sobre licenciamento, como contribuir ou instalar o código. Para corrigir esses problemas, atualizamos completamente o blog com as informações necessárias e garantimos que nossa licença de software (MIT) seja destacada em todos os repositórios e código-fonte.
 
-Também garantimos o lançamento de nossa ferramenta em Python e R, duas das linguagens de programação mais usadas pelos pesquisadores. Nossa [documentação da API](https://raw.githubusercontent.com/harmonydata/harmonyapi/main/docs/API_reference.pdf) está disponível on-line para download em PDF e fornecemos uma série de vídeos em nosso canal do YouTube para ajudá-lo a começar a instalar e usar o Harmony.
+Também garantimos o lançamento de nossa ferramenta em Python e R, duas das linguagens de programação mais usadas pelos pesquisadores. Nossa [ documentação da API ](https://raw.githubusercontent.com/harmonydata/harmonyapi/main/docs/API_reference.pdf) está disponível on-line para download em PDF e fornecemos uma série de vídeos em nosso canal do YouTube para ajudá-lo a começar a instalar e usar o Harmony .
 
 Para completar, incluímos nosso relatório inicial de avaliação de sustentabilidade do software.ac.uk (o Instituto de Sustentabilidade de Software) abaixo.
 
-# Harmony - Avaliação de Sustentabilidade
+# the Harmony - Avaliação de Sustentabilidade
 
-**Este relatório de avaliação de software é para o seu software: Harmony. É uma lista de recomendações baseadas nas perguntas da pesquisa às quais você respondeu "não".**
+**Este relatório de avaliação de software é para o seu software: o Harmony . É uma lista de recomendações baseadas nas perguntas da pesquisa às quais você respondeu "não".**
 
 **Caso nenhum texto apareça abaixo deste parágrafo, significa que você já deve estar seguindo todas as recomendações feitas em nossa avaliação. Isso é fantástico! Adoraríamos ouvir sua opinião, porque seu projeto seria um estudo de caso perfeito. Entre em contato (info@software.ac.uk)!**
 
@@ -72,9 +72,9 @@ Consulte nosso guia sobre suporte a software de código aberto (http://software.
 
 _Pergunta 5.2: Seu site e documentação descrevem qual suporte, se houver, você fornece aos usuários e desenvolvedores?_
 
-O nível de suporte que um usuário pode esperar receber costuma ser um elemento vital na escolha do software pelo usuário. Isso significa que o suporte que você fornece – seja uma resposta garantida em vinte e quatro horas ou uma possível resposta com base no melhor esforço – precisa ser esclarecido em seu site e em sua documentação.
+O nível de suporte que um usuário pode esperar receber costuma ser um elemento vital na escolha do software pelo usuário. Isso significa que o suporte que você fornece – seja uma resposta garantida em vinte e quatro horas ou uma possível resposta com base no melhor esforço – precisa estar claro em seu site e em sua documentação.
 
-Essas informações podem ajudar a gerenciar as expectativas dos usuários. Um usuário sempre desejará que seu problema seja resolvido o mais rápido possível e pode ficar descontente (e pode até deixar de ser um usuário) se esse não for o caso. Se você for claro e honesto sobre o nível de suporte que pode fornecer, é mais provável que mantenha seus usuários satisfeitos.
+Essas informações podem ajudar a gerenciar as expectativas dos usuários. Um usuário sempre desejará que seu problema seja resolvido o mais rápido possível e pode ficar descontente (e pode até deixar de ser um usuário) se não for esse o caso. Se você for claro e honesto sobre o nível de suporte que pode fornecer, é mais provável que mantenha seus usuários satisfeitos.
 
 Consulte nosso guia sobre suporte a software de código aberto (http://software.ac.uk/resources/guides/supporting-open-source-software). Seu conselho também se aplica ao suporte a software de código fechado.
 
@@ -88,7 +88,7 @@ myproject-support@myplace.ac.uk. Isso torna mais fácil para os usuários identi
 
 Consulte nosso guia sobre suporte a software de código aberto (http://software.ac.uk/resources/guides/supporting-open-source-software). Seu conselho também se aplica ao suporte a software de código fechado.
 
-_Pergunta 5.4: Os e-mails para o seu endereço de e-mail de suporte são recebidos por mais de uma pessoa?_ É fácil esquecer um e-mail, especialmente um com perguntas difíceis, então seus e-mails para seus e-mails de suporte endereço deve ser sempre recebido por mais de uma pessoa. Uma pessoa ainda deve ter a responsabilidade principal de lidar com os e-mails dos usuários, mas outras podem intensificar para lidar com os e-mails, se necessário, para que a consulta de um usuário seja atendida mesmo se um de vocês estiver de férias, doente ou indisposto .
+_Pergunta 5.4: Os e-mails para o seu endereço de e-mail de suporte são recebidos por mais de uma pessoa?_ É fácil esquecer um e-mail, especialmente um com perguntas difíceis, então seus e-mails para seus e-mails de suporte endereço deve ser sempre recebido por mais de uma pessoa. Uma pessoa ainda deve ter a responsabilidade principal de lidar com os e-mails dos usuários, mas outras podem se preparar para lidar com os e-mails, se necessário, para que a consulta de um usuário seja atendida mesmo se um de vocês estiver de férias, doente ou indisposto .
 
 Consulte nosso guia sobre suporte a software de código aberto (http://software.ac.uk/resources/guides/supporting-open-source-software). Seu conselho também se aplica ao suporte a software de código fechado.
 
@@ -172,7 +172,7 @@ Consulte nossos guias sobre como a integração contínua pode ajudá-lo a testa
 
 _Pergunta 12.4: Os resultados do seu teste são visíveis publicamente?_
 
-A publicação dos resultados dos testes executados com frequência (por exemplo, builds noturnos e execuções de teste) pode dar segurança aos usuários sobre como e quanto seu software é testado. Você pode publicar automaticamente as execuções de teste no site do seu projeto ou, alternativamente, enviar os resultados da execução do teste para a lista de discussão de um desenvolvedor ou para uma lista de discussão dedicada aos resultados do teste. Por exemplo, consulte os resultados do teste (http://build.mygrid.org.uk/ci/), para o sistema de gerenciamento de fluxo de trabalho Taverna (http://www.taverna.org.uk/) que usa Jenkins (https: //jenkins-ci.org) para construir e testar seu código e publicar seus resultados.
+A publicação de resultados de testes executados com frequência (por exemplo, compilação noturna e execuções de teste) pode dar segurança aos usuários sobre como e quanto seu software é testado. Você pode publicar automaticamente as execuções de teste no site do seu projeto ou, alternativamente, enviar os resultados da execução do teste para a lista de discussão de um desenvolvedor ou para uma lista de discussão dedicada aos resultados do teste. Por exemplo, veja os resultados do teste (http://build.mygrid.org.uk/ci/), para o sistema de gerenciamento de fluxo de trabalho Taverna (http://www.taverna.org.uk/) que usa Jenkins (https: //jenkins-ci.org) para construir e testar seu código e publicar seus resultados.
 
 Questão 12.5: Todos os testes executados manualmente estão documentados?
 
@@ -196,7 +196,7 @@ Uma ótima maneira de mostrar seu software é escrever estudos de caso sobre as 
 
 _Pergunta 13.8: Se o seu software é desenvolvido como um projeto de código aberto (e não apenas um projeto de desenvolvimento de software de código aberto), você possui um modelo de governança?_
 
-Um modelo de governança define como um projeto de código aberto é executado. Descreve as funções dentro do projeto e sua comunidade e as responsabilidades associadas a cada função; como o projeto apóia sua comunidade; quais contribuições podem ser feitas ao projeto, como são feitas, quaisquer condições às quais as contribuições devem obedecer, quem retém os direitos autorais das contribuições e o processo seguido pelo projeto ao aceitar a contribuição; e, o processo de tomada de decisão dentro do projeto.
+Um modelo de governança define como um projeto de código aberto é executado. Descreve as funções dentro do projeto e sua comunidade e as responsabilidades associadas a cada função; como o projeto apóia sua comunidade; que contribuições podem ser feitas ao projeto, como são feitas, quaisquer condições às quais as contribuições devem obedecer, quem retém os direitos autorais das contribuições e o processo seguido pelo projeto ao aceitar a contribuição; e, o processo de tomada de decisão dentro do projeto.
 
 Embora sejam projetados para projetos de código aberto, muitas de suas preocupações são relevantes para qualquer projeto de software.
 
@@ -212,11 +212,11 @@ Os usuários não podem contribuir se não souberem que podem contribuir. Public
 
 Para obter informações sobre como gerenciar contribuições, consulte os Contratos de licença de colaborador do OSS Watch (http://oss-watch.ac.uk/resources/cla).
 
-_Pergunta 14.4: Os contribuidores mantêm os direitos autorais/IP de suas contribuições?_ Pedir aos contribuidores que assinem seus direitos autorais e propriedade intelectual para seu projeto ou organização pode impedir os usuários de contribuir. Com efeito, pede-lhes que abram mão de algo que pode ser novo e que pode representar um aspecto fundamental de sua pesquisa. Permitir que os contribuidores mantenham seus próprios direitos autorais e propriedade intelectual remove essa barreira, tornando a contribuição uma opção mais atraente. Também contribui para promover uma comunidade em torno de seu software – todos compartilhando seus resultados em vez de entregá-los a um grupo seleto. Para obter informações sobre como gerenciar contribuições, consulte os Contratos de licença de colaborador do OSS Watch (http://oss-watch.ac.uk/resources/cla).
+_Pergunta 14.4: Os colaboradores mantêm os direitos autorais/IP de suas contribuições?_ Pedir aos colaboradores que assinem seus direitos autorais e propriedade intelectual para seu projeto ou organização pode impedir os usuários de contribuir. Com efeito, pede-lhes que abram mão de algo que pode ser novo e que pode representar um aspecto fundamental de sua pesquisa. Permitir que os colaboradores mantenham seus próprios direitos autorais e propriedade intelectual remove essa barreira, tornando a contribuição uma opção mais atraente. Também contribui para promover uma comunidade em torno de seu software – todos compartilhando seus resultados em vez de entregá-los a um grupo seleto. Para obter informações sobre como gerenciar contribuições, consulte os Contratos de licença de colaborador do OSS Watch (http://oss-watch.ac.uk/resources/cla).
 
 _Pergunta 15.2: Cada um de seus arquivos de código-fonte inclui uma declaração de direitos autorais?_ É fácil distribuir arquivos de código-fonte e isso separa o código de qualquer declaração de direitos autorais que possa estar em seu site ou em sua documentação. Para cobrir essa eventualidade e remover qualquer ambigüidade sobre propriedade, é uma boa prática incluir uma declaração de direitos autorais com cada um de seus arquivos de código-fonte, como um comentário ou, se o idioma permitir, como uma string constante.
 
-_Pergunta 15.3: Seu site e documentação declaram claramente a licença de seu software?_ Os usuários precisam conhecer as condições de licenciamento de seu software e também de qualquer software de terceiros que o acompanha, pois isso pode impor restrições e obrigações sobre como eles podem usá-lo ou redistribuí-lo. Os desenvolvedores precisam conhecer as condições sob as quais podem alterar ou estender seu software e quaisquer restrições sobre suas modificações e extensões e sua redistribuição. Também é essencial que usuários e desenvolvedores conheçam o licenciamento de qualquer software de terceiros incluído em uma versão pelos mesmos motivos. Isso pode incluir: código-fonte de terceiros, copiado e usado como está; código-fonte de terceiros modificado, estendido ou corrigido; binários de terceiros (por exemplo, DLLs, arquivos JAR, etc.) enviados por você; e software de terceiros baixado e instalado pelos usuários.
+_Pergunta 15.3: Seu site e documentação declaram claramente a licença de seu software?_ Os usuários precisam conhecer as condições de licenciamento de seu software e também de qualquer software de terceiros que o acompanha, pois isso pode impor restrições e obrigações sobre como eles podem usá-lo ou redistribuí-lo. Os desenvolvedores precisam saber as condições sob as quais podem alterar ou estender seu software e quaisquer restrições sobre suas modificações e extensões e sua redistribuição. Também é essencial que usuários e desenvolvedores conheçam o licenciamento de qualquer software de terceiros incluído em uma versão pelos mesmos motivos. Isso pode incluir: código-fonte de terceiros, copiado e usado como está; código-fonte de terceiros modificado, estendido ou corrigido; binários de terceiros (por exemplo, DLLs, arquivos JAR, etc.) enviados por você; e software de terceiros baixado e instalado pelos usuários.
 
 Se os usuários puderem visualizar a licença do seu software em seu site, sem precisar fazer o download do software, os usuários em potencial poderão determinar rapidamente se a licença é adequada para a forma como pretendem usar o software.
 

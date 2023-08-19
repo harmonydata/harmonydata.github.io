@@ -5,25 +5,25 @@ date: 2023-07-12
 image: /images/blog/Screenshot-from-2023-07-12-21-28-48-1536x933.png
 ---
 
-Aqui está um guia de início rápido para executar o Harmony. Estas instruções são para a versão completa do Harmony, incluindo a ferramenta gráfica baseada em navegador que está disponível online em https://harmonydata.ac.uk/app/. Se você precisa apenas do [Python](https://github.com/harmonydata/harmonyapi) ou das bibliotecas R, ou da [API REST](https://github.com/harmonydata/harmonyapi), consulte nosso [ Página do Github](https://github.com/harmonydata).
+Aqui está um guia de início rápido para executar o Harmony . Estas instruções são para a versão completa do Harmony , incluindo a ferramenta gráfica baseada em navegador que está disponível online em https://harmonydata.ac.uk/app/. Se você precisa apenas das bibliotecas [ Python ](https://github.com/harmonydata/harmonyapi) ou R, ou da [ API REST ](https://github.com/harmonydata/harmonyapi) , consulte nosso [ Página do Github ](https://github.com/harmonydata) .
 
 Você precisará primeiro baixar e instalar alguns programas que o Harmony precisa para executar.
 
 Você precisa de um computador com pelo menos 16 GB de RAM – em outras palavras, um computador bastante sofisticado. Isso ocorre porque o Harmony faz duas coisas que precisam de algum trabalho computacional pesado:
 
-- extração de textos de perguntas de PDFs (incluindo OCR em PDFs digitalizados) – isso é feito usando a biblioteca [Apache Tika](https://tika.apache.org/), com a biblioteca de processamento de linguagem natural [spaCy](https://space.io/).
-- transformando textos em vetores, usando uma rede neural transformadora de [HuggingFace](https://huggingface.co/).
+- extração de textos de perguntas de PDFs (incluindo OCR em PDFs digitalizados) – isso é feito usando a biblioteca [ Apache Tika ](https://tika.apache.org/) , com a biblioteca de processamento de linguagem natural [ spaCy ](https://spacy.io/) .
+- transformando textos em vetores, usando uma rede neural transformadora de [ HuggingFace ](https://huggingface.co/) .
 
-Além disso, o front-end baseado em navegador está sendo executado em [Node.js](https://nodejs.org/en) para criar os belos gráficos que você pode ver em nossa ferramenta da web.
+Além disso, o front-end baseado em navegador está sendo executado em [ Node.js ](https://nodejs.org/en) para criar os belos gráficos que você pode ver em nossa ferramenta da web.
 
-Se você não precisa de todas essas funcionalidades, pode preferir instalar a [biblioteca Harmony Python](https://github.com/harmonydata/harmonyapi), biblioteca R, [API REST](https://github. com/harmonydata/harmonyapi) ou até mesmo executar nosso contêiner Docker disponível em [nossa página DockerHub](https://hub.docker.com/r/harmonydata).
+Se você não precisa de toda essa funcionalidade, pode preferir instalar a [ biblioteca Harmony Python ](https://github.com/harmonydata/harmonyapi) , biblioteca R, [ API REST ](https://github.com/harmonydata/harmonyapi) ou até mesmo executar nosso contêiner Docker disponível em [ nossa página DockerHub ](https://hub.docker.com/r/harmonydata) .
 
 ## 1. Baixe e instale Java, Node.js e NPM
 
 Baixe e instale Java, Node.js e NPM, caso ainda não os tenha.
 
-- [link Windows/Mac/Linux](https://www.java.com/en/download/) (Java)
-- [Link para Node.js](https://nodejs.org/en/download)
+- [ link Windows/Mac/Linux ](https://www.java.com/en/download/) (Java)
+- [ Link para Node.js ](https://nodejs.org/en/download)
 
 Se você é um usuário de Mac e usa o Homebrew, pode executá-lo no Terminal.
 
@@ -56,7 +56,7 @@ Certifique-se de ter o Tika 2.3.0 ou posterior.
 
 ## 3. Baixe e instale o Python
 
-Se você ainda não possui o Python em seu computador, recomendamos baixá-lo em [Anaconda](https://www.anaconda.com/download). Certifique-se de ter o Python 3.9 ou posterior.
+Se você ainda não tem Python em seu computador, recomendamos baixá-lo de [ Anaconda ](https://www.anaconda.com/download) . Certifique-se de ter o Python 3.9 ou posterior.
 
 ## 4. Baixe a API do Harmony
 
@@ -79,7 +79,7 @@ No terminal ou console, digite
 python main.py
 ```
 
-## 7. Baixe e execute o front-end do Harmony
+## 7. Baixe e execute o front-end Harmony
 
 Visit our [front end Github page](https://github.com/harmonydata/harmonydata.github.io) and click Code -> Download ZIP. Unzip it on your computer.
 

@@ -12,12 +12,12 @@ blocks:
   mode: dark #dark mode, leave blank for light mode
   overlay: true #used together with navbar overlay: true option to show background image behind the navbar
   background_image: images/globe-min.svg
-  heading: "Harmonize os itens do questionário com **Harmony**."
-  subheading: O Harmony é uma ferramenta para harmonização retrospectiva dos itens do questionário.
+  heading: "Harmonize os itens do questionário com **o Harmony**."
+  subheading: o Harmony é uma ferramenta para harmonização retrospectiva dos itens do questionário.
   copy: |-
     Você precisa comparar os dados do questionário entre os estudos? Você quer encontrar a melhor correspondência para um conjunto de itens? Existem versões diferentes do mesmo questionário flutuando e você quer ter certeza de quão compatíveis elas são? Os questionários estão escritos em idiomas diferentes que você gostaria de comparar?
 
-    O projeto Harmony é um projeto de harmonização de dados que usa [Natural Language Processing](/guide-natural-language-processing-nlp/) para ajudar os pesquisadores a fazer melhor uso dos dados existentes de diferentes estudos, apoiando-os com a harmonização de várias medidas e itens usados em diferentes estudos. Harmony é um projeto de colaboração entre a [Ulster University](https://ulster.ac.uk/), [University College London](https://ucl.ac.uk/), a [Universidade Federal de Santa Maria]( https://www.ufsm.br/) e [Fast Data Science](http://fastdatascience.com/).
+    O projeto Harmony é um projeto de harmonização de dados que usa [ Natural Language Processing ](/guide-natural-language-processing-nlp/) para ajudar os pesquisadores a fazer melhor uso dos dados existentes de diferentes estudos, apoiando-os com a harmonização de várias medidas e itens usados em diferentes estudos. o Harmony é um projeto de colaboração entre [ Ulster University ](https://ulster.ac.uk/) , [ University College London ](https://ucl.ac.uk/) , a [ Universidade Federal de Santa Maria ](https://www.ufsm.br/) e [ Fast Data Science ](http://fastdatascience.com/) .
 
   buttons:
   - text: Try Harmony Now!
@@ -27,8 +27,8 @@ blocks:
 
 - block: video
   padding: top
-  superheading: "**Harmonia**"
-  heading: Introdução à Harmonia
+  superheading: "**o Harmony**"
+  heading: Introdução ao Harmony
   subheading: Harmonização de dados com processamento de linguagem natural
   youtube: cEZppTBj1NI
   image: images/bg-video.jpg
@@ -48,7 +48,7 @@ blocks:
 - block: feature-2
   padding: top
   align: right 
-  heading: "Use Harmony em Python"
+  heading: "Use o Harmony em Python"
   subheading: Lançamos o Harmony como uma biblioteca Python fácil de usar no Pypi.
   links: 
   - text: Pypi
@@ -76,7 +76,7 @@ blocks:
 
 - block: feature-2
   padding: top
-  heading: "Use Harmonia em R"
+  heading: "Use o Harmony em R"
   subheading: Os usuários do R agora podem importar o Harmony como um pacote do R.
   links: 
   - text: R Package
@@ -92,10 +92,10 @@ blocks:
     ```
 
 - block: feature-2
-  # preenchimento: superior
+  # padding: top
   align: right 
-  heading: "Contêiner Harmony Docker"
-  subheading: Lançamos o Harmony como um contêiner do Docker no Dockerhub.
+  heading: "o contêiner Harmony Docker"
+  subheading: Lançamos o Harmony como um contêiner Docker no Dockerhub.
   links: 
   - text: Docker
     url: https://www.docker.com/
@@ -108,7 +108,7 @@ blocks:
     ```
 
 - block: logos
-  # preenchimento: superior
+  # padding: top
   mode: muted
   superheading: "**Nossos Parceiros**"
   logos:
@@ -141,22 +141,22 @@ blocks:
     image: /images/testimonial-user.svg
 
 - block: feature-2
-  # preenchimento: superior
+  # padding: top
   align: right
   image: images/gad-7-scanned-min.webp
   copy: |
-    Nossa ferramenta, Harmony, permite que os pesquisadores carreguem um conjunto de questionários de saúde mental em formato PDF ou Excel, como o questionário de ansiedade GAD-7. Ele identifica quais perguntas entre os questionários são idênticas, semelhantes em significado ou antônimas umas das outras e gera um gráfico de rede. Isso permite que os pesquisadores harmonizem os conjuntos de dados.
+    Nossa ferramenta, o Harmony , permite que os pesquisadores carreguem um conjunto de questionários de saúde mental em formato PDF ou Excel, como o questionário de ansiedade GAD-7. Ele identifica quais perguntas entre os questionários são idênticas, semelhantes em significado ou antônimas umas das outras e gera um gráfico de rede. Isso permite que os pesquisadores harmonizem os conjuntos de dados.
 
     Excepcionalmente, o Harmony depende de arquiteturas de rede neural Transformer e não depende de uma abordagem de dicionário ou lista de palavras. Isso permite suporte multilíngue (inglês e português são nossos idiomas de foco) e o Harmony é capaz de mapear corretamente o GAD-7 usado no Reino Unido para o GAD-7 usado no Brasil, apesar do questionário brasileiro estar em português do Brasil.
 
-    Usando o Harmony, nossa equipe conseguiu realizar pesquisas inovadoras sobre isolamento social e ansiedade com a PNL, fornecendo uma medida quantitativa da equivalência dos diferentes conjuntos de dados de saúde mental.
+    Usando o Harmony , nossa equipe foi capaz de realizar pesquisas inovadoras sobre isolamento social e ansiedade com a PNL, fornecendo uma medida quantitativa da equivalência dos diferentes conjuntos de dados de saúde mental.
 
 - block: feature-4
   mode: muted
   superheading: "**HARMONY**"
   heading: Uma plataforma global para harmonização contextual, tradução e cooperação em pesquisa em saúde mental
   copy: |
-    Essa equipe apoiará uma melhor integração da pesquisa em saúde mental por meio de uma ferramenta de harmonização de processamento de linguagem natural (Harmony), permitindo que os pesquisadores comparem dados de estudos existentes para investigar os ingredientes ativos da saúde mental. Liderada pelo Dr. Eoin McElroy, da Ulster University, e pela Dra. Bettina Moltrecht, da University College London, a equipe desenvolverá e demonstrará o Harmony para responder a perguntas de pesquisa sobre a conexão humana e sua influência no desenvolvimento de depressão e ansiedade em jovens.
+    Essa equipe apoiará uma melhor integração da pesquisa em saúde mental por meio de uma ferramenta de harmonização de processamento de linguagem natural (o Harmony ), permitindo que os pesquisadores comparem dados de estudos existentes para investigar os ingredientes ativos da saúde mental. Liderada pelo Dr. Eoin McElroy, da Ulster University, e pela Dra. Bettina Moltrecht, da University College London, a equipe desenvolverá e demonstrará o Harmony para responder a questões de pesquisa sobre a conexão humana e sua influência no desenvolvimento de depressão e ansiedade em jovens.
 
 ---
 

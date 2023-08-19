@@ -9,7 +9,7 @@ Quando você insere dois questionários no Harmony , como o [ GAD-7 ](https://en
 
 Então, como o Harmony consegue isso?
 
-o Harmony usa técnicas do campo de [ processamento de linguagem natural ](https://fastdatascience.com/what-is-nlp/) para identificar quando duas perguntas tratam de um tópico semelhante. Processamento de linguagem natural, ou NLP, é o campo de estudo sobre as interações entre humanos e computadores por meio da linguagem humana.
+O Harmony usa técnicas da área de [ processamento de linguagem natural ](https://fastdatascience.com/what-is-nlp/) para identificar quando duas perguntas tratam de um tópico semelhante. Processamento de linguagem natural, ou NLP, é o campo de estudo sobre as interações entre humanos e computadores por meio da linguagem humana.
 
 ## Introdução ao processamento de linguagem natural: o saco de palavras
 
@@ -44,7 +44,7 @@ As desvantagens óbvias do método Jaccard são que
 
 {{< image src="images/blog/Jaccard-checklist.drawio-min-768x634.png" alt="Jaccard checklist" >}}
 
-## espaços vetoriais
+## Espaços vetoriais
 
 A próxima abordagem que tentamos foi um modelo de espaço vetorial.
 
@@ -74,7 +74,7 @@ Com os dados do Harmony , descobri que os modelos de espaço vetorial não ident
 
 {{< image src="images/blog/Vector-checklist.drawio-min-768x633.png" alt="Vector checklist" >}}
 
-## modelos de transformadores
+## Modelos de transformadores
 
 Em 2017, uma equipe de pesquisadores do Google publicou um artigo intitulado [ Atenção é tudo que você precisa ](https://arxiv.org/abs/1706.03762) , onde propuseram um tipo especial de rede neural chamada rede Transformer, capaz de mover ao longo de uma string de texto e gerar um vetor em cada ponto do documento, levando em consideração o contexto no restante do documento. 
 
@@ -122,7 +122,7 @@ As perguntas geralmente vêm com um conjunto de opções como *definitivamente n
 
 ### Processamento de PDF
 
-o Harmony foi projetado para processar arquivos de entrada em formato Excel ou PDF. Extrair as perguntas de um PDF é muito difícil devido à enorme variedade de formatos e sistemas de numeração. Gostaríamos de adicionar um melhor suporte para diferentes formatos de PDF.
+O Harmony foi projetado para processar arquivos de entrada em formato Excel ou PDF. Extrair as perguntas de um PDF é muito difícil devido à enorme variedade de formatos e sistemas de numeração. Gostaríamos de adicionar um melhor suporte para diferentes formatos de PDF.
 
 ### Calibração de dados
 

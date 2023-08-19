@@ -17,7 +17,7 @@ pip install harmonydata
 
 ## Como funciona o Harmony em termos leigos?
 
-o Harmony compara questões de diferentes instrumentos convertendo-as em uma representação vetorial e calculando sua similaridade. Você pode ler mais em https://harmonydata.org/how-does-harmony-work/ 
+O Harmony compara questões de diferentes instrumentos convertendo-as em uma representação vetorial e calculando sua similaridade. Você pode ler mais em https://harmonydata.org/how-does-harmony-work/ 
 
 ## Deseja executar o Harmony em seu navegador localmente a partir de um contêiner Docker pré-criado? 
 
@@ -86,9 +86,9 @@ docker run -it harmonyapi bash
 
 # Arquitetura do servidor Harmony API implantado
 
-o Harmony é implantado com o Docker Compose - veja `docker_compose.yml`.
+O Harmony é implantado com o Docker Compose - veja `docker_compose.yml`.
 
-## dados MHC
+## Dados MHC
 
 Quando o aplicativo é executado, há uma variável de ambiente `HARMONY_DATA_PATH` que é definida como `/data` no servidor de produção, e é aí que você precisa colocar todos os arquivos de dados. Mas você pode configurá-lo para qualquer coisa que quiser em sua máquina local, por exemplo, `/home/xxx/data/` e colocar os arquivos lá e ele os encontrará.
 
@@ -127,7 +127,7 @@ Então, para executar localmente com o Docker Compose, você pode fazer
 docker compose up
 ```
 
-# a implementação da API Harmony FastAPI
+# A implementação da API Harmony FastAPI
 
 Se você não estiver executando com o Docker, poderá executar os componentes individuais da API do Harmony separadamente.
 
@@ -214,7 +214,7 @@ curl -X 'POST' \
 ]
 ```
 
-### instrumentos de harmonização
+### Instrumentos de harmonização
 
 Você pode solicitar as semelhanças entre os instrumentos com uma segunda solicitação POST:
 
@@ -342,7 +342,7 @@ Licença: Licença MIT
 
 thomas@fastdatascience.com
 
-## construído com
+## Construído com
 
 - [ Docker ](https://docs.docker.com/) - Usado para implantação na web
 - [ Apache Tika ](https://tika.apache.org/) - Usado para converter PDFs em texto
@@ -363,7 +363,7 @@ thomas@fastdatascience.com
 
 Caso queira citar apenas a ferramenta, você pode citar:
 
-Wood, TA, McElroy, E., Moltrecht, B., Ploubidis, GB, Scopel Hoffmann, M., the Harmony [software de computador], versão 1.0, acessado em https://app.harmonydata.org. Universidade do Ulster (2022)
+Wood, TA, McElroy, E., Moltrecht, B., Ploubidis, GB, Scopel Hoffmann, M., o Harmony [software de computador], versão 1.0, acessado em https://app.harmonydata.org. Universidade do Ulster (2022)
 
 Uma entrada BibTeX para usuários LaTeX é
 
@@ -379,7 +379,7 @@ Uma entrada BibTeX para usuários LaTeX é
 
 Você também pode citar o projeto Harmony mais amplo que está registrado na Open Science Foundation:
 
-McElroy, E., Moltrecht, B., Scopel Hoffmann, M., Wood, TA e Ploubidis, G. (2023, 6 de janeiro). the Harmony – Uma plataforma global para harmonização contextual, tradução e cooperação em pesquisa em saúde mental. Recuperado de osf.io/bct6k
+McElroy, E., Moltrecht, B., Scopel Hoffmann, M., Wood, TA e Ploubidis, G. (2023, 6 de janeiro). o Harmony – Uma plataforma global para harmonização contextual, tradução e cooperação em pesquisa em saúde mental. Recuperado de osf.io/bct6k
 
 ```
 @misc{McElroy_Moltrecht_Scopel Hoffmann_Wood_Ploubidis_2023,
@@ -400,7 +400,7 @@ Versão da API: 2.
 
 Documentação para a API Harmony .
 
-o Harmony é uma ferramenta que usa IA que permite comparar itens de questionários e identificar conteúdos semelhantes.
+O Harmony é uma ferramenta de IA que permite comparar itens de questionários e identificar conteúdos semelhantes.
 You can try Harmony at <a href="https://app.harmonydata.org">app.harmonydata.org</a> and you can read our blog
 at <a href="https://harmonydata.org/blog/">harmonydata.org/blog/</a>.
 

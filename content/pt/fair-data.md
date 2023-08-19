@@ -1,5 +1,5 @@
 ---
-title: dados justos
+title: Dados justos
 ---
 
 ## Quais são os Princípios de Dados FAIR?
@@ -12,7 +12,7 @@ Os princípios FAIR foram publicados na *Nature* em 2016 para abordar as dificul
 
 ## Como o Harmony está seguindo os princípios FAIR?
 
-### os dados do Harmony podem ser encontrados
+### Os dados do Harmony podem ser encontrados
 
 O projeto Harmony está registrado na [ Open Science Foundation ](https://osf.io/bct6k/) . Com exceção dos protocolos protegidos por direitos autorais, como o inventário de ansiedade de Beck, todos os conjuntos de dados (protocolos) usados no desenvolvimento e teste do Harmony estão disponíveis em nosso [ repositório Github ](https://github.com/harmonydata/harmony) que é público acesso. Conjuntos de dados não fornecidos em formato bruto são fornecidos em um [ shell script ](https://github.com/harmonydata/harmony/blob/main/data/raw_pdf/download_raw_pdfs.sh) que baixa documentos da web. O conjunto de avaliação de McElroy et al é fornecido no repositório Github.
 
@@ -21,14 +21,14 @@ O projeto Harmony está registrado na [ Open Science Foundation ](https://osf.io
 - F3. Os metadados incluem clara e explicitamente o identificador dos dados que descrevem – os links do perfil OSF para o Github e o URL do Github é o identificador exclusivo do repositório do Github. Todas as referências a um questionário referem-se ao nome do arquivo no mesmo formato, como **GHQ 12 English**.
 - F4. (Meta)dados são registrados ou indexados em um recurso pesquisável – o perfil OSF é pesquisável. No repositório do Github, os arquivos são baixados pelo shell script em uma pasta e há um script para extrair todos os dados em um formato txt pesquisável.
 
-### os dados do Harmony são Acessíveis
+### Os dados do Harmony são Acessíveis
 
 Como nosso conjunto de dados é de acesso público no repositório do Github, uma vez que um usuário tenha clonado (baixado) o repositório e executado o shell script, todos os documentos estarão em seu computador.
 
 - A1. (Meta)dados são recuperáveis por seu identificador usando um protocolo de comunicação padronizado – o Harmony pode ser baixado clonando o repositório Github. O script para baixar quaisquer questionários extras não fornecidos com o Harmony está incluído no repositório do Github.
 - A2. Os metadados são acessíveis, mesmo quando os dados não estão mais disponíveis - uma vez que o ID exclusivo do Harmony é o perfil OSF, se o Harmony fosse hospedado em outro lugar, o perfil OSF permaneceria com os metadados relevantes. A lista de protocolos para teste está incluída no script de shell. Todos os protocolos sem restrições de acesso aberto estão incluídos em [ esta pasta ](https://github.com/harmonydata/harmony/tree/main/front_end/hard_coded_questionnaires) .
 
-### os dados do Harmony são interoperáveis
+### Os dados do Harmony são interoperáveis
 
 Os dados são baixados em formato PDF e a biblioteca Apache Tika é usada para converter para o formato de texto bruto. Não há problemas de interoperabilidade com o formato de texto bruto.
 
@@ -36,9 +36,9 @@ Os dados são baixados em formato PDF e a biblioteca Apache Tika é usada para c
 - I2. (Meta)dados usam vocabulários que seguem os princípios FAIR. – Você pode ler o esquema de dados [ aqui ](https://github.com/harmonydata/harmony/blob/main/README.md#data-schema) .
 - I3. (Meta)dados incluem referências qualificadas a outros (meta)dados – este item não é aplicável, pois nenhum conjunto de dados se baseia em outros conjuntos de dados.
 
-### os dados do Harmony são reutilizáveis
+### Os dados do Harmony são reutilizáveis
 
-o Harmony é lançado sob a [ Licença MIT ](https://github.com/harmonydata/harmony/blob/main/LICENSE) , que permite o uso comercial, modificação, distribuição e uso privado da ferramenta e dos dados.
+O Harmony é lançado sob a [ Licença MIT ](https://github.com/harmonydata/harmony/blob/main/LICENSE) , que permite o uso comercial, modificação, distribuição e uso privado da ferramenta e dos dados.
 
 - R1. (Meta)dados são ricamente descritos com uma pluralidade de atributos precisos e relevantes – nossa [ página Github do projeto ](https://github.com/harmonydata) contém informações sobre o projeto, enquanto o repositório de origem possui uma [ LICENÇA ](https://github.com/harmonydata/harmony/blob/main/LICENSE) e [ README.md ](https://github.com/harmonydata/harmony/blob/main/README.md) contendo todas as informações relevantes sobre o projeto e reutilização.
 

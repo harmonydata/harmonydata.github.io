@@ -150,7 +150,7 @@ languages:
 
   pt:
     title: Harmony
-    description: A global platform for contextual data harmonisation
+    description: Uma plataforma global para harmonização de dados contextuais
     copyright: Copyright © 2023 Ulster University.
     languageName: Pt
     contentDir: content/pt
@@ -167,30 +167,30 @@ languages:
       - name: Videos
         weight: 30
         url: /videos/
-      - name: Perguntas Frequentes
+      - name: Perguntas
         weight: 50
         url: /frequently-asked-questions/
-      - name: About
+      - name: Sobre nós
         weight: 60
       - name: Contato
         url: /contact/
-        parent: About
+        parent: Sobre nós
         weight: 10
       - name: Equipe
         url: /our-team/
-        parent: About
+        parent: Sobre nós
         weight: 20
       - name: Ferramenta
         url: 'https://harmonydata.ac.uk/app/'
-        parent: About
+        parent: Sobre nós
         weight: 30
       - name: Principios FAIR
         url: /fair-data/
-        parent: About
+        parent: Sobre nós
         weight: 40
       - name: Projetos & Parceiros
         url: /projects-partners/
-        parent: About
+        parent: Sobre nós
         weight: 50
 
       navbar_cta:

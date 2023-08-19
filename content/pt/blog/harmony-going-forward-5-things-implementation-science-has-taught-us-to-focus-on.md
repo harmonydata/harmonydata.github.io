@@ -1,6 +1,6 @@
 ---
-title: o Harmony indo para a frente
-description: Yesterday the Harmony team received the wonderful news that we are given the chance to continue working on Harmony for another six months, after which we c...
+title: A Harmony daqui para frente
+description: Yesterday o Harmony team received the wonderful news that we are given the chance to continue working on Harmony for another six months, after which we c...
 date:
 image: /images/blog/noah-buscher-x8ZStukS2PM-unsplash-1536x880.jpg
 ---

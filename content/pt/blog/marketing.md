@@ -1,6 +1,6 @@
 ---
 title: A importância do marketing para a ciência aberta
-description: How we are approaching marketing in the Harmony project
+description: How we are approaching marketing in o Harmony project
 date:
 image: /images/blog/marketing.jpg
 ---
@@ -33,7 +33,7 @@ No futuro, planejamos:
 
 Esperamos aumentar a conscientização, atrair colaboradores, obter apoio e permitir que o Harmony prospere e se desenvolva ainda mais a longo prazo.
 
-# marketing e branding do Harmony
+# Marketing e branding da O Harmony
 
 Preparamos material de branding para o projeto Harmony . No mundo online moderno, até mesmo projetos acadêmicos podem se beneficiar de iniciativas de branding.
 
@@ -45,7 +45,7 @@ Preparamos vários gráficos usando o Figma (captura de tela abaixo):
 
 Esses gráficos aparecem em todo o site e em nossas contas de mídia social.
 
-# o resumo da marca Harmony
+# Resumo da marca Harmony
 
 As fontes usadas para o Harmony são Montserrat e Pragmatica.
 

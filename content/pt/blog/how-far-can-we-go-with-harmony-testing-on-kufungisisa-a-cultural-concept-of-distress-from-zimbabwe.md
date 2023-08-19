@@ -45,7 +45,7 @@ Em Shona, verbos derivados podem ser criados a partir de verbos simples anexando
 
 Tentei usar o Harmony para ver como harmonizaria “kufungisisa” (pensar demais) com um instrumento ocidental como o GHQ-12.
 
-Embora o inglês seja o idioma com melhor recurso para processamento de linguagem natural, [ técnicas de PNL multilíngues ](https://fastdatascience.com/multilingual-natural-language-processing/) estão alcançando até mesmo para idiomas com menos recursos. Existem alguns modelos de PNL para Shona. Eu usei o modelo de transformador de sentença `Davlan/xlm-roberta-base-finetuned-shona` que é uma modificação do ROBERTA treinado em textos Shona [ 7 ]. I plugged one into the Harmony and tried to match the [Shona symptom questionnaire for the detection of depression and anxiety](https://depts.washington.edu/edgh/zw/hit/web/project-resources/shona_symptom_questionnaire.pdf) , que é usado no Zimbábue[6].
+Embora o inglês seja o idioma com melhor recurso para processamento de linguagem natural, [ técnicas de PNL multilíngues ](https://fastdatascience.com/multilingual-natural-language-processing/) estão alcançando até mesmo para idiomas com menos recursos. Existem alguns modelos de PNL para Shona. Eu usei o modelo de transformador de sentença `Davlan/xlm-roberta-base-finetuned-shona` que é uma modificação do ROBERTA treinado em textos Shona [ 7 ]. I plugged one into o Harmony and tried to match the [Shona symptom questionnaire for the detection of depression and anxiety](https://depts.washington.edu/edgh/zw/hit/web/project-resources/shona_symptom_questionnaire.pdf) , que é usado no Zimbábue[6].
 
 {{< image src="images/blog/Screenshot-from-2023-07-13-12-34-30.png" alt="img" >}}
 
@@ -61,7 +61,7 @@ A saída do meu modelo está abaixo:
 {{< image src="images/blog/image-1-b.png" alt="img" >}}
 
 
-o modelo do transformador Harmony e Shona combinou a pergunta sobre “kufungisisa” com a pergunta 1 do GHQ-12 “conseguiu se concentrar no que quer que esteja fazendo?” o que parece aproximadamente OK. No entanto, eu precisaria de um falante nativo de Shona para validar meus resultados.
+O modelo do transformador Harmony e Shona combinou a pergunta sobre “kufungisisa” com a pergunta 1 do GHQ-12 “conseguiu se concentrar no que quer que esteja fazendo?” o que parece aproximadamente OK. No entanto, eu precisaria de um falante nativo de Shona para validar meus resultados.
 
 Além disso, quando usamos textos em inglês e português, que até agora era nossa combinação bilíngue preferida, tivemos a vantagem de alguns modelos multilíngues cobrirem os dois idiomas e, portanto, é possível comparar diretamente nos dois idiomas de origem. Na ausência de um LLM (large language model) que possa lidar com Shona e Inglês, não é possível comparar diretamente o texto em Inglês e Shona, mas meu experimento acima mostra que o Harmony pode funcionar em texto Shona monolíngue.
 

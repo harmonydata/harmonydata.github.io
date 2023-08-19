@@ -1,5 +1,5 @@
 ---
-title: o workshop Harmony e TIDAL
+title: O workshop Harmony e TIDAL
 description: Collaborating with another team in the Wellcome Trust Data Prize
 date: 2023-08-18
 image: /images/harmony-tidal-workshop.jpg
@@ -45,9 +45,9 @@ O workshop foi um grande sucesso e os participantes aprenderam muito sobre como 
 
 ## Sobre o Harmony
 
-o Harmony é uma ferramenta de software que usa processamento de linguagem natural e modelos Transformer (LLMs) que podem ser usados para harmonizar questionários e criar medidas comparáveis de sintomas de saúde mental. É uma ferramenta valiosa para pesquisadores que desejam estudar a saúde mental em diferentes populações e contextos.
+O Harmony é uma ferramenta de software que usa processamento de linguagem natural e modelos Transformer (LLMs) que podem ser usados para harmonizar questionários e criar medidas comparáveis de sintomas de saúde mental. É uma ferramenta valiosa para pesquisadores que desejam estudar a saúde mental em diferentes populações e contextos.
 
-o Harmony usa processamento de linguagem natural para identificar e combinar itens em questionários. Este processo é mais preciso e eficiente do que os métodos tradicionais de harmonização. o Harmony também fornece vários recursos que facilitam o uso, como uma interface amigável, design responsivo e ligações Python e R e API REST.
+O Harmony usa processamento de linguagem natural para identificar e combinar itens em questionários. Este processo é mais preciso e eficiente do que os métodos tradicionais de harmonização. o Harmony também fornece vários recursos que facilitam o uso, como uma interface amigável, design responsivo e ligações Python e R e API REST.
 
 Se você estiver interessado em saber mais sobre o Harmony , confira alguns de nossos [ vídeos ](/videos) e [ postagens de blog ](/blog) .
 

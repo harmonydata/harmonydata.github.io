@@ -13,7 +13,7 @@ blocks:
   overlay: true #used together with navbar overlay: true option to show background image behind the navbar
   background_image: images/globe-min.svg
   heading: "Harmonize os itens do questionário com **o Harmony**."
-  subheading: o Harmony é uma ferramenta para harmonização retrospectiva dos itens do questionário.
+  subheading: O Harmony é uma ferramenta para harmonização retrospectiva dos itens do questionário.
   copy: |-
     Você precisa comparar os dados do questionário entre os estudos? Você quer encontrar a melhor correspondência para um conjunto de itens? Existem versões diferentes do mesmo questionário flutuando e você quer ter certeza de quão compatíveis elas são? Os questionários estão escritos em idiomas diferentes que você gostaria de comparar?
 

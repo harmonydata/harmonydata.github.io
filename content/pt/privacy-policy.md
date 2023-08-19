@@ -1,5 +1,5 @@
 ---
-title: a Política de Privacidade Harmony
+title: Política de Privacidade do Harmony
 ---
 
 # Política de Privacidade Harmony

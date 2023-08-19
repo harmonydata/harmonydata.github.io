@@ -1,5 +1,5 @@
 ---
-title: os vídeos Harmony
+title: O Harmony Vídeos
 ---
 
 # Vídeos
@@ -10,7 +10,7 @@ title: os vídeos Harmony
 
 **Resumo**
 
-o Harmony é uma ferramenta que ajuda os pesquisadores a harmonizar e comparar questionários e instrumentos em ciências sociais, pesquisa de mercado e pesquisas políticas. O vídeo mostra como usar o Harmony para integrar dados de diferentes fontes.
+O Harmony é uma ferramenta que ajuda os pesquisadores a harmonizar e comparar questionários e instrumentos em ciências sociais, pesquisa de mercado e pesquisas políticas. O vídeo mostra como usar o Harmony para integrar dados de diferentes fontes.
 
 O vídeo começa mostrando como carregar um arquivo PDF ou Excel de um questionário no Harmony . Se o arquivo for um PDF, o Harmony extrairá as perguntas dele. Se a extração falhar, o usuário pode editar ou excluir linhas.
 
@@ -26,7 +26,7 @@ Aqui estão algumas das principais características do Harmony :
 * Ele pode combinar perguntas de diferentes questionários com base em seu significado, não apenas em suas palavras exatas.
 * Ele permite que o usuário ajuste a porcentagem do limite de correspondência para controlar o grau de rigidez ou tolerância da correspondência da pergunta.
 * Ele pode exportar os dados harmonizados em vários formatos, incluindo Excel, CSV e JSON.
-* o Harmony é uma ferramenta poderosa que pode ajudar os pesquisadores a harmonizar e comparar questionários e instrumentos em diferentes fontes. É fácil de usar e pode ser personalizado para atender às necessidades específicas do usuário.
+* O Harmony é uma ferramenta poderosa que pode ajudar os pesquisadores a harmonizar e comparar questionários e instrumentos em diferentes fontes. É fácil de usar e pode ser personalizado para atender às necessidades específicas do usuário.
 
 ## Instalando a biblioteca Harmony Python e começando com instrumentos franceses e ingleses
 
@@ -38,10 +38,10 @@ Este vídeo é sobre como instalar e utilizar o Harmony , uma ferramenta para ha
 
 Aqui estão alguns dos principais pontos do vídeo:
 
-* o Harmony é uma biblioteca Python que pode ser utilizada para harmonizar e comparar questionários e instrumentos.
-* o Harmony pode ser usado para combinar questionários em diferentes idiomas.
-* o Harmony pode ser usado para extrair textos de instrumentos de PDFs.
-* o Harmony trabalha com documentos multilíngues - na verdade, ele suporta mais de oito idiomas!
+* O Harmony é uma biblioteca Python que pode ser utilizada para harmonizar e comparar questionários e instrumentos.
+* O Harmony pode ser usado para combinar questionários em diferentes idiomas.
+* O Harmony pode ser usado para extrair textos de instrumentos de PDFs.
+* O Harmony trabalha com documentos multilíngues - na verdade, ele suporta mais de oito idiomas!
 
 O vídeo é uma boa introdução ao Harmony e como ele pode ser usado. O vídeo é claro e fácil de acompanhar e fornece uma boa visão geral dos recursos do Harmony .
 

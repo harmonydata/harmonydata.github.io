@@ -1,6 +1,6 @@
 ---
 title: Tornar o Harmony sustentável a longo prazo
-description: How we can make sure the Harmony project survives after the Wellcome Trust Mental Health Data Prize
+description: How we can make sure o Harmony project survives after the Wellcome Trust Mental Health Data Prize
 date:
 image: /images/blog/sustainability.png
 ---
@@ -36,7 +36,7 @@ Também garantimos o lançamento de nossa ferramenta em Python e R, duas das lin
 
 Para completar, incluímos nosso relatório inicial de avaliação de sustentabilidade do software.ac.uk (o Instituto de Sustentabilidade de Software) abaixo.
 
-# the Harmony - Avaliação de Sustentabilidade
+# O Harmony - Avaliação de Sustentabilidade
 
 **Este relatório de avaliação de software é para o seu software: o Harmony . É uma lista de recomendações baseadas nas perguntas da pesquisa às quais você respondeu "não".**
 

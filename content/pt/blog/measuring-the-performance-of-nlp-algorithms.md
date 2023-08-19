@@ -9,7 +9,7 @@ _Harmony conseguiu reconstruir as correspondências da ferramenta de harmonizaç
 
 O conteúdo desta postagem no blog foi escrito como uma [ pré-impressão para publicação na OSF ](https://osf.io/9x5ej) .
 
-o Harmony é uma ferramenta para comparar questões em linguagem natural de diferentes pesquisas ou instrumentos. Para desenvolver a ferramenta, tivemos que ser capazes de quantificar o quão bom é reconhecer questões equivalentes ou semelhantes. Você pode ler sobre como o Harmony funciona [ na minha postagem anterior no blog ](https://harmonydata.ac.uk/how-does-harmony-work/) .
+O Harmony é uma ferramenta para comparar questões em linguagem natural de diferentes pesquisas ou instrumentos. Para desenvolver a ferramenta, tivemos que ser capazes de quantificar o quão bom é reconhecer questões equivalentes ou semelhantes. Você pode ler sobre como o Harmony funciona [ na minha postagem anterior no blog ](https://harmonydata.ac.uk/how-does-harmony-work/) .
 
 Por exemplo, podemos considerar _Tenta acabar com brigas_ é equivalente a _É útil se alguém está ferido, chateado ou se sentindo mal_, mesmo que não haja palavras em comum entre os dois textos. Mas isso é subjetivo e, se estivermos usando IA para fazer esse tipo de correspondência, como podemos calcular o desempenho de nossa IA?
 
@@ -144,7 +144,7 @@ Os pares de perguntas marcados como mais semelhantes no conjunto de dados GAD-7 
 
 Os pares de perguntas marcados como menos semelhantes no conjunto de dados GAD-7 pelo Modelo 7 (transformador)
 
-### falsos negativos
+### Falsos negativos
 
 Da mesma forma, aqui está uma impressão dos 10 principais falsos negativos do conjunto de dados Childhood (os pares de perguntas marcados como semelhantes na ferramenta McElroy et al, mas que foram perdidos pelo Harmony ):
 

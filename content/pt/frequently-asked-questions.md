@@ -1,5 +1,5 @@
 ---
-title: perguntas frequentes
+title: Perguntas frequentes
 ---
 
 ## O que é harmonização?
@@ -14,13 +14,13 @@ McElroy, E., Villadsen, A., Patalay, P., Goodman, A., Richards, M., Northstone, 
 
 ## O que o Harmony faz?
 
-o Harmony é uma ferramenta que ajuda os pesquisadores a automatizar o processo de harmonização usando [ processamento de linguagem natural ](https://fastdatascience.com/what-is-nlp/) .
+O Harmony é uma ferramenta que ajuda os pesquisadores a automatizar o processo de harmonização usando [ processamento de linguagem natural ](https://fastdatascience.com/what-is-nlp/) .
 
 ## Como faço para citar o Harmony ?
 
 Caso queira citar apenas a ferramenta, você pode citar:
 
-Wood, TA, McElroy, E., Moltrecht, B., Ploubidis, GB, Scopel Hoffmann, M., the Harmony [Software de computador], Versão 1.0, acessado em https://harmonydata.ac.uk/app. Universidade do Ulster (2022)
+Wood, TA, McElroy, E., Moltrecht, B., Ploubidis, GB, Scopel Hoffmann, M., o Harmony [Software de computador], Versão 1.0, acessado em https://harmonydata.ac.uk/app. Universidade do Ulster (2022)
 
 Uma entrada BibTeX para usuários LaTeX é
 
@@ -36,7 +36,7 @@ Uma entrada BibTeX para usuários LaTeX é
 
 Você também pode citar o projeto Harmony mais amplo que está registrado na [ Open Science Foundation ](https://osf.io/bct6k/) :
 
-McElroy, E., Moltrecht, B., Scopel Hoffmann, M., Wood, TA e Ploubidis, G. (2023, 6 de janeiro). the Harmony – Uma plataforma global para harmonização contextual, tradução e cooperação em pesquisa em saúde mental. Recuperado de osf.io/bct6k
+McElroy, E., Moltrecht, B., Scopel Hoffmann, M., Wood, TA e Ploubidis, G. (2023, 6 de janeiro). o Harmony – Uma plataforma global para harmonização contextual, tradução e cooperação em pesquisa em saúde mental. Recuperado de osf.io/bct6k
 
 ```vshell
 @misc{McElroy_Moltrecht_Scopel Hoffmann_Wood_Ploubidis_2023,
@@ -55,11 +55,11 @@ Se você carregar um questionário ou instrumento, o Harmony não o armazena ou 
 
 ## Como funciona o Harmony ?
 
-o Harmony passa o texto de cada item do questionário por uma rede neural chamada Sentence-BERT, para convertê-lo em um vetor. A similaridade de dois textos é então medida como a similaridade entre seus vetores. Dois textos idênticos têm uma semelhança de 100%, enquanto dois textos completamente diferentes têm uma semelhança de 0%. Você pode ler mais nesta [ postagem do blog técnico ](https://harmonydata.ac.uk/how-does-harmony-work/) e você pode até baixar e executar o [ código-fonte] do Harmony ](https://github.com/harmonydata/harmony) .
+O Harmony passa o texto de cada item do questionário por uma rede neural chamada Sentence-BERT, a fim de convertê-lo em um vetor. A similaridade de dois textos é então medida como a similaridade entre seus vetores. Dois textos idênticos têm uma semelhança de 100%, enquanto dois textos completamente diferentes têm uma semelhança de 0%. Você pode ler mais nesta [ postagem do blog técnico ](https://harmonydata.ac.uk/how-does-harmony-work/) e você pode até baixar e executar o [ código-fonte] do Harmony ](https://github.com/harmonydata/harmony) .
 
 ## Quão confiável é o Harmony ?
 
-o Harmony conseguiu reconstruir as correspondências da ferramenta de harmonização do questionário desenvolvida por McElroy et al em 2020 com as seguintes pontuações AUC: infância **84%**, idade adulta **80%**. o Harmony foi capaz de igualar as questões dos instrumentos GAD-7 inglês e português com AUC **100%** e o CBCL e SDQ português com AUC **89%**. Você pode ler mais em [ esta postagem no blog ](https://harmonydata.ac.uk/measuring-the-performance-of-nlp-algorithms/) .
+O Harmony conseguiu reconstruir as correspondências da ferramenta de harmonização do questionário desenvolvida por McElroy et al em 2020 com as seguintes pontuações AUC: infância **84%**, idade adulta **80%**. o Harmony foi capaz de igualar as questões dos instrumentos GAD-7 em inglês e português com AUC **100%** e o CBCL e SDQ em português com AUC **89%**. Você pode ler mais em [ esta postagem no blog ](https://harmonydata.ac.uk/measuring-the-performance-of-nlp-algorithms/) .
 
 ## O que os números significam?
 

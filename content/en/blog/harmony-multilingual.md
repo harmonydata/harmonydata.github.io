@@ -5,7 +5,7 @@ date: 2023-08-19
 image: /images/multilingual.png
 ---
 
-> Привет Гармония! 和梦尼可以让中英文和谐！ שלום הרמוני Harmony peut aussi harmoniser les instruments en français.
+> Привет Гармония! 哈莫尼可以让中英文和谐！ שלום הרמוני Harmony peut aussi harmoniser les instruments en français.
 
 We're happy to share some exciting news with you. Harmony now supports at least 8 languages: Portuguese, French, German, Spanish, Russian, Chinese, and Hebrew. This means that you can use Harmony to compare and harmonise questionnaire data across studies that are written in different languages. 
 

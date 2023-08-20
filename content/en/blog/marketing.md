@@ -6,9 +6,9 @@ image: /images/blog/marketing.jpg
 ---
 
 
-Marketing is important for an open science NLP project such as Harmony for several reasons:
+Marketing is important for an open science [NLP](https://fastdatascience.com/portfolio/nlp-consultant/) [project](https://fastdatascience.com/starting-a-data-science-project) such as Harmony for several reasons:
 
-* To raise awareness of the project and its goals. Research projects are often complex and technical, so it's important to communicate their value and potential to a wide audience. Marketing can help to do this by creating clear and concise messaging, and by promoting the project through channels that reach the target audience. 
+* To raise awareness of the project and its goals. Research [projects](https://harmonydata.ac.uk/projects-partners) are often complex and technical, so it's important to communicate their value and potential to a wide audience. Marketing can help to do this by creating clear and concise messaging, and by promoting the project through channels that reach the target audience. 
 * To attract contributors and collaborators. Open science projects rely on the participation of a community of contributors and collaborators. Marketing can help to attract these individuals by highlighting the project's benefits, and by providing easy ways to get involved.
 * To build support for the project. Harmony was initially funded by Wellcome, but for a finite time. Marketing can help to build support for the project by demonstrating its value, and by generating positive buzz.
 
@@ -28,7 +28,7 @@ In order to raise awareness of Harmony, we have taken the following marketing in
 
 In future, we plan to:
 
-* Present at conferences and workshops. This is a great way to connect with potential contributors and collaborators.
+* Present at conferences and [workshops](https://harmonydata.ac.uk/harmony-tidal-workshop). This is a great way to connect with potential contributors and collaborators.
 * Attend hackathons and other events. This is a great way to connect with potential contributors and collaborators.
 
 We hope to raise awareness, attract contributors, build support, and enable Harmony to prosper and develop further in the long term.

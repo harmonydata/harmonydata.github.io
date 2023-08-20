@@ -11,11 +11,11 @@ We've been thinking about how we can make sure that Harmony continues to operate
 
 # Infrastructure
 
-For the first iteration of Harmony, we developed the dashboard in [Plotly Dash](https://plotly.com/dash/), and deployed it to an .org domain running on [Microsoft Azure App Service](https://azure.microsoft.com/en-gb/products/app-service). The website was running in [Wordpress](https://wordpress.com/), hosted on [Siteground](https://www.siteground.co.uk/). All of these are paid solutions which were coming out of the project budget.
+For the first iteration of Harmony, we developed the dashboard in [Plotly Dash](https://plotly.com/dash/), and deployed it to an .org domain running on [Microsoft Azure App Service](https://azure.microsoft.com/en-gb/products/app-service). The website was running in [Wordpress](https://wordpress.com/), hosted on [Siteground](https://www.siteground.co.uk/). All of these are paid solutions which were coming out of the [project](https://fastdatascience.com/starting-a-data-science-project) budget.
 
-We found that Wordpress is not a good long-term solution, since it needs to be maintained and updated to reduce the risk of security breaches. It would also not be compatible with any solution where we would host on infrastructure run by Ulster University, due to security concerns. Furthermore, Wordpress needs paid hosting for a good user experience, although free offerings are available.
+We found that Wordpress is not a good long-term solution, since it needs to be maintained and updated to reduce the [risk](https://fastdatascience.com/how-can-we-assess-the-risk-of-a-clinical-trial-using-ai) of security breaches. It would also not be compatible with any solution where we would host on infrastructure run by [Ulster University](https://ulster.ac.uk), due to security concerns. Furthermore, Wordpress needs paid hosting for a good user experience, although free offerings are available.
 
-We have taken the decision to migrate our blog from Wordpress to [Hugo](https://gohugo.io/), and we have registered the domain harmonydata.ac.uk via Ulster University. This ensures a more authoritative domain, making us more findable and giving us a more permanent presence in UK academia. The Hugo website/blog is static, and managed from [a Github repository](https://github.com/harmonydata/harmonydata.github.io) and hosted on [Github Pages](https://pages.github.com/). This is free and easy to work with - any member of the team can upload a blog post in Markdown format into the Github repository and the site is automatically rebuilt.
+We have taken the decision to migrate our blog from Wordpress to [Hugo](https://gohugo.io/), and we have registered the domain [harmonydata.ac.uk](https://harmonydata.ac.uk) via Ulster University. This ensures a more authoritative domain, making us more findable and giving us a more permanent presence in UK academia. The Hugo website/blog is static, and managed from [a Github repository](https://github.com/harmonydata/harmonydata.github.io) and hosted on [Github Pages](https://pages.github.com/). This is free and easy to work with - any member of the team can upload a blog post in Markdown format into the Github repository and the site is automatically rebuilt.
 
 With regards the Harmony API, initially we ran the tool on Microsoft Azure. This was costing about £100-£200 per month, since the tool needs to run an LLM (large language model) in the background.
 
@@ -24,15 +24,15 @@ We explored a number of solutions which can cut costs, and we have chosen to use
 {{< image src="images/blog/deployed_harmony_architecture.png" alt="Screenshot" >}}
 
 
-*Alternative serverless deployment on AWS Lambda*
+*Alternative serverless [deployment](https://fastdatascience.com/machine-learning-model-deployment) on AWS Lambda*
 
 # Code
 
-We have developed our software in accordance with best practices of open source projects. Our Github repository is publicly available and we have also posted our code on the Open Science Foundation (OSF) here: https://osf.io/bct6k/.
+We have developed our software in accordance with best practices of [open source](https://fastdatascience.com/open-source) [projects](https://harmonydata.ac.uk/projects-partners). Our Github repository is publicly available and we have also posted our code on the Open Science Foundation (OSF) here: https://osf.io/bct6k/.
 
-We undertook a sustainability evaluation with the [Software Sustainability Institute](https://software.ac.uk) at the start of the Prototyping Phase of the Wellcome Data Prize. This highlighted some weaknesses of our software sustainability strategy, such as lack of clear information on licensing, how to contribute, or install the code. To correct these issues we have thoroughly updated the blog with the necessary information, and ensured that our software license (MIT) is prominent in all repositories and source code.
+We undertook a sustainability evaluation with the [Software Sustainability Institute](https://software.ac.uk) at the start of the Prototyping Phase of the [Wellcome Data Prize](https://wellcome.org/grant-funding/schemes/wellcome-mental-health-data-prize). This highlighted some weaknesses of our software sustainability strategy, such as lack of clear information on licensing, how to contribute, or install the code. To correct these issues we have thoroughly updated the blog with the necessary information, and ensured that our software license (MIT) is prominent in all repositories and source code.
 
-We've also ensured to release our tool in both Python and R, two of the most commonly used programming languages by researchers. Our [API documentation](https://raw.githubusercontent.com/harmonydata/harmonyapi/main/docs/API_reference.pdf) is available online as a PDF download, and we've provide a series of videos on our YouTube channel to help you get started with installing and using Harmony.
+We've also ensured to [release](https://harmonydata.ac.uk/releasing-harmony-api) our tool in both [Python](https://www.python.org/) and [R](https://www.r-project.org/), two of the most commonly used programming languages by researchers. Our [API documentation](https://raw.githubusercontent.com/harmonydata/harmonyapi/main/docs/API_reference.pdf) is available online as a PDF download, and we've provide a series of [videos](https://harmonydata.ac.uk/videos) on our YouTube channel to help you get started with installing and using Harmony.
 
 For completeness, we have included our initial sustainability evaluation report from software.ac.uk (the Software Sustainability Institute) below.
 
@@ -54,7 +54,7 @@ A great way of showing off your software is to write case studies about how your
 
 _Question 3.1: Is your software available as a package that can be deployed without building it?_ Building software can be complicated and time-consuming. Providing your software as a package that can be deployed without building it can save users the time and effort of doing this themselves. This can be especially valuable if your users are not software developers. You should test that your software builds and runs on all the platforms it is meant to support, which means you will already have created packages that can be distributed to your users! See our guide on Ready for release? A checklist for developers (http://www.software.ac.uk/resources/guides/ready-release).
 
-If you're interested in the consequences of ignoring your users' needs, see our guide on How to frustrate your users, annoy other developers and please lawyers (http://www.software.ac.uk/resources/guides/how-frustrate-your-users-annoy-other-developers-and-please-lawyers).
+If you're interested in the consequences of ignoring your users' needs, see our guide on How to frustrate your users, annoy other developers and please [lawyers](https://fastdatascience.com/ai-replace-radiologists-doctors-lawyers-writers-engineers) (http://www.software.ac.uk/resources/guides/how-frustrate-your-users-annoy-other-developers-and-please-lawyers).
 
 _Question 4.6: If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?_
 
@@ -112,7 +112,7 @@ See our guide on Supporting open source software (http://software.ac.uk/resource
 
 _Question 6.1: Is your software's architecture and design modular?_
 
-Modularity (https://en.wikipedia.org/wiki/Modular_programming) is a fundamental software design approach centred on the creation of self-contained functional units, or modules which serve specific purposes (e.g. file I/O, authorisation, logging, linear algebra, computational fluid dynamics, DNA matching, or text analysis).
+Modularity (https://en.wikipedia.org/wiki/Modular_programming) is a fundamental software design approach centred on the creation of self-contained functional units, or modules which serve specific purposes (e.g. file I/O, authorisation, logging, linear algebra, computational fluid dynamics, DNA [matching](https://harmonydata.ac.uk/semantic-text-matching-with-deep-learning-transformer-models), or text analysis).
 
 Modularity has many benefits. It's easier to reuse modules in other software, rather than re-implementing their functionality, saving both time and effort. Each module is self-contained, so it can be changed or updated without affecting the other modules in the code, and it can also be tested is isolation, which is useful when developing as part of a team. Modular designs are also easier to understand.
 
@@ -138,7 +138,7 @@ _(https://pypi.python.org/pypi/setuptools), PHP Composer (https://getcomposer.or
 
 _Question 12.1: Do you have an automated test suite for your software?_
 
-After changing your code and rebuilding it, a developer will want to check that their changes or fixes have not broken anything. Tests contribute to a fail-fast environment, which allows the rapid identification of failures introduced by changes to the code such as optimisations or bug fixes. The lack of tests can dissuade developers from fixing, extending or improving your software, as developers will be less sure of whether they are inadvertently introducing bugs as they do so. Each test might verify an individual function or method, a class or module, related modules or components or the software as a whole. Tests can ensure that the correct results are returned from a function, that an operation changes the state of a system as expected, or that the code behaves as expected when things go wrong.
+After changing your code and rebuilding it, a developer will want to check that their changes or fixes have not broken anything. Tests contribute to a [fail](https://fastdatascience.com/why-do-data-science-projects-fail)-fast [environment](https://fastdatascience.com/reduce-carbon-footprint-machine-learning), which allows the rapid identification of failures introduced by changes to the code such as optimisations or bug fixes. The lack of tests can dissuade developers from fixing, extending or improving your software, as developers will be less sure of whether they are inadvertently introducing bugs as they do so. Each test might verify an individual function or method, a class or module, related modules or components or the software as a whole. Tests can ensure that the correct results are returned from a function, that an operation changes the state of a system as expected, or that the code behaves as expected when things go wrong.
 
 There are many frameworks available for writing tests in a range of languages, including JUnit (http://junit.org/) for Java, CUnit (http://cunit.sourceforge.net/) for C, CPPUnit (http://www.freedesktop.org/wiki/Software/cppunit/) and googletest (https://code.google.com/p/googletest/) for C++, FRUIT (http://sourceforge.net/projects/fortranxunit/) for Fortran, py.test (http://pytest.org/) and nosetests (http://nose.readthedocs.org/) for Python, testthat (https://cran.r-project.org/web/packages/testthat/index.html) for R and PHPUnit (https://phpunit.de) for PHP.
 
@@ -178,7 +178,7 @@ Question 12.5: Are all manually-run tests documented?
 
 [yes/no/non-applicable]
 
-It may not be possible, or easy, to automate certain tests e.g. testing a browser-based application after it's been deployed. In such cases, you should document the list of steps that are to be done to test the software. Documenting the steps means that the tests can be run by anyone, not just the
+It may not be possible, or easy, to automate certain tests e.g. testing a [browser](https://harmonydata.ac.uk/running-harmony-in-your-browser-with-no-internet-connection)-based application after it's been deployed. In such cases, you should document the list of steps that are to be done to test the software. Documenting the steps means that the tests can be run by anyone, not just the
 
 developer who usually does these tests.
 
@@ -226,7 +226,7 @@ _Question 15.6: Does each of your source code files include a licence header?_ I
 
 _Question 16.1: Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)?_
 
-A roadmap allows users to see when new features will be added and plan their project accordingly. It also has an important secondary benefit: one of the most important factors that will influence a user's choice of software is the likelihood of that software still being around – and supported – in the future. There are many ways in which a project can persuade a user of its longevity: regular announcements, regular releases, prompt replies to queries, information about funding and its plans for the future – a roadmap.
+A roadmap allows users to see when new features will be added and plan their project accordingly. It also has an important [secondary](https://harmonydata.ac.uk/ppie-for-secondary-data-analysis) benefit: one of the most important factors that will influence a user's choice of software is the likelihood of that software still being around – and supported – in the future. There are many ways in which a project can persuade a user of its longevity: regular announcements, regular releases, prompt replies to queries, information about funding and its plans for the future – a roadmap.
 
 _Question 16.2: Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?_
 

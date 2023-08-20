@@ -45,9 +45,9 @@ The workshop was a great success and participants learned a lot about how to use
 
 ## About Harmony
 
-Harmony is a software tool using natural language processing and Transformer models (LLMs) that can be used to harmonise questionnaires and create comparable measures of mental health symptoms. It is a valuable tool for researchers who want to study mental health across different populations and settings.
+Harmony is a software tool using [natural language processing](https://naturallanguageprocessing.com/) and [Transformer](https://harmonydata.ac.uk/how-does-harmony-work) [models](https://harmonydata.ac.uk/semantic-text-matching-with-deep-learning-transformer-models) (LLMs) that can be used to harmonise questionnaires and create comparable measures of mental health symptoms. It is a valuable tool for researchers who want to study mental health across different populations and settings.
 
-Harmony uses natural language processing to identify and match items across questionnaires. This process is more accurate and efficient than traditional methods of harmonisation. Harmony also provides a number of features that make it easy to use, such as a user-friendly interface, responsive design, and Python and R bindings and REST API.
+Harmony uses natural language processing to identify and match items across questionnaires. This process is more accurate and efficient than traditional methods of harmonisation. Harmony also provides a number of features that make it easy to use, such as a user-friendly interface, responsive design, and [Python](https://www.python.org/) and [R](https://www.r-project.org/) bindings and REST [API](https://harmonydata.ac.uk/releasing-harmony-api).
 
 If you are interested in learning more about Harmony, please check out some of our [videos](/videos) and [blog posts](/blog).
 

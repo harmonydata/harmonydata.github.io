@@ -5,9 +5,9 @@ date:
 image: /images/blog/ccd.png
 ---
 
-Many psychologists believe that mental illnesses can vary across cultures. In 1904, Emil Kraepelin initiated the field of comparative psychiatry after studying mental health disorders in Java, writing that _“Die Eigenart eines Volkes wird auch in der Häufigkeit und klinischen Gestaltung seiner Geistesstörungen zum Ausdruck kommen,”_ meaning “The peculiarity of a people[ethnic group] will also be expressed in the frequency and clinical form of its mental disorders.”[1]
+Many psychologists believe that mental illnesses can vary across cultures. In 1904, [Emil Kraepelin](https://en.wikipedia.org/wiki/Emil_Kraepelin) initiated the field of comparative psychiatry after studying mental health disorders in Java, writing that _“Die Eigenart eines Volkes wird auch in der Häufigkeit und klinischen Gestaltung seiner Geistesstörungen zum Ausdruck kommen,”_ meaning “The peculiarity of a people[ethnic group] will also be expressed in the frequency and clinical form of its mental disorders.”[1]
 
-More than a century later, the emergence of global mental health research projects has opened a number of debates about the applicability of psychiatric categories to different cultural settings, such as those in the Diagnostic and Statistical Manual of Mental Disorders (DSM) series[2].
+More than a century later, the emergence of global mental health research [projects](https://harmonydata.ac.uk/projects-partners) has opened a number of debates about the applicability of psychiatric categories to different cultural settings, such as those in the Diagnostic and Statistical Manual of Mental Disorders (DSM) series[2].
 
 In 2013, the publication of DSM-5 included for the first time Cultural Concepts of Distress (CCD), referring to “ways that cultural groups experience, understand, and communicate suffering, behavioral problems, or troubling thoughts and emotions”[2].
 
@@ -28,7 +28,7 @@ Can we use Harmony to harmonise mental health instruments designed for different
 
 > Shona proverb (similar to English “there’s no smoke without fire”)
 
-If you are a Python user, you can follow my experiment in this Jupyter Notebook, which you can open in Google Colab: https://github.com/harmonydata/
+If you are a [Python](https://www.python.org/) user, you can follow my experiment in this Jupyter Notebook, which you can open in Google Colab: https://github.com/harmonydata/
 
 Shona (_chiShona_) is spoken in Zimbabwe and belongs to the Bantu language family, which also includes Zulu, Xhosa, and Swahili.
 
@@ -45,7 +45,7 @@ In Shona, derived verbs can be created from simple verbs by attaching suffixes t
 
 I tried using Harmony to see how it would harmonise “kufungisisa” (thinking too much) to a Western instrument such as GHQ-12.
 
-Although English is the best-resource language for natural language processing, [multilingual NLP techniques](https://fastdatascience.com/multilingual-natural-language-processing/) are catching up even for lower-resourced languages. There exist some NLP models for Shona. I used the sentence transformer model `Davlan/xlm-roberta-base-finetuned-shona` which is a modification of ROBERTA trained on Shona texts[7]. I plugged one into Harmony and tried to match the [Shona symptom questionnaire for the detection of depression and anxiety](https://depts.washington.edu/edgh/zw/hit/web/project-resources/shona_symptom_questionnaire.pdf), which is used in Zimbabwe[6].
+Although English is the best-resource language for [natural language processing](https://naturallanguageprocessing.com/), [multilingual NLP techniques](https://fastdatascience.com/multilingual-natural-language-processing/) are catching up even for lower-resourced languages. There exist some [NLP](https://fastdatascience.com/portfolio/nlp-consultant/) [models](https://harmonydata.ac.uk/semantic-text-matching-with-deep-learning-transformer-models) for Shona. I used the sentence [transformer](https://harmonydata.ac.uk/how-does-harmony-work) model `Davlan/xlm-roberta-base-finetuned-shona` which is a modification of ROBERTA trained on Shona texts[7]. I plugged one into Harmony and tried to match the [Shona symptom questionnaire for the detection of depression and anxiety](https://depts.washington.edu/edgh/zw/hit/web/project-resources/shona_symptom_questionnaire.pdf), which is used in Zimbabwe[6].
 
 {{< image src="images/blog/Screenshot-from-2023-07-13-12-34-30.png" alt="img" >}}
 

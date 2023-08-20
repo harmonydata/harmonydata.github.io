@@ -5,7 +5,7 @@ date:
 image: /images/blog/roc.png
 ---
 
-_Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: childhood **84%**, adulthood **80%**. Harmony was able to match the questions of the English and Portuguese GAD-7 instruments with AUC **100%** and the Portuguese CBCL and SDQ with AUC **89%**. Harmony was also evaluated using a variety of transformer models including MentalBERT, a publicly available pretrained language model for the mental healthcare domain._
+_Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: childhood **84%**, adulthood **80%**. Harmony was able to match the questions of the English and Portuguese [GAD-7](https://adaa.org/sites/default/files/GAD-7_Anxiety-updated_0.pdf) instruments with AUC **100%** and the Portuguese [CBCL](https://www.apa.org/depression-guideline/child-behavior-checklist.pdf) and SDQ with AUC **89%**. Harmony was also evaluated using a variety of transformer models including MentalBERT, a publicly available pretrained language model for the mental [healthcare](https://fastdatascience.com/the-use-of-ai-in-healthcare) domain._
 
 The content of this blog post has been written up as a [preprint for publication on OSF](https://osf.io/9x5ej).
 
@@ -64,22 +64,22 @@ I tested the following candidate models:
 
 1. Bag of words with Tf\*Idf scoring and lemmatisation
 2. Bag of words with Tf\*Idf scoring and language-dependent lemmatisation, and a dictionary lookup to map English to Portuguese
-3. Small English+Portuguese word vector model (using software spaCy)
+3. Small English+Portuguese word vector model (using software [spaCy](https://spacy.io/))
 4. Large English-only word vector model (using software spaCy)
-5. Multilingual sentence transformer neural network model “[distiluse-base-multilingual-cased-v2](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2)” using dot product similarity (using BERT architecture and software HuggingFace)
+5. Multilingual sentence transformer [neural network](https://fastdatascience.com/how-similar-are-neural-networks-to-our-brains) model “[distiluse-base-multilingual-cased-v2](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2)” using dot product [similarity](https://fastdatascience.com/finding-similar-documents-nlp) (using [BERT](https://en.wikipedia.org/wiki/BERT_%28language_model%29) architecture and software HuggingFace)
 6. Multilingual sentence transformer neural network model “[distiluse-base-multilingual-cased-v2](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2)” with preprocessing for negative sentences and dot product similarity
 7. Multilingual sentence transformer neural network model “[distiluse-base-multilingual-cased-v2](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2)” with preprocessing for negative sentences and cosine similarity
 8. Multilingual sentence transformer neural network model “[paraphrase-multilingual-MiniLM-L12-v2](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2)” with preprocessing for negative sentences and cosine similarity
 9. Multilingual sentence transformer neural network model “[MSTSb_paraphrase-xlm-r-multilingual-v1](https://huggingface.co/AIDA-UPM/MSTSb_paraphrase-xlm-r-multilingual-v1)” with preprocessing for negative sentences and cosine similarity
 10. English-only sentence transformer neural network model “[mental-bert-uncased](https://huggingface.co/mental/mental-bert-base-uncased)” with preprocessing for negative sentences and cosine similarity (trained on mental health texts)
 
-For each model design, I generated a ROC curve, calculated the AUC, and also printed out some examples of false negatives and false positives.
+For each model design, I generated a [ROC curve](https://fastdatascience.com/measuring-the-accuracy-of-ai-for-healthcare/#roc-curves), calculated the AUC, and also printed out some examples of false negatives and false positives.
 
 ## Results
 
 ### Bag-of-words approaches
 
-The baseline model, the Tf\*Idf, gave a 71% and 67% AUC on the childhood and adulthood datasets respectively. On the English vs Portuguese it scored a 49% AUC, showing that it was unable to perform any matching at all. This is not surprising as there are no words in common between the English and Portuguese GAD-7s.
+The baseline model, the Tf\*Idf, gave a 71% and 67% AUC on the childhood and adulthood datasets respectively. On the English vs Portuguese it scored a 49% AUC, showing that it was unable to perform any [matching](https://harmonydata.ac.uk/semantic-text-matching-with-deep-learning-transformer-models) at all. This is not surprising as there are no words in common between the English and Portuguese GAD-7s.
 
 {{< image src="images/blog/Model-1-1536x1303.png" alt="model 1" >}}
 
@@ -109,9 +109,9 @@ I then tried the large spaCy model, using the English version for both languages
 
 ### Moving on to transformers
 
-The state-of-the-art in natural language processing is currently transformer models. Like the word vector approaches above, transformers convert sentences into vector representations, allowing us to use geometrical similarity and distance measures to quantify semantic similarity.
+The state-of-the-art in [natural language processing](https://naturallanguageprocessing.com/) is currently transformer models. Like the word vector approaches above, transformers convert sentences into vector representations, allowing us to use geometrical similarity and distance measures to quantify semantic similarity.
 
-I used the software package HuggingFace with the multilingual [Sentence-BERT model](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2), which is an implementation of BERT that is designed to generate semantically meaningful sentence embeddings which can be compared using cosine similarity.
+I used the software package HuggingFace with the multilingual [Sentence-BERT model](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2), which is an [implementation](https://harmonydata.ac.uk/harmony-going-forward-5-things-implementation-science-has-taught-us-to-focus-on) of BERT that is designed to generate semantically meaningful sentence embeddings which can be compared using cosine similarity.
 
 {{< image src="images/blog/Model-50Adistiluse-base-multilingual-cased-v2-1536x1355.png" alt="Model 50 Adistiluse base multilingual cased" >}}
 

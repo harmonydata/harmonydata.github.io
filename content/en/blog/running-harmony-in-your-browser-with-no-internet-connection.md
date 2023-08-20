@@ -5,14 +5,14 @@ date: 2023-07-12
 image: /images/blog/Screenshot-from-2023-07-12-21-28-48-1536x933.png
 ---
 
-Here’s a quick start guide to running Harmony. These instructions are for the complete version of Harmony including the graphical browser-based tool which is available online at https://harmonydata.ac.uk/app/. If you only need the [Python](https://github.com/harmonydata/harmonyapi) or R libraries, or the [REST API](https://github.com/harmonydata/harmonyapi), please refer to our [Github page](https://github.com/harmonydata).
+Here’s a quick start guide to running Harmony. These instructions are for the complete version of Harmony including the graphical browser-based tool which is available online at https://harmonydata.ac.uk/app/. If you only need the [Python](https://github.com/harmonydata/harmonyapi) or [R](https://www.r-project.org/) libraries, or the [REST API](https://github.com/harmonydata/harmonyapi), please refer to our [Github page](https://github.com/harmonydata).
 
 You will need to first download and install a couple of programs that Harmony needs to run.
 
 You need a computer with at least 16 GB RAM – in other words, a fairly high-end computer. This is because Harmony does two things that need some computational heavy lifting:
 
-- extracting question texts from PDFs (including OCR on scanned PDFs) – this is done using the library [Apache Tika](https://tika.apache.org/), with the natural language processing library [spaCy](https://spacy.io/).
-- turning texts into vectors, using a transformer neural network from [HuggingFace](https://huggingface.co/).
+- extracting question texts from PDFs (including OCR on scanned PDFs) – this is done using the library [Apache Tika](https://tika.apache.org/), with the [natural language processing](https://naturallanguageprocessing.com/) library [spaCy](https://spacy.io/).
+- turning texts into vectors, using a [transformer](https://harmonydata.ac.uk/how-does-harmony-work) [neural network](https://fastdatascience.com/how-similar-are-neural-networks-to-our-brains) from [HuggingFace](https://huggingface.co/).
 
 In addition, the browser-based front end is running in [Node.js](https://nodejs.org/en) to make the nice graphics that you can see on our web tool.
 
@@ -54,15 +54,15 @@ java -jar tika-server-standard-2.3.0.jar
 
 Please ensure you have Tika 2.3.0 or later.
 
-## 3. Download and install Python
+## 3. Download and install [Python](https://www.python.org/)
 
 If you don’t already have Python on your computer, we recommend to download it from [Anaconda](https://www.anaconda.com/download). Please ensure you have Python 3.9 or later.
 
-## 4. Download the Harmony API
+## 4. Download the Harmony [API](https://harmonydata.ac.uk/releasing-harmony-api)
 
 Visit the [API Github page](https://github.com/harmonydata/harmonyapi) and click Code -> Download ZIP. Unzip it on your computer.
 
-## 5. Download the machine learning models and Python dependencies
+## 5. Download the machine learning [models](https://harmonydata.ac.uk/semantic-text-matching-with-deep-learning-transformer-models) and Python dependencies
 
 In the terminal or console, type
 

@@ -1,9 +1,12 @@
 ---
 title: Radio Podcast About Wellcome Data Prize
-description:
+description: Wellcome Data Prize Featured on Smile 90.4FM
 date:
 image: /images/blog/pexels-scott-webb-29049.jpg
 ---
+
+
+The Wellcome Data Prize was recently featured on [Smile 90.4FM](https://smilefm.co.za/), a radio station in South Africa. In this episode, Inês Pote discussed the [Wellcome Data Prize in Mental Health](https://wellcome.org/grant-funding/schemes/wellcome-mental-health-data-prize). Wellcome is on the lookout for teams that develop innovative ways to use data to improve the prevention, treatment, and management of anxiety and depression in young people in South Africa.
 
 {{< htmlcode >}}
 

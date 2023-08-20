@@ -14,7 +14,7 @@ The FAIR principles were published in *Nature* in 2016 to address the difficulti
 
 ### Harmony’s data is Findable
 
-The Harmony project is registered with the [Open Science Foundation](https://osf.io/bct6k/). With the exception of copyrighted protocols such as Beck’s Anxiety Inventory, all datasets (protocols) used in the development and testing of Harmony is available on our [Github repository](https://github.com/harmonydata/harmony) which is public access. Datasets not provided in raw form is provided in a [shell script](https://github.com/harmonydata/harmony/blob/main/data/raw_pdf/download_raw_pdfs.sh) which downloads documents from the web. The evaluation set from McElroy et al is provided in the Github repository.
+The Harmony [project](https://fastdatascience.com/starting-a-data-science-project) is registered with the [Open Science Foundation](https://osf.io/bct6k/). With the exception of copyrighted protocols such as Beck’s Anxiety Inventory, all datasets (protocols) used in the development and testing of Harmony is available on our [Github repository](https://github.com/harmonydata/harmony) which is public access. Datasets not provided in raw form is provided in a [shell script](https://github.com/harmonydata/harmony/blob/main/data/raw_pdf/download_raw_pdfs.sh) which downloads documents from the web. The evaluation set from McElroy et al is provided in the Github repository.
 
 - F1. (Meta)data are assigned a globally unique and persistent identifier – The unique identifier for the Harmony project is https://osf.io/bct6k/ with the Open Science Foundation. The OSF profile links to Harmony’s [Github page](https://github.com/harmonydata). The Github repository contains a folder of [hard coded questionnaires](https://github.com/harmonydata/harmony/tree/main/front_end/hard_coded_questionnaires) where each questionnaire is in CSV format which serves as the unique ID. For raw PDF questionnaires available on the internet, a shell script is supplied which downloads each data file to an exact filename which serves as a unique identifier.
 - F2. Data are described with rich metadata – The OSF profile contains all relevant metadata on the project. The spreadsheet [Final harmonised item tool EM.xlsx](https://github.com/harmonydata/harmony/blob/main/data/Final harmonised item tool EM.xlsx) in the repository has a descriptions tab.
@@ -30,7 +30,7 @@ Since our dataset is public access on the Github repository, once a user has clo
 
 ### Harmony’s data is Interoperable
 
-Data is downloaded in PDF format and the library Apache Tika is used to convert to raw text format. There are no interoperability issues with raw text format.
+Data is downloaded in PDF format and the library [Apache Tika](https://tika.apache.org/) is used to convert to raw [text](https://harmonydata.ac.uk/semantic-text-matching-with-deep-learning-transformer-models) format. There are no interoperability issues with raw text format.
 
 - I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation. – all questionnaires are converted to a single structure where the text of a question is in one column.
 - I2. (Meta)data use vocabularies that follow FAIR principles. – You can read the data schema [here](https://github.com/harmonydata/harmony/blob/main/README.md#data-schema).

@@ -9,13 +9,13 @@ When you input two questionnaires into Harmony, such as the [GAD-7](https://en.w
 
 So how does Harmony achieve this?
 
-Harmony uses techniques from the field of [natural language processing](https://fastdatascience.com/what-is-nlp/) to identify when two questions deal with a similar topic. Natural language processing, or NLP, is the field of study concerning interactions between humans and computers via human language.
+Harmony uses techniques from the field of [natural language processing](https://fastdatascience.com/what-is-nlp/) to identify when two questions deal with a similar topic. [Natural language processing](https://naturallanguageprocessing.com/), or [NLP](https://fastdatascience.com/portfolio/nlp-consultant/), is the field of study concerning interactions between humans and computers via human language.
 
 ## Introduction to natural language processing: the Bag of Words
 
-{{< image src="images/blog/GAD-7-vs-Becks.drawio-min-1.png" alt="GAD-7-vs-Becks" >}}
+{{< image src="images/blog/[GAD-7](https://adaa.org/sites/default/files/GAD-7_Anxiety-updated_0.pdf)-vs-Becks.drawio-min-1.png" alt="GAD-7-vs-Becks" >}}
 
-There are a number of approaches to quantify the similarity between strings of text. The simplest approach is known as the Bag-of-Words approach. This is *not* how Harmony currently works, but it is one of the first things we tried!
+There are a number of approaches to quantify the [similarity](https://fastdatascience.com/finding-similar-documents-nlp) between strings of text. The simplest approach is known as the Bag-of-Words approach. This is *not* how Harmony currently works, but it is one of the first things we tried!
 
 If we want to compare the GAD-7 question 4 (*Trouble relaxing*) to the Beck’s Anxiety Inventory question 4 (*Unable to relax*), we would break down each text into the words present. We usually remove suffixes like *ing* at this stage (this is called lemmatisation).
 
@@ -40,7 +40,7 @@ The obvious drawbacks of the Jaccard method are that
 - It ignores syntax (the order of the words in the texts).
 - It cannot cope with synonyms.
 - It won’t notice negation (*I was not happy* and *I was very happy* both equally match *you were happy*).
-- Most crucially, our remit for the Harmony project is that we want to harmonise data from different languages, such as Portuguese and English. Clearly the bag-of-words approach would not work when the texts are in different languages, unless you translated them first.
+- Most crucially, our remit for the Harmony [project](https://fastdatascience.com/starting-a-data-science-project) is that we want to harmonise data from different languages, such as Portuguese and English. Clearly the bag-of-words approach would not work when the texts are in different languages, unless you translated them first.
 
 {{< image src="images/blog/Jaccard-checklist.drawio-min-768x634.png" alt="Jaccard checklist" >}}
 
@@ -48,7 +48,7 @@ The obvious drawbacks of the Jaccard method are that
 
 The next approach that we tried was a vector space model.
 
-Vector space models allow us to represent words and concepts as numbers or points on a graph. For example, if *anxious* could be (2, 3), *worried* is (3, 4) and *relax* is (8, 2). The coordinates of each concept are themselves meaningless, but if we calculate the distance between them we would see that *anxious* and *worried* are closer to each other than either is to *relax*. 
+Vector space models allow us to represent words and concepts as numbers or points on a graph. For example, if *anxious* could be (2, 3), *worried* is (3, 4) and *relax* is (8, 2). The coordinates of each [concept](https://harmonydata.ac.uk/how-far-can-we-go-with-harmony-testing-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe) are themselves meaningless, but if we calculate the distance between them we would see that *anxious* and *worried* are closer to each other than either is to *relax*. 
 
 {{< image src="images/blog/Word-vectors.drawio-min-1536x836.png" alt="Word vectors" >}}
 
@@ -76,7 +76,7 @@ With the Harmony data, I found that the vector space models did not correctly id
 
 ## Transformer models
 
-In 2017 a team of researchers at Google published a paper titled [Attention Is All You Need](https://arxiv.org/abs/1706.03762), where they proposed a special kind of neural network called a Transformer network which is able to move along a string of text and output a vector at each point in the document, taking into account the context in the rest of the document. 
+In 2017 a team of researchers at Google published a paper titled [Attention Is All You Need](https://arxiv.org/abs/1706.03762), where they proposed a special kind of [neural network](https://fastdatascience.com/how-similar-are-neural-networks-to-our-brains) called a Transformer network which is able to move along a string of text and output a vector at each point in the document, taking into account the context in the rest of the document. 
 
 The transformer neural network uses an *attention mechanism*, which is a component that causes it to pay extra attention to words in the sentence which are strongly linked to the word it’s looking at.
 
@@ -112,11 +112,11 @@ The user has an option to add or remove edges from the graph.
 
 ## Open Data and Open Science
 
-With an aim to make our research as accessible to the public as possible, we have made Harmony and its source code and data public. The source code and source data are on [GitHub](https://github.com/harmonydata) and runs in Python. If you have some basic knowledge of Python, feel free to download it and you can even contribute to the project, by making a branch and submitting a pull request.
+With an aim to make our research as accessible to the public as possible, we have made Harmony and its source code and data public. The source code and source data are on [GitHub](https://github.com/harmonydata) and runs in [Python](https://www.python.org/). If you have some basic knowledge of Python, feel free to download it and you can even contribute to the project, by making a branch and submitting a pull request.
 
 ## What’s next for Harmony?
 
-### Likert scale matching
+### Likert scale [matching](https://harmonydata.ac.uk/semantic-text-matching-with-deep-learning-transformer-models)
 
 The questions often come with a set of options such as *definitely not, somewhat anxious*, and the like. These are often a form of [Likert scale](https://en.wikipedia.org/wiki/Likert_scale). We would like to apply the same logic to match the candidate answers in a question, and identify when questions have opposite polarity (*I often feel anxious* vs *I rarely feel anxious*).
 

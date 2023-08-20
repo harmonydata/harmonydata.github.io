@@ -36,3 +36,7 @@ Harmony is easy to use and accessible online. You can upload your own questionna
 By supporting [multiple languages](https://fastdatascience.com/multilingual-natural-language-processing/), Harmony can also help you reach a wider audience and collaborate with researchers from different countries and cultures. Harmony is constantly being updated and improved to provide you with the best service possible. 
 
 If you are interested in using Harmony or learning more about it, please visit [the Harmony website](https://harmonydata.ac.uk) or [contact us](/contact). We would love to hear from you and get your feedback on our tool. 
+
+{{< image src="images/reiwa.svg" alt="Reiwa in Japanese" title="Reiwa in Japanese" >}}
+
+_The Japanese characters above are pronounced "reiwa" and mean "beautiful harmony". [Reiwa](https://en.wikipedia.org/wiki/Reiwa_era) is the name of the current era in the Japanese official calendar, corresponding to Emperor Naruhito's reign as 126th Emperor of Japan, which began in 2019. The second character, [和](https://en.wiktionary.org/wiki/%E5%92%8C), signifies "peaceful" or "harmonious" in both Chinese and Japanese. In Chinese it's pronounced "hé", and in Japanese, "wa", as well as many other pronunciations._

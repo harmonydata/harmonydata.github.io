@@ -33,7 +33,7 @@ devtools::install_github("harmonydata/harmony_r")
 
 ## Parsing a raw file into an Instrument
 
-To import Harmony and harmonise an instrument, run:
+Let's import Harmony and harmonise an instrument.
 
 If you want to read in a raw (unstructured) PDF or Excel file, you can
 do this via a POST request to the REST API. This will convert the file

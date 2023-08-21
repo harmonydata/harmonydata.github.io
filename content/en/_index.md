@@ -79,16 +79,23 @@ blocks:
   heading: "Use Harmony in R"
   subheading: R users can now import Harmony as an R package.
   links: 
-  - text: R Package
+  - text: R package
     url: https://github.com/harmonydata/harmony_r
+  - text: Documentation
+    url: /harmony-r-released/
+  - text: Example notebook
+    url: "https://github.com/harmonydata/experiments/blob/main/Harmony_R_example.ipynb"
   code: |
     ```vshell
-    install.packages("harmonydata")
+    # install.packages("devtools") # If you don't have devtools installed already.
+    library(devtools)
+    devtools::install_github("harmonydata/harmony_r")
     library(harmonydata)
-                
-    instruments <- harmony.example_instruments["CES_D English"],
-    harmony.example_instruments["GAD-7 Portuguese"]
-    similarity <- harmony.match_instruments(instruments) 
+    instrument = load_instruments_from_file(path = "examples/GAD-7.pdf")
+    instrument_2 = load_instruments_from_file("https://medfam.umontreal.ca/wp-content/uploads/sites/16/GAD-7-fran%C3%A7ais.pdf") 
+    instruments = append(instrument, instrument_2)
+    match = match_instruments(instruments)
+    names(match)
     ```
 
 - block: feature-2

@@ -13,7 +13,7 @@ Harmony uses techniques from the field of [natural language processing](https://
 
 ## Introduction to natural language processing: the Bag of Words
 
-{{< image src="images/blog/[GAD-7](https://adaa.org/sites/default/files/GAD-7_Anxiety-updated_0.pdf)-vs-Becks.drawio-min-1.png" alt="GAD-7-vs-Becks" >}}
+{{< image src="images/blog/GAD-7-vs-Becks.drawio-min-1.png" alt="GAD-7-vs-Becks" >}}
 
 There are a number of approaches to quantify the [similarity](https://fastdatascience.com/finding-similar-documents-nlp) between strings of text. The simplest approach is known as the Bag-of-Words approach. This is *not* how Harmony currently works, but it is one of the first things we tried!
 
@@ -31,7 +31,9 @@ If we want to compare the GAD-7 question 4 (*Trouble relaxing*) to the Beck’s 
 
 In total there are 4 words between the two questions. One word (*relax*) occurs in both questions. We can calculate a similarity metric using a formula called the Jaccard similarity coefficient, which is defined as the number of words in both questions, divided by the number of words in either question, so in our case
 
-![J(\text{``trouble relaxing''}, \text{``unable to relax''}) = \frac{1}{4} = 0.25](https://harmonydata.ac.uk/wp-content/ql-cache/quicklatex.com-1481bf052e6ff61e1fd6451407f06954_l3.svg)
+{{< htmlcode >}}
+<img src="/images/equation.svg" alt="J of trouble relaxing, unable to relax = 1 / 4  = 0.25" />
+{{< /htmlcode >}}
 
 It is easy to see that the Jaccard similarity coefficient would come to 1 if the documents were identical and 0 if the documents were completely different.
 

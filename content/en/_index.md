@@ -85,11 +85,14 @@ blocks:
     url: /harmony-r-released/
   - text: Example notebook
     url: "https://github.com/harmonydata/experiments/blob/main/Harmony_R_example.ipynb"
+  - text: CRAN
+    url: "https://cran.r-project.org/"
   code: |
     ```vshell
-    # install.packages("devtools") # If you don't have devtools installed already.
-    library(devtools)
-    devtools::install_github("harmonydata/harmony_r")
+    # install.packages("devtools") # If you don't have devtools installed already or CRAN is down.
+    # library(devtools)
+    # devtools::install_github("harmonydata/harmony_r")
+    install.packages("harmonydata")
     library(harmonydata)
     instrument = load_instruments_from_file(path = "examples/GAD-7.pdf")
     instrument_2 = load_instruments_from_file("https://medfam.umontreal.ca/wp-content/uploads/sites/16/GAD-7-fran%C3%A7ais.pdf") 
@@ -152,9 +155,9 @@ blocks:
   align: right
   image: images/gad-7-scanned-min.webp
   copy: |
-    Our tool, Harmony, allows researchers to upload a set of mental health questionnaires in PDF or Excel format, such as the [GAD-7 anxiety questionnaire](https://adaa.org/sites/default/files/GAD-7_Anxiety-updated_0.pdf). It identifies which questions among questionnaires are identical, similar in meaning, or antonyms of each other, and generates a network graph. This allows researchers to harmonise datasets.
+    Our tool, [Harmony](https://fastdatascience.com/harmony-wellcome-data-prize/), allows researchers to upload a set of mental health questionnaires in PDF or Excel format, such as the [GAD-7 anxiety questionnaire](https://adaa.org/sites/default/files/GAD-7_Anxiety-updated_0.pdf). It identifies which questions among questionnaires are identical, similar in meaning, or antonyms of each other, and generates a network graph. This allows researchers to harmonise datasets.
 
-    Uniquely, Harmony relies on [Transformer neural network architectures](https://deepai.org/machine-learning-glossary-and-terms/transformer-neural-network) and is not dependent on a dictionary approach or word list. This allows for multilingual support (English and Portuguese are our languages of focus), and Harmony is able to correctly map the GAD-7 used in the UK to the [GAD-7 used in Brazil](https://pesquisa.bvsalud.org/portal/resource/pt/lil-788637), despite the Brazilian questionnaire being in Brazilian Portuguese.
+    Uniquely, Harmony relies on [Transformer neural network architectures](https://deepai.org/machine-learning-glossary-and-terms/transformer-neural-network) and is not dependent on a dictionary approach or word list. This allows for [multilingual support](/harmony-supports-over-8-languages/) (English and Portuguese are our languages of focus), and Harmony is able to correctly map the GAD-7 used in the UK to the [GAD-7 used in Brazil](https://pesquisa.bvsalud.org/portal/resource/pt/lil-788637), despite the Brazilian questionnaire being in Brazilian Portuguese.
 
     Using Harmony, our team was able to conduct groundbreaking research into social isolation and anxiety with NLP supplying a quantitative measure of the equivalence of the different mental health datasets.
 

@@ -86,7 +86,7 @@ blocks:
   - text: Example notebook
     url: "https://github.com/harmonydata/experiments/blob/main/Harmony_R_example.ipynb"
   - text: CRAN
-    url: "https://cran.r-project.org/"
+    url: "https://cran.r-project.org/web/packages/harmonydata/index.html"
   code: |
     ```vshell
     # install.packages("devtools") # If you don't have devtools installed already or CRAN is down.

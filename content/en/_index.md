@@ -146,7 +146,7 @@ blocks:
   padding: top
   copy: Really useful! Would have been a great tool and saved me a lot of time when I was trying to externally validate my risk prediction model in two cohorts.
   author:
-    name: Researcher at UCL
+    name: Researcher at Kings College London
     title: on using Harmony the first time
     image: /images/testimonial-user.svg
 

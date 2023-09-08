@@ -13,9 +13,9 @@ We've been thinking about how we can make sure that Harmony continues to operate
 
 In April 2023, we completed the software sustainability assessment with the [Software Sustainability Institute](http://software.ac.uk), which gave us 29 recommended improvements to make Harmony more sustainable. By September 2023, we had introduced a number of improvements to the project and now have 14 recommendations remaining.
 
-* Read the [April 2023 sustainability report](https://raw.githubusercontent.com/harmonydata/experiments/main/Harmony - Sustainability Evaluation April 2023.pdf).
+* Read the [April 2023 sustainability report](https://raw.githubusercontent.com/harmonydata/experiments/main/Harmony%20-%20Sustainability%20Evaluation%20April%202023.pdf).
 
-* Read the [September 2023 sustainability report](https://raw.githubusercontent.com/harmonydata/experiments/main/Harmony - Sustainability Evaluation September 2023.pdf).
+* Read the [September 2023 sustainability report](https://raw.githubusercontent.com/harmonydata/experiments/main/Harmony%20-%20Sustainability%20Evaluation%20September%202023.pdf).
 
 # Infrastructure
 

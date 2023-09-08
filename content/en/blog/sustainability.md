@@ -9,6 +9,14 @@ Longevity is a tricky topic in software development.
 
 We've been thinking about how we can make sure that Harmony continues to operate for a long time in the future, since Harmony is intended as a public good for researchers to use with no strings attached.
 
+# Sustainability assessment
+
+In April 2023, we completed the software sustainability assessment with the [Software Sustainability Institute](http://software.ac.uk), which gave us 29 recommended improvements to make Harmony more sustainable. By September 2023, we had introduced a number of improvements to the project and now have 14 recommendations remaining.
+
+* Read the [April 2023 sustainability report](https://raw.githubusercontent.com/harmonydata/experiments/main/Harmony - Sustainability Evaluation April 2023.pdf).
+
+* Read the [September 2023 sustainability report](https://raw.githubusercontent.com/harmonydata/experiments/main/Harmony - Sustainability Evaluation September 2023.pdf).
+
 # Infrastructure
 
 For the first iteration of Harmony, we developed the dashboard in [Plotly Dash](https://plotly.com/dash/), and deployed it to an .org domain running on [Microsoft Azure App Service](https://azure.microsoft.com/en-gb/products/app-service). The website was running in [Wordpress](https://wordpress.com/), hosted on [Siteground](https://www.siteground.co.uk/). All of these are paid solutions which were coming out of the [project](https://fastdatascience.com/starting-a-data-science-project) budget.

@@ -1,3 +1,12 @@
+# Harmony static blog source code (Markdown, Hugo)
+
+This repo is the source code for the blog at https://harmonydata.ac.uk. It does *not* include the source code for the Harmony app or library itself.
+
+* 🪧 The Harmony app which is running at https://harmonydata.ac.uk/app is in this repo: https://github.com/harmonydata/app.
+* 🪧 The Harmony Python library source code is here: https://github.com/harmonydata/harmony.
+* 🪧 The Harmony R library source code is here: https://github.com/harmonydata/harmony_r.
+* 🪧 The Harmony API source code is here: https://github.com/harmonydata/harmonyapi.
+
 ## How to make a new blog post
 
 Put the md file in `content/en/blog`. For an idea on the format, please look at the other blog posts in `content/en/blog`.

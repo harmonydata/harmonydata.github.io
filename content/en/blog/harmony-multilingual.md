@@ -3,6 +3,8 @@ title: Harmony supports over 8 languages!
 description: How we are handling multiple languages in the Harmony project
 date: 2023-08-19
 image: /images/multilingual.png
+aliases:
+- /harmony-supports-8-languages
 ---
 
 > Привет Гармония! 哈莫尼可以让中英文和谐！ שלום הרמוני Harmony peut aussi harmoniser les instruments en français.

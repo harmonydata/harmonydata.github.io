@@ -55,8 +55,10 @@ blocks:
     url: https://pypi.org/project/harmonydata/
   - text: Python package
     url: https://pypi.org/project/harmonydata/
-  - text: Source Code
+  - text: Source Code on Github
     url: http://github.com/harmonydata/harmony
+  - text: Google Colab
+  - url: https://colab.research.google.com/github/harmonydata/harmony/blob/main/Harmony_example_walkthrough.ipynb
   - text: REST API
     url: http://github.com/harmonydata/harmonyapi
   - text: API Documentation (PDF)
@@ -79,7 +81,7 @@ blocks:
   heading: "Use Harmony in R"
   subheading: R users can now import Harmony as an R package.
   links: 
-  - text: R package
+  - text: R package on Github
     url: https://github.com/harmonydata/harmony_r
   - text: Documentation
     url: /harmony-r-released/

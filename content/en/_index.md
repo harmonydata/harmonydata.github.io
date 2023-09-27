@@ -51,17 +51,15 @@ blocks:
   heading: "Use Harmony in Python"
   subheading: We've released Harmony as an easy-to-use Python library on Pypi.
   links: 
-  - text: Pypi
-    url: https://pypi.org/project/harmonydata/
-  - text: Python package
+  - text: Python package on Pypi
     url: https://pypi.org/project/harmonydata/
   - text: Source Code on Github
     url: http://github.com/harmonydata/harmony
-  - text: Google Colab
-  - url: https://colab.research.google.com/github/harmonydata/harmony/blob/main/Harmony_example_walkthrough.ipynb
+  - text: Google Colab notebook
+    url: https://colab.research.google.com/github/harmonydata/harmony/blob/main/Harmony_example_walkthrough.ipynb
   - text: REST API
     url: http://github.com/harmonydata/harmonyapi
-  - text: API Documentation (PDF)
+  - text: REST API Documentation (PDF/Swagger)
     url: https://raw.githubusercontent.com/harmonydata/harmonyapi/main/docs/API_reference.pdf
   code: |
     ```vshell

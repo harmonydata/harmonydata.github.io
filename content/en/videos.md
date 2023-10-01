@@ -8,6 +8,8 @@ title: Harmony Videos
 
 {{< youtube hFqg6T_BqZc >}}
 
+[Click here to download an example notebook in R markdown](/harmony-r-notebook-r-markdown-example/).
+
 * Launch a web browser and go to the CRAN website.
 
 * Find the download link for R for Windows.

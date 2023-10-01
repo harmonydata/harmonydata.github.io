@@ -4,7 +4,7 @@ title: Harmony Videos
 
 # Videos
 
-## Install Harmony on Windows 10:
+## Install Harmony R library on Windows 10:
 
 {{< youtube hFqg6T_BqZc >}}
 

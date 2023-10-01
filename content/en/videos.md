@@ -4,6 +4,76 @@ title: Harmony Videos
 
 # Videos
 
+## Install Harmony on Windows 10:
+
+{{< youtube hFqg6T_BqZc >}}
+
+* Launch a web browser and go to the CRAN website.
+
+* Find the download link for R for Windows.
+* Download the R installer file and open it.
+
+* Accept all the conditions, choose the installation language, and read the terms and conditions.
+
+* Click Next and choose your local installation location.
+
+* Go through all the options and press Next again and again until the installation is complete.
+
+* Click Finish to exit the installer.
+
+To install the Harmony package:
+
+Open R.
+
+Type the following command:
+
+```
+install.packages("harmonydata")
+```
+
+Select where on your local machine you want to install Harmony.
+
+Also, you can choose a CRAN mirror that is close to your location.
+
+Once the installation is complete, you can import Harmony into your R session:
+
+```
+library(harmonydata)
+```
+
+To harmonize two PDFs:
+
+* Download the two PDFs that you want to harmonize.
+* Load the two PDFs into R using the load_instruments_from_file() function.
+* Append the two instruments into a list of instruments.
+* Call the match() function to harmonize the two instruments.
+* Export the results to a CSV file.
+* Here is an example of how to harmonize two PDFs in R:
+
+
+### Load the two PDFs
+```
+instrument_1 <- load_instruments_from_file("PHQ-9.pdf")
+instrument_2 <- load_instruments_from_file("GAD-7.pdf")
+```
+### Append the two instruments into a list
+```
+instruments <- list(instrument_1, instrument_2)
+```
+### Harmonize the two instruments
+```
+matches <- match(instruments)
+```
+
+### Export the results to a CSV file
+
+```
+write.csv(matches, "harmonized_instruments.csv")
+```
+This will create a CSV file called harmonized_instruments.csv that contains the harmonized instruments.
+
+
+
 ## Introduction to Harmony: Data harmonisation with [natural language processing](https://naturallanguageprocessing.com/)
 
 {{< youtube cEZppTBj1NI >}}

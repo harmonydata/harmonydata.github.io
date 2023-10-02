@@ -57,10 +57,6 @@ blocks:
     url: http://github.com/harmonydata/harmony
   - text: Google Colab notebook
     url: https://colab.research.google.com/github/harmonydata/harmony/blob/main/Harmony_example_walkthrough.ipynb
-  - text: REST API
-    url: http://github.com/harmonydata/harmonyapi
-  - text: REST API Documentation (PDF/Swagger)
-    url: https://raw.githubusercontent.com/harmonydata/harmonyapi/main/docs/API_reference.pdf
   code: |
     ```vshell
     pip install harmonydata
@@ -83,10 +79,14 @@ blocks:
     url: https://github.com/harmonydata/harmony_r
   - text: Documentation
     url: /harmony-r-released/
-  - text: Example notebook
+  - text: Google Colab notebook
     url: "https://github.com/harmonydata/experiments/blob/main/Harmony_R_example.ipynb"
+  - text: R markdown notebook for R Studio
+    url: "/harmony_r_example.nb.html"
   - text: CRAN
     url: "https://cran.r-project.org/web/packages/harmonydata/index.html"
+  - text: Windows installation video
+    url: "https://www.youtube.com/watch?v=hFqg6T_BqZc"
   code: |
     ```vshell
     # install.packages("devtools") # If you don't have devtools installed already or CRAN is down.
@@ -104,13 +104,15 @@ blocks:
 - block: feature-2
   # padding: top
   align: right 
-  heading: "Harmony Docker container"
-  subheading: We've released Harmony as a Docker container on [Dockerhub](https://hub.docker.com/).
+  heading: "Harmony Docker container/API"
+  subheading: We've released Harmony as a Docker container on [Dockerhub](https://hub.docker.com/), running a REST API using FastAPI.
   links: 
-  - text: Docker
-    url: https://www.docker.com/
   - text: Dockerhub
     url: https://hub.docker.com/r/harmonydata/harmonywithtika
+  - text: REST API
+    url: http://github.com/harmonydata/harmonyapi
+  - text: REST API Documentation (PDF/Swagger)
+    url: https://raw.githubusercontent.com/harmonydata/harmonyapi/main/docs/API_reference.pdf
   code: |
     ```vshell
     docker pull harmonydata/harmonywithtika

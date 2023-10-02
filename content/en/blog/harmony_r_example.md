@@ -14,7 +14,11 @@ Harmony was developed as a collaboration between [Ulster University](https://uls
 
 This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. Click [here](/harmony_r_example.nb.html) to download this file in R Markdown notebook format.
 
-Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+{{< youtube hFqg6T_BqZc >}}
+
+_Installation of Harmony R package on Windows 10._
+
+When you've [downloaded the .Rmd file](/harmony_r_example.Rmd), you can open it in [R Studio](https://posit.co/download/rstudio-desktop/). You can execute any chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
 
 First let's import Harmony. If you haven't already, you need to install it with `install.packages("harmonydata")`.
 

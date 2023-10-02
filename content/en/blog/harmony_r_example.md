@@ -12,7 +12,15 @@ The Harmony project is a data harmonisation project that uses [Natural Language 
 
 Harmony was developed as a collaboration between [Ulster University](https://ulster.ac.uk/), [University College London](https://ucl.ac.uk/), the [Universidade Federal de Santa Maria](https://www.ufsm.br/), and [Fast Data Science](http://fastdatascience.com/).  Harmony is funded by [Wellcome](https://wellcome.org/) as part of the [Wellcome Data Prize in Mental Health](https://wellcome.org/grant-funding/schemes/wellcome-mental-health-data-prize).
 
-This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. Click [here](/harmony_r_example.nb.html) to download this file in R Markdown notebook format.
+This code is provided as an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. Click [here](/harmony_r_example.nb.html) to download this file in R Markdown notebook format which you can open in R Studio.
+
+Alternatively, you can also run this notebook in Google Colab, or [download as Jupyter Notebook in R](https://github.com/harmonydata/experiments/blob/main/Harmony_R_example.ipynb): 
+{{< htmlcode >}}
+
+<a href="/harmony_r_example.nb.html" target="_parent"><img src="https://img.shields.io/badge/RStudio-4285F4" alt="Open in R Studio"/></a>
+
+<a href="https://colab.research.google.com/github/harmonydata/experiments/blob/main/Harmony_R_example.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+{{< /htmlcode >}}
 
 {{< youtube hFqg6T_BqZc >}}
 

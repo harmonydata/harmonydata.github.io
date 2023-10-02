@@ -8,8 +8,9 @@ image: /images/harmony-tidal-workshop.jpg
 
 On Thursday, August 17th, 2023, the Harmony and [TIDAL](https://github.com/AmeliaES/TIDAL) teams teamed up to run a workshop at [University College London](https://www.ucl.ac.uk/) to allow researchers to try out their software tools. The workshop was attended by researchers interested in using these tools to study child and adolescent mental health, and other areas in social science research, from the effects of gambling addiction to asking questions about nature vs nurture in twin studies.
 
-{{< image src="/images/tidal.png" alt="TIDAL" title="TIDAL" >}}
+[You can read more about the event on the Centre for Longitudinal Studies' website.](https://cls.ucl.ac.uk/events/mental-health-data-tools-workshop/)
 
+{{< image src="/images/tidal.png" alt="TIDAL" title="TIDAL" >}}
 
 {{< image src="/images/logo-dark-blue.png" alt="Harmony" title="Harmony" >}}
 

@@ -5,6 +5,12 @@ date: 2023-10-02
 image: "/images/world.png"
 ---
 
+## 28 September 2023, Ulster University
+
+Ulster University's Psychology department post writes, "The Harmony project is running at Ulster University in collaboration with University College London, the Universidade Federal de Santa Maria and Fast Data Science."...
+
+[Read about Harmony on Ulster University's website](https://www.ulster.ac.uk/research/topic/psychology/projects/harmony)
+
 ## 26 September 2023, Swiss Centre of Expertise in the Social Sciences (FORS), Lausanne
 
 Bettina Moltrecht from University College London (UCL) gave a presentation on the development and use of Harmony, a Natural Language Processing (NLP) tool to facilitate measurement harmonisation across studies.
@@ -14,6 +20,20 @@ Harmony is a new AI-driven tool that can help researchers identify, compare and 
 Dr Moltrecht presented use-case examples using real world meta-data from two UK cohort studies, findings from her ongoing validation research, and how existing platforms can benefit from Harmony. She also invited the audience to discuss familiar challenges and possible solutions around data harmonisation, especially considering cultural and contextual adaptations.
 
 [Read more on FORS' website](https://forscenter.ch/events-training/methods-and-research-meetings/)
+
+## 17 August 2023, Centre for Longitudinal Studies
+
+During [a recent free half-day event](/harmony-and-tidal-workshop/), attendees were introduced to two new digital tools for researchers working with longitudinal data: Harmony and TIDAL.
+
+Harmony is a tool that facilitates fast and easy harmonisation of questionnaires commonly used in mental health research. It uses natural language processing to identify commonalities across items, which allows researchers to combine and compare data from multiple studies.
+
+TIDAL is a user-friendly tool that supports experienced and less experienced researchers with the analyses of longitudinal data, such as trajectory modelling.
+
+The event provided insights on retrospective measurement harmonisation and the analysis and visual representation of trajectories using longitudinal survey data. Attendees also had the chance to try both tools using prepared datasets and ask questions.
+
+By attending this event, researchers gained the knowledge and skills they need to use Harmony and TIDAL to improve their research.
+
+[Read more on CLS' website](https://cls.ucl.ac.uk/events/mental-health-data-tools-workshop/)
 
 
 

@@ -1,0 +1,33 @@
+---
+title: "News coverage"
+description: Any news coverage about Harmony
+date: 2023-10-02
+image: "/images/world.png"
+---
+
+## 26 September 2023, Swiss Centre of Expertise in the Social Sciences (FORS), Lausanne
+
+Bettina Moltrecht from University College London (UCL) gave a presentation on the development and use of Harmony, a Natural Language Processing (NLP) tool to facilitate measurement harmonisation across studies.
+
+Harmony is a new AI-driven tool that can help researchers identify, compare and match survey items across multiple studies in a more efficient and transparent way. It can be used to harmonize questionnaires, i.e. identify similar question items that tap into the same symptom from different scales, and test their measurement properties and equivalence empirically – thus enabling researchers to compare and combine findings across existing studies, even when different measures have been administered.
+
+Dr Moltrecht presented use-case examples using real world meta-data from two UK cohort studies, findings from her ongoing validation research, and how existing platforms can benefit from Harmony. She also invited the audience to discuss familiar challenges and possible solutions around data harmonisation, especially considering cultural and contextual adaptations.
+
+[Read more on FORS' website](https://forscenter.ch/events-training/methods-and-research-meetings/)
+
+
+
+## 15 November 2022, Tech4Health, Brazil
+
+
+The online platform Harmony, a tool for harmonizing questions, was developed by researchers from the Federal University of Santa Maria (UFSM), University College London, and Ulster University. Harmony can identify which questions correspond to each other in different questionnaires, even if the questions are in different languages.
+
+Dr. Maurício Scopel Hoffmann, a professor at the Department of Neuropsychiatry at UFSM, participated in the development of Harmony. He explained that the platform can help researchers compare data from different questionnaires and aggregate data from different banks.
+
+To use Harmony, researchers simply drag and drop mental health questionnaire spreadsheets and PDFs into the tool. The platform will then estimate similar questions so that the researcher can export the result in Excel format or as an image and share it with colleagues.
+
+The project was funded by the Wellcome Trust, a British philanthropic institution that supports research.
+
+[Read more on Tech4Health's website (in Portuguese)](https://www.t4h.com.br/noticias/destaques/professor-da-ufsm-participa-da-criacao-de-plataforma-on-line-para-pesquisadores-em-saude-mental/)
+
+

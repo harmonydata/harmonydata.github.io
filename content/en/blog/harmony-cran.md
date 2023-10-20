@@ -3,6 +3,7 @@ title: "Harmony: Natural Language Processing Tool for Item Harmonisation is now 
 description: Semantic text matching is a task in natural language processing involving estimating the semantic similarity between two texts
 date: 2023-09-06
 image: "https://raw.githubusercontent.com/harmonydata/.github/main/profile/harmony_cran.gif"
+aliases: "/blog/harmony-cran"
 ---
 
 

@@ -3,6 +3,7 @@ title: Harmony Going Forward
 description: Yesterday the Harmony team received the wonderful news that we are given the chance to continue working on Harmony for another six months, after which we c...
 date:
 image: /images/blog/noah-buscher-x8ZStukS2PM-unsplash-1536x880.jpg
+aliases: "/blog/harmony-going-forward/"
 ---
 
 **5 key things Implementation Science has taught us** **to focus on**

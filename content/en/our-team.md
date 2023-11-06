@@ -33,4 +33,6 @@ blocks:
     copy: Professor of Population Health and Statistics at the Social Research Institute at [University College London](https://ucl.ac.uk)
     social:
       site: https://iris.ucl.ac.uk/iris/browse/profile?upi=GPLOU01
+
+aliases: "/team"
 ---

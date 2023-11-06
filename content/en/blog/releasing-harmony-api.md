@@ -18,7 +18,7 @@ pip install harmonydata
 
 ## How does Harmony work in layman's terms?
 
-Harmony compares questions from different instruments by converting them to a vector representation and calculating their [similarity](https://fastdatascience.com/finding-similar-documents-nlp). You can read more at https://harmonydata.org/how-does-harmony-work/ 
+Harmony compares questions from different instruments by converting them to a vector representation and calculating their [similarity](https://fastdatascience.com/finding-similar-documents-nlp). You can read more at https://harmonydata.ac.uk/how-does-harmony-work/ 
 
 ## Do you want to run Harmony in your [browser](https://harmonydata.ac.uk/running-harmony-in-your-browser-with-no-internet-connection) locally from a pre-built Docker container? 
 
@@ -157,7 +157,7 @@ If you want to read in a raw (unstructured) PDF or Excel file, you can do this v
 
 ```
 curl -X 'POST' \
-  'https://api.harmonydata.org/text/parse' \
+  'https://api.harmonydata.ac.uk/text/parse' \
   -H 'accept: application/json' \
   -H 'Content-Type: application/json' \
   -d '[
@@ -170,7 +170,7 @@ curl -X 'POST' \
 ]'
 
 curl -X 'POST' \
-  'https://api.harmonydata.org/text/parse' \
+  'https://api.harmonydata.ac.uk/text/parse' \
   -H 'accept: application/json' \
   -H 'Content-Type: application/json' \
   -d '[
@@ -221,7 +221,7 @@ You can request the similarities between instruments with a second POST request:
 
 ```
 curl -X 'POST' \
-  'https://api.harmonydata.org/text/match' \
+  'https://api.harmonydata.ac.uk/text/match' \
   -H 'accept: application/json' \
   -H 'Content-Type: application/json' \
   -d '{
@@ -364,7 +364,7 @@ thomas@fastdatascience.com
 
 If you would like to cite the tool alone, you can cite:
 
-Wood, T.A., McElroy, E., Moltrecht, B., Ploubidis, G.B., Scopel Hoffmann, M., Harmony [Computer software], Version 1.0, accessed at https://app.harmonydata.org. [Ulster University](https://ulster.ac.uk) (2022)
+Wood, T.A., McElroy, E., Moltrecht, B., Ploubidis, G.B., Scopel Hoffmann, M., Harmony [Computer software], Version 1.0, accessed at https://harmonydata.ac.uk/app. [Ulster University](https://ulster.ac.uk) (2022)
 
 A BibTeX entry for LaTeX users is
 
@@ -374,7 +374,7 @@ A BibTeX entry for LaTeX users is
     TITLE  = {Harmony (Computer software), Version 1.0},
     YEAR   = {2022},
     Note   = {To appear},
-    url = {https://app.harmonydata.org}
+    url = {https://harmonydata.ac.uk/app}
 }
 ```
 
@@ -402,8 +402,8 @@ API Version: 2.
 Documentation for Harmony API.
 
 Harmony is a tool using AI which allows you to compare items from questionnaires and identify similar content.
-You can try Harmony at <a href="https://app.harmonydata.org">app.harmonydata.org</a> and you can read our blog
-at <a href="https://harmonydata.org/blog/">harmonydata.org/blog/</a>.
+You can try Harmony at <a href="https://harmonydata.ac.uk/app">harmonydata.ac.uk/app</a> and you can read our blog
+at <a href="https://harmonydata.ac.uk/blog/">harmonydata.ac.uk/blog/</a>.
 
 CONTACT
 

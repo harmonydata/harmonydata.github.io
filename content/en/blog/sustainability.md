@@ -1,7 +1,7 @@
 ---
 title: Making Harmony sustainable long-term
 description: How we can make sure the Harmony project survives after the Wellcome Trust Mental Health Data Prize
-date:
+date: 2023-11-01
 image: /images/blog/sustainability.png
 aliases: "/blog/sustainability"
 ---
@@ -67,7 +67,7 @@ If you're interested in the consequences of ignoring your users' needs, see our 
 
 _Question 4.6: If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?_
 
-If your software includes support for Application Programming Interfaces (API) (https://en.wikipedia.org/wiki/Application_programming_interface), whether these be functions, data types, or classes offered by a library or a collection of REST (https://en.wikipedia.org/wiki/Representational_state_transfer) endpoints or web services, then these need to be documented if you want them to be used. Code examples alone may not provide enough information on how someone can use your API in their own code.
+If your software includes support for [Application Programming Interfaces (API)](https://en.wikipedia.org/wiki/Application_programming_interface), whether these be functions, data types, or classes offered by a library or a collection of REST (https://en.wikipedia.org/wiki/Representational_state_transfer) endpoints or web services, then these need to be documented if you want them to be used. Code examples alone may not provide enough information on how someone can use your API in their own code.
 
 From structured comments in the code, generating complete, structured API documentation can be done automatically with, for example, JavaDoc (http://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html) (for Java), Doxygen (http://www.stack.nl/~dimitri/doxygen/) (for C, C++ , Fortran or Python), Sphinx (http://sphinx-doc.org/) (for Python). Certain REST frameworks, such as Django (http://www.django-rest-framework.org/), also support auto-generation of API documentation.
 
@@ -109,25 +109,23 @@ A ticketing system allows you to organise support queries in a scalable way. It 
 
 Ticketing systems are also very handy at providing statistics. You can find out the components of your software that cause the most problems, then improve them or better document their use. You can also see how quickly you are dealing with issues, and check that you are meeting the level of support that you have advertised.
 
-Examples of ticketing systems include JIRA (https://www.atlassian.com/software/jira), Bugzilla (https://www.bugzilla.org/) and Trac (http://trac.edgewall.org/). Many third-party repositories, including GitHub (https://github.com), BitBucket (https://bitbucket.org), LaunchPad (https://launchpad.net) and SourceForge (https://sourceforge.net) also provide issue trackers. See our guide on Supporting open source software
-
-(http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
+Examples of ticketing systems include [JIRA](https://www.atlassian.com/software/jira), [Bugzilla](https://www.bugzilla.org/) and [Trac](http://trac.edgewall.org/). Many third-party repositories, including [GitHub](https://github.com), [BitBucket](https://bitbucket.org), [LaunchPad](https://launchpad.net) and [SourceForge](https://sourceforge.net) also provide issue trackers. See our guide on [Supporting open source software](http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
 
 _Question 5.6: Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests?_
 
 An open ticketing system allows your users to see that you are active in fixing bugs and implementing features, and are responsive to your users. This can give them confidence in you and your software and makes them more likely to use it. It also provides your users with a means to see if a problem they have is a known issue, and allow them to check progress on it, or, even, whether their issue has already been addressed and a fix is available.
 
-See our guide on Supporting open source software (http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
+See our [guide on Supporting open source software](http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
 
 _Question 6.1: Is your software's architecture and design modular?_
 
-Modularity (https://en.wikipedia.org/wiki/Modular_programming) is a fundamental software design approach centred on the creation of self-contained functional units, or modules which serve specific purposes (e.g. file I/O, authorisation, logging, linear algebra, computational fluid dynamics, DNA [matching](https://harmonydata.ac.uk/semantic-text-matching-with-deep-learning-transformer-models), or text analysis).
+[Modularity](https://en.wikipedia.org/wiki/Modular_programming) is a fundamental software design approach centred on the creation of self-contained functional units, or modules which serve specific purposes (e.g. file I/O, authorisation, logging, linear algebra, computational fluid dynamics, DNA [matching](https://harmonydata.ac.uk/semantic-text-matching-with-deep-learning-transformer-models), or text analysis).
 
 Modularity has many benefits. It's easier to reuse modules in other software, rather than re-implementing their functionality, saving both time and effort. Each module is self-contained, so it can be changed or updated without affecting the other modules in the code, and it can also be tested is isolation, which is useful when developing as part of a team. Modular designs are also easier to understand.
 
 Given that source code is the final realisation of a design, it too should be modular and structured in a way that makes the modules clear. Programming languages support many ways in which a modular design can be realised e.g. packages and classes in Java; packages, modules and classes in Python; header files, source code files and data types in C; namespaces and classes in C++; or modules and classes in Fortran.
 
-See our guide on Developing maintainable software (http://software.ac.uk/resources/guides/developing-maintainable-software) and Modular Design (https://en.wikipedia.org/wiki/Modular_design) on Wikipedia.
+See our guide on [Developing maintainable software](http://software.ac.uk/resources/guides/developing-maintainable-software) and [Modular Design](https://en.wikipedia.org/wiki/Modular_design) on Wikipedia.
 
 _Question 11.5: Does your documentation list the version number for all third-party dependencies?_
 
@@ -137,23 +135,22 @@ Alternatives to version numbers include, depending upon where the dependency ori
 
 source code repository commit identifier or tag, or a download date.
 
-See our guide on How to cite and describe software (http://software.ac.uk/so-exactly-what-software-did-you-use).
+See our guide on [How to cite and describe software](http://software.ac.uk/so-exactly-what-software-did-you-use).
 
 _Question 11.6: Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?_ Users don't want to have to search the web for your third-party dependencies to find the information they need to package or deploy your software. You already know all the information that your users will need about suitable versions, licences and suchlike, so you should make it available to your users. In particular, licence information is very important, because users need to understand the terms and conditions of third-party dependencies so that they can determine whether they are legally permitted to use them, and, so, use your software.
 
-_Question 11.7: Can you download dependencies using a dependency management tool or package manager? e.g.Ivy (http://ant.apache.org/ivy/),Maven (https://maven.apache.org/), Python pip (https://pypi.python.org/pypi/pip) or setuptools_
-
-_(https://pypi.python.org/pypi/setuptools), PHP Composer (https://getcomposer.org/), Ruby gems (https://rubygems.org), or R PackRat (https://rstudio.github.io/packrat/)_ Bundling all third-party dependencies with your software means that your users don't need to download the dependencies. However, it can lead to a very big release packages and, in some cases, you will not be able to bundle a dependency, because its licence prevents it. Dependency management tools provide automated frameworks to download and install third-party dependencies at build or deployment time. This helps to reduce the size of release packages, avoid licensing issues and save users from having to download dependencies themselves.
+_Question 11.7: Can you download dependencies using a dependency management tool or package manager? e.g.[Ivy](http://ant.apache.org/ivy/), [Maven](https://maven.apache.org/), [Python pip](https://pypi.python.org/pypi/pip) or [setuptools
+(https://pypi.python.org/pypi/setuptools), [PHP Composer](https://getcomposer.org/), [Ruby gems](https://rubygems.org), or [R PackRat](https://rstudio.github.io/packrat/)_ Bundling all third-party dependencies with your software means that your users don't need to download the dependencies. However, it can lead to a very big release packages and, in some cases, you will not be able to bundle a dependency, because its licence prevents it. Dependency management tools provide automated frameworks to download and install third-party dependencies at build or deployment time. This helps to reduce the size of release packages, avoid licensing issues and save users from having to download dependencies themselves.
 
 _Question 12.1: Do you have an automated test suite for your software?_
 
 After changing your code and rebuilding it, a developer will want to check that their changes or fixes have not broken anything. Tests contribute to a [fail](https://fastdatascience.com/why-do-data-science-projects-fail)-fast [environment](https://fastdatascience.com/reduce-carbon-footprint-machine-learning), which allows the rapid identification of failures introduced by changes to the code such as optimisations or bug fixes. The lack of tests can dissuade developers from fixing, extending or improving your software, as developers will be less sure of whether they are inadvertently introducing bugs as they do so. Each test might verify an individual function or method, a class or module, related modules or components or the software as a whole. Tests can ensure that the correct results are returned from a function, that an operation changes the state of a system as expected, or that the code behaves as expected when things go wrong.
 
-There are many frameworks available for writing tests in a range of languages, including JUnit (http://junit.org/) for Java, CUnit (http://cunit.sourceforge.net/) for C, CPPUnit (http://www.freedesktop.org/wiki/Software/cppunit/) and googletest (https://code.google.com/p/googletest/) for C++, FRUIT (http://sourceforge.net/projects/fortranxunit/) for Fortran, py.test (http://pytest.org/) and nosetests (http://nose.readthedocs.org/) for Python, testthat (https://cran.r-project.org/web/packages/testthat/index.html) for R and PHPUnit (https://phpunit.de) for PHP.
+There are many frameworks available for writing tests in a range of languages, including [JUnit](http://junit.org/) for Java, [CUnit](http://cunit.sourceforge.net/) for C, [CPPUnit](http://www.freedesktop.org/wiki/Software/cppunit/) and [googletest](https://code.google.com/p/googletest/) for C++, [FRUIT](http://sourceforge.net/projects/fortranxunit/) for Fortran, py.test (http://pytest.org/) and [nosetests](http://nose.readthedocs.org/) for Python, [testthat](https://cran.r-project.org/web/packages/testthat/index.html) for R and [PHPUnit](https://phpunit.de) for PHP.
 
 Automating the run of your test suite means the entire set of tests can be run in one go, making life easier for your developers. Having an automated build system is a very valuable precursor to providing a test suite, and having an automated build and test system is a valuable resource in any software project.
 
-See our guides on Testing your software (http://software.ac.uk/resources/guides/testing-your-software) and Adopting automated testing (http://github.com/softwaresaved/automated_testing/blob/master/README.md).
+See our guides on [Testing your software](http://software.ac.uk/resources/guides/testing-your-software) and [Adopting automated testing](http://github.com/softwaresaved/automated_testing/blob/master/README.md).
 
 _Question 12.2: Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?_
 
@@ -161,27 +158,17 @@ Having an automated build and test system is a solid foundation for automaticall
 
 more advanced solution is to use a framework like Inca (http://inca.sdsc.edu/) which harnesses a number of machines through a central server to distribute a wide variety of tests in a parallel and scalable way.
 
-See our guide on Testing your software
-
-(http://software.ac.uk/resources/guides/testing-your-software).
+See our guide on [Testing your software](http://software.ac.uk/resources/guides/testing-your-software).
 
 _Question 12.3: Do you use continuous integration, automatically running tests whenever changes are made to your source code?_
 
 Having an automated build and test system is a solid foundation for automatically running tests on the most recent version of your source code whenever changes are made to the code in the source code repository. This means your team (and others if you publish the test results more widely) obtain very rapid feedback on the impact of changes. Continuous integration servers can automatically run jobs to build software and run tests whenever changes are committed to a source code repository. For example, Jenkins (http://jenkins-ci.org) is a continuous integration server that can trigger jobs in response to changes in Git, Mercurial, Subversion and CVS. Travis CI (http://travis-ci.org) is a hosted continuous integration server that can trigger jobs in response to changes in Git repositories hosted on GitHub (https://github.com).
 
-See our guides on How continuous integration can help you regularly test and release your software
-
-(http://software.ac.uk/how-continuous-integration-can-help-you-regularly-test-and-release-your-soft ware), Build and test examples
-
-(https://github.com/softwaresaved/build_and_test_examples/blob/master/README.md) (which includes walkthroughs on Getting started with Jenkins and Getting started with Travis CI), and Hosted continuous integration
-
-(http://www.software.ac.uk/resources/guides/hosted-continuous-integration). Going further, this can also be done automatically whenever the source code repository changes. See our guides on Testing your software
-
-(http://software.ac.uk/resources/guides/testing-your-software), Adopting automated testing (http://github.com/softwaresaved/automated_testing/blob/master/README.md)
+See our guides on [How continuous integration can help you regularly test and release your software](http://software.ac.uk/how-continuous-integration-can-help-you-regularly-test-and-release-your-software), [Build and test examples](https://github.com/softwaresaved/build_and_test_examples/blob/master/README.md) (which includes walkthroughs on Getting started with Jenkins and Getting started with Travis CI), and [Hosted continuous integration](http://www.software.ac.uk/resources/guides/hosted-continuous-integration). Going further, this can also be done automatically whenever the source code repository changes. See our guides on [Testing your software](http://software.ac.uk/resources/guides/testing-your-software), Adopting automated testing (http://github.com/softwaresaved/automated_testing/blob/master/README.md)
 
 _Question 12.4: Are your test results publicly visible?_
 
-Publishing test results from frequently run tests (e.g. nightly build and test runs) can give your users reassurance about how, and how much, your software is tested. You can automatically publish test runs to your project website, or, alternatively, have test run results mailed to a developer's mailing list, or a mailing list dedicated to the test results. For example, see the test results (http://build.mygrid.org.uk/ci/), for the Taverna (http://www.taverna.org.uk/) workflow management system which uses Jenkins (https://jenkins-ci.org) to build and test their code, and publish its results.
+Publishing test results from frequently run tests (e.g. nightly build and test runs) can give your users reassurance about how, and how much, your software is tested. You can automatically publish test runs to your project website, or, alternatively, have test run results mailed to a developer's mailing list, or a mailing list dedicated to the test results. For example, see the [test results](http://build.mygrid.org.uk/ci/), for the [Taverna](http://www.taverna.org.uk/) workflow management system which uses [Jenkins](https://jenkins-ci.org) to build and test their code, and publish its results.
 
 Question 12.5: Are all manually-run tests documented?
 
@@ -209,7 +196,7 @@ A governance model sets out how a, open source project is run. It describes the 
 
 Though they are designed for open source projects, many of their concerns are relevant to any software project.
 
-OSS Watch (http://oss-watch.ac.uk) provide an introduction to governance models (http://oss-watch.ac.uk/resources/governancemodels).
+[OSS Watch](http://oss-watch.ac.uk) provide an [introduction to governance models](http://oss-watch.ac.uk/resources/governancemodels).
 
 _Question 14.2: Do you have a contributions policy?_
 
@@ -219,7 +206,7 @@ _Question 14.3: Is your contributions' policy publicly available?_
 
 Users may not contribute if they do not know that they can contribute. Publishing your contributions policy provides information to users on what they can contribute, how they can contribute it, any requirements they must satisfy, and what happens to their contributions once they have submitted it. It also tells users who owns the copyright on their contribution.
 
-For information on how to manage contributions, see OSS Watch's Contributor Licence Agreements (http://oss-watch.ac.uk/resources/cla).
+For information on how to manage contributions, see [OSS Watch's Contributor Licence Agreements](http://oss-watch.ac.uk/resources/cla).
 
 _Question 14.4: Do contributors keep the copyright/IP of their contributions?_ Asking contributors to sign over their copyright and intellectual property to your project or organisation can put off users from contributing. It, in effect, asks them to give away ownership of something that may be novel and which may represent a key aspect of their research. Allowing contributors to keep their own copyright and intellectual property removes this barrier, thereby making contribution a more attractive option. It also contributes to promoting a community round your software – everyone sharing their outputs rather than handing them over to a select group. For information on how to manage contributions, see OSS Watch's Contributor Licence Agreements (http://oss-watch.ac.uk/resources/cla).
 

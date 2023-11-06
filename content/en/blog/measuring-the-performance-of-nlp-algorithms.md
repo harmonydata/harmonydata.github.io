@@ -14,7 +14,7 @@ Harmony is a tool for comparing questions in natural language from different sur
 
 For example, we might consider _Tries to Stop Quarrels_ is equivalent to _Is helpful if someone is hurt, upset or feeling ill_, even though there are no words in common between the two texts. But this is subjective, and if we are using AI to make this kind of matches, how can we put a number on our AI’s performance?
 
-I am describing here how I was able to evaluate Harmony. You can [view the code of my experiments on Github](https://github.com/harmonydata/harmony/tree/main/notebooks) and try it yourself.
+I am describing here how I was able to evaluate Harmony. You can [view the code of my experiments on Github](https://github.com/harmonydata/harmony_original/tree/main/notebooks) and try it yourself.
 
 ## The choice of a gold-standard dataset
 
@@ -26,7 +26,7 @@ This tool is available as an Excel and shows a variety of instruments from diffe
 
 {{< image src="images/blog/image-1536x502.png" alt="img" >}}
 
-A screenshot of the harmonisation tool by McElroy et al (2020). You can download the tool in Excel format [on our Github repository](https://github.com/harmonydata/harmony/tree/main/data).
+A screenshot of the harmonisation tool by McElroy et al (2020). You can download the tool in Excel format [on our Github repository](https://github.com/harmonydata/harmony_original/tree/main/data).
 
 Since Harmony’s purpose is to automate, or at least facilitate, the production of harmonisation tools such as this, an easy way to validate Harmony’s output is to give Harmony this data and check that Harmony produces something similar to the existing tool.
 
@@ -88,7 +88,7 @@ The baseline model, the Tf\*Idf, gave a 71% and 67% AUC on the childhood and adu
 {{< image src="images/blog/Model-2-1-1536x1254.png" alt="Model 2 1" >}}
 
 
-With a hand-coded dictionary lookup to match English and Portuguese words to each other, the same model was able to score 100% on the GAD-7 multilingual dataset. (Dictionary CSV file available [here](https://github.com/harmonydata/harmony/blob/main/front_end/models/pt_en_map.csv)).
+With a hand-coded dictionary lookup to match English and Portuguese words to each other, the same model was able to score 100% on the GAD-7 multilingual dataset. (Dictionary CSV file available [here](https://github.com/harmonydata/harmony_original/blob/main/front_end/models/pt_en_map.csv)).
 
 The performance of the Tf\*Idf model could be improved by a bilingual dictionary lookup.
 

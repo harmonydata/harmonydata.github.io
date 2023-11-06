@@ -17,7 +17,7 @@ pip install harmonydata
 
 ## Como funciona o Harmony em termos leigos?
 
-O Harmony compara questões de diferentes instrumentos convertendo-as em uma representação vetorial e calculando sua similaridade. Você pode ler mais em https://harmonydata.org/how-does-harmony-work/ 
+O Harmony compara questões de diferentes instrumentos convertendo-as em uma representação vetorial e calculando sua similaridade. Você pode ler mais em https://harmonydata.ac.uk/how-does-harmony-work/ 
 
 ## Deseja executar o Harmony em seu navegador localmente a partir de um contêiner Docker pré-criado? 
 
@@ -156,7 +156,7 @@ Se você deseja ler um arquivo PDF ou Excel bruto (não estruturado), pode fazer
 
 ```
 curl -X 'POST' \
-  'https://api.harmonydata.org/text/parse' \
+  'https://api.harmonydata.ac.uk/text/parse' \
   -H 'accept: application/json' \
   -H 'Content-Type: application/json' \
   -d '[
@@ -169,7 +169,7 @@ curl -X 'POST' \
 ]'
 
 curl -X 'POST' \
-  'https://api.harmonydata.org/text/parse' \
+  'https://api.harmonydata.ac.uk/text/parse' \
   -H 'accept: application/json' \
   -H 'Content-Type: application/json' \
   -d '[
@@ -220,7 +220,7 @@ Você pode solicitar as semelhanças entre os instrumentos com uma segunda solic
 
 ```
 curl -X 'POST' \
-  'https://api.harmonydata.org/text/match' \
+  'https://api.harmonydata.ac.uk/text/match' \
   -H 'accept: application/json' \
   -H 'Content-Type: application/json' \
   -d '{
@@ -363,7 +363,7 @@ thomas@fastdatascience.com
 
 Caso queira citar apenas a ferramenta, você pode citar:
 
-Wood, TA, McElroy, E., Moltrecht, B., Ploubidis, GB, Scopel Hoffmann, M., o Harmony [software de computador], versão 1.0, acessado em https://app.harmonydata.org. Universidade do Ulster (2022)
+Wood, TA, McElroy, E., Moltrecht, B., Ploubidis, GB, Scopel Hoffmann, M., o Harmony [software de computador], versão 1.0, acessado em https://harmonydata.ac.uk/app. Universidade do Ulster (2022)
 
 Uma entrada BibTeX para usuários LaTeX é
 
@@ -373,7 +373,7 @@ Uma entrada BibTeX para usuários LaTeX é
     TITLE  = {Harmony (Computer software), Version 1.0},
     YEAR   = {2022},
     Note   = {To appear},
-    url = {https://app.harmonydata.org}
+    url = {https://harmonydata.ac.uk/app}
 }
 ```
 
@@ -401,8 +401,8 @@ Versão da API: 2.
 Documentação para a API Harmony .
 
 O Harmony é uma ferramenta de IA que permite comparar itens de questionários e identificar conteúdos semelhantes.
-You can try Harmony at <a href="https://app.harmonydata.org">app.harmonydata.org</a> and you can read our blog
-at <a href="https://harmonydata.org/blog/">harmonydata.org/blog/</a>.
+You can try Harmony at <a href="https://harmonydata.ac.uk/app">harmonydata.ac.uk/app</a> and you can read our blog
+at <a href="https://harmonydata.ac.uk/blog/">harmonydata.ac.uk/blog/</a>.
 
 CONTATO
 

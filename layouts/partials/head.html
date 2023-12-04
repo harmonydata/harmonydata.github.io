@@ -154,6 +154,8 @@
 {{ $builtFingerprinted := $built | resources.Fingerprint }}
 <script src="{{ $builtFingerprinted.RelPermalink }}" integrity="{{ $builtFingerprinted.Data.Integrity }}" defer></script>
 
+<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/17955b07c4c0b75b8e7219c0/script.js"></script>
+
 {{ if .Site.Params.analytics_google }}
   {{ partial "analytics-google.html" . }}
 {{ end }}

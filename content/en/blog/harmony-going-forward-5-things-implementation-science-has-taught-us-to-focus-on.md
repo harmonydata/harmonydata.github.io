@@ -14,7 +14,7 @@ Yesterday the [Harmony team](https://harmonydata.ac.uk/team/) received the wonde
 
 As our team embarks on the prototyping journey, I am reflecting on how we can maximise the implementation success for our digital [Harmony tool](https://harmonydata.ac.uk/app/?_ga=2.55018287.544219844.1678452210-721610193.1678452210&_gl=1*7y76do*_ga*NzIxNjEwMTkzLjE2Nzg0NTIyMTA.*_ga_5B3RD8TY0P*MTY3ODQ1MjIxMC4xLjEuMTY3ODQ1MjIyNC4wLjAuMA..). I **want** Harmony to have a life post grant-funding and ensure that it has measurable impact on the wider researcher community and global mental health efforts.
 
-The successful implementation and [sustainability](https://harmonydata.ac.uk/sustainability) of digital products developed through research grant funding, has been shockingly low. We have seen this especially in the digital mental health field, where thousands of apps and platforms have been developed and only very few have been implemented and sustained in the wild. From this line of [research](https://www.psychiatrist.com/jcp/psychiatry/implementing-digital-mental-health-interventions/#ref16) and [my own work with colleagues](https://www.jmir.org/2022/11/e40347) I know that innovation and effectiveness alone are not sufficient to secure real-world adoption .
+The successful implementation and [sustainability](/making-harmony-sustainable-long-term/) of digital products developed through research grant funding, has been shockingly low. We have seen this especially in the digital mental health field, where thousands of apps and platforms have been developed and only very few have been implemented and sustained in the wild. From this line of [research](https://www.psychiatrist.com/jcp/psychiatry/implementing-digital-mental-health-interventions/#ref16) and [my own work with colleagues](https://www.jmir.org/2022/11/e40347) I know that innovation and effectiveness alone are not sufficient to secure real-world adoption .
 
 {{< image src="images/blog/noah-buscher-x8ZStukS2PM-unsplash-1536x880.jpg" alt=" noah buscher" >}}
 
@@ -30,7 +30,7 @@ So how can we maximise the uptake and implementation of Harmony to give it a lon
 
 - Understand your users’ journey, motivation, context and create some fun user personas.
 - Get feedback from others early on, don’t wait until you have an almost finished product. I understand it can be scary putting something out there before it is ready, but it will be worth it.
-- Make sure your product is easy to use and doesn’t require much explanation. User-testing [workshops](https://harmonydata.ac.uk/harmony-tidal-workshop) can help you identify where your potential user may stop and doesn’t know what to do next with your product.
+- Make sure your product is easy to use and doesn’t require much explanation. User-testing [workshops](https://harmonydata.ac.uk/harmony-and-tidal-workshop) can help you identify where your potential user may stop and doesn’t know what to do next with your product.
 - Ask your users whether your tool is actually “useful” to them and is matches their work flow or how they would like to use it.
 
 **3.** **Think of (existing) structures to integrate your product**

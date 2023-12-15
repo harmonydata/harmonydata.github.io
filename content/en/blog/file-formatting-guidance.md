@@ -18,4 +18,4 @@ If you want to upload multiple questionnaires in a single file, you can use Exce
 
 In all cases we recommend clearly supplying question numbers, question texts, and removing extraneous information such as copyright disclaimers for best results.
 
-If you are having trouble parsing a document in Harmony, you can [raise an issue](https://github.com/harmonydata/harmony/issues) or [try our troubleshooting tips](/troubleshooting).
+If you are having trouble parsing a document in Harmony, you can [raise an issue](https://github.com/harmonydata/harmony/issues) or [try our troubleshooting tips](/troubleshooting-harmony).

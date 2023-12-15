@@ -3,7 +3,7 @@ title: Making Harmony sustainable long-term
 description: How we can make sure the Harmony project survives after the Wellcome Trust Mental Health Data Prize
 date: 2023-11-01
 image: /images/blog/sustainability.png
-aliases: "/blog/sustainability"
+aliases: "/sustainability"
 ---
 
 Longevity is a tricky topic in software development.
@@ -61,9 +61,9 @@ _Question 1.3: Do you publish case studies to show how your software has been us
 
 A great way of showing off your software is to write case studies about how yourself, and others, have used it. Case studies can help potential users learn about your software. They also act as a great advert for your software. If you can show happy users benefiting from your software, you are likely to gain more users.
 
-_Question 3.1: Is your software available as a package that can be deployed without building it?_ Building software can be complicated and time-consuming. Providing your software as a package that can be deployed without building it can save users the time and effort of doing this themselves. This can be especially valuable if your users are not software developers. You should test that your software builds and runs on all the platforms it is meant to support, which means you will already have created packages that can be distributed to your users! See our guide on Ready for release? A checklist for developers (http://www.software.ac.uk/resources/guides/ready-release).
+_Question 3.1: Is your software available as a package that can be deployed without building it?_ Building software can be complicated and time-consuming. Providing your software as a package that can be deployed without building it can save users the time and effort of doing this themselves. This can be especially valuable if your users are not software developers. You should test that your software builds and runs on all the platforms it is meant to support, which means you will already have created packages that can be distributed to your users! See our guide on [Ready for release? A checklist for developers](http://www.software.ac.uk/resources/guides/ready-release).
 
-If you're interested in the consequences of ignoring your users' needs, see our guide on How to frustrate your users, annoy other developers and please [lawyers](https://fastdatascience.com/ai-replace-radiologists-doctors-lawyers-writers-engineers) (http://www.software.ac.uk/resources/guides/how-frustrate-your-users-annoy-other-developers-and-please-lawyers).
+If you're interested in the consequences of ignoring your users' needs, see our guide on [How to frustrate your users, annoy other developers and please lawyers](http://www.software.ac.uk/resources/guides/how-frustrate-your-users-annoy-other-developers-and-please-lawyers).
 
 _Question 4.6: If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?_
 
@@ -77,7 +77,7 @@ _Question 5.1: Does your software describe how a user can get help with using yo
 
 Likewise, if a user is looking at your documentation, there's a good chance they're looking to solve a problem, so it makes sense to also describe how a user can get more help there, too. It is important to describe how a user can submit their support request, for example, via e-mail, telephone, issue tracker, forum or other means, and any related resources e.g. web pages with frequently-asked questions or e-mail archives. It is also important that any of these resources remain available for the anticipated lifetime of the software, at least!
 
-See our guide on Supporting open source software (http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
+See our guide on [Supporting open source software](http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
 
 _Question 5.2: Does your website and documentation describe what support, if any, you provide to users and developers?_
 
@@ -85,7 +85,7 @@ The level of support that a user can expect to receive is often a vital element 
 
 This information can help manage users' expectations. A user will always want their problem to be solved as quickly as possible, and may become disgruntled (and might even stop being a user) if this is not the case. If you are clear and honest about the level of support you can provide, then you are more likely to keep your users happy.
 
-See our guide on Supporting open source software (http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
+See our guide on [Supporting open source software](http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
 
 _Question 5.3: Does your project have an e-mail address or forum that is solely for supporting users?_
 
@@ -216,7 +216,7 @@ _Question 15.3: Does your website and documentation clearly state the licence of
 
 If users can view the licence for your software on your website, without having to download your software, then potential users can quickly determine if the licence is suitable for how they intend to use your software.
 
-If you don't have a licence, and an open source licence might be right for you, then see our guide on Choosing an open-source licence (http://www.software.ac.uk/resources/guides/adopting-open-source-licence).
+If you don't have a licence, and an open source licence might be right for you, then see our guide on [Choosing an open-source licence](http://www.software.ac.uk/resources/guides/adopting-open-source-licence).
 
 _Question 15.6: Does each of your source code files include a licence header?_ It's easy to distribute source code files, and this separates the code from any licence statement that might be on your web site or in your documentation. To cover this eventuality, and remove any ambiguity about what a developer can do with the source code, it's good practice to include a licence statement within each of your source code files, as a comment. This can also help to avoid confusion between source files that may have different licences, particularly if there are a number of third-party dependencies used within your software.
 
@@ -234,4 +234,4 @@ It's never a good idea to remove components or features without giving your user
 
 If a feature is due to be superseded by a newer, better feature or component, including both for a suitable period within the software can allow your users to transition comfortably from the older version to the new version.
 
-You could also consider developing and publicising a deprecation policy, stating how and when features or components in general are deprecated. This gives your users assurance that features will not be removed without warning. see, for example the Eclipse API deprecation policy. (https://wiki.eclipse.org/Eclipse/API_Central/Deprecation_Policy).
+You could also consider developing and publicising a deprecation policy, stating how and when features or components in general are deprecated. This gives your users assurance that features will not be removed without warning. see, for example the [Eclipse API deprecation policy](https://wiki.eclipse.org/Eclipse/API_Central/Deprecation_Policy).

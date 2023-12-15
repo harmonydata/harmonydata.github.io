@@ -15,7 +15,7 @@ If there are are no question numbers in the instrument, it's very hard for Harmo
 
 Also, if your PDF is a scanned document, please see if you can find a fully digitised (OCR'ed) version of the document. 
 
-We suggest either finding a file with question numbers or better quality content. Or try a different file format such as Word, Excel or CSV. [We have guidance on formatting your files for Harmony](/file-formatting-guidance).
+We suggest either finding a file with question numbers or better quality content. Or try a different file format such as Word, Excel or CSV. [We have guidance on formatting your files for Harmony](/formatting-help/).
 
 Harmony supports:
 

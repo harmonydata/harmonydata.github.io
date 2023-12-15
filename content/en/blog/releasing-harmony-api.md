@@ -1,7 +1,7 @@
 ---
 title: Releasing Harmony API
 description: Semantic text matching is a task in natural language processing involving estimating the semantic similarity between two texts. For exam...
-date:
+date: 2023-06-07
 image: /images/blog/harmony_api.png
 aliases: "/blog/releasing-harmony-api/"
 ---
@@ -141,13 +141,13 @@ Architecture of the Harmony implementation on Azure with FastAPI:
 
 ## Installing Python library
 
-You can install from [PyPI](https://pypi.org/project/harmonydata/0.1.0/).
+You can install from [PyPI](https://pypi.org/project/harmonydata/).
 
 ```
 pip install harmonydata
 ```
 
-You can read the user guide at [./harmony_pypi_package/README.md](harmony_pypi_package/README.md).
+You can read the [README.md](https://github.com/harmonydata/harmony/blob/main/README.md).
 
 ## Calling the Harmony API
 

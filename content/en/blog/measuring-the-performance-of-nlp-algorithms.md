@@ -131,7 +131,7 @@ The MentalBERT model did not perform as well as the other sentence transformer m
 
 ### A sneak peak at the question pairs that were misclassified by Harmony
 
-If you look at the code for the validations in [Github](https://github.com/harmonydata/harmony/tree/main/notebooks), you can see printouts of the questions and how they were classified. I’ll show a few examples from my experiment with Model 7 (Sentence-BERT transformer). The full experiment and printouts for Model 7 are available [here](https://github.com/harmonydata/harmony/blob/main/notebooks/Evaluate_Model_07_HuggingFace_CosineSimilarity_On_Eoin_and_GAD7.ipynb).
+If you look at the code for the validations in [Github](https://github.com/harmonydata/harmony_original/tree/main/notebooks), you can see printouts of the questions and how they were classified. I’ll show a few examples from my experiment with Model 7 (Sentence-BERT transformer). The full experiment and printouts for Model 7 are available [here](https://github.com/harmonydata/harmony_original/blob/main/notebooks/Evaluate_Model_07_HuggingFace_CosineSimilarity_On_Eoin_and_GAD7.ipynb).
 
 ### How similar does Harmony rate the GAD-7 English and Portuguese questions?
 

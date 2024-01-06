@@ -22,9 +22,8 @@ And here's where you come in. Whether you're a seasoned coder with a PhD in NLP,
 * **The joy of learning:** Join workshops, attend conferences, and dive into the ever-evolving world of NLP. We believe in fostering an environment of continuous learning and growth.
 * **The satisfaction of building something meaningful:** Be part of a project with real-world implications, empowering researchers around the globe to unlock the true potential of their data.
 
-So, are you ready to join the chorus? Here's how to make your voice heard:
+So, are you ready to join the chorus? We're always looking for talented individuals to join our team.
 
-* **Check out our open positions:** We're always looking for talented individuals to join our team.
 * **Contribute to our open-source code:** Whether you're a seasoned developer or a curious newbie, your contributions are valued.
 * **Join the conversation:** Share your ideas, suggestions, and feedback on our forum and social media channels.
 
@@ -38,7 +37,7 @@ Please make sure all code you commit is linted using the Pycharm default linter.
 
 # Getting started
 
-Please familiarise yourself with Git. You can fork Harmony and make a pull request any time! We're glad to have your contribution.
+Please familiarise yourself with Git. You can [fork Harmony](https://github.com/harmonydata/harmony/fork) and [make a pull request](https://github.com/harmonydata/harmony/pulls) any time! We're glad to have your contribution.
 
 **Come on, let's harmonise the world!**
 

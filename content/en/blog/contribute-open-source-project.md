@@ -6,7 +6,46 @@ image: /images/blog/harmony_api.png
 ---
 
 
-## How can I contribute to an open source project like Harmony?
+## How can I contribute to an open source project?
+
+_Your guide to contributing to open source projects_
+
+Are you feeling intimidated by the thought of stepping into the world of open source contributions? You're not alone! Many developers, even experienced ones, hesitate to take that first step. But here's the secret: **you don't have to be a seasoned expert to make a difference.**
+
+Here are some tips to guide you through the process:
+
+**1. Start small, think big:**
+
+- Don't feel pressured to tackle the most complex issues right away. Look for smaller tasks that align with your skills and interests.
+- These could be fixing typos in documentation, improving code readability, or adding simple features that haven't been prioritised yet.
+- Remember, every contribution, no matter how small, adds value to the project.
+
+**2. Find your niche:**
+
+- Choose a project that aligns with your passions and expertise. This engagement will fuel your motivation and make the learning curve more enjoyable.
+- Explore projects you already use and appreciate, or discover new ones that pique your curiosity.
+
+**3. Embrace the learning curve:**
+
+- Contributing to open source is a fantastic way to learn and grow as a developer. 
+- Don't be afraid to dive into unfamiliar codebases. Take your time, explore, and don't hesitate to ask questions if you get stuck.
+- Even experienced contributors started as beginners—everyone's been there!
+
+**4. Embrace imperfection:**
+
+- Your first contribution might not be perfect, and that's perfectly OK!
+- The open source community values learning and collaboration. Experienced developers are often happy to provide feedback and guidance to help you improve.
+- Be open to constructive criticism and use it as an opportunity to learn and refine your skills.
+
+**5. Celebrate the wins:**
+
+- Every contribution, no matter how small, is a victory. Take pride in your accomplishments and celebrate your progress.
+- Each contribution builds your confidence and skills, paving the way for even greater contributions in the future.
+
+**Remember:** Open source communities thrive on diversity and inclusivity. Your unique perspective and skills are valuable, so don't be afraid to share them with the world. Take that first step, start small, and watch your contributions grow alongside your confidence. Together, we can shape the future of open source, one contribution at a time!
+
+
+## How can I contribute to Harmony in particular?
 
 The world of data science is brimming with groundbreaking possibilities, but navigating its complexities can feel daunting, especially for newcomers. Well, fear not, intrepid data explorer! Open-source projects like Harmony are here to lend a helping hand, and guess what? **You can be a part of it!** 
 
@@ -40,9 +79,9 @@ Harmony's mission thrives on awareness and accessibility. You can be a champion 
 
 * **Writing blog posts and articles:** Share your experiences with Harmony and inspire others to join the cause.
 * **Creating tutorials and videos:** Make Harmony approachable for beginners and showcase its potential to a wider audience.
-* **Promoting Harmony on social media:** Share the love on Twitter, Facebook, and beyond, using the hashtag #OpenSourceHarmony.
+* **Promoting Harmony as an open source project on social media:** Share the love on Twitter, Facebook, and beyond, using the hashtag #OpenSourceHarmony.
 
-**Ready to join Harmony open source project?** Head over to our GitHub repository at [https://github.com/harmonydata/harmony](https://github.com/harmonydata/harmony), explore the free web tool at [harmonydata.ac.uk/app](https://harmonydata.ac.uk/app), and dive into our documentation. We're waiting for you with open arms (and open-source code)!
+**Ready to join the Harmony open source project?** Head over to our GitHub repository at [https://github.com/harmonydata/harmony](https://github.com/harmonydata/harmony), explore the free web tool at [harmonydata.ac.uk/app](https://harmonydata.ac.uk/app), and dive into our documentation. We're waiting for you with open arms (and open-source code)!
 
-**Bonus Tip:** We also have a Docker container available, making it even easier to get started with Harmony. Just check out our documentation for more details.
+**Bonus tip:** We also have a Docker container available, making it even easier to get started with Harmony. Just check out our documentation for more details.
 

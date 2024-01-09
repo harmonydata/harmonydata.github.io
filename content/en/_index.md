@@ -176,9 +176,9 @@ blocks:
 
 - block: newsletter
   background: muted
-  superheading: Coming out soon
-  heading: "Enroll in Upcoming Beginner's NLP Course!"
-  subheading: "Take your first step into NLP. Enroll in our beginner's NLP course today and start your journey."
+  superheading: 
+  heading: "Signup to our newsletter"
+  subheading: "The latest news on data harmonisation project."
   subtext: You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website. We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. Learn more about Mailchimp's privacy practices.
   button:
     text: Subscribe

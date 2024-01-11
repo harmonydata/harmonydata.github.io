@@ -2,7 +2,7 @@
 title: Contributing to Harmony
 description: Want to help develop Harmony?
 date: 2023-12-22
-image: /images/troubleshooting.png
+image: /images/join-open-source-project.png
 ---
 
 # Join the chorus and contribute to the Harmony project

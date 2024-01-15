@@ -5,20 +5,20 @@ date: 2023-12-22
 image: /images/join-open-source-project.png
 ---
 
-# Contribute to the Harmony open source NLP project
+## Contribute to the Harmony open source NLP project
 
 Are you a scientist, researcher, data wrangler, or language maestro? Harmony needs YOU! We're always looking for talented individuals to join our team.
 
 * **Contribute to our open-source code:** Whether you're a seasoned developer or a curious newbie, your contributions are valued.
 * **Join the conversation:** Share your ideas, suggestions, and feedback on our forum and social media channels.
 
-# Getting started
+## Getting started
 
 Participating in an open source project can be very rewarding. Read more about it [here](/how-can-i-contribute-to-an-open-source-project/)!
 
 Please familiarise yourself with Git. You can [fork Harmony](https://github.com/harmonydata/harmony/fork) and [make a pull request](https://github.com/harmonydata/harmony/pulls) any time! We're glad to have your contribution.
 
-# Make your first contribution
+## Make your first contribution
 
 There are lots of ways you can contribute to Harmony! You can work on code, improve the API, or add code examples.
 
@@ -36,7 +36,7 @@ There are lots of ways you can contribute to Harmony! You can work on code, impr
 * Talk about Harmony on social media. Don't forget to tag us on Twitter [@harmony_data](https://twitter.com/harmony_data), Instagram [@harmonydata](https://www.instagram.com/harmonydata/), Facebook [@harmonydata](https://www.facebook.com/harmonydata), LinkedIn [@Harmony](https://www.linkedin.com/company/harmonydata), and YouTube [@harmonydata](https://www.youtube.com/channel/UCraLlfBr0jXwap41oQ763OQ)!
 * Starring and [forking](https://github.com/harmonydata/harmony/fork) Harmony on Github!
 
-# Raising issues and the issue tracker
+## Raising issues and the issue tracker
 
 The issue list is [in the Github repository](https://github.com/harmonydata/harmony/issues). You can view the open issues, pick one to fix, or raise your own issue. Even if you're not a coder, feel free to raise an issue.
 
@@ -45,13 +45,13 @@ The issue list is [in the Github repository](https://github.com/harmonydata/harm
 * Issues for the front end are here: [https://github.com/harmonydata/app/issues](https://github.com/harmonydata/app/issues)
 * Issues for the R port are here: [https://github.com/harmonydata/harmony_r/issues](https://github.com/harmonydata/harmony_r/issues)
 
-# Coding Harmony
+## Coding Harmony
 
 Harmony is mostly coded in Python. We use [Pycharm IDE](https://www.jetbrains.com/pycharm/) by JetBrains. Please ensure you are familiar with Python, [HuggingFace](https://huggingface.co/), and [FastAPI](https://fastapi.tiangolo.com/), or Javascript and [React](https://react.dev/) if you want to work on the front end.
 
 Please make sure all code you commit is linted using the [Pycharm default linter](https://www.reddit.com/r/pycharm/comments/mm77el/what_is_the_default_linter_in_pycharm/). If you use a different one (such as VS Code's linter, or pylint), this will make the code history hard to follow, so please be consistent.
 
-# Unit tests and code stability
+## Unit tests and code stability
 
 The Harmony Python library [https://github.com/harmonydata/harmony](https://github.com/harmonydata/harmony) is the core Harmony functionality. Most of the logic is in this repo. This repo has unit tests which run automatically on commits to main.
 

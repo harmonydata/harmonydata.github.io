@@ -14,7 +14,27 @@ Are you a scientist, researcher, data wrangler, or language maestro? Harmony nee
 
 # Getting started
 
+Participating in an open source project can be very rewarding. Read more about it [here](/how-can-i-contribute-to-an-open-source-project/)!
+
 Please familiarise yourself with Git. You can [fork Harmony](https://github.com/harmonydata/harmony/fork) and [make a pull request](https://github.com/harmonydata/harmony/pulls) any time! We're glad to have your contribution.
+
+# Make your first contribution
+
+There are lots of ways you can contribute to Harmony! You can work on code, improve the API, or add code examples.
+
+* Write code
+* Improve unit tests or integration tests
+* Add new functionality to Harmony
+* Improve Harmony's documentation
+* Add integrations to other LLMs or LLM providers such as OpenAI, IBM, or similar
+* Add integrations from your website to Harmony
+* Publicise Harmony in web forums such as Reddit, HuggingFace forum, Quora, or similar
+* Create example notebooks, such as Jupyter Notebook, RStudio, or Google Colab
+* Investigate [bugs and issues in Harmony](https://github.com/harmonydata/harmony/issues)
+* Review and comment on [pull requests](https://github.com/harmonydata/harmony/pulls)
+* [Cite Harmony](/frequently-asked-questions/#how-do-i-cite-harmony) in your blogs, papers, and articles
+* Talk about Harmony on social media. Don't forget to tag us on Twitter [@harmony_data](https://twitter.com/harmony_data), Instagram [@harmonydata](https://www.instagram.com/harmonydata/), Facebook [@harmonydata](https://www.facebook.com/harmonydata), LinkedIn [@Harmony](https://www.linkedin.com/company/harmonydata), and YouTube [@harmonydata](https://www.youtube.com/channel/UCraLlfBr0jXwap41oQ763OQ)!
+* Starring and [forking](https://github.com/harmonydata/harmony/fork) Harmony on Github!
 
 # Raising issues and the issue tracker
 
@@ -27,24 +47,24 @@ The issue list is [in the Github repository](https://github.com/harmonydata/harm
 
 # Coding Harmony
 
-Harmony is mostly coded in Python. We use Pycharm IDE. Please ensure you are familiar with Python, HuggingFace, and FastAPI, or Javascript and React if you want to work on the front end.
+Harmony is mostly coded in Python. We use [Pycharm IDE](https://www.jetbrains.com/pycharm/) by JetBrains. Please ensure you are familiar with Python, [HuggingFace](https://huggingface.co/), and [FastAPI](https://fastapi.tiangolo.com/), or Javascript and [React](https://react.dev/) if you want to work on the front end.
 
-Please make sure all code you commit is linted using the Pycharm default linter. If you use a different one (such as VS Code's linter, or pylint), this will make the code history hard to follow.
+Please make sure all code you commit is linted using the [Pycharm default linter](https://www.reddit.com/r/pycharm/comments/mm77el/what_is_the_default_linter_in_pycharm/). If you use a different one (such as VS Code's linter, or pylint), this will make the code history hard to follow, so please be consistent.
 
 # Unit tests and code stability
 
 The Harmony Python library [https://github.com/harmonydata/harmony](https://github.com/harmonydata/harmony) is the core Harmony functionality. Most of the logic is in this repo. This repo has unit tests which run automatically on commits to main.
 
-However, the Harmony API repo [https://github.com/harmonydata/harmonyapi](https://github.com/harmonydata/harmonyapi) uses the Harmony Python library as a submodule. When you update the Python library, please run the unit tests in the API repo to check nothing is broken.
+However, the Harmony API repo [https://github.com/harmonydata/harmonyapi](https://github.com/harmonydata/harmonyapi) uses the Harmony Python library as a submodule. When you update the Python library, please run the [unit tests and integration tests in the API repo](https://github.com/harmonydata/harmonyapi/tree/main/tests) to check nothing is broken - including the Selenium tests which test the browser app end to end. You will need to [install Selenium](https://selenium-python.readthedocs.io/) to run the tests.
 
-Since the API repo includes the Python library as a submodule, when you update the Python library, you will need to update the submodule (in the `harmonyapi` repo, `cd` into the submodule folder and do `git pull`, then `cd` out and do `git add`, commit and push).
+Since the API repo includes the Python library as a submodule, when you update the Python library, you will need to update the submodule (in the `harmonyapi` repo, `cd` into the submodule folder and do `git pull`, then `cd` out and do `git add`, commit and push). We recommend you [familiarise yourself with Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
 
 Finally, the app repo [https://github.com/harmonydata/app](https://github.com/harmonydata/app) is the React front end. Please check you can run this repo locally also before you start contributing. To point the front end repo to a local copy of your API repo, please change the file [.env](https://github.com/harmonydata/app/blob/master/.env) to point to `http://localhost:8000`.
 
 # Pull requests
 
-If you'd like to contribute to this project, you can contact us at https://harmonydata.ac.uk/ or make a pull request on our Github repository. You can also raise an issue.
+If you'd like to contribute to this project, you can contact us at https://harmonydata.ac.uk/ or [make a pull request](https://github.com/harmonydata/harmony/pulls) on our Github repository. You can also raise an issue.
 
 
-**Come on, let's harmonise the world!**
+**Let's harmonise the world!**
 

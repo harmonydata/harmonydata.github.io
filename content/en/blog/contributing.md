@@ -12,11 +12,23 @@ Are you a scientist, researcher, data wrangler, or language maestro? Harmony nee
 * **Contribute to our open-source code:** Whether you're a seasoned developer or a curious newbie, your contributions are valued.
 * **Join the conversation:** Share your ideas, suggestions, and feedback on our forum and social media channels.
 
+
+
+
 ## Getting started
 
 Participating in an open source project can be very rewarding. Read more about it [here](/how-can-i-contribute-to-an-open-source-project/)!
 
 Please familiarise yourself with Git. You can [fork Harmony](https://github.com/harmonydata/harmony/fork) and [make a pull request](https://github.com/harmonydata/harmony/pulls) any time! We're glad to have your contribution.
+
+## Issues and bug reports
+
+First, [do a quick search](https://github.com/issues?q=+is%3Aissue+user%3Aharmonydata) to see if the issue has already been reported. If so, it's often better to just leave a comment on an existing issue, rather than creating a new one. Old issues also often include helpful tips and solutions to common problems. You should also check the [troubleshooting guide](https://harmonydata.ac.uk/troubleshooting-harmony/) to see if your problem is already listed there.
+
+If you're looking for help with your code, consider posting a question on the [GitHub Discussions board](https://github.com/orgs/harmonydata/discussions). Please
+understand that we won't be able to provide individual support via email. We
+also believe that help is much more valuable if it's **shared publicly**,
+so that more people can benefit from it.
 
 ## Make your first contribution
 
@@ -53,6 +65,8 @@ Please make sure all code you commit is linted using the [Pycharm default linter
 
 ## Unit tests and code stability
 
+Harmony uses the [pytest](http://doc.pytest.org/) framework for testing. For more info on this, see the [pytest documentation](http://docs.pytest.org/en/latest/contents.html). To be interpreted and run, all test files and test functions need to be prefixed with `test_`.
+
 The Harmony Python library [https://github.com/harmonydata/harmony](https://github.com/harmonydata/harmony) is the core Harmony functionality. Most of the logic is in this repo. This repo has unit tests which run automatically on commits to main.
 
 However, the Harmony API repo [https://github.com/harmonydata/harmonyapi](https://github.com/harmonydata/harmonyapi) uses the Harmony Python library as a submodule. When you update the Python library, please run the [unit tests and integration tests in the API repo](https://github.com/harmonydata/harmonyapi/tree/main/tests) to check nothing is broken - including the Selenium tests which test the browser app end to end. You will need to [install Selenium](https://selenium-python.readthedocs.io/) to run the tests.
@@ -64,7 +78,3 @@ Finally, the app repo [https://github.com/harmonydata/app](https://github.com/ha
 ## Pull requests
 
 If you'd like to contribute to this project, you can contact us at https://harmonydata.ac.uk/ or [make a pull request](https://github.com/harmonydata/harmony/pulls) on our Github repository. You can also raise an issue.
-
-
-**Let's harmonise the world!**
-

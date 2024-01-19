@@ -284,3 +284,7 @@ params:
   footer:
     layout: footer-2
     mode: dark
+
+  newsletter:
+    mailchimp: 
+      action: https://harmonydata.us21.list-manage.com/subscribe/post?u=6c600b2de0b9678055c62637f&amp;id=32eadfb37e&amp;v_id=248&amp;f_id=00b2ece6f0    

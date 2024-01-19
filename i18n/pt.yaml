@@ -1,0 +1,54 @@
+name:
+  other: "Nome"
+email:
+  other: "Email"
+message:
+  other: "Mensagem"
+send_message:
+  other: "Enviar mensagem"
+message_sent:
+  other: "A mensagem foi enviada com sucesso!"
+phone:
+  other: "Telefone"
+  
+pricing:
+  other: "Preços"
+choose_plan:
+  other: "Escolha seu plano"
+
+categories:
+  other: "Categorias"
+all_categories:
+  other: "Todas as Categorias"
+follow_us:
+  other: "Siga-nos nas redes sociais:"
+  
+previous:
+  other: "Anterior"
+next:
+  other: "Próximo"
+
+subscribe:
+  other: "Inscrever-se"
+subscribe_placeholder:
+  other: "Seu endereço de email"
+
+related_posts:
+  other: "Posts Relacionados"
+toc:
+  other: "Índice"
+more_case_studies:
+  other: "Mais estudos de caso"
+
+newsletter_heading:
+  other: "Inscreva-se no nosso boletim informativo"
+newsletter_subheading:
+  other: "As últimas notícias sobre o projeto de harmonização de dados."
+newsletter_subtext:
+  other: "Você pode cancelar a inscrição a qualquer momento clicando no link no rodapé de nossos e-mails. Para informações sobre nossas práticas de privacidade, visite nosso site. Usamos o Mailchimp como nossa plataforma de marketing. Ao clicar abaixo para se inscrever, você reconhece que suas informações serão transferidas para o Mailchimp para processamento. Saiba mais sobre as práticas de privacidade do Mailchimp."
+newsletter_button:
+  other: "Inscrever-se"
+newsletter_select:
+  other: "Por favor, selecione todas as formas como você gostaria de ouvir do projeto Harmony:"
+newsletter_email:
+  other: "Inserir endereço de email"

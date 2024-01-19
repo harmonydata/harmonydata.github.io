@@ -41,4 +41,17 @@ toc:
 more_case_studies:
   other: "More case studies"
 
+newsletter_heading:
+  other: "Signup to our newsletter"
+newsletter_subheading:
+  other: "The latest news on data harmonisation project."
+newsletter_subtext:
+  other: "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website. We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. Learn more about Mailchimp's privacy practices."
+newsletter_button:
+  other: "Subscribe"
+newsletter_select:
+  other: "Please select all the ways you would like to hear from Harmony project:"
+newsletter_email:
+  other: "Enter email address"
+
   

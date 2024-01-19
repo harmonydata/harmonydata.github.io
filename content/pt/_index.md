@@ -141,7 +141,7 @@ blocks:
     image: /images/testimonial-user.svg
 
 - block: feature-2
-  # padding: top
+  padding: top
   align: right
   image: images/gad-7-scanned-min.webp
   copy: |
@@ -152,7 +152,6 @@ blocks:
     Usando o Harmony , nossa equipe foi capaz de realizar pesquisas inovadoras sobre isolamento social e ansiedade com a PNL, fornecendo uma medida quantitativa da equivalência dos diferentes conjuntos de dados de saúde mental.
 
 - block: feature-4
-  mode: muted
   superheading: "**HARMONY**"
   heading: Uma plataforma global para harmonização contextual, tradução e cooperação em pesquisa em saúde mental
   copy: |

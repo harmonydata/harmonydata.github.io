@@ -157,7 +157,7 @@ blocks:
     image: /images/testimonial-user.svg
 
 - block: feature-2
-  # padding: top
+  padding: top
   align: right
   image: images/gad-7-scanned-min.webp
   copy: |
@@ -168,23 +168,10 @@ blocks:
     Using Harmony, our team was able to conduct groundbreaking research into social isolation and anxiety with NLP supplying a quantitative measure of the equivalence of the different mental health datasets.
 
 - block: feature-4
-  mode: muted
   superheading: "**HARMONY**"
   heading: A global platform for contextual harmonisation, translation and cooperation in mental health research
   copy: |
     This team will support better integration of mental health research through a natural language processing harmonisation tool (Harmony), allowing researchers to compare data from existing studies to investigate the active ingredients of mental health. Led by Dr Eoin McElroy from Ulster University and Dr Bettina Moltrecht from University College London, the team will develop and demonstrate Harmony to answer research questions around human connection and its influence on the development of depression and anxiety in young people.
-
-- block: newsletter
-  background: muted
-  superheading: 
-  heading: "Signup to our newsletter"
-  subheading: "The latest news on data harmonisation project."
-  subtext: You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website. We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. Learn more about Mailchimp's privacy practices.
-  button:
-    text: Subscribe
-    style: primary
-  mailchimp: 
-    action: https://harmonydata.us21.list-manage.com/subscribe/post?u=6c600b2de0b9678055c62637f&amp;id=32eadfb37e&amp;v_id=248&amp;f_id=00b2ece6f0
 
 ---
 

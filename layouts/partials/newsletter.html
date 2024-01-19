@@ -1,0 +1,16 @@
+<section id="feature-4" class="overflow-hidden bg-cover bg-no-repeat bg-center bg-primary-50">
+  <div class="px-6 lg:px-8 py-20 lg:py-32">
+    <div class="space-y-10 lg:space-y-12">
+      <div class="max-w-3xl mx-auto text-center space-y-4 lg:space-y-5">
+        <h2 class="text-4xl sm:text-5xl lg:text-6xl font-heading font-bold tracking-tight text-blue-950 dark:text-white -ml-1">{{ i18n "newsletter_heading" }}</h2>
+        <div class="text-base leading-loose sm:text-lg sm:leading-loose lg:text-xl lg:leading-loose text-slate-600 dark:text-slate-100">{{ i18n "newsletter_subheading" }}</div>
+      </div>
+      <div class="max-w-4xl mx-auto">
+        <div class="flex justify-center items-center mt-10" id="revue-embed">
+          {{ partial "components/form-mailchimp.html" . }}
+        </div>
+        <div class="mt-5 lg:px-20 text-xs text-slate-500 leading-loose text-center">{{ i18n "newsletter_subtext" }}</div>
+      </div>
+    </div>
+  </div>
+</section>

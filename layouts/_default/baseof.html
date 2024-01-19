@@ -10,6 +10,7 @@
     {{ partial "navbar.html" . }}
     {{ block "main" . }}{{ end }}
     {{ partial "chatbot.html" . }}
+    {{ partial "newsletter.html" . }}
     {{ $footer := (printf "%s%s%s" "" .Site.Params.footer.layout ".html" ) }}
     {{ if templates.Exists (printf "%s%s" "partials/" $footer ) }}
       {{ partialCached $footer . }}

@@ -48,6 +48,19 @@ There are lots of ways you can contribute to Harmony! You can work on code, impr
 * Talk about Harmony on social media. Don't forget to tag us on Twitter [@harmony_data](https://twitter.com/harmony_data), Instagram [@harmonydata](https://www.instagram.com/harmonydata/), Facebook [@harmonydata](https://www.facebook.com/harmonydata), LinkedIn [@Harmony](https://www.linkedin.com/company/harmonydata), and YouTube [@harmonydata](https://www.youtube.com/channel/UCraLlfBr0jXwap41oQ763OQ)!
 * Starring and [forking](https://github.com/harmonydata/harmony/fork) Harmony on Github!
 
+## Where do we need help in Harmony?
+
+In particular, the PDF extraction (converting PDFs to structured questionnaire items) is very hard and we have a separate Github repo with examples here: https://github.com/harmonydata/pdf-questionnaire-extraction
+
+We are planning on running a hackathon focused on this aspect of the tool.
+
+Also, other initiatives that could be really useful include:
+
+* Better handling of active vs passive voice in questionnaire items
+* Allowing Harmony to switch LLMs
+* Integration with other websites and tools
+* An h-score: a similarity measure between instruments
+
 ## Raising issues and the issue tracker
 
 The issue list is [in the Github repository](https://github.com/harmonydata/harmony/issues). You can view the open issues, pick one to fix, or raise your own issue. Even if you're not a coder, feel free to raise an issue.

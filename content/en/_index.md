@@ -112,14 +112,14 @@ blocks:
   subheading: We've released Harmony as a Docker container on [Dockerhub](https://hub.docker.com/), running a REST API using FastAPI.
   links: 
   - text: Dockerhub
-    url: https://hub.docker.com/r/harmonydata/harmonywithtika
+    url: https://hub.docker.com/r/harmonydata/harmonyapi
   - text: REST API
     url: http://github.com/harmonydata/harmonyapi
   - text: REST API Documentation (PDF/Swagger)
     url: https://raw.githubusercontent.com/harmonydata/harmonyapi/main/docs/API_reference.pdf
   code: |
     ```vshell
-    docker pull harmonydata/harmonywithtika
+    docker pull harmonydata/harmonyapi
     docker run -p 8000:8000 -p 3000:3000 harmonydata/harmonywithtika
     ```
 

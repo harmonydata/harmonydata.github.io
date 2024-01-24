@@ -21,7 +21,7 @@ blocks:
 
     Harmony is a project in active development and you can [contribute](https://github.com/harmonydata/harmony).
 
-    If you have found a bug or would like a new feature, you can [raise an issue here for issues with Harmony's natural language understanding functionality](https://github.com/harmonydata/harmony/issues), or alternatively [here for issues with Harmony's user interface and graphics](https://github.com/harmonydata/app/issues).
+    If you have found a bug or would like a new feature, you can [raise an issue here for issues with Harmony's natural language understanding functionality](https://github.com/harmonydata/harmony/issues), or alternatively [here for issues with Harmony's user interface and graphics](https://github.com/harmonydata/app/issues). You can also join [our Discord server](https://discord.gg/harmonydata)!
 
   buttons:
   - text: Try Harmony Now!

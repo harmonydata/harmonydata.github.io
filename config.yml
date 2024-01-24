@@ -101,7 +101,11 @@ languages:
         url: https://www.linkedin.com/company/harmonydata/about/?viewAsMember=true
         pre: linkedin
         weight: 50
-    
+      - name: Github
+        url: https://github.com/harmonydata/harmony
+        pre: github
+        weight: 60
+        
       footer:
       - name: About us
         weight: 20    
@@ -219,7 +223,11 @@ languages:
         url: https://www.linkedin.com/company/harmonydata/about/?viewAsMember=true
         pre: linkedin
         weight: 50
-    
+      - name: Github
+        url: https://github.com/harmonydata/harmony
+        pre: github
+        weight: 60
+
       footer:
       - name: About us
         weight: 20    

@@ -105,6 +105,10 @@ languages:
         url: https://github.com/harmonydata/harmony
         pre: github
         weight: 60
+      - name: Discord
+        url: https://discord.com/invite/harmonydata
+        pre: discord
+        weight: 70
         
       footer:
       - name: About us
@@ -227,6 +231,10 @@ languages:
         url: https://github.com/harmonydata/harmony
         pre: github
         weight: 60
+      - name: Discord
+        url: https://discord.com/invite/harmonydata
+        pre: discord
+        weight: 70
 
       footer:
       - name: About us

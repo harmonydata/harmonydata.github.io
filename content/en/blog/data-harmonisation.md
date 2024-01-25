@@ -2,7 +2,7 @@
 title: "Data Harmonisation: Unifying Data for Deeper Insights"
 description: While this data can be a valuable asset, it often comes in different formats, structures, and standards, making it challenging to analyze, share, and extract meaningful insights. This is where the concept of **data harmonisation** comes into play. In this article, we will explore what data harmonisation is, why it is important, and how it can benefit organizations and society as a whole.
 date: 2024-01-23
-image: https://i.ibb.co/Qpmnd4Q/DALL-E-2024-01-23-20-35-56-An-illustration-showing-the-concept-of-data-harmonization-in-landscape-or.png
+image: /images/DALL-E-2024-01-23-20-35-56-An-illustration-showing-the-concept-of-data-harmonization-in-landscape-or.png
 ---
 
 
@@ -17,7 +17,8 @@ In today's data-driven world, the concept of "data harmonisation" has become inc
 Data harmonisation refers to the process of bringing together data from different sources and transforming it into a unified, coherent format. This process involves standardising disparate data formats, scales, and conventions to make the data compatible and comparable. The goal is to create a dataset where differences in format or scale do not obscure the underlying information.
 Essentially, it's about making different sets of data compatible with each other. This process is crucial in data management and analysis, particularly when dealing with large amounts of data from different sources.
 
-![](https://i.ibb.co/Yp4hh63/2024-01-23-20-57-04-concept-of-Data-Harmonisation.png)
+{{< image src="/images/Yp4hh63/2024-01-23-20-57-04-concept-of-Data-Harmonisation.png" alt="The concept of data harmonisation" title="The concept of data harmonisation" >}}
+
 
 ### The Need for Data Harmonisation
 
@@ -45,7 +46,7 @@ Each of these steps is critical in the process of transforming diverse and dispa
 
 ## Benefits of Data Harmonisation
 
-![](https://i.ibb.co/cTZJ64C/2024-01-23-21-09-22-benefits-of-data-harmonisation.png)
+{{< image src="/images/2024-01-23-21-09-22-benefits-of-data-harmonisation.png" alt="The benefits of data harmonisation" title="The benefits of data harmonisation" >}}
 
 1. **Improved Data Quality**: Data harmonization enhances the accuracy, consistency, and reliability of data. By cleaning and standardizing data, it reduces errors and discrepancies, ensuring that the data is trustworthy and valuable for decision-making. This improved quality is essential for any data-driven process, as it forms the foundation for reliable insights and conclusions.
 
@@ -66,9 +67,9 @@ In summary, data harmonization brings about significant improvements in the qual
 
 ## Challenges in Data Harmonisation
 
-![](https://i.ibb.co/ZLvRN9R/2024-01-23-19-21-18-common-challenges-in-data-harmonization.png)
+{{< image src="/images/2024-01-23-19-21-18-common-challenges-in-data-harmonization.png" alt="The common challenges in data harmonisation" title="The common challenges in data harmonisation" >}}
 
-1. **Complexity of Data Sources**: DData often comes in a myriad of formats and structures from different sources, such as databases, spreadsheets, or even unstructured formats like text files. Harmonizing such varied data requires understanding and addressing these complexities, making the process challenging.
+1. **Complexity of Data Sources**: Data often comes in a myriad of formats and structures from different sources, such as databases, spreadsheets, or even unstructured formats like text files. Harmonizing such varied data requires understanding and addressing these complexities, making the process challenging.
 
 2. **Maintaining Data Privacy**: Ensuring privacy and security is particularly challenging when dealing with sensitive or personal data. Compliance with data protection regulations (like GDPR) is crucial, and this adds a layer of complexity to the harmonization process.
 
@@ -89,7 +90,9 @@ Each of these challenges represents a significant aspect of the data harmonizati
 
 ## Real-World Applications of Data Harmonisation
 
-![](https://i.ibb.co/JKyT9Pf/2024-01-23-21-15-53-applications-of-data-harmonisation.png)
+
+{{< image src="/images/2024-01-23-21-15-53-applications-of-data-harmonisation.png" alt="Applications of data harmonisation" title="Applications of data harmonisation" >}}
+
 
 Let's explore this need further in various sectors:
 

@@ -49,6 +49,9 @@ languages:
       - name: Videos
         weight: 30
         url: /videos/
+      - name: Community
+        weight: 40
+        url: https://harmonydata.ac.uk/contributing-to-harmony/
       - name: FAQ
         weight: 50
         url: /frequently-asked-questions/

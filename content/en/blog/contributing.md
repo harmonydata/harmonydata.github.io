@@ -10,7 +10,7 @@ image: /images/join-open-source-project.png
 Are you a scientist, researcher, data wrangler, or language maestro? Harmony needs YOU! We're always looking for talented individuals to join our team.
 
 * **Contribute to our open-source code:** Whether you're a seasoned developer or a curious newbie, your contributions are valued.
-* **Join the conversation:** Share your ideas, suggestions, and feedback on our forum and social media channels.
+* **Join the conversation:** Join our [Discord server](https://discord.com/invite/harmonydata), or follow us on [Twitter](https://twitter.com/harmony_data), [LinkedIn](https://www.linkedin.com/company/harmonydata/about/?viewAsMember=true), and other social media channels.
 
 
 

@@ -79,4 +79,4 @@ Harmony's mission thrives on awareness and accessibility. You can be a champion 
 
 **Ready to join the Harmony open source project?** Head over to our GitHub repository at [https://github.com/harmonydata/harmony](https://github.com/harmonydata/harmony), explore the free web tool at [harmonydata.ac.uk/app](https://harmonydata.ac.uk/app), and dive into our documentation. We're waiting for you with open arms (and open-source code)!
 
-**Bonus tip:** We also have a [Docker container](https://hub.docker.com/r/harmonydata/harmonywithtika) available, making it even easier to get started with Harmony. Just check out our documentation for more details.
+**Bonus tip:** We also have a [Docker container](https://hub.docker.com/r/harmonydata/harmonyapi) available, making it even easier to get started with Harmony. Just check out our documentation for more details.

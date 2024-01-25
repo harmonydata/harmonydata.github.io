@@ -100,11 +100,11 @@ blocks:
   - text: Docker
     url: https://www.docker.com/
   - text: Dockerhub
-    url: https://hub.docker.com/r/harmonydata/harmonywithtika
+    url: https://hub.docker.com/r/harmonydata/harmonyapi
   code: |
     ```vshell
-    docker pull harmonydata/harmonywithtika
-    docker run -p 8000:8000 -p 3000:3000 harmonydata/harmonywithtika
+    docker pull harmonydata/harmonyapi
+    docker run -p 8000:8000 -p 3000:3000 harmonydata/harmonyapi
     ```
 
 - block: logos

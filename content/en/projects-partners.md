@@ -24,6 +24,14 @@ From within the Harmony web app, once Harmony has calculated your matches, you c
 
 The [UK Longitudinal Linkage Collaboration (UK LLC)](https://ukllc.ac.uk/) brings together information from longitudinal study volunteers with their routine records. 
 
+## Datamind
+
+{{< htmlcode >}}
+<a href="https://datamind.org.uk/" target="datamind"><img src="/images/datamind.svg" width="150"></a>
+{{</ htmlcode >}}
+
+[Datamind](https://datamind.org.uk/) makes the best use of the UK's mental health data by enabling coordinated research with the ultimate aim of improving people's lives.
+
 
 ## Other collaborations
 

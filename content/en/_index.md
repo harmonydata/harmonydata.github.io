@@ -143,6 +143,12 @@ blocks:
   - alt: wellcome
     image: /images/clients/wellcome.gif
     url: https://wellcome.org/
+  - alt: ukllc
+    image: /images/ukllc.svg
+    url: https://ukllc.ac.uk/
+  - alt: datamind
+    image: /images/datamind.svg
+    url: https://datamind.org.uk
 
 - block: feature-4
   image: images/multilingual.jpg

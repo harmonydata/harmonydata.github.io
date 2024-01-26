@@ -18,6 +18,8 @@ In April 2023, we completed the software sustainability assessment with the [Sof
 
 * Read the [September 2023 sustainability report](https://raw.githubusercontent.com/harmonydata/experiments/main/Harmony%20-%20Sustainability%20Evaluation%20September%202023.pdf).
 
+* Read our blog post on the SSI's website [here](https://www.software.ac.uk/blog/making-harmony-more-sustainable-going-forward)
+
 # Infrastructure
 
 For the first iteration of Harmony, we developed the dashboard in [Plotly Dash](https://plotly.com/dash/), and deployed it to an .org domain running on [Microsoft Azure App Service](https://azure.microsoft.com/en-gb/products/app-service). The website was running in [Wordpress](https://wordpress.com/), hosted on [Siteground](https://www.siteground.co.uk/). All of these are paid solutions which were coming out of the [project](https://fastdatascience.com/starting-a-data-science-project) budget.

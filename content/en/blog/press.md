@@ -5,6 +5,12 @@ date: 2023-10-02
 image: "/images/world.png"
 ---
 
+## 26 Jan 2024, Software Sustainability Institute
+
+The team on the Harmony project contacted the Software Sustainability Institute (SSI) and had some conversations with Steve Crouch from the SSI and the University of Southampton about [making our software more sustainable](/making-harmony-sustainable-long-term/). 
+
+[Read more on the SSI's website](https://www.software.ac.uk/blog/making-harmony-more-sustainable-going-forward)
+
 ## 28 September 2023, Ulster University
 
 Ulster University's Psychology department post writes, "The Harmony project is running at Ulster University in collaboration with University College London, the Universidade Federal de Santa Maria and Fast Data Science."...

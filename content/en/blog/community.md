@@ -21,8 +21,13 @@ The more people join, the higher our Discord will rank and the easier it is to b
 
 ## Joining the team
 
-If you'd like to join Harmony you can fill out the form below or message us on Discord to introduce yourself. What's your day job, where are you, etc?
+If you'd like to join Harmony you can fill out the form below or message us on Discord to introduce yourself.
 
+* What's your day job?
+* Where are you in the world?
+* What programming languages are you most comfortable in?
+* What would you like to work on? Front end? Back end? Data engineering? NLP?
+* Do you have any great ideas for Harmony?
 
 {{< htmlcode >}}
 

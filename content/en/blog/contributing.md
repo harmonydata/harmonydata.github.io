@@ -61,6 +61,16 @@ Also, other initiatives that could be really useful include:
 * Integration with other websites and tools
 * An h-score: a similarity measure between instruments
 
+We started to make a new repo with training data to improve the PDF data processing. This repo has manually annotated training data:
+https://github.com/harmonydata/pdf-questionnaire-extraction
+
+
+One issue that would be really helpful would be, to handle active and passive voice, such as "child is bullied" vs "child bullies others" - these are harmonised as close together whereas they should be far apart.
+
+Maybe a small task is easier to start with. Can you see any obvious bugs that you'd like to pick up?
+
+We’ve been looking at integrations with other data repositories. One way forward is to make an npm package other sites can install that makes it easy for them to send data over to the app. Or possibly just to interact with the API directly.
+
 ## Raising issues and the issue tracker
 
 The issue list is [in the Github repository](https://github.com/harmonydata/harmony/issues). You can view the open issues, pick one to fix, or raise your own issue. Even if you're not a coder, feel free to raise an issue.

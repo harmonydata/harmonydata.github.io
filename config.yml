@@ -52,6 +52,12 @@ languages:
       - name: Community
         weight: 40
         url: /community
+      - name: Case studies
+        weight: 45
+      - name: Australian Data Archive
+        url: /ada/
+        parent: Case studies
+        weight: 10
       - name: FAQ
         weight: 50
         url: /frequently-asked-questions/

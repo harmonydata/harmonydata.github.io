@@ -1,7 +1,7 @@
 ---
 title: "Data Standardisation vs Harmonisation - The Right Things at the Right Times"
 description: "In an era where data drives decisions in business and science, understanding the nuances of data standardisation and harmonisation is crucial. This post explores these concepts, particularly highlighting their significance in the context of the Harmony tool."
-date: 2024-01-23
+date: 2024-01-30
 author: "Vidhya Sudani"
 image: /images/concepts-of-Data-Standardisation-and-Data-Harmonisation.png
 ---

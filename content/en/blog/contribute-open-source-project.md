@@ -44,16 +44,23 @@ You might find this guide helpful: https://opensource.guide/how-to-contribute as
 
 **Remember:** Open source communities thrive on diversity and inclusivity. Your unique perspective and skills are valuable, so don't be afraid to share them with the world. Take that first step, start small, and watch your contributions grow alongside your confidence. Together, we can shape the future of open source, one contribution at a time!
 
+## Ideas for open source projects you can contribute to
 
-## How can I contribute to Harmony in particular?
+* **Harmony** - we are always on the lookout for anyone who can work on back end (API), front end, or NLP side of Harmony! https://github.com/harmonydata/harmony
+* [spaCy](https://github.com/explosion/spaCy) - one of the best known NLP libraries
+* [Country Named Entity Recognition](https://github.com/fastdatascience/country_named_entity_recognition) - a lightweight Python library for recognising country names in unstructured text and returning Pycountry objects. Very simple and a good library to start with on your open source journey `pip install country_named_entity_recognition`
+* [Drug Named Entity Recognition](https://github.com/fastdatascience/drug_named_entity_recognition) - a lightweight Python library for recognising drug names in unstructured text `pip install drug-named-entity-recognition`
+* [Fast Stylometry](https://github.com/fastdatascience/faststylometry) - a Python library for identifying the author of an unknown text (forensic stylometry).  `pip install faststylometry`. [Read tutorial](https://fastdatascience.com/fast-stylometry-python-library/).
+
+## How can I contribute to Harmony?
 
 Read our [guide to contributing to Harmony](/contributing-to-harmony/).
 
-Harmony is a **powerful data harmonisation tool** ses natural language processing (NLP) to bridge the gap between diverse research studies, automatically comparing and grouping similar items across datasets.  Here are a few ways you can get involved in the project:
+Harmony is a powerful [data harmonisation tool](/data-harmonisation-unifying-data-for-deeper-insights/) which uses [natural language processing](https://naturallanguageprocessing.com/) (NLP) to [bridge the gap between diverse research studies](/ppie-for-secondary-data-analysis/), automatically comparing and grouping similar items across datasets.  Here are a few ways you can get involved in the project:
 
 ### 1. Get coding
 
-Harmony's codebase is built on the bedrock of Python, and contributions are always welcome. Whether you're a seasoned developer or a coding newbie, there's a place for you. You can:
+Harmony's back end is built in Python and the front end is in React. There is also an [R library](/harmony-r-notebook-r-markdown-example/). Whether you're a seasoned developer or a coding newbie, there's a place for you. You can:
 
 * [Browse open issues and pull requests](https://github.com/harmonydata/harmony/issues) and find a challenge that sparks your interest and contribute your unique skills.
 * **Help maintain the existing code:** Fix bugs, improve documentation, and suggest optimizations.

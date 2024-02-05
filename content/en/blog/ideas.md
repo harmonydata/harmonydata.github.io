@@ -14,3 +14,9 @@ image: "/images/world.png"
 * Allow Harmony to process raw survey data so that social scientists have everything they need to run the statistical analyses
 * Develop a feedback loop where users can handle bad matches
 * Train a psychology specific model where Harmony predicts the similarity between items in the way that a factor model would quantify the similarity
+
+## Other ideas for the project
+
+* Training webinars
+* Hackathon
+* More Kaggle competitions

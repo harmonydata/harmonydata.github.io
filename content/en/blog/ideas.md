@@ -11,7 +11,6 @@ image: "/images/world.png"
 
 Below you can see the list of project ideas aligned with Harmony's standards, all designed to elevate the functionality and accessibility of Harmony. These proposals aim to fortify Harmony as a comprehensive tool for researchers navigating questionnaire item harmonization across diverse studies. Each idea maintains a clear scope, typically avoiding extensive overhauls. Quick-start guidelines and beginner-friendly tasks are provided for each idea. We encourage contributors to join mentor teams and GSoC applicants to submit proposals aligned with these concepts.
 
-1.
 ### Integrate p-values in Harmony's output to provide researchers with enhanced statistical insights, facilitating a more comprehensive analysis of harmonized questionnaire items
 
 **More information:** [https://github.com/harmonydata/harmony/issues](https://github.com/harmonydata/harmony/issues)
@@ -24,7 +23,7 @@ Below you can see the list of project ideas aligned with Harmony's standards, al
 
 **Difficulty:** medium
 
-1.
+
 ### Extend Harmony's capabilities by integrating with advanced language models like GPT-3 and GPT-4, enabling more sophisticated natural language processing for improved harmonization
 
 **More information:** [https://github.com/harmonydata/harmony/issues](https://github.com/harmonydata/harmony/issues)
@@ -37,7 +36,7 @@ Below you can see the list of project ideas aligned with Harmony's standards, al
 
 **Difficulty:** hard
 
-1.
+
 ### Enhance Harmony to process negation in languages other than English and Portuguese, expanding its applicability and utility for researchers working with diverse language datasets
 
 **More information:** [https://github.com/harmonydata/harmony/issues](https://github.com/harmonydata/harmony/issues)
@@ -50,7 +49,7 @@ Below you can see the list of project ideas aligned with Harmony's standards, al
 
 **Difficulty:** hard
 
-1.
+
 ### Address and fix issues related to processing PDFs within Harmony, as identified in the Kaggle competition. Improve PDF handling for more seamless integration
 
 * Fix processing of PDFs (see our [Kaggle competition](/harmony-on-kaggle/), also [issue](https://github.com/harmonydata/harmony/issues/11))
@@ -271,3 +270,5 @@ These are proposals in the mailing lists which have not been published as projec
 * Training webinars
 * Hackathon
 * More Kaggle competitions
+
+List prepared in collaboration with [Piyush Raj](https://github.com/0x48piraj).

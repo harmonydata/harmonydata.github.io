@@ -13,3 +13,35 @@ The primary challenge of this competition is to develop a tool or method that ca
 This competition offers a unique opportunity for participants to contribute to the field of natural language processing and document analysis while developing solutions that have real-world applications. We encourage participants to think creatively, leverage available resources, and push the boundaries of current technologies.
 
 Try your hand at our competition here: https://www.kaggle.com/competitions/harmony-pdf-and-word-questionnaires-extract
+
+You can also check out the Github repo associated with the Kaggle competition and the tagged PDF data here: https://github.com/harmonydata/pdf-questionnaire-extraction
+
+
+# Entering the Kaggle competition
+
+Requirements: Python 3.10 or greater
+
+1. Create an account on [Kaggle](https://www.kaggle.com/).
+
+2. Install Kaggle on your computer:
+
+```
+pip install kaggle
+```
+
+3. On the Kaggle website, download your `kaggle.json` file and put it in your home folder under `.kaggle/kaggle.json`.
+
+4. Download and unzip the competition data:
+
+```
+kaggle competitions download -c harmony-pdf-and-word-questionnaires-extract
+unzip harmony-pdf-and-word-questionnaires-extract.zip 
+```
+
+5. Run [create_sample_submission.py](https://github.com/harmonydata/pdf-questionnaire-extraction/blob/main/data/create_sample_submission.py) in the folder containing your data. It will create a CSV file `submission.csv`.
+
+6. Submit your CSV file to Kaggle
+
+```
+kaggle competitions submit -c harmony-pdf-and-word-questionnaires-extract -f submission.csv -m "Message"
+```

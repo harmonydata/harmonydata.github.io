@@ -53,7 +53,7 @@ blocks:
   padding: top
   align: right 
   heading: "Use Harmony in Python"
-  subheading: We've released Harmony as an easy-to-use Python library on Pypi.
+  subheading: We've released Harmony as an easy-to-use Python library on Pypi, so you can incorporate Harmony into your data harmonisation workflow.
   links: 
   - text: Python package on Pypi
     url: https://pypi.org/project/harmonydata/
@@ -77,7 +77,7 @@ blocks:
 - block: feature-2
   padding: top
   heading: "Use Harmony in R"
-  subheading: R users can now import Harmony as an R package.
+  subheading: R users can now import Harmony as an R package for data harmonisation.
   links: 
   - text: R package on Github
     url: https://github.com/harmonydata/harmony_r
@@ -169,15 +169,15 @@ blocks:
   copy: |
     Our tool, [Harmony](https://fastdatascience.com/harmony-wellcome-data-prize/), allows researchers to upload a set of mental health questionnaires in PDF or Excel format, such as the [GAD-7 anxiety questionnaire](https://adaa.org/sites/default/files/GAD-7_Anxiety-updated_0.pdf). It identifies which questions among questionnaires are identical, similar in meaning, or antonyms of each other, and generates a network graph. This allows researchers to harmonise datasets.
 
-    Uniquely, Harmony relies on [Transformer neural network architectures](https://deepai.org/machine-learning-glossary-and-terms/transformer-neural-network) and is not dependent on a dictionary approach or word list. This allows for [multilingual support](/harmony-supports-over-8-languages/) (English and Portuguese are our languages of focus), and Harmony is able to correctly map the GAD-7 used in the UK to the [GAD-7 used in Brazil](https://pesquisa.bvsalud.org/portal/resource/pt/lil-788637), despite the Brazilian questionnaire being in Brazilian Portuguese.
+    Uniquely, Harmony relies on [Transformer neural network architectures](https://deepai.org/machine-learning-glossary-and-terms/transformer-neural-network) and is not dependent on a dictionary approach or word list. This allows for [multilingual data harmonisation](/harmony-supports-over-8-languages/) (English and Portuguese are our languages of focus), and Harmony is able to correctly map the GAD-7 used in the UK to the [GAD-7 used in Brazil](https://pesquisa.bvsalud.org/portal/resource/pt/lil-788637), despite the Brazilian questionnaire being in Brazilian Portuguese.
 
-    Using Harmony, our team was able to conduct groundbreaking research into social isolation and anxiety with NLP supplying a quantitative measure of the equivalence of the different mental health datasets.
+    Using Harmony, our team was able to harmonise multilingual datasets and conduct groundbreaking research into social isolation and anxiety with NLP supplying a quantitative measure of the equivalence of the different mental health datasets.
 
 - block: feature-4
   superheading: "**HARMONY**"
   heading: A global platform for contextual harmonisation, translation and cooperation in mental health research
   copy: |
-    This team will support better integration of mental health research through a natural language processing harmonisation tool (Harmony), allowing researchers to compare data from existing studies to investigate the active ingredients of mental health. Led by Dr Eoin McElroy from Ulster University and Dr Bettina Moltrecht from University College London, the team will develop and demonstrate Harmony to answer research questions around human connection and its influence on the development of depression and anxiety in young people.
+    We aim to promote better integration of data harmonisation in mental health research through a natural language processing harmonisation tool (Harmony), allowing researchers to compare data from existing studies to investigate the active ingredients of mental health. Led by Dr Eoin McElroy from Ulster University and Dr Bettina Moltrecht from University College London, the team will develop and demonstrate Harmony to answer research questions around human connection and its influence on the development of depression and anxiety in young people.
 
 ---
 

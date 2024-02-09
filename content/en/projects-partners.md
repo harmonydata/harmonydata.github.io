@@ -32,6 +32,19 @@ The [UK Longitudinal Linkage Collaboration (UK LLC)](https://ukllc.ac.uk/) bring
 
 [Datamind](https://datamind.org.uk/) makes the best use of the UK's mental health data by enabling coordinated research with the ultimate aim of improving people's lives.
 
+## Australian Data Archive
+
+{{< htmlcode >}}
+<a href="/ada"><img src="/images/ada.jpg"></a>
+{{</ htmlcode >}}
+
+[Read the Australian Data Archive case study](/ada).
+
+## Listings on other websites
+
+* [See our listing on the Mental Health Innovation Network](https://www.mhinnovation.net/resources/harmony)
+* [See our listing on the Research Software Directory](https://research-software-directory.org/software/harmony)
+* [See our Kaggle competition](https://harmonydata.ac.uk/harmony-on-kaggle/)
 
 ## Other collaborations
 

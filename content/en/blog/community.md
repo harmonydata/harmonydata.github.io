@@ -2,7 +2,7 @@
 title: Community
 description: Join the Harmony community!
 date: 2024-01-25
-image: /images/join-open-source-project.png
+image: /images/discord.jpg
 ---
 
 ## Join the Harmony community on Discord!

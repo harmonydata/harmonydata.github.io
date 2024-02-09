@@ -1,7 +1,7 @@
 ---
 title: "Harmony on Kaggle"
 date: 2024-02-01
-image: "/images/world.png"
+image: "/images/kaggle.jpg"
 ---
 
 ## Harmony launches on Kaggle!

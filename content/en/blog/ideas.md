@@ -4,14 +4,15 @@ date: 2024-02-04
 image: "/images/world.png"
 ---
 
-## Ideas for future development of Harmony
+## Project ideas for future development of Harmony
 
-
-## Accepted ideas
+## Accepted project ideas
 
 Below you can see the list of project ideas aligned with Harmony's standards, all designed to elevate the functionality and accessibility of Harmony. These proposals aim to fortify Harmony as a comprehensive tool for researchers navigating questionnaire item harmonization across diverse studies. Each idea maintains a clear scope, typically avoiding extensive overhauls. Quick-start guidelines and beginner-friendly tasks are provided for each idea. We encourage contributors to join mentor teams and GSoC applicants to submit proposals aligned with these concepts.
 
-### Integrate p-values in Harmony's output to provide researchers with enhanced statistical insights, facilitating a more comprehensive analysis of harmonized questionnaire items
+### Integrate p-values in Harmony's output
+
+We have a need to provide p-values instead of just the current Cosine similarity metric, in order to provide researchers with enhanced statistical insights, facilitating a more comprehensive analysis of harmonized questionnaire items
 
 **More information:** [https://github.com/harmonydata/harmony/issues](https://github.com/harmonydata/harmony/issues)
 
@@ -19,12 +20,14 @@ Below you can see the list of project ideas aligned with Harmony's standards, al
 
 **Possible mentors:** Thomas Wood
 
-**Expected size of the project:** 250 hours
+**Expected size of the project:** 175 hours
 
 **Difficulty:** medium
 
 
-### Extend Harmony's capabilities by integrating with advanced language models like GPT-3 and GPT-4, enabling more sophisticated natural language processing for improved harmonization
+### Integrate with more LLMs
+
+Extend Harmony's capabilities by integrating with advanced language models like GPT-3 and GPT-4, enabling more sophisticated natural language processing for improved harmonization
 
 **More information:** [https://github.com/harmonydata/harmony/issues](https://github.com/harmonydata/harmony/issues)
 
@@ -32,12 +35,14 @@ Below you can see the list of project ideas aligned with Harmony's standards, al
 
 **Possible mentors:** Thomas Wood
 
-**Expected size of the project:** 250 hours
+**Expected size of the project:** 175 hours
 
 **Difficulty:** hard
 
 
-### Enhance Harmony to process negation in languages other than English and Portuguese, expanding its applicability and utility for researchers working with diverse language datasets
+### Multilingual negation
+
+Enhance Harmony to process negation in languages other than English and Portuguese, expanding its applicability and utility for researchers working with diverse language datasets
 
 **More information:** [https://github.com/harmonydata/harmony/issues](https://github.com/harmonydata/harmony/issues)
 
@@ -45,12 +50,14 @@ Below you can see the list of project ideas aligned with Harmony's standards, al
 
 **Possible mentors:** Thomas Wood
 
-**Expected size of the project:** 250 hours
+**Expected size of the project:** 90 hours
 
 **Difficulty:** medium
 
 
-### Address and fix issues related to processing PDFs within Harmony, as identified in the Kaggle competition. Improve PDF handling for more seamless integration
+### PDF data extraction
+
+Address and fix issues related to processing PDFs within Harmony, as identified in the Kaggle competition. Improve PDF handling for more seamless integration
 
 * Fix processing of PDFs (see our [Kaggle competition](/harmony-on-kaggle/), also [issue](https://github.com/harmonydata/harmony/issues/11))
 
@@ -60,27 +67,31 @@ Below you can see the list of project ideas aligned with Harmony's standards, al
 
 **Possible mentors:** Thomas Wood
 
-**Expected size of the project:** 450 hours
+**Expected size of the project:** 350 hours
 
 **Difficulty:** hard
 
-1.
-### Integrate Harmony with prominent repositories like the UK Data Archive, UKLLC, and others. Enable seamless access and harmonization of questionnaire items from these repositories
+
+### External integrations (multiple projects)
+
+Integrate Harmony with prominent repositories like the UK Data Archive, UKLLC, and others. Enable seamless access and harmonization of questionnaire items from these repositories
 
 **More information:** [https://github.com/harmonydata/harmony/issues](https://github.com/harmonydata/harmony/issues)
 
 **Skills:** Data repository integration, software development
 
-**Possible mentors:** Thomas Wood
+**Possible mentors:** John Rogers
 
-**Expected size of the project:** 150 hours per integration
+**Expected size of the project:** 175 hours per integration
 
 **Difficulty:** medium
 
-1.
-### Developing a Study Search Endpoint for Harmony API
+
+### Develop a Study Search Endpoint for Harmony API
 
 This project proposal aims to enhance the functionality of the Harmony project by implementing a new endpoint called "search" in Harmony's API. This endpoint will enable third-party users, such as the UK Longitudinal Life Course Studies Consortium (UKLLC), to search for studies based on specific criteria. By integrating advanced search capabilities into Harmony's API, users will be able to query the database and retrieve relevant studies efficiently.
+
+* Harmony adds a new endpoint called `search` to Harmony's API which would allow third parties such as UKLLC to search for studies. This is basically a URL that would probably look something like https://api.harmonydata.ac.uk/search and which would allow Harmony to receive a text and find variables in UKLLC's database that are similar to it. The existing endpoints are [here](https://api.harmonydata.ac.uk/docs).
 
 **Goals**
 
@@ -112,40 +123,46 @@ This project proposal aims to enhance the functionality of the Harmony project b
 
 **Skills:** Proficiency in web development, API design, and RESTful architecture. Familiarity with search algorithms, natural language processing, and information retrieval techniques
 
-**Possible mentors:** Thomas Wood, Piyush Raj
+**Possible mentors:** Thomas Wood, Piyush Raj, John Rogers
 
 **Expected size of the project:** 350 hours
 
 **Difficulty:** medium
 
-1.
-### Harmony shows an H-score, a similarity metric between two questionnaires.
+
+### Questionnaire-level similarity metric
+
+Harmony should also show an H-score, a similarity metric between two questionnaires.
 
 **More information:** [https://github.com/harmonydata/harmony/issues](https://github.com/harmonydata/harmony/issues)
 
 **Skills:** Statistical analysis, software development
 
-**Possible mentors:** Thomas Wood
+**Possible mentors:** Eve Cheng
 
 **Expected size of the project:** 350 hours
 
 **Difficulty:** medium
 
-1.
-### Allow Harmony to process raw survey data so that social scientists have everything they need to run the statistical analyses
+
+### Raw data handling
+
+Allow Harmony to process raw survey data so that social scientists have everything they need to run the statistical analyses
 
 **More information:** [https://github.com/harmonydata/harmony/issues](https://github.com/harmonydata/harmony/issues)
 
 **Skills:** Statistical analysis, software development
 
-**Possible mentors:** Thomas Wood
+**Possible mentors:** Eoin McElroy
 
-**Expected size of the project:** 500 hours
+**Expected size of the project:** 350 hours
 
 **Difficulty:** hard
 
 
-### Develop a feedback loop where users can handle bad matches
+### User feedback loop
+
+Develop a feedback loop where users can flag bad matches and these are fed back into the matching algorithm
 
 **More information:** [https://github.com/harmonydata/harmony/issues](https://github.com/harmonydata/harmony/issues)
 
@@ -158,21 +175,19 @@ This project proposal aims to enhance the functionality of the Harmony project b
 **Difficulty:** hard
 
 
-### Train a psychology-specific model where Harmony predicts the similarity between items in the way that a factor model would quantify the similarity
+### Simulate factor models
+
+Train a psychology-specific model where Harmony predicts the similarity between items in the way that a factor model would quantify the similarity
 
 **More information:** [https://github.com/harmonydata/harmony/issues](https://github.com/harmonydata/harmony/issues)
 
 **Skills:** Statistical analysis, software development
 
-**Possible mentors:** Thomas Wood
+**Possible mentors:** Eoin McElroy
 
-**Expected size of the project:** 500 hours
+**Expected size of the project:** 350 hours
 
 **Difficulty:** hard
-
-## Draft project ideas
-
-Below you can see draft project ideas, which are currently under review. The scope of such ideas may change during the discussions, but the idea is accepted in principle. You are welcome to comment on the draft and to join the project as a mentor. If you are a GSoC contributor, it is also fine to explore and apply to the draft project ideas.
 
 
 ### Designing Kaggle Competitions for Questionnaire Item Harmonization
@@ -214,9 +229,11 @@ This project aims to leverage the Harmony project, a tool designed for retrospec
 **Difficulty:** hard
 
 
-### Integrating [Pinecone] for Efficient Variable Lookup in Harmony
+### Integrate Pinecone for Efficient Variable Lookup in Harmony
 
 This project focuses on integrating Pinecone (subject to change), an off-the-shelf similarity search service, into the Harmony project to facilitate efficient variable lookup functionality. Harmony aims to provide a lookup feature by indexing all variables from third-party sources offline and updating them periodically to ensure accuracy and relevance. Pinecone's advanced search capabilities will enhance Harmony's ability to quickly retrieve similar variables, enabling seamless data harmonization across studies.
+
+In order to provide a lookup functionality, Harmony would need to index all the variables from a third party offline and do this every week or month. This means, converting them all to a vector and storing them somewhere so that we can quickly do a lookup. We might need an off the shelf tool such as [Pinecone](https://www.pinecone.io/) which would help us manage this lookup. Harmony is already doing this for the Mental Health Catalogue but the MHC case is simpler because there are fewer variables and we don't have a process for constantly updating the database.
 
 **Goals**
 
@@ -250,13 +267,7 @@ This project focuses on integrating Pinecone (subject to change), an off-the-she
 
 ## Ongoing discussion
 
-These are proposals in the mailing lists which have not been published as project ideas yet. The feasibility is yet to be defined, and the idea may be dismissed depending on the feedback. Everyone is welcome to participate in the discussion and to join as a potential mentor.
-
-
-
-
-* Harmony adds a new endpoint called `search` to Harmony's API which would allow third parties such as UKLLC to search for studies. This is basically a URL that would probably look something like https://api.harmonydata.ac.uk/search and which would allow Harmony to receive a text and find variables in UKLLC's database that are similar to it. The existing endpoints are [here](https://api.harmonydata.ac.uk/docs).
-* In order to provide a lookup functionality, Harmony would need to index all the variables from a third party offline and do this every week or month. This means, converting them all to a vector and storing them somewhere so that we can quickly do a lookup. We might need an off the shelf tool such as [Pinecone](https://www.pinecone.io/) which would help us manage this lookup. Harmony is already doing this for the Mental Health Catalogue but the MHC case is simpler because there are fewer variables and we don't have a process for constantly updating the database.
+These are proposals in the mailing lists and Discord which have not been published as project ideas yet. The feasibility is yet to be defined, and the idea may be dismissed depending on the feedback. Everyone is welcome to participate in the discussion and to join as a potential mentor.
 
  
 

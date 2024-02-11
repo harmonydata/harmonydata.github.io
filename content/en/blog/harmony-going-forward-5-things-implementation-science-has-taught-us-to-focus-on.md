@@ -1,7 +1,7 @@
 ---
 title: Harmony Going Forward
 description: Yesterday the Harmony team received the wonderful news that we are given the chance to continue working on Harmony for another six months, after which we c...
-date:
+date: 2023-02-09
 image: /images/blog/noah-buscher-x8ZStukS2PM-unsplash-1536x880.jpg
 aliases:
   - /blog/harmony-going-forward/

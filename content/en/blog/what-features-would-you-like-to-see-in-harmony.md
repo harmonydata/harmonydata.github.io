@@ -1,7 +1,7 @@
 ---
 title: What features would you like to see in Harmony?
 description: Click here to view other people’s responses.
-date:
+date: 2024-02-11
 image: /images/blog/how_can_harmony_help_you.png
 ---
 

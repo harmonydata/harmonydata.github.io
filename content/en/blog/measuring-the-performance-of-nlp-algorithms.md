@@ -1,7 +1,7 @@
 ---
 title: Measuring The Performance Of NLP Algorithms
 description: "Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: chil..."
-date:
+date: 2023-02-25
 image: /images/blog/roc.png
 aliases: "/blog/measuring-the-performance-of-nlp-algorithms/"
 ---

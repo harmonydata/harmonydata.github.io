@@ -5,11 +5,11 @@
   {{ end }}
   <div class="relative px-6 lg:px-8 
     {{- if eq .padding "top" }}{{ if .overlay }} pt-36 lg:pt-48{{ else }}pt-20 lg:pt-32{{ end }}
-    {{- else }}{{ if .overlay }} pt-36 lg:pt-48{{ else }}pt-20 lg:pt-32{{ end }} pb-20 lg:pb-32
+    {{- else }}{{ if .overlay }} pt-36 lg:pt-44{{ else }}pt-20 lg:pt-32{{ end }} pb-20 lg:pb-28
     {{- end }}">
     <div class="mx-auto max-w-3xl lg:max-w-7xl">
       {{ if eq .layout "left" }}
-        <div class="max-w-5xl space-y-10 lg:space-y-12">
+        <div class="max-w-6xl space-y-10 lg:space-y-12">
           <div class="space-y-4 lg:space-y-5">
             {{ partial "components/superheading.html" . }}
             {{ partial "components/h1-lg.html" . }}
@@ -19,11 +19,29 @@
               </div>
             {{ end }}
             {{ if .copy }}
-              <div class="max-w-4xl">
-                {{ partial "components/copy-lg.html" . }}
+              <div class="">
+                <div class="sm:text-lg leading-loose sm:leading-loose text-slate-600 dark:text-slate-100 content-underline space-y-3">{{ .copy | markdownify }}</div>
               </div>
             {{ end }}
           </div>
+          {{ with .links }}
+            <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-3">
+              {{ range . }}
+                <div class="relative border border-slate-500 hover:border-slate-400 shadow rounded-md bg-white/10 py-3 pl-3.5 pr-2.5 flex justify-between">
+                  <div>
+                    <h3 class="font-extrabold text-white text-sm flex">{{ .heading }}</h3>
+                    {{ with .copy }}
+                      <p class="mt-1 text-slate-200 text-sm">{{ . }}</p>
+                    {{ end }}
+                  </div>
+                  <svg class="text-white flex-none w-5 h-5 self-center" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
+                  </svg>                    
+                  <a class="absolute inset-0" href="{{ .url | relURL }}" title="{{ .heading }}"></a>
+                </div>
+              {{ end }}
+            </div>
+          {{ end }}
           {{ with .buttons }}
             <div class="flex flex-wrap gap-3">
               {{ range . }}

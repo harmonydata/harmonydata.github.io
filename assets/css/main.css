@@ -45,6 +45,9 @@
     @apply text-aqua-400;
     @apply underline;
   }
+  .content-underline a {
+    @apply underline;
+  }
   .response span {
     @apply py-2;
     @apply px-3;

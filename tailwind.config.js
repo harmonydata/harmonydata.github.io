@@ -1,6 +1,6 @@
 module.exports = {
   content: ["./layouts/**/*.html", "./content/**/*.md"],
-  safelist: ["lg:col-span-2", "lg:col-span-3", "lg:col-span-4", "xl:grid-cols-4", "xl:col-span-4"],
+  safelist: ["lg:col-span-2", "lg:col-span-3", "lg:col-span-4", "xl:grid-cols-4", "xl:col-span-4", "xl:grid-cols-3", "xl:grid-cols-2"],
   darkMode: "class",
   theme: {
     extend: {

@@ -32,6 +32,25 @@ So if your blog post has an image called `dog.jpg`, put it in `assets/images/dog
 
 Each time you upload a document to the `main` branch, Github Actions/Github Pages will automatically rebuild the site. So if possible try to make only the minimum number of edits as any change triggers the rebuild process, which lasts about 3 minutes. 
 
+### CTA Link Shorcode
+#### Card
+```
+{{< card heading="Lorem" copy="Descriptive text goes here." url="/docs/" >}}
+```
+If the `url` is not set the card acts as info box.
+
+#### Grid
+Used to display the Link and Card shortcodes in two or three column grid. The `columns` attribute can be set to `3`, if not set it defaults to `2` columns.
+
+Three column example with Card shortcodes:
+```
+{{< grid columns="3" >}}
+  {{< card heading="Card 1 with a link" copy="Descriptive text goes here, one to two lines is acceptable." url="/docs/product/intro/" >}}
+  {{< card heading="Card 2 with a link" copy="Descriptive text goes here, one to two lines is acceptable." url="/docs/product/intro/" >}}
+  {{< card heading="Card 3 no link" copy="Descriptive text goes here, one to two lines is acceptable." >}}
+{{< /grid >}}
+```
+
 
 ## How to run the website locally on your computer
 

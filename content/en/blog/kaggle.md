@@ -12,10 +12,10 @@ The primary challenge of this competition is to develop a tool or method that ca
 
 This competition offers a unique opportunity for participants to contribute to the field of natural language processing and document analysis while developing solutions that have real-world applications. We encourage participants to think creatively, leverage available resources, and push the boundaries of current technologies.
 
-Try your hand at our competition here: https://www.kaggle.com/competitions/harmony-pdf-and-word-questionnaires-extract
-
-You can also check out the Github repo associated with the Kaggle competition and the tagged PDF data here: https://github.com/harmonydata/pdf-questionnaire-extraction
-
+{{< grid columns="2" >}}
+  {{< card heading="Try Kaggle" copy="Try your hand at our competition" url="https://www.kaggle.com/competitions/harmony-pdf-and-word-questionnaires-extract" >}}
+  {{< card heading="Kaggle Github repo" copy="Check out the Github repo associated with the Kaggle competition and the tagged PDF data" url="https://github.com/harmonydata/pdf-questionnaire-extraction" >}}
+{{< /grid >}}
 
 # Entering the Kaggle competition
 

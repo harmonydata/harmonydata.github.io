@@ -1,0 +1,12 @@
+<div class="relative not-prose border border-slate-300 bg-slate-50 rounded-md p-4 {{ if .Get "url" -}}group hover:border-slate-400{{- end -}}">
+  {{ with .Get "heading" }}
+    <h3 class="font-bold text-lg text-blue-600 mb-1.5">{{ . }}</h3>
+  {{ end }}
+  {{ with .Get "copy" }}
+    <div class="text-base text-slate-600 leading-normal max-w-[35.3rem]">{{ . }}</div>
+  {{ end }}
+  {{ with .Get "url" }}
+    <a class="absolute inset-0" href="{{ . }}" title="Link"></a>
+  {{ end }}
+</div>
+

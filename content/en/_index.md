@@ -19,10 +19,20 @@ blocks:
 
     The Harmony project is a data harmonisation project that uses [Natural Language Processing](https://fastdatascience.com/guide-natural-language-processing-nlp/) to help researchers make better use of existing data from different studies by supporting them with the harmonisation of various measures and items used in different studies. Harmony is a collaboration project between [Ulster University](https://ulster.ac.uk/), [University College London](https://ucl.ac.uk/), the [Universidade Federal de Santa Maria](https://www.ufsm.br/), and [Fast Data Science](http://fastdatascience.com/).  Harmony is funded by [Wellcome](https://wellcome.org/) as part of the [Wellcome Data Prize in Mental Health](https://wellcome.org/grant-funding/schemes/wellcome-mental-health-data-prize).
 
-    Harmony is a project in active development and you can [contribute](https://github.com/harmonydata/harmony).
-
-    If you have found a bug or would like a new feature, you can [raise an issue here for issues with Harmony's natural language understanding functionality](https://github.com/harmonydata/harmony/issues), or alternatively [here for issues with Harmony's user interface and graphics](https://github.com/harmonydata/app/issues). You can also join [our Discord server](https://discord.gg/harmonydata)!
-
+  links:
+  - heading: Contribute
+    copy: Harmony is in active development and you can contribute.
+    url: "https://github.com/harmonydata/harmony"
+  - heading: Raise NLP issue
+    copy: Raise an issue with Harmony's natural language understanding.
+    url: "https://github.com/harmonydata/harmony/issues"
+  - heading: Raise UI issue
+    copy: Rise an issue with Harmony's user interface and graphics.
+    url: "https://github.com/harmonydata/app/issues"
+  - heading: Discord
+    copy: Join our Discord server.
+    url: "https://discord.gg/harmonydata"
+    
   buttons:
   - text: Try Harmony Now!
     url: "/app/"

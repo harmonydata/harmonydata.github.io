@@ -4,7 +4,7 @@ date: 2024-02-09
 image: /images/discord2.jpg
 ---
 
-_Here's the link to join our Discord: [https://discord.gg/harmonydata](https://discord.gg/harmonydata)!_
+_Here's the link to join our Discord, where you can find the event: [https://discord.gg/harmonydata](https://discord.gg/harmonydata)!_
 
 Announcing: Harmony Orientation Session! 🌐
 

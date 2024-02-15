@@ -4,6 +4,8 @@ date: 2024-02-09
 image: /images/discord2.jpg
 ---
 
+_Here's the link to join our Discord: [https://discord.gg/harmonydata](https://discord.gg/harmonydata)!_
+
 Announcing: Harmony Orientation Session! 🌐
 
 * Date & Time: Monday 19 February 2024, at 10am UK time

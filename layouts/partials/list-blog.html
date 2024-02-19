@@ -8,6 +8,10 @@
       {{ with .Params }}
         {{ partial "components/subheading.html" . }}
       {{ end }}
+      <div class="rounded-2xl pt-4 max-w-xl mx-auto">
+        {{ partial "components/form-mailchimp.html" . }}
+      </div>
+
     </div>
   </div>
   <div class="mx-auto max-w-md md:max-w-7xl pb-16 lg:pb-24">

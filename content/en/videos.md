@@ -6,7 +6,7 @@ title: Harmony Videos
 
 ## Harmony orientation session 19 Feb 2024
 
-{{< youtube hFqg6T_BqZc >}}
+{{< youtube WAWRgCHSV5I >}}
 
 Interested in contributing to an open source project involving psychology and natural language processing? Whether you're new to Harmony or looking to dive deeper into our projects, this event is for you.
 

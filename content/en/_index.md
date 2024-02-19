@@ -38,6 +38,10 @@ blocks:
     url: "/app/"
     style: gradient
     size: large
+  - text: Newsletter signup
+    url: "#feature-4"
+    style: outline
+    size: large
 
 - block: video
   padding: top
@@ -160,7 +164,7 @@ blocks:
     image: /images/datamind.svg
     url: https://datamind.org.uk
 
-- block: feature-4
+- block: newsletter
   image: images/multilingual.jpg
   padding: top
 

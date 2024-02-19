@@ -12,6 +12,11 @@ Announcing: Harmony Orientation Session! 🌐
 
 * Location: ⁠[Discord](https://discord.gg/5aQ9rWWKpc?event=1205524099204517991)
 
+
+{{< youtube WAWRgCHSV5I >}}
+
+_Video of the event_
+
 Hey Harmony Community! We're excited to invite you to our upcoming Orientation Session on Discord! Whether you're new to Harmony or looking to dive deeper into our projects, this event is for you.
 
 During the session, we'll cover:

@@ -4,6 +4,38 @@ title: Harmony Videos
 
 # Videos
 
+## Harmony orientation session 19 Feb 2024
+
+{{< youtube hFqg6T_BqZc >}}
+
+Interested in contributing to an open source project involving psychology and natural language processing? Whether you're new to Harmony or looking to dive deeper into our projects, this event is for you.
+
+
+* Introduction to Harmony
+* Overview of Current Projects
+* How to Get Involved
+
+Key points from the video 
+* Harmony is free to use under the MIT license and aims to build a community of developers for further development.
+* The tool parses questionnaire items from PDFs and allows psychologists to export the data as Excel.
+* Key areas needing help:
+    * **PDF processing:** Extracting text from PDFs is currently challenging.
+    * See Kaggle competition for PDF data extraction: [https://harmonydata.ac.uk/kaggle](https://harmonydata.ac.uk/kaggle)
+* Ways to contribute:
+    * Fork the code on GitHub (3 repositories: library, API, front-end).
+    * Add a new feature (e.g., GPT support).
+    * Create a pull request with unit tests.
+    * Discuss ideas on Discord.
+* Resources:
+    * Website: harmonydata.ac.uk
+    * GitHub: [https://github.com/harmonydata/harmony](https://github.com/harmonydata/harmony)
+    * Discord: [https://discord.gg/harmonydata](https://discord.gg/harmonydata)
+    * Ideas list: [https://harmonydata.ac.uk/ideas](https://harmonydata.ac.uk/ideas)
+    * Kaggle competition: [https://harmonydata.ac.uk/kaggle](https://harmonydata.ac.uk/kaggle)
+
+* The video includes a demonstration of the tool and the contribution process.
+* The team welcomes any ideas and contributions from the community.
+
 ## Install Harmony R library on Windows 10:
 
 {{< youtube hFqg6T_BqZc >}}

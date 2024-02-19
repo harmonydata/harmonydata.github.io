@@ -2,7 +2,7 @@
 title: "What is data harmonisation - and why it matters in 2024"
 description: While this data can be a valuable asset, it often comes in different formats, structures, and standards, making it challenging to analyze, share, and extract meaningful insights. This is where the concept of **data harmonisation** comes into play. In this article, we will explore what data harmonisation is, why it is important, and how it can benefit organizations and society as a whole.
 date: 2024-01-23
-image: /images/DALL-E-2024-01-23-20-35-56-An-illustration-showing-the-concept-of-data-harmonization-in-landscape-or.png
+image: "/images/02- What is data harmonization - and why it matters in 2024.svg"
 url: /data-harmonisation-unifying-data-for-deeper-insights/
 ---
 

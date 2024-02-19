@@ -3,7 +3,7 @@ title: "Data Harmonisation: Steps, Techniques, and Best Practices"
 Discription: "Data harmonisation is a critical process in data management that involves combining data from different sources, ensuring consistency, and improving data quality for better analysis and decision-making. This comprehensive guide outlines the steps, techniques, and best practices for effective data harmonisation."
 date: 2024-02-06
 author: "Vidhya Sudani"
-image: "/images/data harmonization-min-min.jpg"
+image: "/images/04- Data harmonization steps, techniques and best practices.svg"
 
 ---
 

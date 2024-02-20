@@ -11,17 +11,31 @@
       <div class="grid gap-10 lg:grid-cols-{{ .columns | default "3" }}">
         {{ range .cards }}
           <div x-data="{ expanded: false }" class="flex flex-col rounded-2xl border border-primary-200 dark:border-primary-800 h-full{{ if eq $.align "center" }} text-center p-6 sm:px-8 sm:py-11{{ else }} p-7{{ end }}{{- if eq $.mode "dark" }} bg-primary-900{{ else if eq $.mode "muted" }} bg-white{{ end -}}">
-            {{ $plainHeading := .heading | markdownify | plainify }}
-            {{ partial "components/image-responsive" (dict "src" (.image | relURL) "alt" $plainHeading "class" "mb-6 max-w-[13rem] mx-auto" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
-    
-            <div class="flex-1 space-y-4">
+            {{ if .image }}
+              <div class="h-[6rem] mb-6 flex justify-center items-center">
+                {{ $plainHeading := .heading | markdownify | plainify }}
+                {{ partial "components/image-responsive" (dict "src" (.image | relURL) "alt" $plainHeading "class" "max-w-[13rem] w-auto max-h-[6rem]" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+              </div>
+            {{ end }}
+            <div class="flex-1 space-y-3">
               {{ if .icon }}
                 <div class="flex mb-6{{ if eq $.align "center" }} justify-center{{ end }}">
                   {{ partial "components/icon-box-primary.html" . }} 
                 </div>
               {{ end }}
               <h3 class="text-2xl text-center font-heading font-bold text-blue-950">{{ .heading | markdownify }}</h3>
-              <div class="leading-loose text-slate-600 dark:text-slate-300 content content-underline">{{ .copy | markdownify }}</div>
+              <div class="leading-loose text-slate-600 content content-underline">
+                {{ .description | markdownify }}
+                {{ with .copy }}
+                  <button x-on:click="expanded = ! expanded" class="inline-flex text-slate-500 hover:text-blue-600 items-center">
+                    <span>More details</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" :class="{ 'rotate-90': expanded, 'transform-none': !(expanded) }" class="h-5 w-5 transform-none" viewBox="0 0 20 20" fill="currentcolor"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414.0z" clip-rule="evenodd"></path></svg>
+                  </button>
+                {{ end }}              
+              </div>
+              {{ with .copy }}
+                <div x-show="expanded" x-collapse class="leading-loose text-slate-600 content content-underline">{{ . | markdownify }}</div>
+              {{ end }}
             </div>
             {{ with .button }}
               <div class="mt-8 text-center">

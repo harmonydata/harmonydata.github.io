@@ -5,7 +5,8 @@ layout: blocks
 blocks:
 - block: features-4
   padding: top
-  heading: We have a number of ongoing parterships
+  heading: Projects and Partners
+  subheading: We have a number of ongoing parterships
   cards: 
   - heading: Catalogue of Mental Health Measures
     copy: |- 

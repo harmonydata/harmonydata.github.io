@@ -51,10 +51,8 @@ blocks:
 - block: content
 ---
 
-{{< image src="images/team.svg" alt="team" >}}
 
-
-## Other collaborations
+## Media coverage
 
 #### Here is an interesting radio programme about the Wellcome Trust Data Prize in mental health from the South African radio station Fabrik FM.
 

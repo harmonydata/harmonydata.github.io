@@ -34,7 +34,7 @@
                 {{ end }}              
               </div>
               {{ with .copy }}
-                <div x-show="expanded" x-collapse class="leading-loose text-slate-600 content content-underline">{{ . | markdownify }}</div>
+                <div x-show="expanded" x-collapse class="leading-loose text-slate-600 content content-underline" style="display: none;">{{ . | markdownify }}</div>
               {{ end }}
             </div>
             {{ with .button }}

@@ -10,19 +10,25 @@
     <div class="max-w-lg mx-auto {{ if eq .columns 2 }} lg:max-w-5xl{{ else }}lg:max-w-7xl{{ end }}">
       <div class="grid gap-10 lg:grid-cols-{{ .columns | default "3" }}">
         {{ range .cards }}
-          <div class="flex flex-col rounded-2xl border border-primary-200 dark:border-primary-800 h-full{{ if eq $.align "center" }} text-center p-6 sm:px-8 sm:py-11{{ else }} p-11{{ end }}{{- if eq $.mode "dark" }} bg-primary-900{{ else if eq $.mode "muted" }} bg-white{{ end -}}">
+          <div class="flex flex-col rounded-2xl border border-primary-200 dark:border-primary-800 h-full{{ if eq $.align "center" }} text-center p-6 sm:px-8 sm:py-11{{ else }} p-7{{ end }}{{- if eq $.mode "dark" }} bg-primary-900{{ else if eq $.mode "muted" }} bg-white{{ end -}}">
+            {{ $plainHeading := .heading | markdownify | plainify }}
+            {{ partial "components/image-responsive" (dict "src" (.image | relURL) "alt" $plainHeading "class" "mb-6" "sizes" "(min-width: 1024px) 50vw, 100vw" "widths" (slice 640 640 1024 2048)) }}
+    
             <div class="flex-1 space-y-4">
               {{ if .icon }}
                 <div class="flex mb-6{{ if eq $.align "center" }} justify-center{{ end }}">
                   {{ partial "components/icon-box-primary.html" . }} 
                 </div>
               {{ end }}
-              {{ partial "components/h3.html" . }}
-              {{ partial "components/copy.html" . }}
+              <h3 class="text-2xl font-heading font-bold text-blue-950">{{ .heading | markdownify }}</h3>
+              <div class="leading-loose text-slate-600 dark:text-slate-300 content content-underline">{{ .copy | markdownify }}</div>
             </div>
             {{ with .button }}
-              <div class="mt-8{{ if eq $.align "center" }} text-center{{ end }}">
-                {{ partial "components/button.html" . }}
+              <div class="mt-8 text-center">
+                <a href="{{ .url | relLangURL }}"{{ if in .url "http" }} target="_blank" rel="noopener noreferrer"{{ end }} 
+                  class="block w-full text-center transition rounded-full focus:outline-none font-heading font-bold px-2 py-2.5 text-sm bg-slate-100 text-blue-900 hover:text-blue-600">
+                  {{ .text }}
+                </a>
               </div>
             {{ end }}      
           </div>
@@ -31,3 +37,4 @@
     </div>
   </div>
 {{ partial "block-close.html" . }}
+

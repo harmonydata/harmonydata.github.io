@@ -1,9 +1,15 @@
 ---
 title: "News coverage"
 description: Any news coverage about Harmony
-date: 2023-10-02
+date: 2024-02-21
 image: "/images/world.png"
 ---
+
+## 21 Feb 2024, University College London
+
+University College London has posted on their website about the Harmony project.
+
+[Read more on UCL's website](https://www.ucl.ac.uk/ioe/departments-and-centres/centres/centre-longitudinal-studies/harmony-new-ai-data-tool-facilitates-global-mental-health-research)
 
 ## 26 Jan 2024, Software Sustainability Institute
 

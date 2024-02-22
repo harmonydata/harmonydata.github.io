@@ -265,6 +265,11 @@ In order to provide a lookup functionality, Harmony would need to index all the 
 
 **Difficulty:** hard
 
+
+## Get Likert scale (response options)
+
+TODO: write description
+
 ## Ongoing discussion
 
 These are proposals in the mailing lists and Discord which have not been published as project ideas yet. The feasibility is yet to be defined, and the idea may be dismissed depending on the feedback. Everyone is welcome to participate in the discussion and to join as a potential mentor.

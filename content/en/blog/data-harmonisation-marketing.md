@@ -3,7 +3,7 @@ title: "Data Harmonisation for Marketing Success: Strategies and Insights"
 Discription: "In an era where data is the new oil, marketing strategies are increasingly fueled by the accurate, harmonious integration of diverse data sources. This blog post explores the pivotal strategies for data harmonisation in marketing to improving equity through data insights."
 date: 2024-03-26
 author: "Vidhya Sudani"
-image: "/images/Data Harmonization for Marketing Success.webp"
+image: "/images/21- Data harmonization for marketing purposes - the strategies for success.svg"
 
 ---
 

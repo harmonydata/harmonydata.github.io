@@ -2,7 +2,7 @@
 title: "Data harmonisation tools and frameworks in 2024"
 description: "Harmonised data refers to the standardisation of disparate data formats, schemas, and structures across different sources to enable seamless integration and analysis. It's crucial for enhancing data quality, facilitating integration, improving decision-making, and increasing operational efficiency."
 date: 2024-04-02
-image: "/images/05- What is truly harmonized data - the practical overview.svg"
+image: "/images/06- Data harmonisation tools and frameworks in 2024.svg"
 url: "/data-harmonisation-tools-frameworks"
 ---
 

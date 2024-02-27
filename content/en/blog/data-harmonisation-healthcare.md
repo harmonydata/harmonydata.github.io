@@ -3,7 +3,7 @@ title: "Data Harmonisation in Healthcare: From Public to Private Records"
 Discription: "Data harmonisation in healthcare is a critical process aimed at integrating disparate data sources to streamline patient care and enhance research quality. This blog explores the essence, methodologies, impacts, and initiatives surrounding data harmonisation, highlighting its pivotal role in the healthcare sector."
 date: 2024-03-19
 author: "Vidhya Sudani"
-image: "/images/healthcare data harmonization.webp"
+image: "/images/20- Data harmonization in healthcare - from public to private records.svg"
 
 ---
 

@@ -2,6 +2,7 @@
 title: PPIE For Secondary Data Analysis
 description: "Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: chil..."
 date: 2022-11-09
+categories: ["psychology"]
 image: /images/blog/joanna-kosinska-1_CMoFsPfso-unsplash-1536x1025.jpg
 ---
 

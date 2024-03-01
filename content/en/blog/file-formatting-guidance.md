@@ -2,6 +2,7 @@
 title: Formatting help
 description: How to fix problems in Harmony
 date: 2023-12-07
+categories: ["users"]
 image: /images/formatting-min.jpg
 ---
 

@@ -2,6 +2,7 @@
 title: Harmony R released!
 description: You can run Harmony in R
 date: 2023-08-21
+categories: ["development"]
 image: /images/r.png
 ---
 

@@ -2,6 +2,7 @@
 title: Community
 description: Join the Harmony community!
 date: 2024-01-25
+categories: ["community"]
 image: /images/discord.jpg
 ---
 

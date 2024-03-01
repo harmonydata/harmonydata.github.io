@@ -2,6 +2,7 @@
 title: "News coverage"
 description: Any news coverage about Harmony
 date: 2024-02-21
+categories: ["harmony"]
 image: "/images/world.png"
 ---
 

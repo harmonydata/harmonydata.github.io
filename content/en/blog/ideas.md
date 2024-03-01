@@ -1,6 +1,7 @@
 ---
 title: "Ideas"
 date: 2024-02-04
+categories: ["development"]
 image: "/images/world.png"
 ---
 

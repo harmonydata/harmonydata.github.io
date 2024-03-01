@@ -2,6 +2,7 @@
 title: Developer guide
 description: Want to help develop Harmony?
 date: 2024-02-29
+categories: ["development"]
 image: "images/08- Questionnaire data analysis the smart way.svg"
 ---
 

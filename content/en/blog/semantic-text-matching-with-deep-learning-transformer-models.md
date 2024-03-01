@@ -2,6 +2,7 @@
 title: Semantic Text Matching With Deep Learning Transformer Models
 description: Semantic text matching is a task in natural language processing involving estimating the semantic similarity between two texts. For exam...
 date: 2023-02-08
+categories: ["nlp"]
 image: /images/blog/gad7-becks.jpg
 aliases: ['/blog/semantic-text-matching-with-deep-learning-transformer-models']
 ---

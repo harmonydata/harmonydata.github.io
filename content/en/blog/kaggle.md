@@ -1,6 +1,7 @@
 ---
 title: "Harmony on Kaggle"
 date: 2024-02-01
+categories: ["development"]
 image: "/images/kaggle.jpg"
 aliases: "/kaggle"
 ---

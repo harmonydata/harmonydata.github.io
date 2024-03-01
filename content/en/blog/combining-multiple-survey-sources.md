@@ -3,6 +3,7 @@ title: "Combining Multiple Survey Sources - Best Practices"
 Discription: "In the ever-evolving landscape of data-driven decision-making, the art of harmonizing content from multiple survey sources has become increasingly vital. This blog post delves into the best practices for combining diverse survey datasets, ensuring reliability, validity, and insightful analysis. Drawing on established research methodologies, we aim to guide readers through the intricate process of data integration."
 date: 2024-02-27
 author: "Vidhya Sudani"
+categories: ["data"]
 image: "/images/12- Combining multiple survey sorces - the best practices list.svg"
 
 ---

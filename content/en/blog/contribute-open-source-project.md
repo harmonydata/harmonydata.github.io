@@ -2,6 +2,7 @@
 title: How can I contribute to an open source project?
 description: Semantic text matching is a task in natural language processing involving estimating the semantic similarity between two texts. For exam...
 date: 2024-01-06
+categories: ["development"]
 image: /images/coder.png
 ---
 

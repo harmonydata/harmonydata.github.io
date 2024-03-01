@@ -2,6 +2,7 @@
 title: Running Harmony In Your Browser With No Internet Connection
 description: Here’s a quick start guide to running Harmony. These instructions are for the complete version of Harmony including the graphical browser-based tool which is available onlin...
 date: 2023-07-12
+categories: ["development"]
 image: /images/blog/Screenshot-from-2023-07-12-21-28-48-1536x933.png
 aliases: "/blog/running-harmony-in-your-browser-with-no-internet-connection"
 ---

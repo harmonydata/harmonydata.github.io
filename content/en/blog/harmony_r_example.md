@@ -2,6 +2,7 @@
 title: "Harmony R notebook R markdown example"
 description: R notebook demo of Harmony
 date: 2023-10-01
+categories: ["development"]
 image: "/images/r_studio_screenshot.png"
 ---
 

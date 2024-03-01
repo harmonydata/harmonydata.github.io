@@ -2,6 +2,7 @@
 title: Harmony supports over 8 languages!
 description: How we are handling multiple languages in the Harmony project
 date: 2023-08-19
+categories: ["nlp"]
 image: /images/multilingual.png
 aliases:
 - /harmony-supports-8-languages

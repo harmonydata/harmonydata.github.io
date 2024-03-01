@@ -2,6 +2,7 @@
 title: "Harmonised Data"
 description: "Harmonised data refers to the standardisation of disparate data formats, schemas, and structures across different sources to enable seamless integration and analysis. It's crucial for enhancing data quality, facilitating integration, improving decision-making, and increasing operational efficiency."
 date: 2024-03-26
+categories: ["data"]
 image: "/images/05- What is truly harmonized data - the practical overview.svg"
 
 ---

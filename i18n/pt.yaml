@@ -52,3 +52,9 @@ newsletter_select:
   other: "Por favor, selecione todas as formas como você gostaria de ouvir do projeto Harmony:"
 newsletter_email:
   other: "Inserir endereço de email"
+
+search:
+  other: "Procurar"
+no_results:
+  other: "Nenhum resultado encontrado"
+

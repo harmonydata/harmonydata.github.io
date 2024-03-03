@@ -54,4 +54,11 @@ newsletter_select:
 newsletter_email:
   other: "Enter email address"
 
+search:
+  other: "Seach"
+no_results:
+  other: "No results found"
+
+
+
   

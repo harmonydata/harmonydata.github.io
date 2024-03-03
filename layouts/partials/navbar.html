@@ -10,7 +10,7 @@
   @click.outside="mobile = false">
   <div class="px-6 lg:px-8">
     <div class="mx-auto max-w-7xl py-5 lg:py-8">
-      <div class="flex items-center justify-between lg:justify-start lg:space-x-10">
+      <div class="flex items-center justify-between lg:justify-start lg:space-x-10 relative">
         <div class="flex justify-start lg:w-0 lg:flex-1">
           <a href="{{ "/" | relLangURL }}">
             <span class="sr-only">{{ .Site.Title }}</span>
@@ -120,6 +120,33 @@
           {{ end }}
         </nav>
         <div class="hidden items-center font-medium justify-end lg:flex lg:w-0 lg:flex-1 gap-3">
+          <div x-data="{ dropdown: false }" @click.outside="dropdown = false" class="items-center flex">
+            <button @click="dropdown = ! dropdown" type="button" class="relative dark:text-white hover:text-blue-600 dark:hover:text-aqua-400 text-primary-950">
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+                <path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
+              </svg>
+            </button>
+            <div :class="{ 'flex': dropdown, 'hidden': !(dropdown) }" class="absolute top-16 right-0 hidden items-center flex-1 justify-end">
+              <div class="w-full md:w-80">
+                <div class="w-full">
+                  <label for="search" class="sr-only">Search</label>
+                  <div class="relative">
+                    <input id="search-input" name="search" data-minchars="1" data-maxitems="30"
+                      class="block w-full rounded-md border-0 bg-white py-2.5 px-3 text-slate-900 ring-1 ring-inset ring-primary-800 placeholder:text-primary-800 focus:ring-1 focus:ring-inset focus:ring-primary-950 sm:text-sm sm:leading-6"
+                      placeholder="{{ i18n "search" }}" type="search" autocomplete="off">
+                      <ul class="absolute w-full mt-2 border border-slate-200 rounded-lg text-sm shadow-md bg-white text-slate-600 max-h-96 overflow-y-auto hidden" id="results-container"></ul>
+                  </div>
+                </div>
+              </div>
+              <button @click="mobile = ! mobile" type="button" class="relative lg:hidden ml-4" aria-label="Open navigation">
+                <svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round"
+                  class="h-6 w-6 stroke-slate-500">
+                  <path d="M4 7h16M4 12h16M4 17h16"></path>
+                </svg>
+              </button>
+            </div>
+          </div>
+      
           {{ if .IsTranslated }}
             <div class="relative" x-data="{ lang: false }" @click.outside="lang = false">
               <button @click="lang = ! lang" type="button" class="group relative inline-flex items-center  px-4 py-2 text-left focus:outline-none text-base text-primary-950 dark:text-white hover:text-blue-600 dark:hover:text-aqua-400 hover:bg-primary-50 dark:hover:bg-primary-900 rounded-full" 
@@ -274,3 +301,98 @@ function scrollFunction() {
 }
 </script>
 {{ end }}
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+<script>
+	window.simpleJekyllSearch = new SimpleJekyllSearch({
+		searchInput: document.getElementById('search-input'),
+		resultsContainer: document.getElementById('results-container'),
+		searchResultTemplate: '<li><a class="px-3 py-3 block leading-tight hover:text-blue-600" href="{url}">{title}</a></li>',
+		noResultsText: '<li class="no-results px-3 py-3">{{ i18n "no_results" }}</li>',
+		{{ if eq site.Language.Lang "en" }}
+		json: '{{ "search.json" | relURL }}'
+		{{ else }}
+		json: '{{ (printf "%s%s" site.Language.Lang "/search.json" ) | relURL }}'
+		{{ end }}
+	});
+	
+	searchResults();
+
+  var search = document.getElementById("search-input");
+  var results = document.getElementById("results-container");
+
+  search.addEventListener('input', function() {
+    if (search.value === '') {
+        results.classList.add('hidden');
+    } else {
+        results.classList.remove('hidden');
+    }
+  });
+
+	function searchResults() {
+
+		var currentItem = null;
+		var search = document.getElementById("search-input");
+		var results = document.getElementById( "results-container");
+
+		function removeActive() {
+			for (i = 0; i < results.children.length; i++) {
+				results.children[i].classList.remove("bg-primary-50");
+        results.children[i].classList.remove("text-blue-600");
+			}
+		}
+
+		results.addEventListener("mouseover", function(event) {
+
+			removeActive();
+			event.target.parentElement.classList.add("bg-primary-50");
+      event.target.parentElement.classList.add("text-blue-600");
+			currentItem = null;
+
+		});
+
+		results.addEventListener("mouseout", function(event) {
+			event.target.parentElement.classList.remove("bg-primary-50");
+      event.target.parentElement.classList.remove("text-blue-600");
+		});
+
+
+		search.addEventListener("keyup", function(event) {
+
+			var resultItems = results.children;
+			var resultCount = results.children.length;
+
+			if (event.keyCode === 40) {
+
+				if (currentItem < (resultCount - 1)) {
+					if (currentItem === null) {
+						currentItem = 0;
+					} else {
+						removeActive();
+						currentItem++;
+					}
+					removeActive();
+					resultItems[currentItem].classList.add("bg-primary-50");
+          resultItems[currentItem].classList.add("text-blue-600");
+				}
+
+			} else if (event.keyCode === 38) {
+				if (currentItem > 0) {
+					if (currentItem === null) {
+						currentItem = 0;
+					} else {
+						removeActive();
+						currentItem--;
+					}
+					removeActive();
+					resultItems[currentItem].classList.add("bg-primary-50");
+          resultItems[currentItem].classList.add("text-blue-600");
+				}
+
+			} else if (event.keyCode === 13 && currentItem !== null) {
+        resultItems[currentItem].children[0].click();
+      }
+
+		});
+
+	}
+</script>

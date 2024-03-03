@@ -14,6 +14,17 @@ permalinks:
   categories: "/:slug"
   blog: "/:slug/"
 
+outputFormats:
+  search:
+    baseName: search
+    isPlainText: true
+    mediaType: application/json
+outputs:
+  home:
+    - HTML
+    - RSS
+    - search
+
 markup:
   goldmark:
     renderer:
@@ -40,9 +51,6 @@ languages:
     weight: 1
     menu:
       navbar:
-      - name: Home
-        weight: 10
-        url: /
       - name: News
         weight: 20
         url: /blog/
@@ -175,9 +183,6 @@ languages:
     weight: 2
     menu:
       navbar:
-      - name: Inicio
-        weight: 10
-        url: /
       - name: Noticias
         weight: 20
         url: '/blog/'

@@ -30,7 +30,7 @@ When you've [downloaded the .Rmd file](/harmony_r_example.Rmd), you can open it 
 
 First let's import Harmony. If you haven't already, you need to install it with `install.packages("harmonydata")`.
 
-```{r}
+```
 library(harmonydata)
 ```
 
@@ -38,7 +38,7 @@ Now we can create our instruments.
 
 If you had everything in a PDF or Excel file, you could load the instruments directly from the file: `instrument = load_instruments_from_file(path = "CBCL_GOASSESS.xlsx")`. However, in this example we will code everything directly in the notebook.
 
-```{r}
+```
 cbcl <- list(
 instrument_name = "CBCL",
 questions = list(
@@ -167,7 +167,7 @@ list(question_no = "CBCL_112", question_text="Worries")
 
 Let's create an object for the GOASSESS:
 
-```{r}
+```
 goassess <- list(
 instrument_name = "GOASSESS",
 questions = list(
@@ -289,19 +289,19 @@ list(question_no = "SUI002", question_text="you have thought about killing yours
 
 We can concatenate both objects together:
 
-```{r}
+```
 instruments_list <- list(cbcl, goassess)
 ```
 
 Let's call Harmony to calculate the match:
 
-```{r}
+```
 match = match_instruments(instruments_list)
 ```
 
 Check what has come out of the match:
 
-```{r}
+```
 names(match)
 
 		[1] "questions"        "matches"          "query_similarity"
@@ -309,7 +309,7 @@ names(match)
 ```
 The first question is CBCL question 1.
 
-```{r}
+```
 match$questions[[1]]
 
 
@@ -326,7 +326,7 @@ match$questions[[1]]
 
 The total number of questions are:
 
-```{r}
+```
 length(match$questions)
 
 		[1] 231
@@ -335,7 +335,7 @@ length(match$questions)
 
 The first three entries in the match array are:
 
-```{r}
+```
 match$matches[[1]][c(1,2,3)]
 
 		[[1]]
@@ -353,7 +353,7 @@ match$matches[[1]][c(1,2,3)]
 
 Let's convert to a dataframe so we can export to CSV:
 
-```{r}
+```
 df <- data.frame(match$matches[[1]])
 for (x in 1:length(match$matches)) {
     df[x, ] = match$matches[[x]]
@@ -362,14 +362,14 @@ for (x in 1:length(match$matches)) {
 
 Set the row and column names to something human readable:
 
-```{r}
+```
 colnames(df) <- lapply(match$questions, function(x) paste(x$question_no,  x$question_text , sep=" ") )
 rownames(df) <- lapply(match$questions, function(x) paste(x$question_no,  x$question_text , sep=" ") )
 ```
 
 Now we can save to CSV:
 
-```{r}
+```
 write.csv(df, "matches.csv")
 ```
 

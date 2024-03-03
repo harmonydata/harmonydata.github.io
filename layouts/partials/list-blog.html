@@ -4,7 +4,7 @@
       {{ with .Params }}
         {{ partial "components/superheading.html" . }}
       {{ end }}
-      <h1 class="text-4xl sm:text-5xl lg:text-6xl font-heading font-bold tracking-tight text-blue-950 dark:text-white">{{ if .Params.heading }}{{ .Params.heading | markdownify }}{{ else }}{{ .Title | markdownify }}{{ end }}</h1>
+      <h1 class="text-4xl sm:text-5xl lg:text-6xl font-heading font-bold tracking-tight text-blue-950 dark:text-white{{ if eq .Kind "term" }} capitalize{{ end }}">{{ if .Params.heading }}{{ .Params.heading | markdownify }}{{ else }}{{ .Title | markdownify }}{{ end }}</h1>
       {{ with .Params }}
         {{ partial "components/subheading.html" . }}
       {{ end }}
@@ -15,7 +15,7 @@
     </div>
   </div>
   <div class="mx-auto max-w-md md:max-w-7xl pb-16 lg:pb-24">
-    <div class="mt-10 lg:mt-14 hidden">
+    <div class="mt-10 lg:mt-14">
       {{ partial "nav-categories.html" . }}    
     </div>
     {{ $paginator := .Paginator }}

@@ -3,7 +3,8 @@ title: "Tabulating Questionnaire and Survey Result Data"
 Discription: "Tabulating questionnaires and survey results is an essential skill for researchers, marketers, educators, and many professionals. This process involves organizing and summarizing the collected data to make it understandable and actionable. This article will guide you through the steps of tabulating survey results, including some best practices and a practical exercise to help solidify your understanding."
 date: 2024-03-05
 author: "Vidhya Sudani"
-image: "/images/Tabulating Questionnaire and Survey Result Data.webp"
+categories: ["data"]
+image: "/images/14- How to tabulate questionnaires and survey result data.svg"
 
 ---
 

@@ -2,6 +2,7 @@
 title: "Mastering Survey Data Analysis with Harmony - A Smart Guide"
 description: "Unlock the secrets of survey data with Harmony. Learn how to analyse and harmonise data for insightful decisions in our comprehensive guide."
 date: 2024-04-09
+categories: ["data"]
 image: "/images/world.png"
 ---
 

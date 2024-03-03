@@ -2,6 +2,7 @@
 title: Back To The Future – Retrospectively Harmonizing Questionnaire Data
 description: Now more than ever, the international research community are keen to determine whether their findings replicate across different contexts. For ...
 date: 2022-11-10
+categories: ["psychology"]
 image: /images/blog/to-do-g9c7aee9ed_1920-1536x974.jpg
 aliases: "/blog/back-to-the-future-retrospectively-harmonizing-questionnaire-data"
 ---

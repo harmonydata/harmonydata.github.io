@@ -2,6 +2,7 @@
 title: Troubleshooting Harmony
 description: How to fix problems in Harmony
 date: 2023-12-07
+categories: ["harmony"]
 image: /images/troubleshooting.png
 ---
 

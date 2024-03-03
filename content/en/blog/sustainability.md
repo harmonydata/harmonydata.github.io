@@ -2,6 +2,7 @@
 title: Making Harmony sustainable long-term
 description: How we can make sure the Harmony project survives after the Wellcome Trust Mental Health Data Prize
 date: 2023-11-01
+categories: ["psychology"]
 image: /images/blog/sustainability.png
 aliases: ["/blog/sustainability"]
 ---

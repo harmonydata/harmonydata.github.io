@@ -2,6 +2,7 @@
 title: Share your harmonisations on social media!
 description: Harmony lets you export to other platforms such as Twitter, LinkedIn.
 date: 2023-08-20
+categories: ["harmony"]
 image: /images/share_dialog.png
 ---
 

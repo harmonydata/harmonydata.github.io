@@ -1,6 +1,7 @@
 ---
 title: Harmony Orientation Session
 date: 2024-02-09
+categories: ["harmony"]
 image: /images/discord2.jpg
 ---
 

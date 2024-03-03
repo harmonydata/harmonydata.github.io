@@ -2,6 +2,7 @@
 title: The importance of marketing for open science
 description: How we are approaching marketing in the Harmony project
 date: 2023-01-15
+categories: ["harmony"]
 image: /images/blog/marketing.jpg
 aliases:
   - "/blog/marketing/"

@@ -3,6 +3,7 @@ title: "What is Truly Harmonized Data: A Practical Overview"
 description: "Harmonized data refers to the standardization of disparate data formats, schemas, and structures across different sources to enable seamless integration and analysis. It's crucial for enhancing data quality, facilitating integration, improving decision-making, and increasing operational efficiency."
 date: 2024-02-13
 author: "Vidhya Sudani"
+categories: ["data"]
 image: "/images/05- What is truly harmonized data - the practical overview.svg"
 
 ---

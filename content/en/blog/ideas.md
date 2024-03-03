@@ -1,6 +1,7 @@
 ---
 title: "Ideas"
 date: 2024-02-04
+categories: ["development"]
 image: "/images/world.png"
 ---
 
@@ -264,6 +265,11 @@ In order to provide a lookup functionality, Harmony would need to index all the 
 **Expected size of the project:** 350 hours
 
 **Difficulty:** hard
+
+
+## Get Likert scale (response options)
+
+TODO: write description
 
 ## Ongoing discussion
 

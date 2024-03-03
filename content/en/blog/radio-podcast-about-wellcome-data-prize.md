@@ -2,6 +2,7 @@
 title: Radio Podcast About Wellcome Data Prize
 description: Wellcome Data Prize Featured on Smile 90.4FM
 date: 2023-02-11
+categories: ["harmony"]
 image: /images/blog/pexels-scott-webb-29049.jpg
 ---
 

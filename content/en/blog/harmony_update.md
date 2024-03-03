@@ -2,6 +2,7 @@
 title: "Harmony update: new features and bug fixes"
 description: "Harmony update: new features and bug fixes"
 date: 2023-10-04
+categories: ["development"]
 image: "/images/blog/Screenshot-from-2023-07-12-21-28-48-1536x933.png"
 ---
 

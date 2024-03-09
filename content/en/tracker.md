@@ -1,9 +1,5 @@
 ---
 title: Harmony issue tracker
-description: Want to track issues on Harmony's development?
-date: 2024-03-01
-categories: ["development"]
-image: "images/08- Questionnaire data analysis the smart way.svg"
 ---
 
 # Tracking Harmony issues and raising feedback

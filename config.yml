@@ -69,14 +69,22 @@ languages:
         parent: Help
         weight: 10
         url: /frequently-asked-questions/
-      - name: User guidance
+      - name: User guide
         parent: Help
         weight: 20
         url: /formatting-help/
-      - name: Videos
+      - name: Developer guide
         parent: Help
         weight: 30
-        url: /formatting-help/
+        url: /developer-guide/
+      - name: Issue tracker
+        parent: Help
+        weight: 50
+        url: /harmony-issue-tracker/
+      - name: Videos
+        parent: Help
+        weight: 60
+        url: /videos/
       - name: About
         weight: 60
       - name: Contact

@@ -54,12 +54,4 @@ blocks:
 ---
 
 
-## Media coverage
-
-#### Here is an interesting radio programme about the Wellcome Trust Data Prize in mental health from the South African radio station Fabrik FM.
-
-{{< htmlcode >}}
-
-<iframe id="inlineFrameExample" title="Inline Frame Example" src="https://echocast.fabrik.fm/9qY6RR97RmW37q" width="300" height="400" style="box-sizing: border-box; border: none; font-size: 17px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; max-width: 100%; width: 550px; line-height: 1;"></iframe>
-{{< /htmlcode >}}
 

@@ -54,9 +54,6 @@ languages:
       - name: News
         weight: 20
         url: /blog/
-      - name: Videos
-        weight: 30
-        url: /videos/
       - name: Community
         weight: 40
         url: /community
@@ -66,9 +63,20 @@ languages:
         url: /ada/
         parent: Case studies
         weight: 10
-      - name: FAQ
+      - name: Help
         weight: 50
+      - name: FAQ
+        parent: Help
+        weight: 10
         url: /frequently-asked-questions/
+      - name: User guidance
+        parent: Help
+        weight: 20
+        url: /formatting-help/
+      - name: Videos
+        parent: Help
+        weight: 30
+        url: /formatting-help/
       - name: About
         weight: 60
       - name: Contact

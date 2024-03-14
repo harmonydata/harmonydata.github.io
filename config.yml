@@ -80,7 +80,7 @@ languages:
       - name: Issue tracker
         parent: Help
         weight: 50
-        url: /harmony-issue-tracker/
+        url: /tracker/
       - name: Videos
         parent: Help
         weight: 60

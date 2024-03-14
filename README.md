@@ -32,8 +32,16 @@ So if your blog post has an image called `dog.jpg`, put it in `assets/images/dog
 
 Each time you upload a document to the `main` branch, Github Actions/Github Pages will automatically rebuild the site. So if possible try to make only the minimum number of edits as any change triggers the rebuild process, which lasts about 3 minutes. 
 
-### CTA Link Shorcode
+### CTA Link Shortcode
+
+We have a "call-to-action" button which can appear on a page.
+
+![cta](./assets/images/cta.png)
+
+Here's how to use it:
+
 #### Card
+
 ```
 {{< card heading="Lorem" copy="Descriptive text goes here." url="/docs/" >}}
 ```

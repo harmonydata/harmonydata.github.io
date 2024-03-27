@@ -1,16 +1,16 @@
 ---
-title: "Harmony Hackathon on 2 June"
+title: "Harmony Hackathon on 3 June"
 date: 2024-03-27
 categories: ["development"]
 image: "/images/coder.png"
-aliases: "/hackathon"
+url: "/hackathon"
 ---
 
 ## Harmony is planning a hackathon!
 
 We are planning a hackathon in London on 3 June. Sign up and we will contact you with the details!
 
-In the meantime, feel free to join our [community](/community) on Discord, check out the [ideas list](/ideas) and try our [Kaggle competition](/kaggle)!
+In the meantime, feel free to join our [community](/community) on Discord, check out the [ideas list](/ideas) and try our [Kaggle competition](/kaggle)!	
 
 {{< htmlcode >}}
 

@@ -2,6 +2,13 @@
 title: Community
 ---
 
+## Sign up for our upcoming hackathon!
+
+{{< grid columns="2" >}}
+  {{< card heading="Hackathon" copy="Sign up for a hackathon!" url="/hackathon" >}}
+  {{< card heading="Try Kaggle" copy="Try your hand at our competition" url="https://www.kaggle.com/competitions/harmony-pdf-and-word-questionnaires-extract" >}}
+{{< /grid >}}
+
 ## Join the Harmony community on Discord!
 
 Join our [Discord server](https://discord.com/invite/harmonydata)

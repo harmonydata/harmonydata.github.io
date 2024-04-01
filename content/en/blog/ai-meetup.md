@@ -9,6 +9,8 @@ date: 2024-03-22
 
 **Update: you can download the slides from the presentation [here](/20240327-harmony-aicamp-nlp-presentation.pdf)**
 
+{{< youtube MpZLl9gTEIw >}}
+
 We're pleased to announce that **Harmony** will be showcased at the upcoming **AICamp AI Meetup in London** on **27 March**.
 
 You are invited to AICamp's monthly in-person AI meetup in London. Join us for deep dive tech talks on AI, GenAI, LLMs and machine learning, food/drink, networking with speakers and fellow developers

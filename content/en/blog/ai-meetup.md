@@ -21,7 +21,7 @@ Speaker: [Thomas Wood](https://freelancedatascientist.net/) ([Fast Data Science]
 
 Location: [Cathedral View, Carlisle Place, St. Vincents Centre, London, SW1P 1NL](https://maps.app.goo.gl/nQ2JtXF7E9hZVTY87)
 
-Date: 27 March 2024
+Date: **27 March 2024**
 
 Abstract: In this talk, Thomas will discuss AI for social sciences research and how to build a research tool with NLP and AI with open source tool Harmony, funded by [Wellcome Trust](https://wellcome.org) with [Social Finance](https://www.socialfinance.org.uk/) and developed with [Ulster University](https://ulster.ac.uk), [UCL](https://ucl.ac.uk) and [Universidade Federal de Santa Maria in Brazil](https://ufsm.br).
 

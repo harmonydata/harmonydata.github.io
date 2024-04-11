@@ -12,6 +12,8 @@ We are planning a hackathon in London on 3 June. Sign up and we will contact you
 
 In the meantime, feel free to join our [community](/community) on Discord, check out the [ideas list](/ideas) and try our [Kaggle competition](/kaggle)!
 
+You can find information in the hackathon repository: https://github.com/harmonydata/hackathon
+
 Sign up link is coming up on Eventbrite soon!
 
 * When: 3 June 2024, registration starts at 9:00 am

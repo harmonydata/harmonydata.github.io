@@ -19,6 +19,13 @@ Harmony utilizes natural language processing and generative AI models to harmoni
 
 With Harmony, comparisons of CES-D vs GAD-7 are streamlined, as the software provides a percentage match between each item in both questionnaires.
 
+
+{{< htmlcode >}}
+<img src="/images/gad-7-scanned-min.webp" />
+{{< /htmlcode >}}
+
+
+
 Furthermore, Harmony's intuitive and user-friendly interface allows you to drag and drop your own instruments, like the CES-D or GAD-7, in PDF format, making CES-D vs GAD-7 comparisons seamless and hassle-free. Harmony's large database also allows you to select your instruments of interest directly. Not only does Harmony solve the problem of language discrepancies, but it also simplifies questionnaire comparisons within and across different studies, supporting more valid and reliable research findings. Verifying consistency and examining differential responses to social environments across multiple studies becomes achievable with Harmony.
 
 In conclusion, the implementation of Harmony in mental health research holds immense promise. The CES-D vs GAD-7 comparison, among other potential harmonizations, becomes simpler, more efficient, and less error-prone. This tool, therefore, is essential for professionals seeking to optimize their research processes and meet the exponentially growing demands of today's mental health field.

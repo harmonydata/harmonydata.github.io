@@ -7,7 +7,7 @@ on:
     branches: ["master"]
 
   schedule:
-    - cron: "0 0 7 * * *"   # <=== automatically redeploy 7am UTC
+    - cron: "0 7 * * *"   # <=== automatically redeploy 7am UTC
     
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:

@@ -1,6 +1,6 @@
 ---
 title: "Harmony Hackathon on 3 June"
-date: 2024-03-27
+date: 2024-04-22
 categories: ["development"]
 image: "/images/coder.png"
 url: "/hackathon"
@@ -8,16 +8,18 @@ url: "/hackathon"
 
 ## Harmony is planning a hackathon!
 
-We are planning a hackathon in London on 3 June. Sign up and we will contact you with the details!
+We are planning a hackathon in London on 3 June. [You can sign up on Eventbrite](https://www.eventbrite.com/e/harmony-hackathon-tickets-887795278577)!
 
 In the meantime, feel free to join our [community](/community) on Discord, check out the [ideas list](/ideas) and try our [Kaggle competition](/kaggle)!
 
 You can find information in the hackathon repository: https://github.com/harmonydata/hackathon
 
-Sign up link is coming up on Eventbrite soon!
+{{< card heading="Register for the Harmony hackathon" copy="Sign up on Eventbrite" url="https://www.eventbrite.com/e/harmony-hackathon-tickets-887795278577" >}}
 
 * When: 3 June 2024, registration starts at 9:00 am
 * Where: University College London, Room B02 in [Chandler House](https://www.ucl.ac.uk/pals/contact/how-find-chandler-house), 2 Wakefield St, London WC1N 1PF
+
+
 
 {{< htmlcode >}}
 

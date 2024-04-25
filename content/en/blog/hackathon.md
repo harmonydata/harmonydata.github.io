@@ -2,7 +2,7 @@
 title: "Harmony Hackathon on 3 June"
 date: 2024-04-22
 categories: ["development"]
-image: "/images/Hackathon Banner.png.png"
+image: "/images/Hackathon Banner.png"
 url: "/hackathon"
 ---
 

@@ -72,5 +72,7 @@ What you have achieved; key outputs; next steps
 ---
 
 
+{{< card heading="Register for the Harmony hackathon" copy="Sign up on Eventbrite" url="https://www.eventbrite.com/e/harmony-hackathon-tickets-887795278577" >}}
+
 
 

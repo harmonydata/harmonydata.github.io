@@ -60,22 +60,14 @@ Ideas of the problems that we will be solving are [here](https://harmonydata.ac.
 
 ---
 * 09:00 - Registration
--- 
 * 09:30 - 10:00 - Welcome talk and introductions from Thomas Wood (Fast Data Science) and Bettina Moltrecht (UCL)
---
 * 10:00 – 12:15 - Breakout groups - Begin working on projects
---
 * 12:30 - 13:30 - Lunch break
---
 * 13:30-15:15 - Breakout groups - Continue working on projects
---
 * 15:15-15:30 - Write up; push to GitHub
---
 * 15:30-16:30 - Group presentations - 3 minutes per group; show us your notebooks! 😊
 What you have achieved; key outputs; next steps
---
 * 16:30-17:00 - Close of the Hackathon, feedback and next steps
---
 * 18:00 - Drinks in a pub!
 ---
 

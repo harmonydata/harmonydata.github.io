@@ -56,7 +56,11 @@ This Hackathon is to improve Harmony in general and we would like help with a nu
 Ideas of the problems that we will be solving are [here](https://harmonydata.ac.uk/ideas) 
 
 
-**On the day:**
+{{< youtube 1xp3Uh6dptg >}}
+
+*Video tutorial on how to install Harmony front end and API*
+
+## On the day:
 
 ---
 * 09:00 - Registration with tea, coffee and pastries  
@@ -72,7 +76,15 @@ What you have achieved; key outputs; next steps
 ---
 
 
+
+
+
 {{< card heading="Register for the Harmony hackathon" copy="Sign up on Eventbrite" url="https://www.eventbrite.com/e/harmony-hackathon-tickets-887795278577" >}}
 
 
 
+
+
+{{< youtube Okk8tUMDr6g >}}
+
+*Video tutorial on how to install Harmony Python library*

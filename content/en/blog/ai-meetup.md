@@ -23,6 +23,8 @@ Location: [Cathedral View, Carlisle Place, St. Vincents Centre, London, SW1P 1NL
 
 Date: **27 March 2024**
 
+{{< image src="/images/20240327-thomas-wood-ai-camp-harmony.jpg" alt="Thomas Wood presenting Harmony at AI Camp on 27 March 2024" title="Thomas Wood presenting Harmony at AI Camp on 27 March 2024" >}}
+
 Abstract: In this talk, Thomas will discuss AI for social sciences research and how to build a research tool with NLP and AI with open source tool Harmony, funded by [Wellcome Trust](https://wellcome.org) with [Social Finance](https://www.socialfinance.org.uk/) and developed with [Ulster University](https://ulster.ac.uk), [UCL](https://ucl.ac.uk) and [Universidade Federal de Santa Maria in Brazil](https://ufsm.br).
 
 {{< card heading="Attend" copy="Sign up on AICamp website" url="https://www.aicamp.ai/event/eventdetails/W2024032710" >}}

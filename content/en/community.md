@@ -23,6 +23,10 @@ You can also follow us on [Twitter](https://twitter.com/harmony_data), [LinkedIn
 The more people join, the higher our Discord will rank and the easier it is to bring more people on board the project!
 
 
+{{< htmlcode >}}
+<iframe src="https://discord.com/widget?id=1199135364217061476&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+{{< /htmlcode >}}
+
 ## Joining the team
 
 If you'd like to join Harmony you can fill out the form below or message us on Discord to introduce yourself.

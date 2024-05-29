@@ -1,5 +1,5 @@
 ---
-title: "Upcoming Tech Talk at AICamp meetup"
+title: "Harmony at Lifecourse seminar"
 categories: ["data"]
 image: "/images/lifecourse.jpg"
 date: 2024-05-15

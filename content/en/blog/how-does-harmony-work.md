@@ -19,9 +19,9 @@ Harmony uses techniques from the field of [natural language processing](https://
 
 There are a number of approaches to quantify the [similarity](https://fastdatascience.com/finding-similar-documents-nlp) between strings of text. The simplest approach is known as the Bag-of-Words approach. This is *not* how Harmony currently works, but it is one of the first things we tried!
 
-If we want to compare the GAD-7 question 4 (*Trouble relaxing*) to the Beck’s Anxiety Inventory question 4 (*Unable to relax*), we would break down each text into the words present. We usually remove suffixes like *ing* at this stage (this is called lemmatisation).
+If we want to compare the [GAD-7](/ces-d-vs-gad-7) question 4 (*Trouble relaxing*) to the [Beck](/harmonisation-validation/beck-depression-inventory-ii-bdi-ii)’s Anxiety Inventory question 4 (*Unable to relax*), we would break down each text into the words present. We usually remove suffixes like *ing* at this stage (this is called lemmatisation).
 
-|            | GAD-7 Q4 | Beck Q4 |
+|            | [GAD-7](/gad-7-vs-ghq-12) Q4 | Beck Q4 |
 | ---------- | -------- | ------- |
 | trouble    | 1        | 0       |
 | relax(ing) | 1        | 1       |
@@ -44,7 +44,7 @@ The obvious drawbacks of the Jaccard method are that
 - It ignores syntax (the order of the words in the texts).
 - It cannot cope with synonyms.
 - It won’t notice negation (*I was not happy* and *I was very happy* both equally match *you were happy*).
-- Most crucially, our remit for the Harmony [project](https://fastdatascience.com/starting-a-data-science-project) is that we want to harmonise data from different languages, such as Portuguese and English. Clearly the bag-of-words approach would not work when the texts are in different languages, unless you translated them first.
+- Most crucially, our remit for the Harmony [project](https://fastdatascience.com/starting-a-data-science-project) is that we want to harmonise data from different [languages](/harmony-supports-over-8-languages), such as Portuguese and English. Clearly the bag-of-words approach would not work when the texts are in different languages, unless you translated them first.
 
 {{< image src="images/blog/Jaccard-checklist.drawio-min-768x634.png" alt="Jaccard checklist" >}}
 

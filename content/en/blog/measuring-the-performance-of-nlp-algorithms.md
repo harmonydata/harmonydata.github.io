@@ -7,7 +7,7 @@ image: /images/blog/roc.png
 aliases: "/blog/measuring-the-performance-of-nlp-algorithms/"
 ---
 
-_Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: childhood **84%**, adulthood **80%**. Harmony was able to match the questions of the English and Portuguese [GAD-7](https://adaa.org/sites/default/files/GAD-7_Anxiety-updated_0.pdf) instruments with AUC **100%** and the Portuguese [CBCL](https://www.apa.org/depression-guideline/child-behavior-checklist.pdf) and SDQ with AUC **89%**. Harmony was also evaluated using a variety of transformer models including MentalBERT, a publicly available pretrained language model for the mental [healthcare](https://fastdatascience.com/the-use-of-ai-in-healthcare) domain._
+_Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: childhood **84%**, adulthood **80%**. Harmony was able to match the questions of the English and Portuguese [GAD-7](https://adaa.org/sites/default/files/GAD-7_Anxiety-updated_0.pdf) instruments with AUC **100%** and the Portuguese [CBCL](https://www.apa.org/depression-guideline/child-behavior-checklist.pdf) and [SDQ](/ces-d-vs-sdq) with AUC **89%**. Harmony was also evaluated using a variety of transformer models including MentalBERT, a publicly available pretrained language model for the mental [healthcare](https://fastdatascience.com/the-use-of-ai-in-healthcare) domain._
 
 The content of this blog post has been written up as a [preprint for publication on OSF](https://osf.io/9x5ej).
 
@@ -31,13 +31,13 @@ A screenshot of the harmonisation tool by McElroy et al (2020). You can download
 
 Since Harmony’s purpose is to automate, or at least facilitate, the production of harmonisation tools such as this, an easy way to validate Harmony’s output is to give Harmony this data and check that Harmony produces something similar to the existing tool.
 
-The existing tool by McElroy et al has a section for adult mental health questionnaires, and another section for child questionnaires. I decided to treat these two as separate validation datasets.
+The existing tool by McElroy et al has a section for adult mental health questionnaires, and another section for child questionnaires. I decided to treat these two as separate [validation](/harmonisation-validation/clinical-global-impression-of-change-cgic) datasets.
 
 ### Can Harmony match text in different languages?
 
-In order to test Harmony’s multilingual capabilities, I also added the seven questions of the GAD-7 in English and Portuguese. If Harmony was able to correctly match all seven questions, this shows how Harmony can handle multilingual text.
+In order to test Harmony’s multilingual capabilities, I also added the seven questions of the [GAD-7](/gad-7-vs-ghq-12) in English and Portuguese. If Harmony was able to correctly match all seven questions, this shows how Harmony can handle multilingual text.
 
-Finally, I included a similar Portuguese-only harmonisation tool listing commonalities between the SDQ (Strengths and Difficulties Questionnaire) and CBCL (The Child Behavior Checklist) compiled by Hoffmann et al to validate the Portuguese monolingual performance.
+Finally, I included a similar Portuguese-only harmonisation tool listing commonalities between the [SDQ](/ghq-12-vs-sdq) (Strengths and Difficulties Questionnaire) and CBCL (The Child Behavior Checklist) compiled by Hoffmann et al to validate the Portuguese monolingual performance.
 
 ### Overview of the validation dataset
 
@@ -47,7 +47,7 @@ The validation dataset can be broken down as follows
 | -------------------------------- | --------------------- | ------------------------------------------ |
 | Childhood McElroy et al          | 47                    | 23                                         |
 | Adulthood McElroy et al          | 28                    | 16                                         |
-| GAD-7 English vs Portuguese      | 2                     | 7                                          |
+| [GAD-7](/ces-d-vs-gad-7) English vs Portuguese      | 2                     | 7                                          |
 | BHRCS SDQ/CBCL (Portuguese only) | 2                     | 73                                         |
 
 Breakdown of my validation dataset
@@ -104,7 +104,7 @@ Overall, the smallest spaCy English and Portuguese models performed worse than t
 
 This is to be expected, as we would not expect the English and Portuguese word vectors to be at all equivalent.
 
-I then tried the large spaCy model, using the English version for both languages. This performed marginally better.
+I then tried the large spaCy model, using the English version for both [languages](/harmony-supports-over-8-languages). This performed marginally better.
 
 {{< image src="images/blog/Model-4-1536x1303.png" alt="Model 4" >}}
 

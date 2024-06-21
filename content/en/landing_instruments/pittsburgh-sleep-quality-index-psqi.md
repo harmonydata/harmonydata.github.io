@@ -8,7 +8,14 @@ url: /harmonisation-validation/pittsburgh-sleep-quality-index-psqi
 
 The Pittsburgh Sleep Quality Index (PSQI) is a self-rated questionnaire that is widely used by researchers to measure overall sleep quality. It consists of 19 questions that assess different aspects of sleep, such as bedtime, sleep duration, sleep disturbances, and daytime dysfunction. The scores from these questions are then combined to yield a global score, which ranges from 0-21, with higher scores indicating poorer sleep quality.
 
+{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Pittsburgh Sleep Quality Index (PSQI) " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 There are many other instruments that are used to measure sleep quality and researchers may want to compare their results with the PSQI. However, manually comparing and harmonising these instruments can be a time-consuming and subjective process. This is where Harmony can help.
+
+* [Harmony: A Free AI Tool to Combine Cohort Studies](/item-harmonisation/harmony-a-free-ai-tool-to-combine-cohort-studies)
+* [Validation and Harmonisation of AIM (Acceptability of Intervention Measure) score](/harmonisation-validation/aim-acceptability-of-intervention-measure-score)
+* [Validation and Harmonisation of Columbia-Suicide Severity Rating Scale (C-SSRS)](/harmonisation-validation/columbia-suicide-severity-rating-scale-c-ssrs)
 
 Harmony uses natural language processing and generative AI models to compare instruments, including the PSQI, and provide a percentage match between each item. Researchers can either select instruments from Harmony's database or upload their own instruments in PDF form to compare.
 
@@ -21,9 +28,9 @@ In conclusion, Harmony is a valuable tool for psychologists and social scientist
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Pittsburgh Sleep Quality Index (PSQI) " title=" Validation and Harmonisation of Pittsburgh Sleep Quality Index (PSQI) " >}}
 
-{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Pittsburgh Sleep Quality Index (PSQI) " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

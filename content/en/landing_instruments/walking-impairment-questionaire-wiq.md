@@ -8,7 +8,14 @@ url: /harmonisation-validation/walking-impairment-questionaire-wiq
 
 The Walking Impairment Questionnaire (WIQ) is a disease-specific instrument used to assess walking ability through a questionnaire. It is often used as an alternative to treadmill testing and is commonly used in studies involving patients with Peripheral Artery Disease (PAD) and/or intermittent claudication.
 
+{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Walking Impairment Questionaire (WIQ) " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 Harmony can play a crucial role in the validation and harmonisation of the WIQ with other instruments. As mentioned before, validation is the process of determining the degree to which an instrument accurately measures what it is intended to measure. In the case of the WIQ, this means assessing whether it accurately measures walking ability in patients with PAD and/or intermittent claudication.
+
+* [CES-D vs GAD-7](/ces-d-vs-gad-7)
+* [Validation and Harmonisation of Berg Balance Scale](/harmonisation-validation/berg-balance-scale)
+* [GAD-7 vs PHQ-9](/gad-7-vs-phq-9)
 
 Harmony can help with this by comparing the items in the WIQ with items in other instruments commonly used to measure walking ability, such as the 6-minute walk test or the Timed Up and Go test. By using its large language models, Harmony can identify the level of match between the WIQ items and the items in these other instruments. This can provide valuable information on the validity of the WIQ and its ability to accurately measure walking ability.
 
@@ -19,9 +26,9 @@ In summary, Harmony can aid researchers in the validation and harmonisation of t
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Walking Impairment Questionaire (WIQ) " title=" Validation and Harmonisation of Walking Impairment Questionaire (WIQ) " >}}
 
-{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Walking Impairment Questionaire (WIQ) " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

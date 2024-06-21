@@ -8,7 +8,14 @@ url: /harmonisation-validation/patient-reported-outcome-measure-information-syst
 
 The Patient-reported Outcome Measure Information System (PROMIS) Anxiety subscale is a commonly used measure of anxiety symptoms in research and clinical settings. It consists of four items that assess different aspects of anxiety, such as worry, fear, and trouble relaxing.
 
+{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Patient-reported Outcome Measure Information System (PROMIS) Anxiety subscale " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 Harmony can assist researchers in validating the PROMIS Anxiety subscale by comparing it with other well-established instruments for anxiety, such as the Generalized Anxiety Disorder-7 (GAD-7) and the Patient Health Questionnaire-9 (PHQ-9). By using Harmony's natural language processing and AI models, researchers can compare the items in the PROMIS Anxiety subscale with those in the GAD-7 and PHQ-9 to determine their level of similarity and validity.
+
+* [CES-D vs SDQ](/ces-d-vs-sdq)
+* [Validation and Harmonisation of Loe & Silness Gingival Index](/harmonisation-validation/loe-silness-gingival-index)
+* [Validation and Harmonisation of Patient-reported Outcome Measure Information System (PROMIS) Anxiety subscale](/harmonisation-validation/patient-reported-outcome-measure-information-system-promis-anxiety-subscale)
 
 Harmony can also be used for harmonisation of the PROMIS Anxiety subscale with other instruments. This means that researchers can compare the items in the PROMIS Anxiety subscale with similar items in other instruments, and establish crosswalks or mappings between them. This can help researchers to better understand the relationship between different measures of anxiety and potentially use them interchangeably in their studies.
 
@@ -17,9 +24,9 @@ By using Harmony, researchers can save time and resources in the process of vali
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Patient-reported Outcome Measure Information System (PROMIS) Anxiety subscale " title=" Validation and Harmonisation of Patient-reported Outcome Measure Information System (PROMIS) Anxiety subscale " >}}
 
-{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Patient-reported Outcome Measure Information System (PROMIS) Anxiety subscale " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

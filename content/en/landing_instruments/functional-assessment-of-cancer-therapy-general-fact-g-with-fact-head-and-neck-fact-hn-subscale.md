@@ -8,7 +8,14 @@ url: /harmonisation-validation/functional-assessment-of-cancer-therapy-general-f
 
 The Functional Assessment of Cancer Therapy-General (FACT-G) is a widely used instrument for assessing quality of life (QOL) and functional status in cancer patients. It consists of 27 questions that assess four subscales: physical well-being, social well-being, emotional well-being, and functional well-being.
 
+{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Functional Assessment of Cancer Therapy-General (FACT-G) with FACT-Head and Neck (FACT-HN) subscale " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 The FACT-Head and Neck (FACT-HN) subscale is a supplement to the FACT-G that focuses specifically on the impact of head and neck cancer on QOL and functional status. It consists of 39 questions that assess the same four subscales as the FACT-G.
+
+* [Validation and Harmonisation of Quickley-Hein plaque index (PI)](/harmonisation-validation/quickley-hein-plaque-index-pi)
+* [Validation and Harmonisation of Comprehensive Psychopathological Rating Scale (CPRS)](/harmonisation-validation/comprehensive-psychopathological-rating-scale-cprs)
+* [Validation and Harmonisation of Functional Assessment of Cancer Therapy-General (FACT-G) with FACT-Head and Neck (FACT-HN) subscale](/harmonisation-validation/functional-assessment-of-cancer-therapy-general-fact-g-with-fact-head-and-neck-fact-hn-subscale)
 
 To validate the FACT-G with FACT-HN subscale, researchers may want to compare it with other instruments that measure similar constructs. This is where Harmony can be useful.
 
@@ -23,9 +30,9 @@ Overall, Harmony can aid in the validation and harmonisation of the FACT-G with 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Functional Assessment of Cancer Therapy-General (FACT-G) with FACT-Head and Neck (FACT-HN) subscale " title=" Validation and Harmonisation of Functional Assessment of Cancer Therapy-General (FACT-G) with FACT-Head and Neck (FACT-HN) subscale " >}}
 
-{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Functional Assessment of Cancer Therapy-General (FACT-G) with FACT-Head and Neck (FACT-HN) subscale " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

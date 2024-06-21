@@ -8,7 +8,14 @@ url: /harmonisation-validation/contact-lens-user-experience-clue
 
 The Contact Lens User Experience (CLUE) is a validated patient-reported outcomes (PRO) questionnaire used to assess patient-experience attributes of soft contact lenses in a contact-lens wearing population. It measures aspects such as comfort, vision, handling, and packaging to determine the overall user experience.
 
+{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Contact Lens User Experience (CLUE) " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 Harmony, as a tool for harmonisation, can assist researchers in validating the CLUE or comparing it to other instruments. Here are some ways Harmony can help with this process:
+
+* [Validation and Harmonisation of Columbia-Suicide Severity Rating Scale (C-SSRS)](/harmonisation-validation/columbia-suicide-severity-rating-scale-c-ssrs)
+* [Validation and Harmonisation of Clinician-Administered PTSD Scale (CAPS)](/harmonisation-validation/clinician-administered-ptsd-scale-caps)
+* [CES-D vs SDQ](/ces-d-vs-sdq)
 
 1. Database of Instruments: Harmony has a database of instruments where researchers can select the CLUE and other instruments they want to compare. This makes it easier for researchers to find and select the relevant instruments for their study.
 
@@ -23,9 +30,9 @@ Overall, Harmony can save researchers time and effort in the process of validati
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Contact Lens User Experience (CLUE) " title=" Validation and Harmonisation of Contact Lens User Experience (CLUE) " >}}
 
-{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Contact Lens User Experience (CLUE) " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

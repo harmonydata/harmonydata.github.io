@@ -8,7 +8,14 @@ url: /harmonisation-validation/bristol-stool-scale
 
 The Bristol Stool Scale is a medical tool designed to classify the form of human feces into seven categories or types, ranging from constipation to diarrhea. It is used to assess the health and well-being of individuals and is often used in clinical settings.
 
+{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Bristol Stool Scale " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 In order to fully utilize the Bristol Stool Scale and its potential for longitudinal studies, researchers may want to validate its effectiveness in measuring changes over time. This is where Harmony can be helpful.
+
+* [CES-D vs GAD-7](/ces-d-vs-gad-7)
+* [Validation and Harmonisation of Insomnia Severity Index (ISI)](/harmonisation-validation/insomnia-severity-index-isi)
+* [Validation and Harmonisation of Quickley-Hein plaque index (PI)](/harmonisation-validation/quickley-hein-plaque-index-pi)
 
 Harmony uses natural language processing and AI models to compare and harmonise items from different instruments. Using Harmony, researchers can easily compare the variables in the Bristol Stool Scale with those in other instruments and establish crosswalks between them.
 
@@ -19,9 +26,9 @@ Overall, Harmony can provide a more efficient and reliable way for researchers t
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Bristol Stool Scale " title=" Validation and Harmonisation of Bristol Stool Scale " >}}
 
-{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Bristol Stool Scale " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

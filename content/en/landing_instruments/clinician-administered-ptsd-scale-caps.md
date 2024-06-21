@@ -8,7 +8,14 @@ url: /harmonisation-validation/clinician-administered-ptsd-scale-caps
 
 The Clinician Administered PTSD Scale (CAPS) is a structured clinical interview used to assess symptoms of Posttraumatic Stress Disorder (PTSD). It consists of 30 items that measure the frequency and intensity of specific PTSD symptoms and has been widely used in research and clinical settings.
 
+{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Clinician Administered PTSD Scale (CAPS) " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 Harmony can assist researchers in two important ways when it comes to the CAPS: validation and harmonisation.
+
+* [Validation and Harmonisation of Penn Alcohol Craving Scale (PACS)](/harmonisation-validation/penn-alcohol-craving-scale-pacs)
+* [GAD-7 vs PHQ-9](/gad-7-vs-phq-9)
+* [Validation and Harmonisation of Quickley-Hein plaque index (PI)](/harmonisation-validation/quickley-hein-plaque-index-pi)
 
 ## Validation
 Validation is the process of assessing the degree to which an instrument measures what it intends to measure. In other words, it determines if the CAPS is accurately capturing the construct of PTSD.
@@ -25,9 +32,9 @@ Overall, Harmony's abilities in terms of validation and harmonisation can greatl
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Clinician Administered PTSD Scale (CAPS) " title=" Validation and Harmonisation of Clinician Administered PTSD Scale (CAPS) " >}}
 
-{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Clinician Administered PTSD Scale (CAPS) " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

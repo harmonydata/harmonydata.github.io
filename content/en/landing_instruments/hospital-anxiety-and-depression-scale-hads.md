@@ -8,7 +8,14 @@ url: /harmonisation-validation/hospital-anxiety-and-depression-scale-hads
 
 The Hospital Anxiety and Depression Scale (HADS) is a widely used self-report tool that measures symptoms of anxiety and depression in clinical and non-clinical populations.
 
+{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Hospital Anxiety and Depression Scale (HADS) " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 Harmony can assist researchers in validating the HADS by comparing it with other established instruments that measure similar constructs, such as the GAD-7 and PHQ-9.
+
+* [Validation and Harmonisation of Insomnia Severity Index (ISI)](/harmonisation-validation/insomnia-severity-index-isi)
+* [Validation and Harmonisation of Clinical Global Impression of Change (CGIC)](/harmonisation-validation/clinical-global-impression-of-change-cgic)
+* [Validation and Harmonisation of Hamilton depression rating scale](/harmonisation-validation/hamilton-depression-rating-scale)
 
 Through its use of natural language processing and generative AI models, Harmony can identify items that are similar or highly correlated across different instruments, helping researchers establish crosswalks and harmonise the HADS with other instruments.
 
@@ -19,9 +26,9 @@ Overall, by using Harmony, researchers can easily compare the HADS with other in
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Hospital Anxiety and Depression Scale (HADS) " title=" Validation and Harmonisation of Hospital Anxiety and Depression Scale (HADS) " >}}
 
-{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Hospital Anxiety and Depression Scale (HADS) " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

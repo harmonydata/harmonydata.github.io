@@ -8,7 +8,14 @@ url: /harmonisation-validation/numeric-pain-rating-scale-nprs
 
 The Numeric Pain Rating Scale (NPRS) is a commonly used instrument in the field of pain assessment. It is a 0-10 scale, with 0 representing no pain and 10 representing the worst imaginable pain. It is a self-report measure and is typically used to assess pain intensity.
 
+{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Numeric Pain Rating Scale (NPRS) " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 When using the NPRS, researchers may want to validate its effectiveness in measuring changes in pain over time. This is known as validity. However, comparing the results of the NPRS to other measures can be time-consuming and tedious.
+
+* [Validation and Harmonisation of AIM (Acceptability of Intervention Measure) score](/harmonisation-validation/aim-acceptability-of-intervention-measure-score)
+* [SDQ vs PHQ-9](/sdq-vs-phq-9)
+* [GAD-7 vs SDQ](/gad-7-vs-sdq)
 
 This is where Harmony can help. Using natural language processing and AI, Harmony can quickly and accurately compare the NPRS to other instruments and establish crosswalks between them. This allows researchers to easily harmonise the NPRS with other measures, saving them time and effort.
 
@@ -21,9 +28,9 @@ In conclusion, Harmony is a valuable tool for psychologists researching pain ass
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Numeric Pain Rating Scale (NPRS) " title=" Validation and Harmonisation of Numeric Pain Rating Scale (NPRS) " >}}
 
-{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Numeric Pain Rating Scale (NPRS) " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

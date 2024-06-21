@@ -8,7 +8,14 @@ url: /harmonisation-validation/physical-activity-scale-for-the-elderly-pase
 
 The Physical Activity Scale for the Elderly (PASE) is a widely used self-reported instrument for measuring physical activity in older adults. It is designed to assess a range of activities that older adults may engage in, such as leisure, household, or work-related activities. The PASE has been shown to have good reliability and validity in measuring physical activity in older adults, making it a valuable tool in research studies.
 
+{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Physical Activity Scale for the Elderly (PASE) " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 However, researchers may still want to validate and harmonise the PASE with other instruments in order to compare data between studies or to assess its effectiveness for specific populations. This is where Harmony can be a useful software for psychologists.
+
+* [Validation and Harmonisation of Medical Outcomes Survey Sleep Quality Subscale](/harmonisation-validation/medical-outcomes-survey-sleep-quality-subscale)
+* [Validation and Harmonisation of Physical Activity Scale for the Elderly (PASE)](/harmonisation-validation/physical-activity-scale-for-the-elderly-pase)
+* [Validation and Harmonisation of Oswestry Disability Index (ODI)](/harmonisation-validation/oswestry-disability-index-odi)
 
 Using Harmony, researchers can input the PASE into the software and compare it with other instruments in Harmony's database. The software uses natural language processing and generative AI models to identify matching items and provide a percentage match between the PASE and other instruments. This can help researchers validate the PASE and establish crosswalks with other instruments, allowing for comparison and harmonisation of data from different studies.
 
@@ -19,9 +26,9 @@ In conclusion, Harmony is a valuable software for psychologists that can aid in 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Physical Activity Scale for the Elderly (PASE) " title=" Validation and Harmonisation of Physical Activity Scale for the Elderly (PASE) " >}}
 
-{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Physical Activity Scale for the Elderly (PASE) " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

@@ -8,7 +8,14 @@ url: /harmonisation-validation/loe-silness-gingival-index
 
 The Loe & Silness Gingival Index is a scale used to measure gum (gingival) inflammation. It is used to assess the severity of gingival inflammation in individuals and is scored on a scale of 0 to 3, with 0 indicating no inflammation and 3 indicating severe inflammation.
 
+{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Loe & Silness Gingival Index " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 Harmony can aid researchers in validating and harmonising the Loe & Silness Gingival Index with other instruments. Validation refers to the process of determining the extent to which an instrument accurately measures the construct it is intended to measure. By using Harmony, researchers can compare the variables within the Loe & Silness Gingival Index with those in other instruments and establish crosswalks between them.
+
+* [Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology)
+* [Validation and Harmonisation of AIM (Acceptability of Intervention Measure) score](/harmonisation-validation/aim-acceptability-of-intervention-measure-score)
+* [GHQ-12 vs Beck Anxiety Inventory](/ghq-12-vs-beck-anxiety-inventory)
 
 Using Harmony's natural language processing and AI models, researchers can quickly and accurately compare the Loe & Silness Gingival Index with other instruments in multiple languages. This not only saves time and resources, but also helps ensure consistency and accuracy in the measurement of the construct being studied.
 
@@ -19,9 +26,9 @@ In summary, Harmony can greatly aid in the validation and harmonisation of the L
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Loe & Silness Gingival Index " title=" Validation and Harmonisation of Loe & Silness Gingival Index " >}}
 
-{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Loe & Silness Gingival Index " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

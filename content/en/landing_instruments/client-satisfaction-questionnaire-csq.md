@@ -8,7 +8,14 @@ url: /harmonisation-validation/client-satisfaction-questionnaire-csq
 
 The Client Satisfaction Questionnaire (CSQ) is a measure used in psychology and social sciences to assess patient satisfaction with treatment. It consists of 8-10 items and has a scoring range of 8-32.
 
+{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Client Satisfaction Questionnaire (CSQ) " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 Harmony, a software developed for psychologists and social scientists, can help researchers validate and harmonise the CSQ with other instruments. 
+
+* [GHQ-12 vs SDQ](/ghq-12-vs-sdq)
+* [Validation and Harmonisation of Pittsburgh Sleep Quality Index (PSQI)](/harmonisation-validation/pittsburgh-sleep-quality-index-psqi)
+* [Harmony: A Free AI Tool for Longitudinal Study](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study)
 
 Validation is important because it ensures that an instrument is able to accurately measure the construct it is intended to measure. Harmony uses large language models to compare items in the CSQ with items in other instruments. This allows researchers to assess the validity of the CSQ and see if it accurately reflects changes in the construct being measured. 
 
@@ -21,9 +28,9 @@ In conclusion, Harmony is a valuable tool for researchers looking to validate an
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Client Satisfaction Questionnaire (CSQ) " title=" Validation and Harmonisation of Client Satisfaction Questionnaire (CSQ) " >}}
 
-{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Client Satisfaction Questionnaire (CSQ) " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

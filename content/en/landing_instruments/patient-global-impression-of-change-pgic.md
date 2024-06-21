@@ -8,7 +8,14 @@ url: /harmonisation-validation/patient-global-impression-of-change-pgic
 
 The Patient Global Impression of Change (PGIC) is a participant-rated instrument used to measure the overall change in a participant's status over the course of a study. It is often used in clinical trials and longitudinal studies to assess the effectiveness of treatments, interventions, or changes in social conditions.
 
+{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Patient Global Impression of Change (PGIC) " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 Harmony, the software developed for psychologists, can be a valuable tool for validating and harmonising the PGIC with other instruments. Harmony uses natural language processing and generative AI models to compare instruments and identify matching variables between different questionnaires, even if they are in different languages. This can greatly aid researchers in harmonising the PGIC with other instruments and establishing crosswalks between different measures.
+
+* [Validation and Harmonisation of Pittsburgh Sleep Quality Index](/harmonisation-validation/pittsburgh-sleep-quality-index)
+* [Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology)
+* [Harmony: A Free AI Tool for Item Harmonisation](/item-harmonisation/harmony-a-free-ai-tool-for-item-harmonisation)
 
 ## Why is validation important for the PGIC?
 
@@ -29,9 +36,9 @@ In conclusion, validation and harmonisation of the PGIC is essential for ensurin
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Patient Global Impression of Change (PGIC) " title=" Validation and Harmonisation of Patient Global Impression of Change (PGIC) " >}}
 
-{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Patient Global Impression of Change (PGIC) " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

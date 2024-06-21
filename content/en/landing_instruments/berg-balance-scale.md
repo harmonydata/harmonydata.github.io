@@ -8,7 +8,14 @@ url: /harmonisation-validation/berg-balance-scale
 
 The Berg Balance Scale (BBS) is a clinical measure used to assess balance in older adults, adults with neurological conditions, and other individuals with balance impairments. It consists of 14 tasks that assess different aspects of balance, such as sitting, standing, and walking.
 
+{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Berg Balance Scale " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 One potential challenge with the BBS is that it may not always be feasible or appropriate to use it as the only measure of balance. In some cases, researchers or clinicians may want to compare the results from the BBS with other balance measures to gain a more comprehensive understanding of an individual's balance abilities.
+
+* [PHQ-9 vs Beck Anxiety Inventory](/phq-9-vs-beck-anxiety-inventory)
+* [GHQ-12 vs Beck Anxiety Inventory](/ghq-12-vs-beck-anxiety-inventory)
+* [Validation and Harmonisation of Comprehensive Psychopathological Rating Scale (CPRS)](/harmonisation-validation/comprehensive-psychopathological-rating-scale-cprs)
 
 This is where Harmony can be useful in helping researchers harmonise the BBS with other instruments. Harmony uses natural language processing and AI models to compare items in different questionnaires, including the BBS and other balance measures.
 
@@ -21,9 +28,9 @@ Overall, Harmony can help researchers validate and harmonise the BBS with other 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Berg Balance Scale " title=" Validation and Harmonisation of Berg Balance Scale " >}}
 
-{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Berg Balance Scale " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

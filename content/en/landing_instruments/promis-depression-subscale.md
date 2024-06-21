@@ -8,7 +8,14 @@ url: /harmonisation-validation/promis-depression-subscale
 
 The Patient-Reported Outcomes Measurement Information System (PROMIS) is a set of questionnaires designed to assess various aspects of a person's physical, mental, and social health. The PROMIS depression subscale specifically measures the severity of depressive symptoms in individuals.
 
+{{< card heading="Try Harmony" copy=" Validation and Harmonisation of PROMIS depression subscale " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 The subscale consists of eight items, rated on a scale of 0-4 with higher scores indicating more severe depression. It has been validated and extensively used in research and clinical settings.
+
+* [Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology)
+* [Harmony: A Free AI Tool to Merge Longitudinal Studies](/item-harmonisation/harmony-a-free-ai-tool-to-merge-longitudinal-studies)
+* [Validation and Harmonisation of PROMIS-29 v2.0 questionnaire](/harmonisation-validation/promis-29-v2-0-questionnaire)
 
 However, researchers may want to validate or harmonise the PROMIS depression subscale with other instruments in their studies. This can help them better understand the relationship between depression and other variables, as well as make comparisons between different studies.
 
@@ -21,9 +28,9 @@ In summary, Harmony can assist researchers in harmonising the PROMIS depression 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of PROMIS depression subscale " title=" Validation and Harmonisation of PROMIS depression subscale " >}}
 
-{{< card heading="Try Harmony" copy=" Validation and Harmonisation of PROMIS depression subscale " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

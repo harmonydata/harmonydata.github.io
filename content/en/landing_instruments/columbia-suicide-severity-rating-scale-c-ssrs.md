@@ -8,7 +8,14 @@ url: /harmonisation-validation/columbia-suicide-severity-rating-scale-c-ssrs
 
 The Columbia-Suicide Severity Rating Scale (C-SSRS) is a semi-structured interview used to assess the occurrence, severity, and frequency of suicide-related thoughts and behaviors during a specific assessment period. It includes definitions and suggested questions to gather relevant information for determining if a suicide-related thought or behavior has occurred.
 
+{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Columbia-Suicide Severity Rating Scale (C-SSRS) " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 Validation is an important aspect of instrument development and use. It refers to the degree to which an instrument measures what it is intended to measure. Researchers may want to validate the C-SSRS in order to determine if it accurately captures the construct of interest.
+
+* [Validation and Harmonisation of Young Mania Rating Scale (YMRS)](/harmonisation-validation/young-mania-rating-scale-ymrs)
+* [CES-D vs Beck Anxiety Inventory](/ces-d-vs-beck-anxiety-inventory)
+* [Validation and Harmonisation of Oswestry Disability Index (ODI)](/harmonisation-validation/oswestry-disability-index-odi)
 
 Harmony, a software developed for psychologists, can assist researchers in the validation and harmonization of the C-SSRS with other instruments. By using natural language processing and generative AI models, Harmony can compare items in the C-SSRS with those in other instruments and provide a percentage match. This can help researchers identify common variables and establish crosswalks between the C-SSRS and other instruments.
 
@@ -19,9 +26,9 @@ By using Harmony, researchers can easily compare and harmonize the C-SSRS with o
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Columbia-Suicide Severity Rating Scale (C-SSRS) " title=" Validation and Harmonisation of Columbia-Suicide Severity Rating Scale (C-SSRS) " >}}
 
-{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Columbia-Suicide Severity Rating Scale (C-SSRS) " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

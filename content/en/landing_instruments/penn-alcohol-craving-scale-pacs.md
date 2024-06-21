@@ -8,7 +8,14 @@ url: /harmonisation-validation/penn-alcohol-craving-scale-pacs
 
 The Penn Alcohol Craving Scale (PACS) is a five-item self-administered instrument used to measure alcohol craving over the past week. It has a scoring range from 0 (lowest craving value) to 30 (highest craving value). The PACS is widely used by psychologists and researchers to assess alcohol craving in individuals and its effectiveness in treatment.
 
+{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Penn Alcohol Craving Scale (PACS) " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 With the help of Harmony, researchers can validate the PACS and compare it with other instruments to establish crosswalks. This allows for a more comprehensive understanding of alcohol craving and its measurement. By using Harmony, researchers can compare the items of the PACS with other instruments in different languages to ensure consistency and accuracy in measurement.
+
+* [Validation and Harmonisation of Patient-reported Outcome Measure Information System (PROMIS) Anxiety subscale](/harmonisation-validation/patient-reported-outcome-measure-information-system-promis-anxiety-subscale)
+* [Validation and Harmonisation of Clinician Administered PTSD Scale (CAPS)](/harmonisation-validation/clinician-administered-ptsd-scale-caps)
+* [CES-D vs GHQ-12](/ces-d-vs-ghq-12)
 
 Harmony's natural language processing and AI models can also identify any discrepancies or overlaps between the PACS and other instruments. This can help researchers to refine and improve the PACS, and potentially create a more effective measurement tool for assessing alcohol craving.
 
@@ -19,9 +26,9 @@ In conclusion, Harmony can provide valuable assistance to researchers in validat
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Penn Alcohol Craving Scale (PACS) " title=" Validation and Harmonisation of Penn Alcohol Craving Scale (PACS) " >}}
 
-{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Penn Alcohol Craving Scale (PACS) " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

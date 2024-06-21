@@ -1,0 +1,27 @@
+---
+title: "Validation and Harmonisation of Overall Health-related Quality of Life (SF-36)"
+
+url: /harmonisation-validation/overall-health-related-quality-of-life-sf-36
+---
+
+## Validation and Harmonisation of Overall Health-related Quality of Life (SF-36)
+
+The Overall Health-related Quality of Life (SF-36) is a self-reported questionnaire commonly used to measure overall health status in research and healthcare settings. It consists of eight scaled scores, each measuring a different aspect of physical and mental health. Researchers often use this instrument to assess changes in health status over time or compare it with other similar instruments.
+
+However, the process of validating and harmonising the Overall Health-related Quality of Life (SF-36) with other instruments can be time-consuming and subjective. This is where Harmony can be a valuable tool for researchers.
+
+Harmony uses natural language processing and generative AI models to compare items in the SF-36 with items in other instruments, even in different languages. This allows researchers to quickly and objectively identify which variables in the SF-36 match variables in other instruments. They can then establish crosswalks and harmonise the data to be used in their research.
+
+Harmony can also assist in the validation process by providing a percentage match between each item in the SF-36 and other instruments, allowing researchers to assess the degree of similarity between the two.
+
+Overall, Harmony streamlines and automates the process of validating and harmonising the Overall Health-related Quality of Life (SF-36) with other instruments, saving researchers time and effort while also ensuring more accurate and consistent results in their studies. 
+
+
+{{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Overall Health-related Quality of Life (SF-36) " title=" Validation and Harmonisation of Overall Health-related Quality of Life (SF-36) " >}}
+
+{{< card heading="Try Harmony" copy=" Validation and Harmonisation of Overall Health-related Quality of Life (SF-36) " url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+

@@ -169,7 +169,13 @@ languages:
         url: "/frequently-asked-questions/"
         parent: Resources
         weight: 30
-        
+
+      - name: Free AI Tool for Item-Wise Harmonisation
+        url: "/item-harmonisation/harmony-a-free-ai-tool-for-item-wise-harmonisation"
+        parent: Tools
+        weight: 50
+
+
       - name: Useful links
         weight: 40    
       - name: Fair data
@@ -180,6 +186,14 @@ languages:
         url: /projects-partners/
         parent: Useful links
         weight: 20
+      - name: Beck Depression Inventory-II
+        url: "/harmonisation-validation/beck-depression-inventory-ii-bdi-ii"
+        parent: Useful links
+        weight: 40
+      - name: GAD-7 vs PHQ-9
+        url: "/gad-7-vs-phq-9"
+        parent: Useful links
+        weight: 60
 
       - name: Tools
         weight: 50
@@ -187,7 +201,7 @@ languages:
         url: "/app/"
         parent: Tools
         weight: 10
-    
+
 
   pt:
     title: Harmony

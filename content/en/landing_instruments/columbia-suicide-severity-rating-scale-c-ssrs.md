@@ -32,3 +32,8 @@ By using Harmony, researchers can easily compare and harmonize the C-SSRS with o
 
 
 
+
+
+* [Harmony: A Free AI Tool for Longitudinal Study](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study)
+* [Validation and Harmonisation of AIM (Acceptability of Intervention Measure) score](/harmonisation-validation/aim-acceptability-of-intervention-measure-score)
+* [Validation and Harmonisation of Montgomery-Asberg Depression Rating Scale (MADRS)](/harmonisation-validation/montgomery-asberg-depression-rating-scale-madrs)

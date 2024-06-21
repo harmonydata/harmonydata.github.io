@@ -32,3 +32,8 @@ By using Harmony, researchers can save time and reduce subjectivity in the harmo
 
 
 
+
+
+* [SDQ vs PHQ-9](/sdq-vs-phq-9)
+* [Validation and Harmonisation of Beck Depression Inventory-II (BDI-II)](/harmonisation-validation/beck-depression-inventory-ii-bdi-ii)
+* [Validation and Harmonisation of Overall Health-related Quality of Life (SF-36)](/harmonisation-validation/overall-health-related-quality-of-life-sf-36)

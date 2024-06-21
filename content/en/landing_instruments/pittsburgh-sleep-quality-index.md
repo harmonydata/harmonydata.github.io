@@ -30,3 +30,8 @@ Overall, Harmony can be a useful tool for validating and harmonising the PSQI wi
 
 
 
+
+
+* [Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology)
+* [SDQ vs Beck Anxiety Inventory](/sdq-vs-beck-anxiety-inventory)
+* [Validation and Harmonisation of Clinical Global Impression of Change (CGIC)](/harmonisation-validation/clinical-global-impression-of-change-cgic)

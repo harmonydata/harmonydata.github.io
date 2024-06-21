@@ -34,3 +34,8 @@ Overall, Harmony can help researchers validate and harmonise the BBS with other 
 
 
 
+
+
+* [GHQ-12 vs PHQ-9](/ghq-12-vs-phq-9)
+* [PHQ-9 vs Beck Anxiety Inventory](/phq-9-vs-beck-anxiety-inventory)
+* [GHQ-12 vs SDQ](/ghq-12-vs-sdq)

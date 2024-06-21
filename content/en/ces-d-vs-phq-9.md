@@ -26,3 +26,8 @@ The CES-D, a 20-item measure, gauges depressive symptoms experienced over the pa
 It provides a percentage match between each item, helping researchers harmonize their items easily and ensuring that no pertinent detail is missed while comparing these two salient psychological tools. Harmony doesn't just limit its usability to these two instruments. In fact, the database covers a vast expanse of instruments, and it also allows you to upload your own instruments in PDF form directly into the system for analysis. With Harmony, the CES-D vs PHQ-9 comparison transforms from a daunting task to a seamless operation. It’s time to embrace Harmony and experience a new ease in inter-instrument harmonization. Now, comparing questionnaires like CES-D and PHQ-9 can cease being an overwhelming part of your research process and become an enlightening one instead. Embrace Harmony, dive deep into the CES-D vs PHQ-9 comparison, and unravel the mysteries of your study subjects with finer, easier, and faster analysis.
 
 
+
+
+* [Validation and Harmonisation of Montgomery Asberg Depression Rating Scale](/harmonisation-validation/montgomery-asberg-depression-rating-scale)
+* [GAD-7 vs Beck Anxiety Inventory](/gad-7-vs-beck-anxiety-inventory)
+* [Validation and Harmonisation of Insomnia Severity Index (ISI)](/harmonisation-validation/insomnia-severity-index-isi)

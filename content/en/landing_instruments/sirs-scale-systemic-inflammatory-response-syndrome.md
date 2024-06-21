@@ -26,3 +26,8 @@ Harmony can help researchers harmonise the SIRS scale with other instruments by 
 
 
 
+
+
+* [PHQ-9 vs Beck Anxiety Inventory](/phq-9-vs-beck-anxiety-inventory)
+* [Validation and Harmonisation of SF-36 health survey](/harmonisation-validation/sf-36-health-survey)
+* [Validation and Harmonisation of Alcohol Urges Questionnaire (AUQ)](/harmonisation-validation/alcohol-urges-questionnaire-auq)

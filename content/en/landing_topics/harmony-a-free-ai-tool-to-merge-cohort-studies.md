@@ -32,3 +32,8 @@ Overall, Harmony is a powerful tool for psychologists looking to streamline thei
 
 
 
+
+
+* [Validation and Harmonisation of Clinical Global Impression of Change (CGIC)](/harmonisation-validation/clinical-global-impression-of-change-cgic)
+* [Harmony: A Free AI Tool for Longitudinal Study](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study)
+* [Validation and Harmonisation of Arthritis Impact Measurement Scales-2 (AIMS2)](/harmonisation-validation/arthritis-impact-measurement-scales-2-aims2)

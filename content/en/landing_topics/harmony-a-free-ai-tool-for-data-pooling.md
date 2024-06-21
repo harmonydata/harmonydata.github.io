@@ -36,3 +36,8 @@ Overall, Harmony is a valuable tool for data pooling and promoting data sharing 
 
 
 
+
+
+* [Validation and Harmonisation of Patient-reported Outcome Measure Information System (PROMIS) Anxiety subscale](/harmonisation-validation/patient-reported-outcome-measure-information-system-promis-anxiety-subscale)
+* [CES-D vs Beck Anxiety Inventory](/ces-d-vs-beck-anxiety-inventory)
+* [Validation and Harmonisation of Physical Activity Scale for the Elderly (PASE)](/harmonisation-validation/physical-activity-scale-for-the-elderly-pase)

@@ -34,3 +34,8 @@ In short, Harmony can help researchers to validate and harmonise the Perceived S
 
 
 
+
+
+* [Validation and Harmonisation of Visual Analog Scale (VAS)](/harmonisation-validation/visual-analog-scale-vas)
+* [SDQ vs Beck Anxiety Inventory](/sdq-vs-beck-anxiety-inventory)
+* [Validation and Harmonisation of Clinician-Administered PTSD Scale (CAPS)](/harmonisation-validation/clinician-administered-ptsd-scale-caps)

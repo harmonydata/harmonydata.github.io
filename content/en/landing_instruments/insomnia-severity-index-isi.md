@@ -34,3 +34,8 @@ Overall, Harmony can be a valuable tool for psychologists in validating and harm
 
 
 
+
+
+* [Validation and Harmonisation of Positive and Negative Syndrome Scale (PANSS)](/harmonisation-validation/positive-and-negative-syndrome-scale-panss)
+* [Validation and Harmonisation of Arthritis Impact Measurement Scales-2 (AIMS2)](/harmonisation-validation/arthritis-impact-measurement-scales-2-aims2)
+* [Harmony: A Free AI Tool for Longitudinal Study In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study-in-psychology)

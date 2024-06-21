@@ -35,3 +35,8 @@ In conclusion, Harmony is a valuable tool for psychologists and social scientist
 
 
 
+
+
+* [Validation and Harmonisation of Loe & Silness Gingival Index](/harmonisation-validation/loe-silness-gingival-index)
+* [Validation and Harmonisation of PROMIS depression subscale](/harmonisation-validation/promis-depression-subscale)
+* [Validation and Harmonisation of Montgomery Asberg Depression Rating Scale (MADRS)](/harmonisation-validation/montgomery-asberg-depression-rating-scale-madrs)

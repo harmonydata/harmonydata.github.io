@@ -32,3 +32,8 @@ Overall, Harmony offers a more efficient and objective way for researchers to va
 
 
 
+
+
+* [Validation and Harmonisation of SF-36 health survey](/harmonisation-validation/sf-36-health-survey)
+* [Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology)
+* [Validation and Harmonisation of Insomnia Severity Index (ISI)](/harmonisation-validation/insomnia-severity-index-isi)

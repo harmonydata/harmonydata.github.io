@@ -25,3 +25,8 @@ Harmony gives you a percentage match between the items on both questionnaires wh
 {{< youtube cEZppTBj1NI >}}
 
 Harmony lets you upload your instruments in a simple drag-and-drop manner. The quick and painless process is accessible right at https://harmonydata.ac.uk/app.
+
+
+* [Validation and Harmonisation of Walking Impairment Questionaire (WIQ)](/harmonisation-validation/walking-impairment-questionaire-wiq)
+* [Harmony: A Free AI Tool for Longitudinal Study In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study-in-psychology)
+* [Harmony: A Free AI Tool for Item Harmonisation](/item-harmonisation/harmony-a-free-ai-tool-for-item-harmonisation)

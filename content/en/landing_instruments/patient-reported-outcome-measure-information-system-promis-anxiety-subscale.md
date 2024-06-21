@@ -30,3 +30,8 @@ By using Harmony, researchers can save time and resources in the process of vali
 
 
 
+
+
+* [CES-D vs GHQ-12](/ces-d-vs-ghq-12)
+* [Validation and Harmonisation of Beck Depression Inventory-II (BDI-II)](/harmonisation-validation/beck-depression-inventory-ii-bdi-ii)
+* [Validation and Harmonisation of Penn Alcohol Craving Scale (PACS)](/harmonisation-validation/penn-alcohol-craving-scale-pacs)

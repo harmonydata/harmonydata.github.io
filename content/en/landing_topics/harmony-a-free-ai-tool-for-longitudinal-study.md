@@ -32,3 +32,8 @@ Harmony is a free tool and can be accessed through its web interface at https://
 
 
 
+
+
+* [Validation and Harmonisation of SF-36 health survey](/harmonisation-validation/sf-36-health-survey)
+* [Harmony: A Free AI Tool for Item Harmonisation](/item-harmonisation/harmony-a-free-ai-tool-for-item-harmonisation)
+* [Validation and Harmonisation of Hamilton depression rating scale](/harmonisation-validation/hamilton-depression-rating-scale)

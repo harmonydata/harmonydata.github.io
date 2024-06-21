@@ -34,3 +34,8 @@ In conclusion, Harmony is a valuable tool for psychologists and social scientist
 
 
 
+
+
+* [Validation and Harmonisation of PedsQL Multidimensional Fatigue Scale](/harmonisation-validation/pedsql-multidimensional-fatigue-scale)
+* [Validation and Harmonisation of Walking Impairment Questionaire (WIQ)](/harmonisation-validation/walking-impairment-questionaire-wiq)
+* [CES-D vs PHQ-9](/ces-d-vs-phq-9)

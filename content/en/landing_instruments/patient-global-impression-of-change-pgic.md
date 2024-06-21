@@ -42,3 +42,8 @@ In conclusion, validation and harmonisation of the PGIC is essential for ensurin
 
 
 
+
+
+* [PHQ-9 vs Beck Anxiety Inventory](/phq-9-vs-beck-anxiety-inventory)
+* [Validation and Harmonisation of Sheehan Disability Scale (SDS)](/harmonisation-validation/sheehan-disability-scale-sds)
+* [Validation and Harmonisation of Clinician Administered PTSD Scale (CAPS)](/harmonisation-validation/clinician-administered-ptsd-scale-caps)

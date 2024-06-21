@@ -34,3 +34,8 @@ In summary, Harmony can assist researchers in harmonising the PROMIS depression 
 
 
 
+
+
+* [Validation and Harmonisation of Penn Alcohol Craving Scale (PACS)](/harmonisation-validation/penn-alcohol-craving-scale-pacs)
+* [GHQ-12 vs PHQ-9](/ghq-12-vs-phq-9)
+* [Harmony: A Free AI Tool for Item Harmonisation](/item-harmonisation/harmony-a-free-ai-tool-for-item-harmonisation)

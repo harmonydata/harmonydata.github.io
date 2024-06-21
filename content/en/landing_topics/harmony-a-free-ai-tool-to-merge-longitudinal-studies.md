@@ -32,3 +32,8 @@ In addition to saving time and effort, Harmony also eliminates subjectivity in t
 
 
 
+
+
+* [Validation and Harmonisation of Contact Lens User Experience (CLUE)](/harmonisation-validation/contact-lens-user-experience-clue)
+* [GHQ-12 vs SDQ](/ghq-12-vs-sdq)
+* [GHQ-12 vs Beck Anxiety Inventory](/ghq-12-vs-beck-anxiety-inventory)

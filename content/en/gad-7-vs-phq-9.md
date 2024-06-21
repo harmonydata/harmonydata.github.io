@@ -34,3 +34,8 @@ This cutting-edge technology helps harmonise items in the GAD-7 and PHQ-9 instru
 With Harmony, you can measure the percentage match between each item in GAD-7 and PHQ-9 in a seamless interface found at https://harmonydata.ac.uk/app. So, when you are faced with the GAD-7 vs PHQ-9 next, consider inviting Harmony to ease the process. Harmonising GAD-7 and PHQ-9 items has never been easier, allowing researchers to enjoy more time on analysis and less on questionnaire matching, aiding the evolution of our understanding of mental health. Explore the Harmony tool today and experience a new rhythm in psychological research.
 
 
+
+
+* [GHQ-12 vs Beck Anxiety Inventory](/ghq-12-vs-beck-anxiety-inventory)
+* [Validation and Harmonisation of SIRS scale (Systemic Inflammatory Response Syndrome)](/harmonisation-validation/sirs-scale-systemic-inflammatory-response-syndrome)
+* [PHQ-9 vs Beck Anxiety Inventory](/phq-9-vs-beck-anxiety-inventory)

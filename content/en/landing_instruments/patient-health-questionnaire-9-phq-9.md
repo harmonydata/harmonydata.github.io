@@ -32,3 +32,8 @@ Overall, the use of Harmony in validating and harmonising the PHQ-9 can help res
 
 
 
+
+
+* [Validation and Harmonisation of Perceived Stress Scale (PSS)](/harmonisation-validation/perceived-stress-scale-pss)
+* [Validation and Harmonisation of Functional Assessment of Cancer Therapy-General (FACT-G) with FACT-Head and Neck (FACT-HN) subscale](/harmonisation-validation/functional-assessment-of-cancer-therapy-general-fact-g-with-fact-head-and-neck-fact-hn-subscale)
+* [CES-D vs GHQ-12](/ces-d-vs-ghq-12)

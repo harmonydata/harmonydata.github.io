@@ -25,3 +25,8 @@ Harmony, a revolutionary tool backed by natural language processing and generati
 For psychologists aiming to compare the GHQ 12 and Beck Anxiety Inventory, Harmony provides a user-friendly platform to extract, compare, and analyze information. Its database allows users to select from a suite of pre-loaded questionnaires, or alternatively, incorporate their own in PDF format into the system. While directly comparing the scores between the GHQ 12 and Beck Anxiety Inventory may not necessarily provide a comprehensive view of a person's psychological health, it can highlight certain critical insights to help psychologists better understand an individual's specific concerns.
 
 In conclusion, the use of Harmony in a comparative study like GHQ 12 vs Beck Anxiety Inventory assures a clear, precise understanding, thereby strengthening the value of the obtained results. Overcome the traditional methods of harmonisation and embrace Harmony to elevate your research process. Explore and unleash the power of data analysis with Harmony in your psychological and social sciences journey.
+
+
+* [Validation and Harmonisation of Arthritis Impact Measurement Scales-2 (AIMS2)](/harmonisation-validation/arthritis-impact-measurement-scales-2-aims2)
+* [Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology)
+* [Validation and Harmonisation of Walking Impairment Questionaire (WIQ)](/harmonisation-validation/walking-impairment-questionaire-wiq)

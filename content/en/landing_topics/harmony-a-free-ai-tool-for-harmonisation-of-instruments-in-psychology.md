@@ -34,3 +34,8 @@ To use Harmony, simply visit their website at https://harmonydata.ac.uk/app and 
 
 
 
+
+
+* [Validation and Harmonisation of Hospital Anxiety and Depression Scale (HADS)](/harmonisation-validation/hospital-anxiety-and-depression-scale-hads)
+* [Validation and Harmonisation of Clinical Global Impression of Change (CGIC)](/harmonisation-validation/clinical-global-impression-of-change-cgic)
+* [GHQ-12 vs SDQ](/ghq-12-vs-sdq)

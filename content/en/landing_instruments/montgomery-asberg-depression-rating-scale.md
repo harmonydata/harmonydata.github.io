@@ -32,3 +32,8 @@ Overall, Harmony can aid in the validation and harmonisation of the MADRS with o
 
 
 
+
+
+* [Harmony: A Free AI Tool to Merge Longitudinal Studies](/item-harmonisation/harmony-a-free-ai-tool-to-merge-longitudinal-studies)
+* [Harmony: A Free AI Tool to Combine Cohort Studies](/item-harmonisation/harmony-a-free-ai-tool-to-combine-cohort-studies)
+* [Validation and Harmonisation of Pittsburgh Sleep Quality Index (PSQI)](/harmonisation-validation/pittsburgh-sleep-quality-index-psqi)

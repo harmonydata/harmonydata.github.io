@@ -34,3 +34,8 @@ In conclusion, Harmony is a valuable tool for psychologists and social scientist
 
 
 
+
+
+* [Validation and Harmonisation of Berg Balance Scale](/harmonisation-validation/berg-balance-scale)
+* [Validation and Harmonisation of PROMIS-29 v2.0 questionnaire](/harmonisation-validation/promis-29-v2-0-questionnaire)
+* [Validation and Harmonisation of Perceived Stress Scale (PSS)](/harmonisation-validation/perceived-stress-scale-pss)

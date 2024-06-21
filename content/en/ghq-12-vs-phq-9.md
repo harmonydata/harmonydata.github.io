@@ -26,3 +26,8 @@ Both questionnaires play significant roles in psychological assessments, but wit
 No more will you have to sift through lengthy PDFs and manually key data into Excel. With Harmony, you can select instruments from its database or drop your own instruments in PDF form into its web interface. Comparing GHQ 12 and PHQ-9 becomes a breeze with Harmony. Its algorithms powered by extensive language models can calculate a percentage match between each item in GHQ 12 and PHQ-9. This drastically reduces subjectivity, saves time, and offers valuable insights that could make comparisons across studies more insightful and precise. Multi-Lingual Compatibility The beauty of Harmony lies not only in its powerful comparison engine but also in its multi-language support. The internet has made psychological research a global effort, and to match this pace, Harmony ensures your questionnaire comparisons need not be restricted by language barriers. Conclusively, the debate about GHQ 12 vs PHQ-9 can be simplified with Harmony. The process of comparing these questionnaires, and many others, is enhanced exponentially in terms of both time and accuracy, paving the way for more profound psychological discoveries. Visit Harmony's web interface now and witness the future of questionnaire harmonisation!
 
 
+
+
+* [CES-D vs SDQ](/ces-d-vs-sdq)
+* [Validation and Harmonisation of Visual Analog Scale (VAS)](/harmonisation-validation/visual-analog-scale-vas)
+* [Validation and Harmonisation of Insomnia Severity Index (ISI)](/harmonisation-validation/insomnia-severity-index-isi)

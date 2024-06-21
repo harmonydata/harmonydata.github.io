@@ -32,3 +32,8 @@ Overall, Harmony can provide a more efficient and reliable way for researchers t
 
 
 
+
+
+* [GAD-7 vs SDQ](/gad-7-vs-sdq)
+* [Validation and Harmonisation of Overall Health-related Quality of Life (SF-36)](/harmonisation-validation/overall-health-related-quality-of-life-sf-36)
+* [Validation and Harmonisation of Hamilton depression rating scale](/harmonisation-validation/hamilton-depression-rating-scale)

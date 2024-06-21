@@ -14,6 +14,10 @@ As psychologists and social scientists, we constantly tread through veritable ju
 
 
 
+* [Validation and Harmonisation of Pittsburgh Sleep Quality Index](/harmonisation-validation/pittsburgh-sleep-quality-index)
+* [Harmony: A Free AI Tool to Combine Cohort Studies](/item-harmonisation/harmony-a-free-ai-tool-to-combine-cohort-studies)
+* [Validation and Harmonisation of Pittsburgh Sleep Quality Index (PSQI)](/harmonisation-validation/pittsburgh-sleep-quality-index-psqi)
+
 
 
 This is where the Harmony software steps in, transforming a laborious process into an intuitive and efficient one. Harmony accelerates the questionnaire comparison process for researchers using advanced natural language processing and generative AI models.

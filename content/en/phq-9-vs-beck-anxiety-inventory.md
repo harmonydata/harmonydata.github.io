@@ -12,6 +12,10 @@ Both are predominant instruments used to evaluate patients' mental health. So, h
 
 {{< image src="images/GAD-7-vs-Becks.drawio-min.png" alt="dog" title="dog" >}}
 
+* [PHQ-9 vs Beck Anxiety Inventory](/phq-9-vs-beck-anxiety-inventory)
+* [CES-D vs GHQ-12](/ces-d-vs-ghq-12)
+* [Validation and Harmonisation of SF-36 health survey](/harmonisation-validation/sf-36-health-survey)
+
 Traditionally, drawing comparisons between the likes of PHQ-9 vs Beck Anxiety Inventory has been time-consuming - scrolling through long questionnaire PDFs and perhaps manually populating Excel with the data.
 
 

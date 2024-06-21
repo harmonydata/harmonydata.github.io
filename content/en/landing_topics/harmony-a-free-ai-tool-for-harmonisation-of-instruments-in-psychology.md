@@ -8,7 +8,14 @@ url: /item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments
 
 Harmony is a powerful software developed specifically for psychologists and social scientists. Its main purpose is to help with the process of harmonisation, which involves matching items from different questionnaires.
 
+{{< card heading="Try Harmony" copy=" Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 The tool utilizes natural language processing (NLP) and generative AI models to assist researchers in harmonising questionnaire items, even if they are in different languages. This saves time and reduces subjectivity in the harmonisation process.
+
+* [Validation and Harmonisation of Loe & Silness Gingival Index](/harmonisation-validation/loe-silness-gingival-index)
+* [Validation and Harmonisation of Alcohol Urges Questionnaire (AUQ)](/harmonisation-validation/alcohol-urges-questionnaire-auq)
+* [CES-D vs SDQ](/ces-d-vs-sdq)
 
 One of the major benefits of using Harmony is that it allows for easy comparison of instruments in longitudinal studies. By repeating the same analysis across multiple studies, researchers can determine if the results are consistent or if they vary due to changing social conditions. This is important in order to make full use of cohort and longitudinal studies.
 
@@ -21,9 +28,9 @@ To use Harmony, simply visit their website at https://harmonydata.ac.uk/app and 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology " title=" Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology " >}}
 
-{{< card heading="Try Harmony" copy=" Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

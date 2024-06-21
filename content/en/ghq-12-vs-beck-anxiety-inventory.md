@@ -12,6 +12,10 @@ GHQ 12, short for the General Health Questionnaire-12, is a widely used measure 
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and Beck Anxiety Inventory " url="https://harmonydata.ac.uk/app" >}}
 
+* [CES-D vs SDQ](/ces-d-vs-sdq)
+* [Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology)
+* [Harmony: A Free AI Tool for Data Pooling](/item-harmonisation/harmony-a-free-ai-tool-for-data-pooling)
+
 Harmony, a revolutionary tool backed by natural language processing and generative AI models, ensures an effective and efficient harmonisation of questionnaire items. By employing harmony for comparing GHQ 12 vs Beck Anxiety Inventory, researchers can attain a percentage match between each item of the two instruments. This significantly aids in the comparative analysis of GHQ 12 vs Beck Anxiety Inventory enabling comparisons and connections to be drawn that otherwise might have gone unnoticed.
 
 {{< youtube cEZppTBj1NI >}}

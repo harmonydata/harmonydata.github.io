@@ -14,6 +14,10 @@ It is widely used, but its multidimensional nature can pose challenges in compar
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and SDQ " url="https://harmonydata.ac.uk/app" >}}
 
+* [CES-D vs PHQ-9](/ces-d-vs-phq-9)
+* [Validation and Harmonisation of Dermatology Life Quality Index (DLQI)](/harmonisation-validation/dermatology-life-quality-index-dlqi)
+* [Validation and Harmonisation of Patient Health Questionnaire-9 (PHQ-9)](/harmonisation-validation/patient-health-questionnaire-9-phq-9)
+
 
 Enter Harmony, a versatile tool designed to streamline the harmonization process. Using natural language processing and generative AI models, Harmony can effortlessly compare items in both GHQ 12 and SDQ. It calculates a percentage match between each item in both questionnaires, and can do so across multiple languages. So if you are a psychologist or social scientist studying psychological distress or behavioural issues, Harmony can make the 'GHQ 12 vs SDQ' comparison more accurate, efficient, and well, harmonious. In addition to GHQ 12 and SDQ, Harmony's database offers a wide variety of instruments for selection, or you have the option to upload and use your own instruments in PDF form. The interface is user-friendly, enabling you to tap into the power of AI to optimize your research in just a few clicks. Harmony is not only revolutionizing the 'GHQ 12 vs SDQ' process, but it's also strengthening the validity and efficiency of psychological research on a broader scale. So, why not give Harmony a try? Make the 'GHQ 12 vs SDQ' comparison more manageable and precise, allowing you to focus on what truly matters – understanding and improving psychological health. Try Harmony today!
 

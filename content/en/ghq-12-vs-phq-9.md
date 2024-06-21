@@ -12,6 +12,10 @@ The world of psychological research is rich with extensive questionnaires crafte
 
 Both questionnaires play significant roles in psychological assessments, but without a common ground for comparison, valuable insights may be missed. That's where the recurring theme of GHQ 12 vs PHQ-9 comes into play. How Harmony Resolves the GHQ 12 vs PHQ-9 Conundrum Enter Harmony - a revolutionary software tool developed to assist researchers in harmonising questionnaire items. Built on the core principles of natural language processing and generative AI models, Harmony offers a highly accurate tool for comparing instruments like the GHQ 12 and PHQ-9.
 
+* [Validation and Harmonisation of AIM (Acceptability of Intervention Measure) score](/harmonisation-validation/aim-acceptability-of-intervention-measure-score)
+* [Validation and Harmonisation of Visual Analog Scale (VAS)](/harmonisation-validation/visual-analog-scale-vas)
+* [GAD-7 vs Beck Anxiety Inventory](/gad-7-vs-beck-anxiety-inventory)
+
 
 
 {{< youtube cEZppTBj1NI >}}

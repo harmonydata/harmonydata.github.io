@@ -12,6 +12,10 @@ Thankfully, CES-D vs GAD-7 comparisons are now much simpler and more efficient t
 
 Harmony utilizes natural language processing and generative AI models to harmonize questionnaire items like CES-D and GAD-7, regardless of the language they are in. This exciting technology eases the often laborious and subjective process of questionnaire harmonization, improving researchers' productivity and reducing errors. Consider CES-D, a lengthy, 20-item questionnaire that measures symptoms associated with depression. Contrast this with GAD-7, a shorter, 7-item instrument aimed at assessing generalized anxiety disorder severity. While distinct in content and structure, comparisons between these two instruments are necessary for many kinds of longitudinal studies.
 
+* [GHQ-12 vs PHQ-9](/ghq-12-vs-phq-9)
+* [Validation and Harmonisation of PedsQL Multidimensional Fatigue Scale](/harmonisation-validation/pedsql-multidimensional-fatigue-scale)
+* [CES-D vs PHQ-9](/ces-d-vs-phq-9)
+
 
 {{< card heading="Try Harmony" copy="Compare CES-D and GAD-7 " url="https://harmonydata.ac.uk/app" >}}
 

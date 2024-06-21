@@ -8,7 +8,14 @@ url: /item-harmonisation/harmony-a-free-ai-tool-to-merge-longitudinal-studies
 
 Harmony is a powerful software tool designed for psychologists and social scientists to help them harmonize questionnaire items in different languages. This AI-driven platform uses natural language processing and generative AI models to make the process of harmonization easier, faster and more accurate.
 
+{{< card heading="Try Harmony" copy=" Harmony: A Free AI Tool to Merge Longitudinal Studies " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 Often, longitudinal studies require the comparison of instrument items, such as in the case of GAD-7 and PHQ-9. However, this process can be time-consuming and tedious, especially when working with large PDF files. With Harmony, researchers can quickly compare and match items from different questionnaires, even in different languages.
+
+* [Validation and Harmonisation of Visual Analog Scale (VAS)](/harmonisation-validation/visual-analog-scale-vas)
+* [PHQ-9 vs Beck Anxiety Inventory](/phq-9-vs-beck-anxiety-inventory)
+* [Validation and Harmonisation of Hamilton depression rating scale](/harmonisation-validation/hamilton-depression-rating-scale)
 
 One of the main benefits of using Harmony is its ability to make comparisons both within and across studies, which can provide valuable insights for researchers. By utilizing large language models, Harmony can give a percentage match between each item in a questionnaire, helping researchers identify any discrepancies or consistencies between studies.
 
@@ -19,9 +26,9 @@ In addition to saving time and effort, Harmony also eliminates subjectivity in t
 
 {{< image src="/images/gad7-becks.jpg" alt=" Harmony: A Free AI Tool to Merge Longitudinal Studies " title=" Harmony: A Free AI Tool to Merge Longitudinal Studies " >}}
 
-{{< card heading="Try Harmony" copy=" Harmony: A Free AI Tool to Merge Longitudinal Studies " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

@@ -12,6 +12,10 @@ This comparative task, the CES-D vs PHQ-9, is a pressing need for many professio
 
 
 
+* [Harmony: A Free AI Tool for Item-Wise Harmonisation](/item-harmonisation/harmony-a-free-ai-tool-for-item-wise-harmonisation)
+* [Validation and Harmonisation of SIRS scale (Systemic Inflammatory Response Syndrome)](/harmonisation-validation/sirs-scale-systemic-inflammatory-response-syndrome)
+* [CES-D vs GAD-7](/ces-d-vs-gad-7)
+
 The CES-D, a 20-item measure, gauges depressive symptoms experienced over the past week, providing crucial scores that help identify individuals at risk for clinical depression. On the other hand, the PHQ-9 is a self-administered module that scores each of the 9 DSM-IV depression criteria, a shorter but equally robust instrument. Comparing these two may seem quite a strenuous task, yet it's a recurring requirement for psychologists conducting in-depth studies. The CES-D vs PHQ-9 comparison can reveal insights into depression diagnosis and treatments, and inform new lines of investigation. Harmony meets this need head-on. The software uses large language models to effortlessly compare the CES-D and PHQ-9.
 
 

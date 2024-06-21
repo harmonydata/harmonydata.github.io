@@ -15,6 +15,10 @@ Comparing psychological questionnaire tools can be a practical yet time-consumin
 
 First, let's dive into what these tools are: The GAD-7 is a seven-item instrument predominantly used to measure or assess the severity of generalized anxiety disorder symptoms over a two-week period. The SDQ, on the other hand, is a brief behavioural screening questionnaire about 2-17-year-olds, available in several versions for various research, clinical, and educational purposes.
 
+* [Validation and Harmonisation of SIRS scale (Systemic Inflammatory Response Syndrome)](/harmonisation-validation/sirs-scale-systemic-inflammatory-response-syndrome)
+* [Validation and Harmonisation of Walking Impairment Questionaire (WIQ)](/harmonisation-validation/walking-impairment-questionaire-wiq)
+* [CES-D vs GHQ-12](/ces-d-vs-ghq-12)
+
 {{< youtube cEZppTBj1NI >}}
 
 Comparing GAD-7 vs SDQ traditionally would require extensive manual effort - going through numerous pages of questionnaires, classifying and categorising questions, and translating them into Excel for comparative analysis.

@@ -12,6 +12,10 @@ In the world of psychological research, researchers often grapple with comparing
 
 
 
+* [Validation and Harmonisation of Numeric Pain Rating Scale (NPRS)](/harmonisation-validation/numeric-pain-rating-scale-nprs)
+* [CES-D vs SDQ](/ces-d-vs-sdq)
+* [GAD-7 vs Beck Anxiety Inventory](/gad-7-vs-beck-anxiety-inventory)
+
 
 CES-D, the Center for Epidemiological Studies-Depression, is a 20-item measure focused on symptoms associated with depression, and GHQ 12, or the 12-item General Health Questionnaire, is a popular measure for detecting psychological distress.
 

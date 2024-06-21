@@ -8,7 +8,14 @@ url: /item-harmonisation/harmony-a-free-ai-tool-for-item-harmonisation
 
 Harmony is an innovative software specifically designed for psychologists and social scientists to help with the time-consuming task of harmonizing questionnaire items. It utilizes natural language processing and generative AI models to compare items from different questionnaires, even in different languages.
 
+{{< card heading="Try Harmony" copy=" Harmony: A Free AI Tool for Item Harmonisation " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 One of the key features of Harmony is its ability to match items from various questionnaires, such as "I often feel anxious" and "Feeling nervous, anxious or afraid." This process, known as harmonization, is crucial for making comparisons within and across studies. By using Harmony, researchers can save valuable time and effort in manually harmonizing items.
+
+* [Validation and Harmonisation of Insomnia Severity Index (ISI)](/harmonisation-validation/insomnia-severity-index-isi)
+* [Validation and Harmonisation of Montgomery Asberg Depression Rating Scale (MADRS)](/harmonisation-validation/montgomery-asberg-depression-rating-scale-madrs)
+* [GHQ-12 vs PHQ-9](/ghq-12-vs-phq-9)
 
 In addition to the built-in database of instruments, Harmony also allows researchers to upload their own instruments in PDF form through its user-friendly web interface at https://harmonydata.ac.uk/app. This gives users the flexibility to use their preferred instruments and seamlessly integrate them into their study.
 
@@ -21,9 +28,9 @@ In conclusion, Harmony is a valuable tool for psychologists and social scientist
 
 {{< image src="/images/gad7-becks.jpg" alt=" Harmony: A Free AI Tool for Item Harmonisation " title=" Harmony: A Free AI Tool for Item Harmonisation " >}}
 
-{{< card heading="Try Harmony" copy=" Harmony: A Free AI Tool for Item Harmonisation " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

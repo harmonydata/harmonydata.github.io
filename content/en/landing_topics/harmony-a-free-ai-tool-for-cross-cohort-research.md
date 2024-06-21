@@ -8,7 +8,14 @@ url: /item-harmonisation/harmony-a-free-ai-tool-for-cross-cohort-research
 
 Harmony is a revolutionary software developed specifically for psychologists and social scientists. Its main purpose is to make the harmonization process easier and more efficient for researchers.
 
+{{< card heading="Try Harmony" copy=" Harmony: A Free AI Tool for Cross-Cohort Research " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 What is harmonization, you might ask? It refers to the process of matching items from different questionnaires, such as determining if "I often feel anxious" in one questionnaire is equivalent to "Feeling nervous, anxious or afraid" in another questionnaire. This task is often time-consuming and subject to human error, making it a tedious and daunting task for researchers.
+
+* [CES-D vs GAD-7](/ces-d-vs-gad-7)
+* [CES-D vs PHQ-9](/ces-d-vs-phq-9)
+* [Validation and Harmonisation of Quigley-Hein, Turesky Modification Index for Dental Plaque ](/harmonisation-validation/quigley-hein-turesky-modification-index-for-dental-plaque)
 
 Harmony utilizes cutting-edge natural language processing and generative AI models to help researchers harmonize questionnaire items, even if they are in different languages. This means that with Harmony, researchers can easily compare instruments from different studies and languages, allowing for greater cross-cohort research.
 
@@ -21,9 +28,9 @@ In conclusion, Harmony is a valuable tool for psychologists and social scientist
 
 {{< image src="/images/gad7-becks.jpg" alt=" Harmony: A Free AI Tool for Cross-Cohort Research " title=" Harmony: A Free AI Tool for Cross-Cohort Research " >}}
 
-{{< card heading="Try Harmony" copy=" Harmony: A Free AI Tool for Cross-Cohort Research " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

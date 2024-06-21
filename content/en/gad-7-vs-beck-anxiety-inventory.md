@@ -12,6 +12,10 @@ However, accurately comparing these two instruments can be intricate, subjective
 
 {{< youtube cEZppTBj1NI >}}
 
+* [Validation and Harmonisation of Contact Lens User Experience (CLUE)](/harmonisation-validation/contact-lens-user-experience-clue)
+* [Validation and Harmonisation of Bristol Stool Scale](/harmonisation-validation/bristol-stool-scale)
+* [Validation and Harmonisation of Penn Alcohol Craving Scale (PACS)](/harmonisation-validation/penn-alcohol-craving-scale-pacs)
+
 Harmony is a groundbreaking software developed for those in psychology and social science fields. This unique tool makes use of natural language processing and generative AI models to efficiently and effectively harmonise and compare questionnaire items. The comparison process becomes even more complex when the questionnaires are in different languages, but with Harmony, this is no longer an issue.
 
 Let's think about the comparison of GAD-7 vs Beck Anxiety Inventory. GAD-7, a seven-item instrument, assesses the severity of generalised anxiety disorder (GAD) based on the individual's symptoms over the past two weeks. On the other hand, the Beck Anxiety Inventory is a 21-question self-report inventory measuring common somatic and cognitive symptoms of anxiety over the past week.

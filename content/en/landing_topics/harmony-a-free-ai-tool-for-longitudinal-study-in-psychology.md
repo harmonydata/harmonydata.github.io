@@ -4,11 +4,18 @@ title: "Harmony: A Free AI Tool for Longitudinal Study In Psychology"
 url: /item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study-in-psychology
 ---
 
-## Harmony: A Free AI Tool for Longitudinal Study In Psychology
+## Harmony: A Free AI Tool for Longitudinal Studies In Psychology
 
 Harmony is a software designed specifically for psychologists and social scientists, in order to help them efficiently and accurately harmonize questionnaire items in their studies. This tool utilizes natural language processing and generative AI models to compare instruments in different languages, making it helpful for cross-cultural and longitudinal studies.
 
+{{< card heading="Try Harmony" copy=" Harmony: A Free AI Tool for Longitudinal Study In Psychology " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
 The process of harmonization is extremely time consuming and can be quite subjective. With Harmony, researchers can save a significant amount of time and reduce subjectivity, as the tool automates the process and provides a percentage match between items in different questionnaires.
+
+* [Validation and Harmonisation of Penn Alcohol Craving Scale (PACS)](/harmonisation-validation/penn-alcohol-craving-scale-pacs)
+* [Validation and Harmonisation of Comprehensive Psychopathological Rating Scale (CPRS)](/harmonisation-validation/comprehensive-psychopathological-rating-scale-cprs)
+* [Validation and Harmonisation of Quickley-Hein plaque index (PI)](/harmonisation-validation/quickley-hein-plaque-index-pi)
 
 The interface of Harmony is user-friendly and intuitive. Researchers can either select instruments from the tool's database or upload their own PDFs into the web interface. This allows for flexibility and customization in the harmonization process.
 
@@ -21,9 +28,9 @@ Overall, Harmony is a valuable tool for psychologists and social scientists, pro
 
 {{< image src="/images/gad7-becks.jpg" alt=" Harmony: A Free AI Tool for Longitudinal Study In Psychology " title=" Harmony: A Free AI Tool for Longitudinal Study In Psychology " >}}
 
-{{< card heading="Try Harmony" copy=" Harmony: A Free AI Tool for Longitudinal Study In Psychology " url="https://harmonydata.ac.uk/app" >}}
 
-{{< youtube cEZppTBj1NI >}}
+
+
 
 
 

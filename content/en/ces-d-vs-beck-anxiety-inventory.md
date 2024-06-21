@@ -12,6 +12,10 @@ One common comparative analysis that psychologists encounter is comparing data c
 
 {{< card heading="Try Harmony" copy="Compare CES-D and Beck Anxiety Inventory " url="https://harmonydata.ac.uk/app" >}}
 
+* [Validation and Harmonisation of Physical Activity Scale for the Elderly (PASE)](/harmonisation-validation/physical-activity-scale-for-the-elderly-pase)
+* [Validation and Harmonisation of Overall Health-related Quality of Life (SF-36)](/harmonisation-validation/overall-health-related-quality-of-life-sf-36)
+* [Validation and Harmonisation of Insomnia Severity Index (ISI)](/harmonisation-validation/insomnia-severity-index-isi)
+
 This is where Harmony comes in to simplify the CES-D vs Beck Anxiety Inventory conundrum. Harmony uses natural language processing and generative AI models to systematically compare the CES-D vs Beck Anxiety Inventory (and other pairs of similar questionnaires).
 
 Harmony gives you a percentage match between the items on both questionnaires which streamlines the research process.

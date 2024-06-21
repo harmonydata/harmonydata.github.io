@@ -12,6 +12,10 @@ These tools have provided psychometric insights into the behavioural and emotion
 
 **Harmony** is a free tool that streamlines not just this SDQ vs Beck Anxiety Inventory challenge but all harmonisation processes in psychological research. Harmony is a software tool that leverages natural language processing and advanced AI models to help psychologists and social scientists harmonise different questionnaire items. 
 
+* [Validation and Harmonisation of Perceived Stress Scale (PSS)](/harmonisation-validation/perceived-stress-scale-pss)
+* [Validation and Harmonisation of PROMIS depression subscale](/harmonisation-validation/promis-depression-subscale)
+* [Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology)
+
 An exacting task that was once subjected to human error and personal bias can now be accomplished with a few clicks and keystrokes. Before we delve into the specifics of SDQ vs Beck Anxiety Inventory comparison, here's a nutshell explanation of these intriguing psychological tools. The SDQ is a concise behavioural screening instrument about 2-17-year-old individuals.
 
 

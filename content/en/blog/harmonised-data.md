@@ -34,7 +34,7 @@ Harmony is an open source code academic project and non-profit software package 
 
 Harmonisation is a process which allows all kinds of data to be used for business and research processes, such as business intelligence (BI) and analytics, but without any of the issues which typically arise due to variations in file types, data types, or naming conventions.
 
-In the context of mental health research in particular, Harmony lets you upload a set of mental health questionnaires, like the GAD-7 anxiety questionnaire, for instance, where you can choose to upload these either in Excel or PDF format.
+In the context of mental health research in particular, Harmony lets you upload a set of mental health questionnaires, like the [GAD-7 anxiety questionnaire](/gad-7-vs-phq-9/), for instance, where you can choose to upload these either in Excel or PDF format.
 
 Harmony will pinpoint the questions among all the questionnaires which are identical, antonyms of each other, or similar in meaning, and then generate a network graph – after which you can harmonise datasets with unparalleled ease.
 

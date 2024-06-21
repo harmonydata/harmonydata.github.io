@@ -4,7 +4,7 @@ title: Frequently Asked Questions
 
 ## What is harmonisation?
 
-Harmonisation means taking variables from different studies and manipulating them to make them comparable.
+Harmonisation means taking variables from [different studies](/item-harmonisation/harmony-a-free-ai-tool-to-merge-cohort-studies) and manipulating them to make them comparable.
 
 For example, if we have datasets of depression from different countries, which is typically measured using a questionnaire, how can we harmonise two depression questionnaires? Typically this is a manual process – we would look at the content and find common elements between the questionnaires.
 

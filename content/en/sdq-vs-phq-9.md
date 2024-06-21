@@ -2,7 +2,7 @@
 title: SDQ vs PHQ-9
 ---
 
-## SDQ vs PHQ-9 with Harmony
+## Harmonising and comparing SDQ vs PHQ-9 with Harmony
 
 As researchers and clinicians in psychology, we grapple with the complexities of comparing and contrasting different mental health assessment tools. One such comparison that often insights discussion in the hallways of academia and clinical circles is that between the Strengths and Difficulties Questionnaire (SDQ) and the Patient Health Questionnaire-9 (PHQ-9).
 
@@ -13,6 +13,8 @@ As researchers and clinicians in psychology, we grapple with the complexities of
 But why does the conversation around SDQ vs PHQ-9 matter and how can Harmony help us understand it better? Get ready to dive into the world of psychological assessment as we explore SDQ vs PHQ-9 utilizing the ingenious software Harmony! Utilized worldwide, both SDQ and PHQ-9 are essential tools in the initial screening and continued monitoring of mental health in children and adults respectively. SDQ, designed for individuals aged 2-17, is a comprehensive behavioural screening questionnaire. Meanwhile, the PHQ-9 is a critical part of the larger PHQ suite, intended to diagnose and monitor depression severity.
 
 {{< card heading="Try Harmony" copy="Compare SDQ and PHQ-9 " url="https://harmonydata.ac.uk/app" >}}
+
+## Other harmonisation projects with Harmony which you may be interested in
 
 * [GAD-7 vs GHQ-12](/gad-7-vs-ghq-12)
 * [Harmony: A Free AI Tool for Data Pooling](/item-harmonisation/harmony-a-free-ai-tool-for-data-pooling)

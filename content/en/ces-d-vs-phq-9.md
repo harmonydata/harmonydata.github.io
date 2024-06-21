@@ -2,7 +2,7 @@
 title: CES-D vs PHQ-9
 ---
 
-## CES-D vs PHQ-9: A Facilitated Comparison Using Harmony
+## Harmonising and comparing CES-D vs PHQ-9: A Facilitated Comparison Using Harmony
 
 Psychologists and social scientists have long struggled with the process of harmonising questionnaire items across different tools, an endeavor that is not only time-consuming but often subjective as well. The task becomes stiffer when you have to compare highly-referenced psychological instruments like the Center for Epidemiological Studies-Depression (CES-D) and the Patient Health Questionnaire (PHQ-9).
 
@@ -10,7 +10,7 @@ This comparative task, the CES-D vs PHQ-9, is a pressing need for many professio
 
 {{< card heading="Try Harmony" copy="Compare CES-D and PHQ-9 " url="https://harmonydata.ac.uk/app" >}}
 
-
+## Other harmonisation projects with Harmony which you may be interested in
 
 * [Harmony: A Free AI Tool for Item-Wise Harmonisation](/item-harmonisation/harmony-a-free-ai-tool-for-item-wise-harmonisation)
 * [Validation and Harmonisation of SIRS scale (Systemic Inflammatory Response Syndrome)](/harmonisation-validation/sirs-scale-systemic-inflammatory-response-syndrome)

@@ -2,7 +2,7 @@
 title: GHQ 12 vs PHQ-9
 ---
 
-## GHQ 12 vs PHQ-9: The Power of Harmony in Questionnaire Harmonisation
+## Harmonising and comparing GHQ 12 vs PHQ-9: The Power of Harmony in Questionnaire Harmonisation
 
 The world of psychological research is rich with extensive questionnaires crafted to delve into the intricacies of the human psyche. But as numerous and comprehensive as these tools are, a challenge often arises in comparing them. Two such essential instruments in the field of mental health are the 12 Item General Health Questionnaire (GHQ 12) and the Patient Health Questionnaire (PHQ-9). Drawing meaningful comparisons between these two might seem complex and strenuous, but Harmony is here to simplify it. Understanding GHQ 12 vs PHQ-9 The GHQ-12, designed as a unidimensional measure, is a popular tool for detecting psychological distress despite the debate around its structure. On the other hand, the PHQ-9 serves as the depression module within the self-administered PRIME-MD diagnostic tool, gauging the intensity of depression symptoms.
 
@@ -11,6 +11,8 @@ The world of psychological research is rich with extensive questionnaires crafte
 
 
 Both questionnaires play significant roles in psychological assessments, but without a common ground for comparison, valuable insights may be missed. That's where the recurring theme of GHQ 12 vs PHQ-9 comes into play. How Harmony Resolves the GHQ 12 vs PHQ-9 Conundrum Enter Harmony - a revolutionary software tool developed to assist researchers in harmonising questionnaire items. Built on the core principles of natural language processing and generative AI models, Harmony offers a highly accurate tool for comparing instruments like the GHQ 12 and PHQ-9.
+
+## Other harmonisation projects with Harmony which you may be interested in
 
 * [Validation and Harmonisation of AIM (Acceptability of Intervention Measure) score](/harmonisation-validation/aim-acceptability-of-intervention-measure-score)
 * [Validation and Harmonisation of Visual Analog Scale (VAS)](/harmonisation-validation/visual-analog-scale-vas)

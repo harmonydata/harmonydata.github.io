@@ -125,7 +125,7 @@ While the information fusion with harmonisation cannot quite achieve reproducibl
 
 For example, the longitudinal PET cannot offer any helpful information as it’s gathered from multi-scanners, leading to concealed or convoluted outcomes.
 
-By deploying a computational method – which includes acquiring datasets like staining and scanning, pre-processing, modelling, and analyses – data harmonisation can be conducted in the background through the processing of images, signals, or gene matrices. Sample-wise harmonisation is typically conducted prior to modelling, where the aim is to reduce the cohort variance of the training samples, fusing multicentre samples as one dataset.
+By deploying a computational method – which includes acquiring datasets like staining and scanning, pre-processing, modelling, and analyses – data harmonisation can be conducted in the background through the processing of images, signals, or gene matrices. Sample-wise harmonisation is typically conducted prior to modelling, where the aim is to reduce the [cohort](/item-harmonisation/harmony-a-free-ai-tool-to-combine-cohort-studies/) variance of the training samples, fusing multicentre samples as one dataset.
 
 Similarly, feature-wise harmonisation will reduce the bias of extracted features – GLCM and convex hull area of a region of interest, for example. It’s typically performed on extracted feature matrixes, thus, eliminating the cohort variances by fusing the extracted features.
 

@@ -41,14 +41,14 @@ Finally, I included a similar Portuguese-only harmonisation tool listing commona
 
 ### Overview of the validation dataset
 
-The validation dataset can be broken down as follows
+The [validation](/harmonisation-validation/positive-and-negative-syndrome-scale-panss) dataset can be broken down as follows
 
 | Dataset                          | Number of instruments | Average number of questions per instrument |
 | -------------------------------- | --------------------- | ------------------------------------------ |
 | Childhood McElroy et al          | 47                    | 23                                         |
 | Adulthood McElroy et al          | 28                    | 16                                         |
 | [GAD-7](/ces-d-vs-gad-7) English vs Portuguese      | 2                     | 7                                          |
-| BHRCS SDQ/CBCL (Portuguese only) | 2                     | 73                                         |
+| BHRCS [SDQ](/sdq-vs-phq-9)/CBCL (Portuguese only) | 2                     | 73                                         |
 
 Breakdown of my validation dataset
 
@@ -56,7 +56,7 @@ Breakdown of my validation dataset
 
 Since Harmony’s task can be seen as a binary classification (each pair of questions should be matched or should not be matched), one metric to measure Harmony’s performance is the Receiver Operating Characteristic curve (ROC) and the Area Under the Curve (AUC).
 
-For example, for the GAD-7 English vs Portuguese dataset contains 7×7 = 49 potential matches. 7 of these are positives (Q1 in the Portuguese GAD-7 is equivalent to Q1 in the English), while 42 are negatives (any cross-pairing of questions).
+For example, for the [GAD-7](/gad-7-vs-sdq) English vs Portuguese dataset contains 7×7 = 49 potential matches. 7 of these are positives (Q1 in the Portuguese [GAD-7](/gad-7-vs-phq-9) is equivalent to Q1 in the English), while 42 are negatives (any cross-pairing of questions).
 
 ## Comparing versions of Harmony
 
@@ -154,7 +154,7 @@ Likewise, here is a printout of the Childhood dataset’s top 10 false negatives
 
 The top 10 false negatives in the Childhood dataset as classified by Model 7 (transformer)
 
-We can see that some of these are texts where the meaning is really very different, but in a psychology context we would want to group them together. For example, _is nervous or clingy in new situations, easily loses confidence_ does not immediately leap out to me as a non-psychologist as something that we would group with _a dare devil_, but a psychologist may want to categorise them together.
+We can see that some of these are texts where the meaning is really very different, but in a [psychology](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology) context we would want to group them together. For example, _is nervous or clingy in new situations, easily loses confidence_ does not immediately leap out to me as a non-psychologist as something that we would group with _a dare devil_, but a psychologist may want to categorise them together.
 
 ### False positives
 
@@ -199,9 +199,9 @@ Unfortunately the MentalBERT model did not perform as well as the other sentence
 
 It is clear that it is possible to adapt an algorithm such as Tf\*Idf similarity to handle multi-lingual text with a dictionary lookup. However, I consider the transformer approach to be more scalable. The improved AUC using Sentence-BERT is evidence that transformers outperform the alternatives by a wide margin. I’ve written another blog post about the different approaches to multilingual natural language processing [here](https://fastdatascience.com/multilingual-natural-language-processing/).
 
-I have not attempted to validate the last model’s ability to recognise antonyms. If you [try Harmony in the web interface](https://harmonydata.ac.uk/app/), you will see that items which are predicted to be opposite senses (_child fights frequently_ vs _child rarely fights_) are tagged with red lines. Since the existing harmonisation tool does not contain this information, I was unable to validate antonym recognition. Further work is needed in this area.
+I have not attempted to validate the last model’s ability to recognise antonyms. If you [try Harmony in the web interface](https://harmonydata.ac.uk/app/), you will see that [items](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study-in-psychology) which are predicted to be opposite senses (_child fights frequently_ vs _child rarely fights_) are tagged with red lines. Since the existing harmonisation tool does not contain this information, I was unable to validate antonym recognition. Further work is needed in this area.
 
-Future work could involve training a natural language processing algorithm on the existing harmonisation tools, in order to reproduce their performance. An interesting future direction would be to train Harmony to reproduce the patterns found in factor analysis, which are derived from numerical survey data.
+Future work could involve training a natural language processing algorithm on the existing harmonisation tools, in order to reproduce their performance. An interesting future direction would be to train Harmony to reproduce the patterns found in factor analysis, which are derived from numerical [survey](/combining-multiple-survey-sources-best-practices) data.
 
 ## References
 

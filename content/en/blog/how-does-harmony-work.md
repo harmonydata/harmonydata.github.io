@@ -19,7 +19,7 @@ Harmony uses techniques from the field of [natural language processing](https://
 
 There are a number of approaches to quantify the [similarity](https://fastdatascience.com/finding-similar-documents-nlp) between strings of text. The simplest approach is known as the Bag-of-Words approach. This is *not* how Harmony currently works, but it is one of the first things we tried!
 
-If we want to compare the [GAD-7](/ces-d-vs-gad-7) question 4 (*Trouble relaxing*) to the [Beck](/harmonisation-validation/beck-depression-inventory-ii-bdi-ii)’s Anxiety Inventory question 4 (*Unable to relax*), we would break down each text into the words present. We usually remove suffixes like *ing* at this stage (this is called lemmatisation).
+If we want to compare the [GAD-7](/ces-d-vs-gad-7) question 4 (*Trouble relaxing*) to the [Beck](/harmonisation-validation/beck-depression-inventory-ii-bdi-ii)’s [Anxiety](/harmonisation-validation/patient-reported-outcome-measure-information-system-promis-anxiety-subscale) Inventory question 4 (*Unable to relax*), we would break down each text into the words present. We usually remove suffixes like *ing* at this stage (this is called lemmatisation).
 
 |            | [GAD-7](/gad-7-vs-ghq-12) Q4 | Beck Q4 |
 | ---------- | -------- | ------- |
@@ -86,7 +86,7 @@ The transformer neural network uses an *attention mechanism*, which is a compone
 
 For example, when parsing the text *Feeling afraid as if something awful might happe*n, an attention mechanism would pay strong attention to the word *something* when parsing the word *awful*.
 
-Vector representations of the GAD-7 and Beck's Anxiety InventoryCalculated using GPT-2Collapsed to three dimensions using t-SNE.
+Vector representations of the [GAD-7](/gad-7-vs-phq-9) and Beck's Anxiety InventoryCalculated using GPT-2Collapsed to three dimensions using t-SNE.
 
 As an aside, transformers can also be used for machine translation (in fact Google Translate now uses transformers), and this attention enables a noun+adjective phrase to be translated to another language with the correct gender.
 
@@ -104,7 +104,7 @@ The distance between any two questions is measured according to the cosine simil
 
 ## Converting to a network graph
 
-When Harmony receives two or more questionnaires, the text of each question is compared to each question in every other document. For example, GAD-7 question 1 would be vectorised and compared to all of the questions in the PHQ-9, but not to any other questions in GAD-7.
+When Harmony receives two or more questionnaires, the text of each question is compared to each question in every other document. For example, [GAD-7](/gad-7-vs-sdq) question 1 would be vectorised and compared to all of the questions in the PHQ-9, but not to any other questions in GAD-7.
 
 We then find the closest matches and link them together in a graph.
 
@@ -116,7 +116,7 @@ The user has an option to add or remove edges from the graph.
 
 ## Open Data and Open Science
 
-With an aim to make our research as accessible to the public as possible, we have made Harmony and its source code and data public. The source code and source data are on [GitHub](https://github.com/harmonydata) and runs in [Python](https://www.python.org/). If you have some basic knowledge of Python, feel free to download it and you can even contribute to the project, by making a branch and submitting a pull request.
+With an aim to make our research as accessible to the public as possible, we have made Harmony and its source code and data public. The source code and source data are on [GitHub](https://github.com/harmonydata) and runs in [Python](https://www.python.org/). If you have some basic knowledge of Python, feel [free](/item-harmonisation/harmony-a-free-ai-tool-for-item-harmonisation) to download it and you can even [contribute](/contributing-to-harmony) to the project, by making a branch and submitting a pull request.
 
 ## What’s next for Harmony?
 
@@ -130,7 +130,7 @@ Harmony is designed to process input files in Excel or PDF format. Extracting th
 
 ### Data calibration
 
-At present Harmony only processes the question texts but does not handle survey responses. After harmonisation, survey data calibration is the next step in the process of consolidating research from different sources. We would like to add a facility to process raw survey data into the tool.
+At present Harmony only processes the question texts but does not handle [survey](/combining-multiple-survey-sources-best-practices) responses. After harmonisation, survey data calibration is the next step in the process of consolidating research from different sources. We would like to add a facility to process raw survey data into the tool.
 
 ### Priming, anchoring, and other effects
 

@@ -9,7 +9,7 @@ image: "/images/12- Combining multiple survey sorces - the best practices list.s
 ---
 
 
-In today’s data-driven world, surveys are a pivotal tool for researchers, marketers, and decision-makers. They offer invaluable insights into consumer behavior, employee satisfaction, and wide-ranging social issues. However, the challenge often lies in harmonizing data from multiple survey sources to draw coherent, actionable conclusions. This blog explores best practices for combining survey data, inspired by cutting-edge methodologies.
+In today’s data-driven world, surveys are a pivotal tool for researchers, marketers, and decision-makers. They offer invaluable insights into consumer behavior, employee [satisfaction](/harmonisation-validation/client-satisfaction-questionnaire-csq), and wide-ranging social issues. However, the challenge often lies in harmonizing data from multiple [survey](/combining-multiple-survey-sources-best-practices) sources to draw coherent, actionable conclusions. This blog explores best practices for combining survey data, inspired by cutting-edge methodologies.
 
 ## Table of Contents
 - [Introduction](#introduction)

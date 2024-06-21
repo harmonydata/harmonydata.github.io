@@ -173,7 +173,7 @@ blocks:
   copy: Really useful! Would have been a great tool and saved me a lot of time when I was trying to externally validate my risk prediction model in two cohorts.
   author:
     name: Researcher at Kings College London
-    title: on using Harmony the first time
+    title: on using Harmony the first times
     image: /images/testimonial-user.svg
 
 - block: feature-2

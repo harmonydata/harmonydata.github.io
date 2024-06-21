@@ -12,7 +12,7 @@ Psychologists and social scientists around the world use tools like the Generali
 
 
 
-
+## Other harmonisation projects with Harmony which you may be interested in
 
 * [CES-D vs GHQ-12](/ces-d-vs-ghq-12)
 * [GAD-7 vs PHQ-9](/gad-7-vs-phq-9)

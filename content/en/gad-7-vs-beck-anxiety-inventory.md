@@ -2,7 +2,7 @@
 title: GAD-7 vs Beck Anxiety Inventory
 ---
 
-## Harnessing the Power of Harmony: GAD-7 vs Beck Anxiety Inventory
+## Harnessing the Power of Harmony: Harmonising and comparing GAD-7 vs Beck Anxiety Inventory
 
 When it comes to measuring the severity of anxiety, there are a couple of standard tools often used by psychologists - the Generalised Anxiety Disorder Assessment (GAD-7) and the Beck Anxiety Inventory (BAI).
 
@@ -11,6 +11,8 @@ When it comes to measuring the severity of anxiety, there are a couple of standa
 However, accurately comparing these two instruments can be intricate, subjective, and time-consuming - that's where Harmony comes in.
 
 {{< youtube cEZppTBj1NI >}}
+
+## Other harmonisation projects with Harmony which you may be interested in
 
 * [Validation and Harmonisation of Contact Lens User Experience (CLUE)](/harmonisation-validation/contact-lens-user-experience-clue)
 * [Validation and Harmonisation of Bristol Stool Scale](/harmonisation-validation/bristol-stool-scale)

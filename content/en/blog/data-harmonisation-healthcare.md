@@ -24,13 +24,13 @@ Data harmonisation involves the alignment of datasets from various sources to cr
 ## The Importance of Data Harmonisation in Healthcare
 {{< image src="/images/The Importance of Data Harmonization in Healthcare.webp" alt="The Importance of Data Harmonization in Healthcare" title="The Importance of Data Harmonization in Healthcare" >}}
 
-Data harmonisation significantly enhances the quality of research by enabling the aggregation of data from various sources for more robust analysis. When data from different studies or healthcare systems can be combined and compared, it increases the statistical power of research findings, leading to more reliable and generalizable conclusions. This is particularly important in healthcare, where research findings often inform clinical guidelines and treatment protocols. Harmonised data can reveal trends and patterns that might be obscured in smaller, fragmented datasets, facilitating breakthroughs in understanding diseases, treatments, and patient outcomes.
+Data harmonisation significantly enhances the quality of research by enabling the aggregation of data from various sources for more robust analysis. When data from different studies or healthcare systems can be combined and compared, it increases the statistical power of research findings, leading to more reliable and generalizable conclusions. This is particularly important in healthcare, where research findings often inform clinical guidelines and treatment protocols. [Harmonised data](/harmonised-data) can reveal trends and patterns that might be obscured in smaller, fragmented datasets, facilitating breakthroughs in understanding diseases, treatments, and patient [outcomes](/harmonisation-validation/medical-outcomes-survey-sleep-quality-subscale).
 Data harmonisation is a critical endeavor in healthcare, underpinning efforts to improve research, enhance interoperability, achieve cost efficiencies, and support the implementation of evidence-based policies and practices. Through careful methodological planning and collaboration among stakeholders, harmonised data can serve as a powerful tool for advancing health outcomes and operational excellence in healthcare systems.
 
 ---
 ### Methodological Considerations
 
-Harmonisation methods in data science and healthcare research aim to standardize disparate data sources to ensure consistency, comparability, and reliability across datasets. These methods are critical in the context of big data and the increasing reliance on electronic health records (EHRs), where data is often collected from various sources with different standards and formats. Harmonisation can be approached retrospectively, after data collection, or prospectively, before data collection begins. The choice between these approaches depends on the constraints of the existing datasets and the theoretical frameworks guiding the research or clinical objectives.
+Harmonisation methods in data science and healthcare research aim to standardize disparate data sources to ensure consistency, comparability, and reliability across datasets. These methods are critical in the context of big data and the increasing reliance on electronic health records (EHRs), where data is often collected from various sources with different standards and formats. Harmonisation can be approached retrospectively, after data collection, or prospectively, before data collection begins. The choice between these approaches depends on the constraints of the existing datasets and the theoretical [frameworks](/data-harmonisation-tools-frameworks) guiding the research or clinical objectives.
 
 ---
 ## Key Strategies for Harmonisation
@@ -59,11 +59,11 @@ The management of large volumes of disparate data is made possible through advan
 ### Adopting SDOH Standards to Advance Health Equity
 
 #### Social Determinants of Health (SDOH)
-The Social Determinants of Health (SDOH) refer to the conditions in which people are born, grow, live, work, and age, including factors like socioeconomic status, education, neighborhood and physical environment, employment, and social support networks, as well as access to healthcare. SDOH significantly impact health outcomes, with a growing body of evidence suggesting that they may account for a substantial part of health disparities and inequities observed across different populations.
+The Social Determinants of Health (SDOH) refer to the conditions in which people are born, grow, live, work, and age, including factors like socioeconomic status, [education](/data-harmonisation-in-education), neighborhood and physical environment, employment, and social support networks, as well as access to healthcare. SDOH significantly impact health outcomes, with a growing body of evidence suggesting that they may account for a substantial part of health disparities and inequities observed across different populations.
 
 
 #### ONC Gravity Project
-The Office of the National Coordinator for Health Information Technology (ONC) Gravity Project is an initiative focused on developing consensus-driven standards for documenting, coding, and exchanging SDOH data within health records. By incorporating SDOH data into EHRs, the project aims to improve health outcomes by enabling healthcare providers to consider and address the broader social and environmental factors affecting their patients' health. The standards developed by the Gravity Project are expected to facilitate more holistic approaches to patient care and contribute to advancing health equity by identifying and addressing the root causes of health disparities.
+The Office of the National Coordinator for Health Information Technology (ONC) Gravity Project is an initiative focused on developing consensus-driven standards for documenting, coding, and exchanging SDOH data within health records. By incorporating SDOH data into EHRs, the project aims to improve health outcomes by enabling healthcare providers to consider and address the broader social and environmental factors affecting their patients' health. The standards developed by the Gravity Project are expected to facilitate more holistic approaches to patient care and [contribute](/contributing-to-harmony) to advancing health equity by identifying and addressing the root causes of health disparities.
 
 
 ---
@@ -101,7 +101,7 @@ Despite these challenges, the benefits of harmonising health data are substantia
 ---
 ## Implementing Data Harmonisation
 
-Data harmonisation can be implemented retrospectively, after data collection, or prospectively, before data is collected. Retrospective harmonisation, also known as ex-post or output harmonisation, aligns existing datasets. Prospective harmonisation, or ex-ante/input harmonisation, involves planning data collection methods and standards in advance to ensure compatibility. Each approach has its merits, and the choice between them often depends on the goals of the harmonisation effort and the nature of the data involved.
+Data harmonisation can be implemented retrospectively, after data collection, or prospectively, before data is collected. [Retrospective](/back-to-the-future-retrospectively-harmonizing-questionnaire-data) harmonisation, also known as ex-post or output harmonisation, aligns existing datasets. Prospective harmonisation, or ex-ante/input harmonisation, involves planning data collection methods and standards in advance to ensure compatibility. Each approach has its merits, and the choice between them often depends on the goals of the harmonisation effort and the nature of the data involved.
 
 The process involves defining the scope of harmonisation, identifying relevant data sources, standardizing data formats and terminologies, and employing technologies such as natural language processing (NLP) to ensure data quality and consistency. Numerous initiatives support data harmonisation efforts, such as the Common Data Model Harmonization project, which aims to enhance data utility and interoperability across healthcare networks. Tools and technologies like CDASH and the NIH's Common Data Elements facilitate registry interoperability.
 
@@ -113,7 +113,7 @@ The process involves defining the scope of harmonisation, identifying relevant d
 ### Case Study 1: The Global Alliance for Genomics and Health (GA4GH) and the BRCA Challenge
 
 ### Objective
-The BRCA Challenge, under the umbrella of the Global Alliance for Genomics and Health (GA4GH), aims to harmonise genetic data related to the BRCA1 and BRCA2 genes, known for their link to breast and ovarian cancer risk. The project seeks to aggregate and standardize genetic variants to improve the understanding and clinical interpretation of BRCA mutations globally.
+The BRCA Challenge, under the umbrella of the Global Alliance for Genomics and Health (GA4GH), aims to harmonise genetic data related to the BRCA1 and BRCA2 genes, known for their link to breast and ovarian [cancer](/harmonisation-validation/functional-assessment-of-cancer-therapy-general-fact-g-with-fact-head-and-neck-fact-hn-subscale) risk. The project seeks to aggregate and standardize genetic variants to improve the understanding and clinical interpretation of BRCA mutations globally.
 
 ### Process
 - **Global Data Collection:** Engage with international consortia, research institutions, and clinical labs to contribute genetic data related to BRCA1 and BRCA2 mutations.
@@ -168,7 +168,7 @@ PEDSnet, a pediatric learning health system, aims to harmonise electronic health
 
 ### Process
 - **Collaboration Across Institutions:** Form a consortium of pediatric hospitals willing to share and harmonise their EHR data for research and quality improvement purposes.
-- **Common Data Model Adoption:** Adopt a common data model (CDM) that allows for the standardization of EHR data across different hospital systems, including demographics, diagnoses, procedures, medications, and outcomes.
+- **Common Data Model Adoption:** Adopt a common data model (CDM) that allows for the standardization of EHR data across different [hospital](/harmonisation-validation/hospital-anxiety-and-depression-scale-hads) systems, including demographics, diagnoses, procedures, medications, and outcomes.
 - **Data Transformation and Mapping:** Work with data analysts at each institution to map their local EHR data to the CDM, ensuring that data from different sources becomes comparable and analyzable.
 - **Quality Assurance Processes:** Implement continuous data quality checks to ensure the accuracy, completeness, and consistency of the harmonised data set.
 - **Data Sharing and Access Infrastructure:** Develop a secure infrastructure that allows researchers to access and analyze the harmonised data while protecting patient privacy and adhering to data use agreements.

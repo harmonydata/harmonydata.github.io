@@ -2,7 +2,7 @@
 title: GAD-7 vs PHQ-9
 ---
 
-## GAD-7 vs PHQ-9: A Comprehensive Harmonisation Using Harmony Software
+## Harmonising and comparing GAD-7 vs PHQ-9: A Comprehensive Harmonisation Using Harmony Software
 
 As psychologists and social scientists, we constantly tread through veritable jungles of questionnaires. One recurring challenge we're faced with is efficiently comparing similar questionnaires like the Generalised Anxiety Disorder Assessment (GAD-7) and the Patient Health Questionnaire-9 (PHQ-9). Harmony - a cutting-edge software - offers a solution, specifically to the GAD-7 vs PHQ-9 conundrum. The GAD-7 is a seven-item tool that measures the severity of generalised anxiety disorder, whereas the PHQ-9 is a self-administered instrument that assesses the extent of depression. Despite their distinct purposes, comparing the GAD-7 and PHQ-9 can yield valuable insights into the overlapping elements of anxiety and depression, making it far easier to understand and treat these prevalent mental disorders. The intricacies of comparing questionnaires such as GAD-7 vs PHQ-9 can be quite daunting. Harmonisation is necessary, but often time-consuming and subjective.
 
@@ -12,7 +12,7 @@ As psychologists and social scientists, we constantly tread through veritable ju
 <img src="/images/gad-7-scanned-min.webp" />
 {{< /htmlcode >}}
 
-
+## Other harmonisation projects with Harmony which you may be interested in
 
 * [Validation and Harmonisation of Pittsburgh Sleep Quality Index](/harmonisation-validation/pittsburgh-sleep-quality-index)
 * [Harmony: A Free AI Tool to Combine Cohort Studies](/item-harmonisation/harmony-a-free-ai-tool-to-combine-cohort-studies)

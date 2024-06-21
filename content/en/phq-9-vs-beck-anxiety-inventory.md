@@ -2,7 +2,7 @@
 title: PHQ-9 vs Beck Anxiety Inventory
 ---
 
-## PHQ-9 vs Beck Anxiety Inventory
+## Harmonising and comparing PHQ-9 vs Beck Anxiety Inventory
 
 ### A simplified comparison using Harmony
 
@@ -11,6 +11,8 @@ In psychological research, comparing and contrasting different questionnaires is
 Both are predominant instruments used to evaluate patients' mental health. So, how can we accurately map these two instruments and streamline our research? Enter Harmony - your ultimate tool for convenient harmonisation.
 
 {{< image src="images/GAD-7-vs-Becks.drawio-min.png" alt="dog" title="dog" >}}
+
+## Other harmonisation projects with Harmony which you may be interested in
 
 * [PHQ-9 vs Beck Anxiety Inventory](/phq-9-vs-beck-anxiety-inventory)
 * [CES-D vs GHQ-12](/ces-d-vs-ghq-12)

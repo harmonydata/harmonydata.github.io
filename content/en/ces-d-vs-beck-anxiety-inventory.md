@@ -2,7 +2,7 @@
 title: CES-D vs Beck Anxiety Inventory
 ---
 
-## CES-D vs Beck Anxiety Inventory: A Comparative Approach with Harmony 
+## Harmonising and comparing CES-D vs Beck Anxiety Inventory: A Comparative Approach with Harmony 
 
 As mental health professionals and researchers, finding a useful and efficient footing for questionnaire harmonisation is crucial for accurate, comparative analysis. Harmony, the innovative, AI-powered software, is here to help in navigating this often complex process.
 
@@ -11,6 +11,8 @@ As mental health professionals and researchers, finding a useful and efficient f
 One common comparative analysis that psychologists encounter is comparing data collected with the CES-D vs data collected with the Beck Anxiety Inventory matchup. The CES-D (Center for Epidemiological Studies-Depression) questionnaire measures symptoms linked to depression, whereas the Beck Anxiety Inventory (BAI) zeroes in on anxiety's cognitive and somatic signals. While both instruments address the similar theme of emotional distress, their unique parameters make it challenging to compare without meticulous harmonisation.
 
 {{< card heading="Try Harmony" copy="Compare CES-D and Beck Anxiety Inventory " url="https://harmonydata.ac.uk/app" >}}
+
+## Other harmonisation projects with Harmony which you may be interested in
 
 * [Validation and Harmonisation of Physical Activity Scale for the Elderly (PASE)](/harmonisation-validation/physical-activity-scale-for-the-elderly-pase)
 * [Validation and Harmonisation of Overall Health-related Quality of Life (SF-36)](/harmonisation-validation/overall-health-related-quality-of-life-sf-36)

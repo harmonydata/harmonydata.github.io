@@ -2,7 +2,7 @@
 title: CES-D vs GHQ 12
 ---
 
-## CES-D vs GHQ 12: A Comparative Review Guided by Harmony
+## Harmonising and comparing CES-D vs GHQ 12: A Comparative Review Guided by Harmony
 
 In the world of psychological research, researchers often grapple with comparing different research instruments, such as CES-D and GHQ 12. This process, known as harmonisation, can be a tedious and arduous task, especially as these instruments often feature distinct sets of questionnaire items. With Harmony, however, the task of comparing CES-D vs GHQ 12 can become substantially streamlined. Harmony is an intuitive tool, designed to aid researchers in matching questionnaire items across different tools, even in different languages. Leveraging powerful artificial intelligence and natural language processing, Harmony seems to be the game-changer in the field of social sciences. When comparing CES-D vs GHQ 12, for instance, one encounters a variety of differences.
 
@@ -10,7 +10,7 @@ In the world of psychological research, researchers often grapple with comparing
 
 
 
-
+## Other harmonisation projects with Harmony which you may be interested in
 
 * [Validation and Harmonisation of Numeric Pain Rating Scale (NPRS)](/harmonisation-validation/numeric-pain-rating-scale-nprs)
 * [CES-D vs SDQ](/ces-d-vs-sdq)

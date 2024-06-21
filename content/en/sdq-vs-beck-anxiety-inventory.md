@@ -2,7 +2,7 @@
 title: SDQ vs Beck Anxiety Inventory
 ---
 
-## SDQ vs Beck Anxiety Inventory: harness the power of Harmony for advanced psychological research
+## Harmonising and comparing SDQ vs Beck Anxiety Inventory: harness the power of Harmony for advanced psychological research
 
 When we talk about powerful psychological assessment tools, the Strengths and Difficulties Questionnaire (SDQ) and the Beck Anxiety Inventory (BAI) are two instruments that spring readily to mind.
 
@@ -11,6 +11,8 @@ These tools have provided psychometric insights into the behavioural and emotion
 {{< image src="images/GAD-7-vs-Becks.drawio-min.png" alt="dog" title="dog" >}}
 
 **Harmony** is a free tool that streamlines not just this SDQ vs Beck Anxiety Inventory challenge but all harmonisation processes in psychological research. Harmony is a software tool that leverages natural language processing and advanced AI models to help psychologists and social scientists harmonise different questionnaire items. 
+
+## Other harmonisation projects with Harmony which you may be interested in
 
 * [Validation and Harmonisation of Perceived Stress Scale (PSS)](/harmonisation-validation/perceived-stress-scale-pss)
 * [Validation and Harmonisation of PROMIS depression subscale](/harmonisation-validation/promis-depression-subscale)

@@ -2,7 +2,7 @@
 title: GHQ 12 vs SDQ
 ---
 
-## GHQ 12 vs SDQ: Optimizing Psychological Research with Harmony
+## Harmonising and comparing GHQ 12 vs SDQ: Optimizing Psychological Research with Harmony
 
 As psychologists and social scientists, we often wrestle with the harmonization of different questionnaires. Take for instance the comparison of the General Health Questionnaire (GHQ 12) and the Strengths and Difficulties Questionnaire (SDQ); often referred to as 'GHQ 12 vs SDQ'. Harmonizing these instruments can be a time consuming and often subjective process. But thanks to the innovative Harmony software, making that 'GHQ 12 vs SDQ' comparison just got a lot easier. The GHQ-12 is a comprehensive health questionnaire that gauges psychological distress.
 
@@ -13,6 +13,8 @@ As psychologists and social scientists, we often wrestle with the harmonization 
 It is widely used, but its multidimensional nature can pose challenges in comparison. Conversely, the SDQ is a behavioural screening questionnaire designed for 2-17 year-olds, ideal for researchers, clinicians, and educationalists focusing on child and teen psychology. When considering 'GHQ 12 vs SDQ', how do we effectively match and compare data?
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and SDQ " url="https://harmonydata.ac.uk/app" >}}
+
+## Other harmonisation projects with Harmony which you may be interested in
 
 * [CES-D vs PHQ-9](/ces-d-vs-phq-9)
 * [Validation and Harmonisation of Dermatology Life Quality Index (DLQI)](/harmonisation-validation/dermatology-life-quality-index-dlqi)

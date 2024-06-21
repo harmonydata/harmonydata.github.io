@@ -16,7 +16,7 @@ In 2013, the publication of DSM-5 included for the first time Cultural Concepts 
 Examples of cultural concepts of distress include:
 
 - “Los nervios” or “ataque de nervios” (Spanish) – literally “attack of nerves”, a concept of severe distress, often linked to interpersonal disputes in Latino and Spanish-speaking cultures[3]. “Los nervios” are associated with physical and functional impairments.
-- “Kufungisisa” (Shona) – literally “thinking too much”, this is a term used in Zimbabwe to describe both the cause and the symptoms of mental health problems such as anxiety and depression. Patel et al[4] suggested describing this as “feeling stressed” or as a “non-specific neurotic mental illness”.
+- “Kufungisisa” (Shona) – literally “thinking too much”, this is a term used in Zimbabwe to describe both the cause and the symptoms of mental health problems such as [anxiety](/harmonisation-validation/patient-reported-outcome-measure-information-system-promis-anxiety-subscale) and [depression](/harmonisation-validation/promis-depression-subscale). Patel et al[4] suggested describing this as “feeling stressed” or as a “non-specific neurotic mental illness”.
 - “Hikikomori” (Japanese) – a form of severe social withdrawal whereby an adolescent or young adult becomes a recluse in their parents’ home and does not work or attend school for long periods of time[5].
 
 Can we use Harmony to harmonise mental health instruments designed for different cultural settings where some disorders may have no direct equivalent in one culture?
@@ -54,7 +54,7 @@ Although English is the best-resource language for [natural language processing]
 
 Above: the text of the Shona symptom questionnaire for the detection of depression and anxiety.
 
-A problem I encountered was that the transformer model didn’t work for both Shona and English (it’s not multilingual, like Harmony’s default transformer model). I Google translated GHQ-12 into Shona as a temporary measure.
+A problem I encountered was that the transformer model didn’t work for both Shona and English (it’s not multilingual, like Harmony’s default transformer model). I Google translated [GHQ-12](/ghq-12-vs-beck-anxiety-inventory) into Shona as a temporary measure.
 
 Also, the transformer model did not operate as a sentence transformer, but rather as a token-level transformer, so my sentence vectors were made by averaging token vectors across an input.
 

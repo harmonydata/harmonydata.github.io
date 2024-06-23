@@ -26,7 +26,7 @@ Thomas Wood will present our work on Harmony, harmonydata.ac.uk, which is a free
 
 :date:  Date: 2 July 2024
 
-:clock9:  Time: 6pm
+:clock9:  Time: 7pm
 
 :office:  Where: EC4R 3AD
 

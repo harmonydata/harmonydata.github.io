@@ -1,6 +1,6 @@
 ---
 title: Integrating with Harmony
-date: 2024-07-10
+date: 2024-06-24
 categories: ["development"]
 image: /images/import-into-harmony.png
 ---

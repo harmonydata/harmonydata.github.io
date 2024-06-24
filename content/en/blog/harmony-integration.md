@@ -32,7 +32,7 @@ Encode it to URL safe base64 string - `js-base64` is a good library for this.
 Send it to the import URL - to maintain a single instance of the harmony tab / page the target must be set to the harmony URL
 
 ```
-<a href="https://harmonydata.ac.uk/#/import/eyJpbnN0cnVtZW50X25hbWUiOiJUcmVhdG1lbnQgLSBtZWRpY2F0aW9uIiwicXVlc3Rpb25zIjpbeyJxdWVzdGlvbl9ubyI6IjEiLCJxdWVzdGlvbl90ZXh0IjoiSGF2ZSB5b3UgZXZlciB0YWtlbiBhbnRpLWRlcHJlc3NhbnRzPyJ9XX0" >Harmonise this scale with harmonydata.ac.uk</a>
+<a href="https://harmonydata.ac.uk/app/import/eyJpbnN0cnVtZW50X25hbWUiOiJUcmVhdG1lbnQgLSBtZWRpY2F0aW9uIiwicXVlc3Rpb25zIjpbeyJxdWVzdGlvbl9ubyI6IjEiLCJxdWVzdGlvbl90ZXh0IjoiSGF2ZSB5b3UgZXZlciB0YWtlbiBhbnRpLWRlcHJlc3NhbnRzPyJ9XX0" >Harmonise this scale with harmonydata.ac.uk</a>
 ```
 
 ## Creating a link to Harmony web UI from the Harmony Python library
@@ -70,7 +70,7 @@ instrument_serialised_as_json = json.dumps({
 instrument_json_b64_encoded_bytes = base64.b64encode(instrument_serialised_as_json.encode('utf-8'))
 instrument_json_b64_encoded_str = instrument_json_b64_encoded_bytes.decode("utf-8")
 
-url = f"https://harmonydata.ac.uk/#/import/{instrument_json_b64_encoded_str}"
+url = f"https://harmonydata.ac.uk/app/import/{instrument_json_b64_encoded_str}"
 
 print (url)
 ```

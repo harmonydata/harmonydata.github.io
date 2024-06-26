@@ -166,6 +166,9 @@ blocks:
   - alt: "Mental Health Catalogue"
     image: /images/mental_health_catalogue.png
     url: https://www.cataloguementalhealth.ac.uk/
+  - alt: "UKRI ESRC"
+    image: /images/ukri_esrc.png
+    url: https://www.ukri.org/councils/esrc/
     
 - block: newsletter
   image: images/multilingual.jpg

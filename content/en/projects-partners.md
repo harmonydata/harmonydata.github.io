@@ -37,6 +37,13 @@ blocks:
     button:
       text: Australian Data Archive
       url: /ada
+  - heading: UKRI ESRC
+    button:
+      text: "Economic and Social Research Council"
+      url: https://www.ukri.org/councils/esrc/
+    image: /images/ukri_esrc.png
+    description: "ESRC is the UK’s largest funder of economic, social, behavioural and human data science."
+
   - heading: R package on CRAN
     description: |-
       [Omar Hassoun](https://www.linkedin.com/in/omar-hassoun-6a2730157/) has worked on the R package on CRAN.

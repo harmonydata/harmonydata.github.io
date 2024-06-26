@@ -163,7 +163,10 @@ blocks:
   - alt: datamind
     image: /images/datamind.svg
     url: https://datamind.org.uk
-
+  - alt: "Mental Health Catalogue"
+    image: /images/mental_health_catalogue.png
+    url: https://www.cataloguementalhealth.ac.uk/
+    
 - block: newsletter
   image: images/multilingual.jpg
   padding: top

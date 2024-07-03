@@ -2,11 +2,13 @@
 title: "Pydata on 2 July"
 date: 2024-06-23
 categories: ["development"]
-image: "https://secure.meetupstatic.com/photos/event/c/6/8/9/600_507170825.webp?w=384"
+image: "/images/thomas-wood-pydata.jpg"
 url: "/pydata"
 ---
 
 ## Harmony at PyData London - 86th Meetup
+
+**Update: you can download the slides from the presentation [here](/20240702-harmony-pydata-presentation.pdf)**
 
 Topic: **NLP and generative models for psychology research**
 

@@ -1,5 +1,5 @@
 ---
-title: "Harmony's research has been published in BMC Psychiatry!"
+title: "Harmony’s research has been published in BMC Psychiatry!"
 description: "Publication of paper: Using natural language processing to facilitate the harmonisation of mental health questionnaires: a validation study using real-world data, published in BMC Psychiatry."
 date: "2024-08-20"
 categories: 

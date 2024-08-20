@@ -18,7 +18,27 @@ Harmony is a tool that helps researchers automate the process of harmonisation u
 
 ## How do I cite Harmony?
 
-If you would like to cite the tool alone, you can cite:
+If you would like to cite our [validation study](/bmc-psychiatry-paper/), published in BMC Psychiatry, you can cite:
+
+* McElroy, E., Wood, T.A., Bond, R., Mulvenna M., Shevlin M., Ploubidis G., Scopel Hoffmann M., Moltrecht B., [Using natural language processing to facilitate the harmonisation of mental health questionnaires: a validation study using real-world data](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-024-05954-2#citeas). BMC Psychiatry 24, 530 (2024). https://doi.org/10.1186/s12888-024-05954-2
+
+
+A BibTeX entry for LaTeX users is
+
+```
+@article{mcelroy2024using,
+  title={Using natural language processing to facilitate the harmonisation of mental health questionnaires: a validation study using real-world data},
+  author={McElroy, Eoin and Wood, Thomas and Bond, Raymond and Mulvenna, Maurice and Shevlin, Mark and Ploubidis, George B and Hoffmann, Mauricio Scopel and Moltrecht, Bettina},
+  journal={BMC psychiatry},
+  volume={24},
+  number={1},
+  pages={530},
+  year={2024},
+  publisher={Springer}
+}
+```
+
+If you would like to cite the Harmony tool alone, you can cite:
 
 Wood, T.A., McElroy, E., Moltrecht, B., Ploubidis, G.B., Scopel Hoffmann, M., Harmony [Computer software], Version 1.0, accessed at https://harmonydata.ac.uk/app. [Ulster University](https://ulster.ac.uk) (2022)
 

@@ -3,7 +3,39 @@ title: Compare and harmonise psychological instruments
 url: "/compare-harmonise-instruments/"
 ---
 
-## General: anxiety and depression
+
+Harmony offers several advantages for comparing instruments in psychology and the social sciences.
+
+**1. Efficiency:** Harmony automates the process of comparing questionnaire items, saving researchers significant time and effort. This allows them to focus on analyzing the data and interpreting the results.
+
+**2. Objectivity:** Harmony's natural language processing and generative AI models provide a more objective approach to harmonization compared to manual methods. This reduces the risk of human error and bias.
+
+**3. Consistency:** By using Harmony to compare instruments across studies, researchers can ensure consistency in their analyses and improve the reliability of their findings.
+
+**4. Cross-lingual analysis:** Harmony supports cross-lingual analysis, enabling researchers to compare instruments from different languages. This is particularly valuable for international studies and can help to identify cultural differences in mental health.
+
+**5. Comprehensive coverage:** Harmony covers a wide range of anxiety and depression instruments, making it a versatile tool for researchers working in various fields.
+
+
+## General topics such as anxiety and depression
+
+Here are some of the most widely used instruments for assessing anxiety and depression:
+
+### Depression
+* **Beck Depression Inventory (BDI-II):** A widely used self-report measure that assesses cognitive, affective, and somatic symptoms of depression.
+* **Patient Health Questionnaire-9 (PHQ-9):** A brief, self-report questionnaire that measures the severity of depressive symptoms.
+* **Center for Epidemiologic Studies Depression Scale (CES-D):** A 20-item self-report measure that assesses depressive symptoms over the past week.
+* **Hamilton Rating Scale for Depression (HAM-D):** A clinician-administered rating scale that assesses the severity of depressive symptoms.
+
+### Anxiety
+* **Generalized Anxiety Disorder-7 (GAD-7):** A brief, self-report measure that assesses the severity of generalized anxiety disorder symptoms.
+* **Panic Disorder Severity Scale (PDSS):** A self-report measure that assesses the frequency, severity, and impact of panic attacks.
+* **Social Phobia Scale (SPS):** A self-report measure that assesses the severity of social anxiety disorder symptoms.
+* **Yale-Brown Obsessive Compulsive Scale (Y-BOCS):** A clinician-administered rating scale that assesses the severity of obsessive-compulsive disorder symptoms.
+
+These instruments are often used in clinical settings, research studies, and for screening purposes. It's important to note that while these instruments provide valuable information, they should be used in conjunction with a comprehensive clinical assessment.
+ 
+**Would you like to compare any of these instruments using Harmony?** 
 
 * [Adult ADHD Self-Report Scale vs MacLean Screening Instrument for BPD](/compare-harmonise-instruments/adult-adhd-self-report-scale-vs-maclean-screening-instrument-for-bpd)
 * [Beck Anxiety Inventory vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/beck-anxiety-inventory-vs-de-jong-gierveld-loneliness-scale)
@@ -73,6 +105,20 @@ url: "/compare-harmonise-instruments/"
 
 ## [Autism](/compare-harmonise-instruments/autism) 
 
+The most commonly used instruments for assessing autism spectrum disorder (ASD) include:
+
+**ADOS (Autism Diagnostic Observation Schedule):** This is a semi-structured observation tool that assesses communication, social interaction, and play behaviors in individuals with suspected ASD. It is considered the gold standard for diagnosing ASD in young children.
+
+**ADI-R (Autism Diagnostic Interview-Revised):** This is a structured interview conducted with parents or caregivers to gather information about the individual's developmental history, social communication, and repetitive behaviors. It is often used in conjunction with the ADOS for diagnosis.
+
+**AQ (Autism Quotient):** This is a self-report questionnaire that assesses autistic traits in adults. It is not a diagnostic tool but can be used as a screening measure.
+
+**CHAT (Checklist for Autism in Toddlers):** This is a screening tool for early identification of ASD in children aged 18-30 months.
+
+**BAPQ (Behavior Assessment for Preschoolers):** This is a standardized assessment tool for preschool-aged children that measures social skills, communication, and adaptive behaviors.
+
+The choice of instrument depends on the age of the individual, the purpose of the assessment, and the specific needs of the clinician. Here are some comparisons which you can do with Harmony:
+
 * [ADOS vs BAPQ](/compare-harmonise-instruments/autism/ados-vs-bapq)
 * [AOSI vs ADOS](/compare-harmonise-instruments/autism/aosi-vs-ados)
 * [AOSI vs AQ-10](/compare-harmonise-instruments/autism/aosi-vs-aq-10)
@@ -90,6 +136,19 @@ url: "/compare-harmonise-instruments/"
 * [CHAT vs BAPQ](/compare-harmonise-instruments/autism/chat-vs-bapq)
 
 ## [Alcoholism](/compare-harmonise-instruments/alcoholism) 
+
+The most commonly used instruments for assessing alcohol consumption and abuse include:
+
+**AUDIT-10 (Alcohol Use Disorders Identification Test):** A 10-item questionnaire that assesses alcohol consumption, dependence, and risk behaviors.
+
+**MAST (Michigan Alcoholism Screening Test):** A 24-item questionnaire that assesses alcohol dependence and abuse.
+
+**ESPAD (European School Survey Project on Alcohol and Drugs):** A survey that collects data on alcohol and drug use among adolescents.
+
+**ASSIST (Alcohol, Smoking and Substance Involvement Screening Test):** A 12-item questionnaire that assesses alcohol, tobacco, and other substance use.
+
+The choice of instrument depends on the purpose of the assessment, the age and demographic characteristics of the individual, and the specific needs of the researcher or clinician.
+
 
 * [AUDIT-10 vs ASSIST](/compare-harmonise-instruments/alcoholism/audit-10-vs-assist)
 * [AUDIT-10 vs DTC](/compare-harmonise-instruments/alcoholism/audit-10-vs-dtc)
@@ -123,8 +182,7 @@ url: "/compare-harmonise-instruments/"
 * [RAPI vs ASSIST](/compare-harmonise-instruments/alcoholism/rapi-vs-assist)
 * [RAPI vs DASI](/compare-harmonise-instruments/alcoholism/rapi-vs-dasi)
 
-## Other instruments which you can compare and harmonise with Harmony
+## Topic summaries
 
-* [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)
 * [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
 * [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)

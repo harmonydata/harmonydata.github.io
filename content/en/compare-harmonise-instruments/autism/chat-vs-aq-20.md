@@ -38,3 +38,10 @@ In CHAT vs AQ-20 analysis, Harmony goes beyond comparison to dispense value adde
 
 
 
+
+
+## See also
+
+* [Harmonisation of other autism related instruments](/compare-harmonise-instruments/autism)
+* [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
+* [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)

@@ -37,3 +37,10 @@ The need for reliable tools to facilitate such analysis is evident, and this is 
 Utilizing this tool to compare SDQ and SCARED (adult) can provide you with valuable insights. The software works by giving a percentage match between each item in the two instruments. In the context of SDQ vs SCARED (adult), that means helping to identify similarities and differences in the factors these tools measure in a quantifiable manner. If you are a psychologist conducting a longitudinal study or any research included in the SDQ vs SCARED (adult) comparison, Harmony can effectively lessen your workload.
 
 From providing a wealth of instruments in its database to allowing users to upload their own research instruments, Harmony provides unmatched reliability and versatility for researchers. 
+
+
+## Other instruments which you can compare and harmonise with Harmony
+
+* [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)
+* [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
+* [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)

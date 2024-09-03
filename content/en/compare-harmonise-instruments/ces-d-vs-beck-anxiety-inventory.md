@@ -48,3 +48,9 @@ Harmony lets you upload your instruments in a simple drag-and-drop manner. The q
 * [Validation and Harmonisation of Walking Impairment Questionaire (WIQ)](/harmonisation-validation/walking-impairment-questionaire-wiq)
 * [Harmony: A Free AI Tool for Longitudinal Study In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study-in-psychology)
 * [Harmony: A Free AI Tool for Item Harmonisation](/item-harmonisation/harmony-a-free-ai-tool-for-item-harmonisation)
+
+## Other instruments which you can compare and harmonise with Harmony
+
+* [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)
+* [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
+* [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)

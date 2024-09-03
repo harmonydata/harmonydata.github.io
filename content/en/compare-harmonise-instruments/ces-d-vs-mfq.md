@@ -40,3 +40,10 @@ Harmony is a powerful tool for psychologists conducting CES-D vs MFQ comparisons
 
 {{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
+
+
+## Other instruments which you can compare and harmonise with Harmony
+
+* [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)
+* [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
+* [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)

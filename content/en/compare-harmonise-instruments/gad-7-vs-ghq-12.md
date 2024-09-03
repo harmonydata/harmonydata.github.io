@@ -68,3 +68,9 @@ Through AI, Harmony provides a percentage match between each item in GAD-7 and G
 * [CES-D vs Beck Anxiety Inventory](/ces-d-vs-beck-anxiety-inventory)
 * [Validation and Harmonisation of Berg Balance Scale](/harmonisation-validation/berg-balance-scale)
 * [GHQ-12 vs SDQ](/ghq-12-vs-sdq)
+
+## Other instruments which you can compare and harmonise with Harmony
+
+* [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)
+* [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
+* [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)

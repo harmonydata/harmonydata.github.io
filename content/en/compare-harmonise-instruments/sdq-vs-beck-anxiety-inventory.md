@@ -51,3 +51,9 @@ Let's take the SDQ vs Beck Anxiety Inventory comparison as an instance. With Har
 * [Validation and Harmonisation of Quickley-Hein plaque index (PI)](/harmonisation-validation/quickley-hein-plaque-index-pi)
 * [Validation and Harmonisation of Clinician-Administered PTSD Scale (CAPS)](/harmonisation-validation/clinician-administered-ptsd-scale-caps)
 * [Harmony: A Free AI Tool to Merge Cohort Studies](/item-harmonisation/harmony-a-free-ai-tool-to-merge-cohort-studies)
+
+## Other instruments which you can compare and harmonise with Harmony
+
+* [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)
+* [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
+* [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)

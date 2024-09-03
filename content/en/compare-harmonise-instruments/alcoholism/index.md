@@ -36,3 +36,9 @@ Here are the instruments in alcoholism which are pre-loaded into Harmony:
 * [MAST vs RAPI](/compare-harmonise-instruments/alcoholism/mast-vs-rapi)
 * [RAPI vs ASSIST](/compare-harmonise-instruments/alcoholism/rapi-vs-assist)
 * [RAPI vs DASI](/compare-harmonise-instruments/alcoholism/rapi-vs-dasi)
+
+## Other instruments which you can compare and harmonise with Harmony
+
+* [Harmonisation of other alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
+* [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)
+* [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)

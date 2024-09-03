@@ -20,3 +20,9 @@ Here are the instruments in autism which are pre-loaded into Harmony:
 * [CHAT vs AQ-10](/compare-harmonise-instruments/autism/chat-vs-aq-10)
 * [CHAT vs AQ-20](/compare-harmonise-instruments/autism/chat-vs-aq-20)
 * [CHAT vs BAPQ](/compare-harmonise-instruments/autism/chat-vs-bapq)
+
+## See also
+
+* [Harmonisation of other autism related instruments](/compare-harmonise-instruments/autism)
+* [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
+* [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)

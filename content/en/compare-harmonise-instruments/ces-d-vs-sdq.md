@@ -46,3 +46,9 @@ CES-D vs SDQ may appear like comparing apples to oranges due to their varying me
 * [Validation and Harmonisation of Walking Impairment Questionaire (WIQ)](/harmonisation-validation/walking-impairment-questionaire-wiq)
 * [Validation and Harmonisation of Sheehan Disability Scale (SDS)](/harmonisation-validation/sheehan-disability-scale-sds)
 * [Validation and Harmonisation of Medical Outcomes Survey Sleep Quality Subscale](/harmonisation-validation/medical-outcomes-survey-sleep-quality-subscale)
+
+## Other instruments which you can compare and harmonise with Harmony
+
+* [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)
+* [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
+* [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)

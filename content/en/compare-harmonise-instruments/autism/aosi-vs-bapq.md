@@ -46,3 +46,10 @@ Given the diverse nature of these questionnaires, comparing AOSI vs BAPQ can pos
 
 
 
+
+
+## See also
+
+* [Harmonisation of other autism related instruments](/compare-harmonise-instruments/autism)
+* [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
+* [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)

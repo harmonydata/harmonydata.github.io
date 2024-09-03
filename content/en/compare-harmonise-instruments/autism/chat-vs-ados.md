@@ -38,3 +38,10 @@ If you are a psychologist or researcher looking to perform a CHAT vs ADOS compar
 
 
 
+
+
+## See also
+
+* [Harmonisation of other autism related instruments](/compare-harmonise-instruments/autism)
+* [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
+* [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)

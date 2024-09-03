@@ -30,3 +30,10 @@ aliases:
 
 
 
+
+
+## Other instruments which you can compare and harmonise with Harmony
+
+* [Harmonisation of other alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
+* [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)
+* [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)

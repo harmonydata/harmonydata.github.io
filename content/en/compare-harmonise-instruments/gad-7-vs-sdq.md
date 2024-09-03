@@ -69,3 +69,9 @@ Harmony is incredibly user-friendly too - a key benefit when handling complex ta
 * [Validation and Harmonisation of PROMIS depression subscale](/harmonisation-validation/promis-depression-subscale)
 * [Validation and Harmonisation of Bristol Stool Scale](/harmonisation-validation/bristol-stool-scale)
 * [Validation and Harmonisation of Clinical Global Impression of Change (CGIC)](/harmonisation-validation/clinical-global-impression-of-change-cgic)
+
+## Other instruments which you can compare and harmonise with Harmony
+
+* [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)
+* [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
+* [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)

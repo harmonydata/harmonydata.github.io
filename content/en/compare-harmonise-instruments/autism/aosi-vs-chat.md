@@ -40,3 +40,10 @@ Harmony can be highly advantageous for researchers wishing to conduct a comparat
 {{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
+
+
+## See also
+
+* [Harmonisation of other autism related instruments](/compare-harmonise-instruments/autism)
+* [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
+* [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)

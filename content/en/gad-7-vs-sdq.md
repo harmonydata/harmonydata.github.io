@@ -4,7 +4,7 @@ title: GAD-7 vs SDQ
 
 ## Harmonising and comparing GAD-7 vs SDQ: Introducing a New Approach to Comparing Psychological Tools through Harmony
 
-Comparing psychological questionnaire tools can be a practical yet time-consuming task for psychologists and researchers. Welcome Harmony, a transformative software developed specifically to streamline and optimise this ordinarily tedious process. One highly pertinent comparison in the field today is the parallel between the Generalised Anxiety Disorder Assessment (GAD-7) and the Strengths and Difficulties Questionnaire (SDQ). Herein lies our focus in this article: dissecting, drawing parallels, and contrasting GAD-7 vs SDQ.
+Comparing psychological questionnaire tools can be a practical yet time-consuming task for psychologists and researchers. Harmony is a free software tool developed specifically to streamline and optimise harmonisation. Imagine you want to compare the Generalised Anxiety Disorder Assessment (GAD-7) and the Strengths and Difficulties Questionnaire (SDQ). How would you identify which items match between the GAD-7 vs SDQ?
 
 {{< htmlcode >}}
 <img src="/images/gad-7-scanned-min.webp" />
@@ -13,7 +13,7 @@ Comparing psychological questionnaire tools can be a practical yet time-consumin
 
 
 
-First, let's dive into what these tools are: The GAD-7 is a seven-item instrument predominantly used to measure or assess the severity of generalized anxiety disorder symptoms over a two-week period. The SDQ, on the other hand, is a brief behavioural screening questionnaire about 2-17-year-olds, available in several versions for various research, clinical, and educational purposes.
+The GAD-7 is a seven-item instrument predominantly used to measure or assess the severity of generalized anxiety disorder symptoms over a two-week period. The SDQ, on the other hand, is a brief behavioural screening questionnaire about 2-17-year-olds, available in several versions for various research, clinical, and educational purposes.
 
 
 

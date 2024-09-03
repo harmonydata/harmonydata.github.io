@@ -70,7 +70,53 @@ instrument_serialised_as_json = json.dumps({
 instrument_json_b64_encoded_bytes = base64.urlsafe_b64encode(instrument_serialised_as_json.encode('utf-8'))
 instrument_json_b64_encoded_str = instrument_json_b64_encoded_bytes.decode("utf-8")
 
-url = f"https://harmonydata.ac.uk/app/import/{instrument_json_b64_encoded_str}"
+url = f"https://harmonydata.ac.uk/app/#/import/{instrument_json_b64_encoded_str}"
 
 print (url)
 ```
+
+
+## Importing multiple instruments
+
+You can even import more than one instrument via the URL:
+
+
+```
+import base64, json
+
+instrument_serialised_as_json = json.dumps([{
+    "instrument_name": "Smoking behaviour",
+    "questions": [
+        {
+            "question_no": "1",
+            "question_text": "Do you currently smoke or have you ever smoked?"
+        },
+        {
+            "question_no": "2",
+            "question_text": "[Do you currently use] nicotine replacement therapy?"
+        }
+    ]
+}, {
+    "instrument_name": "Smoking Review",
+    "questions": [
+        {
+            "question_no": "1",
+            "question_text": "Do you currently smoke?"
+        },
+        {
+            "question_no": "2",
+            "question_text": "Have you smoked in the past?"
+        }
+    ]
+}])
+instrument_json_b64_encoded_bytes = base64.urlsafe_b64encode(instrument_serialised_as_json.encode('utf-8'))
+instrument_json_b64_encoded_str = instrument_json_b64_encoded_bytes.decode("utf-8")
+
+url = f"https://harmonydata.ac.uk/app/#/import/{instrument_json_b64_encoded_str}"
+
+print (url)
+```
+
+this makes the following URL: 
+
+* https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlNtb2tpbmcgYmVoYXZpb3VyIiwgInF1ZXN0aW9ucyI6IFt7InF1ZXN0aW9uX25vIjogIjEiLCAicXVlc3Rpb25fdGV4dCI6ICJEbyB5b3UgY3VycmVudGx5IHNtb2tlIG9yIGhhdmUgeW91IGV2ZXIgc21va2VkPyJ9LCB7InF1ZXN0aW9uX25vIjogIjIiLCAicXVlc3Rpb25fdGV4dCI6ICJbRG8geW91IGN1cnJlbnRseSB1c2VdIG5pY290aW5lIHJlcGxhY2VtZW50IHRoZXJhcHk_In1dfSwgeyJpbnN0cnVtZW50X25hbWUiOiAiU21va2luZyBSZXZpZXciLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fbm8iOiAiMSIsICJxdWVzdGlvbl90ZXh0IjogIkRvIHlvdSBjdXJyZW50bHkgc21va2U_In0sIHsicXVlc3Rpb25fbm8iOiAiMiIsICJxdWVzdGlvbl90ZXh0IjogIkhhdmUgeW91IHNtb2tlZCBpbiB0aGUgcGFzdD8ifV19XQ==

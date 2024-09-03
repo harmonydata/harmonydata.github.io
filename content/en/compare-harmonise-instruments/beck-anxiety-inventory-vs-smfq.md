@@ -1,5 +1,8 @@
 ---
 title: Beck Anxiety Inventory vs SMFQ
+url: "/compare-harmonise-instruments/beck-anxiety-inventory-vs-smfq"
+aliases:
+  - "/beck-anxiety-inventory-vs-smfq"
 ---
 
 ## Beck Anxiety Inventory vs SMFQ

@@ -1,5 +1,8 @@
 ---
 title: PHQ-9 vs CBCL
+url: "/compare-harmonise-instruments/phq-9-vs-cbcl"
+aliases:
+  - "/phq-9-vs-cbcl"
 ---
 
 ## PHQ-9 vs CBCL

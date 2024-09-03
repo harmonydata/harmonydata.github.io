@@ -1,5 +1,8 @@
 ---
 title: AQ-10 vs AQ-20
+url: "/compare-harmonise-instruments/autism/aq-10-vs-aq-20"
+aliases:
+  - "/aq-10-vs-aq-20"
 ---
 
 ## AQ-10 vs AQ-20

@@ -1,5 +1,8 @@
 ---
 title: CES-D vs SCARED (adult)
+url: "/compare-harmonise-instruments/ces-d-vs-scared"
+aliases:
+  - "/ces-d-vs-scared"
 ---
 
 ## CES-D vs SCARED scale (adult)

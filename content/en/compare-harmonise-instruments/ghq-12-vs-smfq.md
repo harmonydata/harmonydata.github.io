@@ -1,5 +1,8 @@
 ---
 title: GHQ 12 vs SMFQ
+url: "/compare-harmonise-instruments/ghq-12-vs-smfq"
+aliases:
+  - "/ghq-12-vs-smfq"
 ---
 
 ## GHQ 12 vs SMFQ

@@ -1,5 +1,8 @@
 ---
 title: ESPAD vs ASSIST
+url: "/compare-harmonise-instruments/alcoholism/espad-vs-assist"
+aliases:
+  - "/espad-vs-assist"
 ---
 
 ## ESPAD vs ASSIST

@@ -1,5 +1,8 @@
 ---
 title: AUDIT-10 vs ESPAD
+url: "/compare-harmonise-instruments/alcoholism/audit-10-vs-espad"
+aliases:
+  - "/audit-10-vs-espad"
 ---
 
 ## AUDIT-10 vs ESPAD

@@ -1,5 +1,8 @@
 ---
 title: GHQ-12 vs CBCL
+url: "/compare-harmonise-instruments/ghq-12-vs-cbcl"
+aliases:
+  - "/ghq-12-vs-cbcl"
 ---
 
 ## GHQ-12 vs CBCL: A Comparative Analysis

@@ -1,5 +1,8 @@
 ---
 title: GHQ 12 vs SDQ
+url: "/compare-harmonise-instruments/ghq-12-vs-sdq"
+aliases:
+  - "/ghq-12-vs-sdq"
 ---
 
 ## Harmonising and comparing GHQ 12 vs SDQ: Optimizing Psychological Research with Harmony

@@ -1,5 +1,8 @@
 ---
 title: SDQ vs SMFQ
+url: "/compare-harmonise-instruments/sdq-vs-smfq"
+aliases:
+  - "/sdq-vs-smfq"
 ---
 
 ## SDQ vs SMFQ: A Comparative Analysis Using Harmony Software

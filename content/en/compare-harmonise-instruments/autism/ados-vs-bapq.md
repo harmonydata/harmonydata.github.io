@@ -1,5 +1,8 @@
 ---
 title: ADOS vs BAPQ
+url: "/compare-harmonise-instruments/autism/ados-vs-bapq"
+aliases:
+  - "/ados-vs-bapq"
 ---
 
 ## ADOS vs BAPQ: A Comparative Review

@@ -1,5 +1,8 @@
 ---
 title: DUDIT vs ESPAD
+url: "/compare-harmonise-instruments/alcoholism/dudit-vs-espad"
+aliases:
+  - "/dudit-vs-espad"
 ---
 
 ## DUDIT vs ESPAD

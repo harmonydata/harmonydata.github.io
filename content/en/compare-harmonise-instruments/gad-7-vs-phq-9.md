@@ -1,5 +1,8 @@
 ---
 title: GAD-7 vs PHQ-9
+url: "/compare-harmonise-instruments/gad-7-vs-phq-9"
+aliases:
+  - "/gad-7-vs-phq-9"
 ---
 
 ## Harmonising and comparing GAD-7 vs PHQ-9: A Comprehensive Harmonisation Using Harmony Software

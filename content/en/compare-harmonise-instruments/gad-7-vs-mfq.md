@@ -1,5 +1,8 @@
 ---
 title: GAD-7 vs MFQ
+url: "/compare-harmonise-instruments/gad-7-vs-mfq"
+aliases:
+  - "/gad-7-vs-mfq"
 ---
 
 ## GAD-7 vs MFQ: Applying Harmony for Consistent Analysis

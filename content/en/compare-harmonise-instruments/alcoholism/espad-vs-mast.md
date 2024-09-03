@@ -1,5 +1,8 @@
 ---
 title: ESPAD vs MAST
+url: "/compare-harmonise-instruments/alcoholism/espad-vs-mast"
+aliases:
+  - "/espad-vs-mast"
 ---
 
 ## ESPAD vs MAST

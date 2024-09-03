@@ -1,5 +1,8 @@
 ---
 title: GHQ-12 vs RCADS
+url: "/compare-harmonise-instruments/ghq-12-vs-rcads"
+aliases:
+  - "/ghq-12-vs-rcads"
 ---
 
 ## GHQ-12 vs RCADS: a comparative study with Harmony

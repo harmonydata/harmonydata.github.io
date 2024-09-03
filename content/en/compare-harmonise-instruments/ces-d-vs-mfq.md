@@ -1,5 +1,8 @@
 ---
 title: CES-D vs MFQ
+url: "/compare-harmonise-instruments/ces-d-vs-mfq"
+aliases:
+  - "/ces-d-vs-mfq"
 ---
 
 ## CES-D vs MFQ

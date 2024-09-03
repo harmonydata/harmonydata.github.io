@@ -1,5 +1,8 @@
 ---
 title: SDQ vs SCARED (adult)
+url: "/compare-harmonise-instruments/sdq-vs-scared"
+aliases:
+  - "/sdq-vs-scared"
 ---
 
 ## SDQ vs SCARED (Adult): A Comparative Study Using Harmony

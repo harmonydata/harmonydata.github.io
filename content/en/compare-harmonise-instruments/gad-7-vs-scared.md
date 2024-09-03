@@ -1,5 +1,8 @@
 ---
 title: GAD-7 vs SCARED (adult)
+url: "/compare-harmonise-instruments/gad-7-vs-scared"
+aliases:
+  - "/gad-7-vs-scared"
 ---
 
 ## GAD-7 vs SCARED (adult): A Comparative Analysis Using Harmony

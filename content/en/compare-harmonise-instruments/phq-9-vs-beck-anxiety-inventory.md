@@ -1,5 +1,8 @@
 ---
 title: PHQ-9 vs Beck Anxiety Inventory
+url: "/compare-harmonise-instruments/phq-9-vs-beck-anxiety-inventory"
+aliases:
+  - "/phq-9-vs-beck-anxiety-inventory"
 ---
 
 ## Harmonising and comparing PHQ-9 vs Beck Anxiety Inventory

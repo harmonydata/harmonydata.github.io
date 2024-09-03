@@ -1,5 +1,8 @@
 ---
 title: GHQ 12 vs MFQ
+url: "/compare-harmonise-instruments/ghq-12-vs-mfq"
+aliases:
+  - "/ghq-12-vs-mfq"
 ---
 
 ## GHQ 12 vs MFQ

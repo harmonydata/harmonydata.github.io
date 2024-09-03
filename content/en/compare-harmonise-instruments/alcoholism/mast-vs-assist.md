@@ -1,5 +1,8 @@
 ---
 title: MAST vs ASSIST
+url: "/compare-harmonise-instruments/alcoholism/mast-vs-assist"
+aliases:
+  - "/mast-vs-assist"
 ---
 
 ## MAST vs ASSIST: A Comparative Look through Harmony Software

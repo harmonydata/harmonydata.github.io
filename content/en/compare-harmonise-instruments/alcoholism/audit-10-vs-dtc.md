@@ -1,5 +1,8 @@
 ---
 title: AUDIT-10 vs DTC
+url: "/compare-harmonise-instruments/alcoholism/audit-10-vs-dtc"
+aliases:
+  - "/audit-10-vs-dtc"
 ---
 
 ## AUDIT-10 vs DTC

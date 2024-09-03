@@ -1,5 +1,8 @@
 ---
 title: AUDIT-10 vs MAST
+url: "/compare-harmonise-instruments/alcoholism/audit-10-vs-mast"
+aliases:
+  - "/audit-10-vs-mast"
 ---
 
 ## AUDIT-10 vs MAST

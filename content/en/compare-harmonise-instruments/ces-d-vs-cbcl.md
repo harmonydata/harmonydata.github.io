@@ -1,5 +1,8 @@
 ---
 title: CES-D vs CBCL
+url: "/compare-harmonise-instruments/ces-d-vs-cbcl"
+aliases:
+  - "/ces-d-vs-cbcl"
 ---
 
 ## CES-D vs CBCL: A Harmonized Comparison

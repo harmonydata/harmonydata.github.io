@@ -1,5 +1,8 @@
 ---
 title: GAD-7 vs Beck Anxiety Inventory
+url: "/compare-harmonise-instruments/gad-7-vs-beck-anxiety-inventory"
+aliases:
+  - "/gad-7-vs-beck-anxiety-inventory"
 ---
 
 ## Harnessing the Power of Harmony: Harmonising and comparing GAD-7 vs Beck Anxiety Inventory

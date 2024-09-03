@@ -1,5 +1,8 @@
 ---
 title: DTC vs MAST
+url: "/compare-harmonise-instruments/alcoholism/dtc-vs-mast"
+aliases:
+  - "/dtc-vs-mast"
 ---
 
 ## DTC vs MAST

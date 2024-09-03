@@ -1,5 +1,8 @@
 ---
 title: CES-D vs PHQ-9
+url: "/compare-harmonise-instruments/ces-d-vs-phq-9"
+aliases:
+  - "/ces-d-vs-phq-9"
 ---
 
 ## Harmonising and comparing CES-D vs PHQ-9: A Facilitated Comparison Using Harmony

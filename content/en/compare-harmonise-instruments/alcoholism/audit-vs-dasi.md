@@ -1,5 +1,8 @@
 ---
 title: AUDIT vs DASI
+url: "/compare-harmonise-instruments/alcoholism/audit-vs-dasi"
+aliases:
+  - "/audit-vs-dasi"
 ---
 
 ## AUDIT vs DASI

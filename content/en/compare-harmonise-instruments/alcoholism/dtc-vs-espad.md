@@ -1,5 +1,8 @@
 ---
 title: DTC vs ESPAD
+url: "/compare-harmonise-instruments/alcoholism/dtc-vs-espad"
+aliases:
+  - "/dtc-vs-espad"
 ---
 
 ## DTC vs ESPAD

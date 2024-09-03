@@ -1,5 +1,8 @@
 ---
 title: AQ-20 vs ADOS
+url: "/compare-harmonise-instruments/autism/aq-20-vs-ados"
+aliases:
+  - "/aq-20-vs-ados"
 ---
 
 ## AQ-20 vs ADOS: A Comparative Study

@@ -1,5 +1,8 @@
 ---
 title: AUDIT-10 vs DUDIT
+url: "/compare-harmonise-instruments/alcoholism/audit-10-vs-dudit"
+aliases:
+  - "/audit-10-vs-dudit"
 ---
 
 ## AUDIT-10 vs DUDIT

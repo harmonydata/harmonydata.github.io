@@ -1,5 +1,8 @@
 ---
 title: Beck Anxiety Inventory vs De Jong Gierveld Loneliness Scale
+url: "/compare-harmonise-instruments/beck-anxiety-inventory-vs-de-jong-gierveld-loneliness-scale"
+aliases:
+  - "/beck-anxiety-inventory-vs-de-jong-gierveld-loneliness-scale"
 ---
 
 ## Beck Anxiety Inventory vs De Jong Gierveld Loneliness Scale

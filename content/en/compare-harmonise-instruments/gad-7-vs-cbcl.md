@@ -1,5 +1,8 @@
 ---
 title: GAD-7 vs CBCL
+url: "/compare-harmonise-instruments/gad-7-vs-cbcl"
+aliases:
+  - "/gad-7-vs-cbcl"
 ---
 
 ## GAD-7 vs CBCL: A Comparative Analysis using Harmony

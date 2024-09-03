@@ -1,5 +1,8 @@
 ---
 title: PHQ-9 vs MFQ
+url: "/compare-harmonise-instruments/phq-9-vs-mfq"
+aliases:
+  - "/phq-9-vs-mfq"
 ---
 
 ## PHQ-9 vs MFQ: A Comparative Analysis Using Harmony

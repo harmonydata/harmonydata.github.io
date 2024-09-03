@@ -1,5 +1,8 @@
 ---
 title: AQ-10 vs ADOS
+url: "/compare-harmonise-instruments/autism/aq-10-vs-ados"
+aliases:
+  - "/aq-10-vs-ados"
 ---
 
 ## AQ-10 vs ADOS: A Comparative Study using Harmony

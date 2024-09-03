@@ -1,5 +1,8 @@
 ---
 title: CHAT vs AQ-20
+url: "/compare-harmonise-instruments/autism/chat-vs-aq-20"
+aliases:
+  - "/chat-vs-aq-20"
 ---
 
 ## CHAT vs AQ-20

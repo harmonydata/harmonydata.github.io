@@ -1,5 +1,8 @@
 ---
 title: MAST vs DASI
+url: "/compare-harmonise-instruments/alcoholism/mast-vs-dasi"
+aliases:
+  - "/mast-vs-dasi"
 ---
 
 ## MAST vs DASI

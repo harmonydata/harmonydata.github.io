@@ -1,5 +1,8 @@
 ---
 title: SDQ vs MFQ
+url: "/compare-harmonise-instruments/sdq-vs-mfq"
+aliases:
+  - "/sdq-vs-mfq"
 ---
 
 ## SDQ vs MFQ: A Harmony-Assisted Comparative View

@@ -1,5 +1,8 @@
 ---
 title: AOSI vs ADOS
+url: "/compare-harmonise-instruments/autism/aosi-vs-ados"
+aliases:
+  - "/aosi-vs-ados"
 ---
 
 ## AOSI vs ADOS

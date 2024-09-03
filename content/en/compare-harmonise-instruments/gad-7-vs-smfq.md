@@ -1,5 +1,8 @@
 ---
 title: GAD-7 vs SMFQ
+url: "/compare-harmonise-instruments/gad-7-vs-smfq"
+aliases:
+  - "/gad-7-vs-smfq"
 ---
 
 ## GAD-7 vs SMFQ

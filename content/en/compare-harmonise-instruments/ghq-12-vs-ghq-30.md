@@ -1,5 +1,8 @@
 ---
 title: GHQ-12 vs GHQ-30
+url: "/compare-harmonise-instruments/ghq-12-vs-ghq-30"
+aliases:
+  - "/ghq-12-vs-ghq-30"
 ---
 
 ## GHQ-12 vs GHQ-30: A Comparative Analysis Using Harmony

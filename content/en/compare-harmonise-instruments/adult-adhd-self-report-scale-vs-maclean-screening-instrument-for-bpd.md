@@ -1,5 +1,8 @@
 ---
 title: Adult ADHD Self-Report Scale vs MacLean Screening Instrument for BPD
+url: "/compare-harmonise-instruments/adult-adhd-self-report-scale-vs-maclean-screening-instrument-for-bpd"
+aliases:
+  - "/adult-adhd-self-report-scale-vs-maclean-screening-instrument-for-bpd"
 ---
 
 ## Adult ADHD Self-Report Scale vs MacLean Screening Instrument for BPD

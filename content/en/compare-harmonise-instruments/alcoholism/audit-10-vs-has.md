@@ -1,5 +1,8 @@
 ---
 title: AUDIT-10 vs HAS
+url: "/compare-harmonise-instruments/alcoholism/audit-10-vs-has"
+aliases:
+  - "/audit-10-vs-has"
 ---
 
 ## AUDIT-10 vs HAS

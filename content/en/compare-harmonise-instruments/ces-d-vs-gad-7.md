@@ -1,5 +1,8 @@
 ---
 title: CES-D vs GAD-7
+url: "/compare-harmonise-instruments/ces-d-vs-gad-7"
+aliases:
+  - "/ces-d-vs-gad-7"
 ---
 
 ## Harmonising Mental Health Measures: CES-D vs GAD-7

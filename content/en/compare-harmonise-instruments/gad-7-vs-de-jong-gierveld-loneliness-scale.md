@@ -1,5 +1,8 @@
 ---
 title: GAD-7 vs De Jong Gierveld Loneliness Scale
+url: "/compare-harmonise-instruments/gad-7-vs-de-jong-gierveld-loneliness-scale"
+aliases:
+  - "/gad-7-vs-de-jong-gierveld-loneliness-scale"
 ---
 
 ## GAD-7 vs De Jong Gierveld Loneliness Scale

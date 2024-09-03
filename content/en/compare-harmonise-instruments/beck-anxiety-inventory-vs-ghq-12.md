@@ -1,5 +1,8 @@
 ---
 title: Beck Anxiety Inventory vs GHQ-12
+url: "/compare-harmonise-instruments/beck-anxiety-inventory-vs-ghq-12"
+aliases:
+  - "/beck-anxiety-inventory-vs-ghq-12"
 ---
 
 ## Beck Anxiety Inventory vs GHQ-12

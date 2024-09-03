@@ -1,5 +1,8 @@
 ---
 title: CES-D vs GHQ-30
+url: "/compare-harmonise-instruments/ces-d-vs-ghq-30"
+aliases:
+  - "/ces-d-vs-ghq-30"
 ---
 
 ## CES-D vs GHQ-30

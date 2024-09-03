@@ -1,5 +1,8 @@
 ---
 title: CES-D vs Beck Anxiety Inventory
+url: "/compare-harmonise-instruments/ces-d-vs-beck-anxiety-inventory"
+aliases:
+  - "/ces-d-vs-beck-anxiety-inventory"
 ---
 
 ## Harmonising and comparing CES-D vs Beck Anxiety Inventory: A Comparative Approach with Harmony 

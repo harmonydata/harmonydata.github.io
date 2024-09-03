@@ -1,5 +1,8 @@
 ---
 title: CES-D vs GHQ 12
+url: "/compare-harmonise-instruments/ces-d-vs-ghq-12"
+aliases:
+  - "/ces-d-vs-ghq-12"
 ---
 
 ## Harmonising and comparing CES-D vs GHQ 12: A Comparative Review Guided by Harmony

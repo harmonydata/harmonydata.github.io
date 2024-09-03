@@ -1,5 +1,8 @@
 ---
 title: RAPI vs ASSIST
+url: "/compare-harmonise-instruments/alcoholism/rapi-vs-assist"
+aliases:
+  - "/rapi-vs-assist"
 ---
 
 ## RAPI vs ASSIST

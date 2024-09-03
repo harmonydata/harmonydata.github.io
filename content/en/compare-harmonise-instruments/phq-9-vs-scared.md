@@ -1,5 +1,8 @@
 ---
 title: PHQ-9 vs SCARED (adult)
+url: "/compare-harmonise-instruments/phq-9-vs-scared"
+aliases:
+  - "/phq-9-vs-scared"
 ---
 
 ## PHQ-9 vs SCARED

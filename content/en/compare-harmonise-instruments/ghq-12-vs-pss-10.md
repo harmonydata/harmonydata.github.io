@@ -1,5 +1,8 @@
 ---
 title: GHQ-12 vs PSS-10
+url: "/compare-harmonise-instruments/ghq-12-vs-pss-10"
+aliases:
+  - "/ghq-12-vs-pss-10"
 ---
 
 ## GHQ-12 vs PSS-10: A Comparative Analysis

@@ -1,5 +1,8 @@
 ---
 title: AQ-10 vs BAPQ
+url: "/compare-harmonise-instruments/autism/aq-10-vs-bapq"
+aliases:
+  - "/aq-10-vs-bapq"
 ---
 
 ## AQ-10 vs BAPQ: Streamlining Comparison using Harmony

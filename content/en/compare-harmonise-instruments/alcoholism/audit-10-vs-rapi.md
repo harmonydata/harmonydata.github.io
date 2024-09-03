@@ -1,5 +1,8 @@
 ---
 title: AUDIT-10 vs RAPI
+url: "/compare-harmonise-instruments/alcoholism/audit-10-vs-rapi"
+aliases:
+  - "/audit-10-vs-rapi"
 ---
 
 ## AUDIT-10 vs RAPI

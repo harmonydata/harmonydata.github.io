@@ -1,5 +1,8 @@
 ---
 title: PHQ-9 vs De Jong Gierveld Loneliness Scale
+url: "/compare-harmonise-instruments/phq-9-vs-de-jong-gierveld-loneliness-scale"
+aliases:
+  - "/phq-9-vs-de-jong-gierveld-loneliness-scale"
 ---
 
 ## PHQ-9 vs De Jong Gierveld Loneliness Scale

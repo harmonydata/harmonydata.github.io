@@ -1,5 +1,8 @@
 ---
 title: GAD-7 vs SDQ
+url: "/compare-harmonise-instruments/gad-7-vs-sdq"
+aliases:
+  - "/gad-7-vs-sdq"
 ---
 
 ## Harmonising and comparing GAD-7 vs SDQ: Introducing a New Approach to Comparing Psychological Tools through Harmony

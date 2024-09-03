@@ -1,5 +1,8 @@
 ---
 title: CHAT vs BAPQ
+url: "/compare-harmonise-instruments/autism/chat-vs-bapq"
+aliases:
+  - "/chat-vs-bapq"
 ---
 
 ## CHAT vs BAPQ: Enhancing Research with Harmony

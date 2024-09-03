@@ -1,5 +1,8 @@
 ---
 title: Beck Anxiety Inventory vs PSF
+url: "/compare-harmonise-instruments/beck-anxiety-inventory-vs-psf"
+aliases:
+  - "/beck-anxiety-inventory-vs-psf"
 ---
 
 ## Beck Anxiety Inventory vs PSF

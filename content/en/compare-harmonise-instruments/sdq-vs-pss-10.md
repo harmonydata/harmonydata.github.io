@@ -1,5 +1,8 @@
 ---
 title: SDQ vs PSS-10
+url: "/compare-harmonise-instruments/sdq-vs-pss-10"
+aliases:
+  - "/sdq-vs-pss-10"
 ---
 
 ## SDQ vs PSS-10: A Comparative Analysis Using Harmony

@@ -1,5 +1,8 @@
 ---
 title: AUDIT-10 vs TFLB
+url: "/compare-harmonise-instruments/alcoholism/audit-10-vs-tflb"
+aliases:
+  - "/audit-10-vs-tflb"
 ---
 
 ## AUDIT-10 vs TFLB

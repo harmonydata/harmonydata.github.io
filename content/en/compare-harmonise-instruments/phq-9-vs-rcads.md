@@ -1,5 +1,8 @@
 ---
 title: PHQ-9 vs RCADS
+url: "/compare-harmonise-instruments/phq-9-vs-rcads"
+aliases:
+  - "/phq-9-vs-rcads"
 ---
 
 ## PHQ-9 vs RCADS

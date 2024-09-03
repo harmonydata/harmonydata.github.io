@@ -1,5 +1,8 @@
 ---
 title: De Jong Gierveld Loneliness Scale vs SCARED
+url: "/compare-harmonise-instruments/de-jong-gierveld-loneliness-scale-vs-scared"
+aliases:
+  - "/de-jong-gierveld-loneliness-scale-vs-scared"
 ---
 
 ## De Jong Gierveld Loneliness Scale vs SCARED

@@ -1,5 +1,8 @@
 ---
 title: GHQ 12 vs PHQ-9
+url: "/compare-harmonise-instruments/ghq-12-vs-phq-9"
+aliases:
+  - "/ghq-12-vs-phq-9"
 ---
 
 ## Harmonising and comparing GHQ 12 vs PHQ-9: The Power of Harmony in Questionnaire Harmonisation

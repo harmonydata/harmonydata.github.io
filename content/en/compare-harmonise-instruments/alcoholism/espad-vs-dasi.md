@@ -1,5 +1,8 @@
 ---
 title: ESPAD vs DASI
+url: "/compare-harmonise-instruments/alcoholism/espad-vs-dasi"
+aliases:
+  - "/espad-vs-dasi"
 ---
 
 ## ESPAD vs DASI

@@ -1,5 +1,8 @@
 ---
 title: Beck Anxiety Inventory vs MFQ
+url: "/compare-harmonise-instruments/beck-anxiety-inventory-vs-mfq"
+aliases:
+  - "/beck-anxiety-inventory-vs-mfq"
 ---
 
 ## Beck Anxiety Inventory vs MFQ

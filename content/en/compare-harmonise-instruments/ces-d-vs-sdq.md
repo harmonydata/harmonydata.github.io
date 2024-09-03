@@ -1,5 +1,8 @@
 ---
 title: CES-D vs SDQ
+url: "/compare-harmonise-instruments/ces-d-vs-sdq"
+aliases:
+  - "/ces-d-vs-sdq"
 ---
 
 ## Comparing CES-D vs SDQ using Harmony Software

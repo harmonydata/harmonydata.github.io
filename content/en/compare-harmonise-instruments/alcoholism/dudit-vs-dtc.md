@@ -1,5 +1,8 @@
 ---
 title: DUDIT vs DTC
+url: "/compare-harmonise-instruments/alcoholism/dudit-vs-dtc"
+aliases:
+  - "/dudit-vs-dtc"
 ---
 
 ## DUDIT vs DTC

@@ -1,5 +1,8 @@
 ---
 title: AOSI vs AQ-10
+url: "/compare-harmonise-instruments/autism/aosi-vs-aq-10"
+aliases:
+  - "/aosi-vs-aq-10"
 ---
 
 ## AOSI vs AQ-10

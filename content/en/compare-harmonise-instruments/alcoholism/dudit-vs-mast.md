@@ -1,5 +1,8 @@
 ---
 title: DUDIT vs MAST
+url: "/compare-harmonise-instruments/alcoholism/dudit-vs-mast"
+aliases:
+  - "/dudit-vs-mast"
 ---
 
 ## DUDIT vs MAST

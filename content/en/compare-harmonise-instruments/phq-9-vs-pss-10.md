@@ -1,5 +1,8 @@
 ---
 title: PHQ-9 vs PSS-10
+url: "/compare-harmonise-instruments/phq-9-vs-pss-10"
+aliases:
+  - "/phq-9-vs-pss-10"
 ---
 
 ## PHQ-9 vs PSS-10: A Comparative Study Using Harmony

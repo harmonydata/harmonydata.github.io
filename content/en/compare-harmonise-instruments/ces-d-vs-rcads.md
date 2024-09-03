@@ -1,5 +1,8 @@
 ---
 title: CES-D vs RCADS
+url: "/compare-harmonise-instruments/ces-d-vs-rcads"
+aliases:
+  - "/ces-d-vs-rcads"
 ---
 
 ## CES-D vs RCADS

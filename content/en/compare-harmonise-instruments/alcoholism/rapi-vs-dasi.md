@@ -1,5 +1,8 @@
 ---
 title: RAPI vs DASI
+url: "/compare-harmonise-instruments/alcoholism/rapi-vs-dasi"
+aliases:
+  - "/rapi-vs-dasi"
 ---
 
 ## RAPI vs DASI

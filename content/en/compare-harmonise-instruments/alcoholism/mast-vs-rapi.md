@@ -1,5 +1,8 @@
 ---
 title: MAST vs RAPI
+url: "/compare-harmonise-instruments/alcoholism/mast-vs-rapi"
+aliases:
+  - "/mast-vs-rapi"
 ---
 
 ## MAST vs RAPI

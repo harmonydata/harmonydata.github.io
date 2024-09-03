@@ -1,5 +1,8 @@
 ---
 title: GHQ 12 vs De Jong Gierveld Loneliness Scale
+url: "/compare-harmonise-instruments/ghq-12-vs-de-jong-gierveld-loneliness-scale"
+aliases:
+  - "/ghq-12-vs-de-jong-gierveld-loneliness-scale"
 ---
 
 ## GHQ 12 vs De Jong Gierveld Loneliness Scale

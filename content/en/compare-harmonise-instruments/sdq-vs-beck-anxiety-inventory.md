@@ -1,5 +1,8 @@
 ---
 title: SDQ vs Beck Anxiety Inventory
+url: "/compare-harmonise-instruments/sdq-vs-beck-anxiety-inventory"
+aliases:
+  - "/sdq-vs-beck-anxiety-inventory"
 ---
 
 ## Harmonising and comparing SDQ vs Beck Anxiety Inventory: harness the power of Harmony for advanced psychological research

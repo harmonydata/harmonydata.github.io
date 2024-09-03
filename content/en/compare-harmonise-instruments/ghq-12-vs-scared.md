@@ -1,5 +1,8 @@
 ---
 title: GHQ 12 vs SCARED (adult)
+url: "/compare-harmonise-instruments/ghq-12-vs-scared"
+aliases:
+  - "/ghq-12-vs-scared"
 ---
 
 ## GHQ 12 vs SCARED (adult)

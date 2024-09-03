@@ -1,5 +1,8 @@
 ---
 title: AOSI vs BAPQ
+url: "/compare-harmonise-instruments/autism/aosi-vs-bapq"
+aliases:
+  - "/aosi-vs-bapq"
 ---
 
 ## AOSI vs BAPQ: A Comparative Analysis with Harmony

@@ -1,5 +1,8 @@
 ---
 title: AOSI vs CHAT
+url: "/compare-harmonise-instruments/autism/aosi-vs-chat"
+aliases:
+  - "/aosi-vs-chat"
 ---
 
 ## AOSI vs CHAT

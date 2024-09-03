@@ -1,5 +1,8 @@
 ---
 title: Beck Anxiety Inventory vs GHQ-28
+url: "/compare-harmonise-instruments/beck-anxiety-inventory-vs-ghq-28"
+aliases:
+  - "/beck-anxiety-inventory-vs-ghq-28"
 ---
 
 ## Beck Anxiety Inventory vs GHQ-28

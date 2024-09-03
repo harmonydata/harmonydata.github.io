@@ -1,5 +1,8 @@
 ---
 title: GAD-7 vs GHQ-30
+url: "/compare-harmonise-instruments/gad-7-vs-ghq-30"
+aliases:
+  - "/gad-7-vs-ghq-30"
 ---
 
 ## GAD-7 vs GHQ-30: A Harmony-Driven Comparison

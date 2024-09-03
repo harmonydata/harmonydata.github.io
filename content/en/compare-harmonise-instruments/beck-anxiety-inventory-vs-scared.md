@@ -1,5 +1,8 @@
 ---
 title: Beck Anxiety Inventory vs SCARED (adult)
+url: "/compare-harmonise-instruments/beck-anxiety-inventory-vs-scared"
+aliases:
+  - "/beck-anxiety-inventory-vs-scared"
 ---
 
 ## Beck Anxiety Inventory vs SCARED

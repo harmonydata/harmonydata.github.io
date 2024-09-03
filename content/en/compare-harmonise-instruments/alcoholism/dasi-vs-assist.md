@@ -1,5 +1,8 @@
 ---
 title: DASI vs ASSIST
+url: "/compare-harmonise-instruments/alcoholism/dasi-vs-assist"
+aliases:
+  - "/dasi-vs-assist"
 ---
 
 ## DASI vs ASSIST

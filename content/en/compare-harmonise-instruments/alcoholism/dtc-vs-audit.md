@@ -1,5 +1,8 @@
 ---
 title: DTC vs AUDIT
+url: "/compare-harmonise-instruments/alcoholism/dtc-vs-audit"
+aliases:
+  - "/dtc-vs-audit"
 ---
 
 ## DTC vs AUDIT: A Comparative Analysis using Harmony

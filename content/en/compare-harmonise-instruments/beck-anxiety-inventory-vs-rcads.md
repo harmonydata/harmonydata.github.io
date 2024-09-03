@@ -1,5 +1,8 @@
 ---
 title: Beck Anxiety Inventory vs RCADS
+url: "/compare-harmonise-instruments/beck-anxiety-inventory-vs-rcads"
+aliases:
+  - "/beck-anxiety-inventory-vs-rcads"
 ---
 
 ## Beck Anxiety Inventory vs RCADS

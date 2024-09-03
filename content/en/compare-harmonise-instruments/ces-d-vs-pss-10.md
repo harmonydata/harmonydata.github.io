@@ -1,5 +1,8 @@
 ---
 title: CES-D vs PSS-10
+url: "/compare-harmonise-instruments/ces-d-vs-pss-10"
+aliases:
+  - "/ces-d-vs-pss-10"
 ---
 
 ## CES-D vs PSS-10

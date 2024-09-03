@@ -1,5 +1,8 @@
 ---
 title: SDQ vs RCADS
+url: "/compare-harmonise-instruments/sdq-vs-rcads"
+aliases:
+  - "/sdq-vs-rcads"
 ---
 
 ## SDQ vs RCADS: A Comparative Analysis Using Harmony

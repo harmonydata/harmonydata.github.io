@@ -1,5 +1,8 @@
 ---
 title: ESPAD vs RAPI
+url: "/compare-harmonise-instruments/alcoholism/espad-vs-rapi"
+aliases:
+  - "/espad-vs-rapi"
 ---
 
 ## ESPAD vs RAPI

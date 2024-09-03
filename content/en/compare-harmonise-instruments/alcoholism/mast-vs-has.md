@@ -1,5 +1,8 @@
 ---
 title: MAST vs HAS
+url: "/compare-harmonise-instruments/alcoholism/mast-vs-has"
+aliases:
+  - "/mast-vs-has"
 ---
 
 ## MAST vs HAS

@@ -1,5 +1,8 @@
 ---
 title: GAD-7 vs PSS-10
+url: "/compare-harmonise-instruments/gad-7-vs-pss-10"
+aliases:
+  - "/gad-7-vs-pss-10"
 ---
 
 ## GAD-7 vs PSS-10: A Comparative Insight with Harmony

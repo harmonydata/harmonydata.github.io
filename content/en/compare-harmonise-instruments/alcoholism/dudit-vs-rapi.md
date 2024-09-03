@@ -1,5 +1,8 @@
 ---
 title: DUDIT vs RAPI
+url: "/compare-harmonise-instruments/alcoholism/dudit-vs-rapi"
+aliases:
+  - "/dudit-vs-rapi"
 ---
 
 ## DUDIT vs RAPI

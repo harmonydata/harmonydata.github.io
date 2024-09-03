@@ -1,5 +1,8 @@
 ---
 title: DTC vs RAPI
+url: "/compare-harmonise-instruments/alcoholism/dtc-vs-rapi"
+aliases:
+  - "/dtc-vs-rapi"
 ---
 
 ## DTC vs RAPI

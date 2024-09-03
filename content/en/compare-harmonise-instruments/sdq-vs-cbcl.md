@@ -1,5 +1,8 @@
 ---
 title: SDQ vs CBCL
+url: "/compare-harmonise-instruments/sdq-vs-cbcl"
+aliases:
+  - "/sdq-vs-cbcl"
 ---
 
 ## SDQ vs CBCL: A Comparative Analysis using Harmony Software

@@ -1,5 +1,8 @@
 ---
 title: CES_D vs De Jong Gierveld Loneliness Scale
+url: "/compare-harmonise-instruments/ces-d-vs-de-jong-gierveld-loneliness-scale"
+aliases:
+  - "/ces-d-vs-de-jong-gierveld-loneliness-scale"
 ---
 
 ## CES-D (Center for Epidemiological Studies-Depression) vs De Jong Gierveld Loneliness Scale

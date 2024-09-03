@@ -1,5 +1,8 @@
 ---
 title: CHAT vs ADOS
+url: "/compare-harmonise-instruments/autism/chat-vs-ados"
+aliases:
+  - "/chat-vs-ados"
 ---
 
 ## CHAT vs ADOS

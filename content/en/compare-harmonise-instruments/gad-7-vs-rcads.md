@@ -1,5 +1,8 @@
 ---
 title: GAD-7 vs RCADS
+url: "/compare-harmonise-instruments/gad-7-vs-rcads"
+aliases:
+  - "/gad-7-vs-rcads"
 ---
 
 ## GAD-7 vs RCADS

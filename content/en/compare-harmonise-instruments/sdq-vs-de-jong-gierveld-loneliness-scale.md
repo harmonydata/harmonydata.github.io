@@ -1,5 +1,8 @@
 ---
 title: SDQ vs De Jong Gierveld Loneliness Scale
+url: "/compare-harmonise-instruments/sdq-vs-de-jong-gierveld-loneliness-scale"
+aliases:
+  - "/sdq-vs-de-jong-gierveld-loneliness-scale"
 ---
 
 ## SDQ vs De Jong Gierveld Loneliness Scale

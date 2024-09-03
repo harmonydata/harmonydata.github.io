@@ -1,5 +1,8 @@
 ---
 title: AUDIT-10 vs ASSIST
+url: "/compare-harmonise-instruments/alcoholism/audit-10-vs-assist"
+aliases:
+  - "/audit-10-vs-assist"
 ---
 
 ## AUDIT-10 vs ASSIST

@@ -1,5 +1,8 @@
 ---
 title: CES-D vs SMFQ
+url: "/compare-harmonise-instruments/ces-d-vs-smfq"
+aliases:
+  - "/ces-d-vs-smfq"
 ---
 
 ## CES-D vs SMFQ

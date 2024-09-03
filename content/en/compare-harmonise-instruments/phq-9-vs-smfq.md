@@ -1,5 +1,8 @@
 ---
 title: PHQ-9 vs SMFQ
+url: "/compare-harmonise-instruments/phq-9-vs-smfq"
+aliases:
+  - "/phq-9-vs-smfq"
 ---
 
 ## PHQ-9 vs SMFQ

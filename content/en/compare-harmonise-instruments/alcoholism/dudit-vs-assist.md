@@ -1,5 +1,8 @@
 ---
 title: DUDIT vs ASSIST
+url: "/compare-harmonise-instruments/alcoholism/dudit-vs-assist"
+aliases:
+  - "/dudit-vs-assist"
 ---
 
 ## DUDIT vs ASSIST

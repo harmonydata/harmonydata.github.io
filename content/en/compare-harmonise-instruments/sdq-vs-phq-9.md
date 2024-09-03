@@ -1,5 +1,8 @@
 ---
 title: SDQ vs PHQ-9
+url: "/compare-harmonise-instruments/sdq-vs-phq-9"
+aliases:
+  - "/sdq-vs-phq-9"
 ---
 
 ## Harmonising and comparing SDQ vs PHQ-9 with Harmony

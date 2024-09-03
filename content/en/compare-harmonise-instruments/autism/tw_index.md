@@ -3,6 +3,14 @@ title: Compare autism instruments
 url: "/compare-harmonise-instruments/autism"
 ---
 
+**Psychologists might need to combine data from autism instruments in several scenarios:**
+
+1. **Comprehensive Assessment:** When conducting a thorough evaluation of an individual, a psychologist might use multiple instruments to get a more complete picture. For instance, the ADOS might be used to observe behaviors, while the AQ-10 might provide self-reported insights.
+2. **Research Studies:** Researchers often combine data from various instruments to increase the validity and reliability of their findings. This can help identify patterns, correlations, and causal relationships.
+3. **Cross-Validation:** To validate the results obtained from one instrument, a psychologist might compare them with the findings from another instrument. This can help ensure the accuracy and consistency of the assessment.
+4. **Longitudinal Studies:** When tracking an individual's development over time, psychologists might use different instruments at various stages. Combining the data from these instruments can help identify changes in symptoms, functioning, and treatment outcomes.
+5. **Comparison of Different Populations:** When comparing individuals with autism to those without, or when comparing different subgroups within the autism spectrum, combining data from multiple instruments can help identify specific characteristics and differences.
+
 Here are the instruments in autism which are pre-loaded into Harmony: 
 
 * [ADOS vs BAPQ](/compare-harmonise-instruments/autism/ados-vs-bapq)

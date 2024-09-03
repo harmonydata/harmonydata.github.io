@@ -3,6 +3,14 @@ title: Compare alcoholism instruments
 url: "/compare-harmonise-instruments/alcoholism"
 ---
 
+**Psychologists or healthcare providers might need to combine data from alcoholism instruments in several scenarios:**
+
+1. **Comprehensive Assessment:** When conducting a thorough evaluation of an individual, a psychologist might use multiple instruments to get a more complete picture. For instance, the AUDIT-10 might be used to screen for alcohol use disorders, while the MAST might provide a more in-depth assessment of alcohol dependence.
+2. **Research Studies:** Researchers often combine data from various instruments to increase the validity and reliability of their findings. This can help identify patterns, correlations, and causal relationships.
+3. **Cross-Validation:** To validate the results obtained from one instrument, a psychologist might compare them with the findings from another instrument. This can help ensure the accuracy and consistency of the assessment.
+4. **Longitudinal Studies:** When tracking an individual's alcohol consumption and related behaviors over time, psychologists might use different instruments at various stages. Combining the data from these instruments can help identify changes in drinking patterns, severity of problems, and treatment outcomes.
+5. **Comparison of Different Populations:** When comparing individuals with alcohol use disorders to those without, or when comparing different subgroups within the alcohol-dependent population, combining data from multiple instruments can help identify specific characteristics and differences.
+
 Here are the instruments in alcoholism which are pre-loaded into Harmony: 
 
 * [AUDIT-10 vs ASSIST](/compare-harmonise-instruments/alcoholism/audit-10-vs-assist)

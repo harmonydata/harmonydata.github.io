@@ -66,12 +66,12 @@ With Harmony, however, this humdrum task is a thing of the past. By using advanc
 Harmony is incredibly user-friendly too - a key benefit when handling complex tasks such as the GAD-7 vs SDQ comparison. Psychologists can simply select instruments from Harmony's expansive database or upload their own instruments in PDF form through Harmony's web interface. In conclusion, while GAD-7 vs SDQ comparison may seem intimidating and often arduous, the introduction of Harmony turns this process into a swift, effortless and effective approach. Remember that to leverage the full benefits of the various cohort and longitudinal studies available, consistent and accurate cross-comparisons like GAD-7 vs SDQ are a necessity, and Harmony exists to make accomplishing this task a breeze. 
 
 
-* [Validation and Harmonisation of PROMIS depression subscale](/harmonisation-validation/promis-depression-subscale)
-* [Validation and Harmonisation of Bristol Stool Scale](/harmonisation-validation/bristol-stool-scale)
-* [Validation and Harmonisation of Clinical Global Impression of Change (CGIC)](/harmonisation-validation/clinical-global-impression-of-change-cgic)
 
 ## Other instruments which you can compare and harmonise with Harmony
 
 * [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)
 * [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
 * [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)
+* [Validation and Harmonisation of PROMIS depression subscale](/harmonisation-validation/promis-depression-subscale)
+* [Validation and Harmonisation of Bristol Stool Scale](/harmonisation-validation/bristol-stool-scale)
+* [Validation and Harmonisation of Clinical Global Impression of Change (CGIC)](/harmonisation-validation/clinical-global-impression-of-change-cgic)

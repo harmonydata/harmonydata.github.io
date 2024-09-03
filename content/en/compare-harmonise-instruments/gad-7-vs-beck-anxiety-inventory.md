@@ -60,9 +60,7 @@ Harmony comes to the rescue when comparing such complex instruments like GAD-7 v
 No more sifting through long PDFs of questionnaires or manually entering questions into spreadsheets. With Harmony, you can simply select instruments from the system's database or drag and drop your own in PDF form. The GAD-7 vs Beck Anxiety Inventory comparison becomes a straightforward task when leveraging the power of Harmony.
 
 
-* [GAD-7 vs GHQ-12](/gad-7-vs-ghq-12)
-* [Validation and Harmonisation of Beck Depression Inventory-II (BDI-II)](/harmonisation-validation/beck-depression-inventory-ii-bdi-ii)
-* [PHQ-9 vs Beck Anxiety Inventory](/phq-9-vs-beck-anxiety-inventory)
+
 
 
 ## Other instruments which you can compare and harmonise with Harmony
@@ -70,3 +68,6 @@ No more sifting through long PDFs of questionnaires or manually entering questio
 * [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)
 * [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
 * [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)
+* [GAD-7 vs GHQ-12](/gad-7-vs-ghq-12)
+* [Validation and Harmonisation of Beck Depression Inventory-II (BDI-II)](/harmonisation-validation/beck-depression-inventory-ii-bdi-ii)
+* [PHQ-9 vs Beck Anxiety Inventory](/phq-9-vs-beck-anxiety-inventory)

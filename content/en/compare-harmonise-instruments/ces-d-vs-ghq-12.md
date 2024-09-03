@@ -44,12 +44,11 @@ In CES-D, items range from feelings associated with general unhappiness and fail
 
 
 
-* [Validation and Harmonisation of Montgomery Asberg Depression Rating Scale](/harmonisation-validation/montgomery-asberg-depression-rating-scale)
-* [Validation and Harmonisation of Medical Outcomes Survey Sleep Quality Subscale](/harmonisation-validation/medical-outcomes-survey-sleep-quality-subscale)
-* [CES-D vs SDQ](/ces-d-vs-sdq)
-
 ## Other instruments which you can compare and harmonise with Harmony
 
 * [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)
 * [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
 * [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)
+* [Validation and Harmonisation of Montgomery Asberg Depression Rating Scale](/harmonisation-validation/montgomery-asberg-depression-rating-scale)
+* [Validation and Harmonisation of Medical Outcomes Survey Sleep Quality Subscale](/harmonisation-validation/medical-outcomes-survey-sleep-quality-subscale)
+* [CES-D vs SDQ](/ces-d-vs-sdq)

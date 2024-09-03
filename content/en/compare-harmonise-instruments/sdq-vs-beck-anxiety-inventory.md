@@ -48,12 +48,12 @@ While, the BAI on the other hand, is a 21-item self-reporting questionnaire desi
 Let's take the SDQ vs Beck Anxiety Inventory comparison as an instance. With Harmony, once the SDQ and BAI inventories have been uploaded and the software put to work, it will produce you a detailed comparison report with efficiency and preciseness that manual harmonisation cannot match. In conclusion, when researchers are faced with the SDQ vs Beck Anxiety Inventory challenge, or indeed, any questionnaire harmonising tasks, having Harmony in their arsenal could be a decisive advantage. Take the uncertainties out of questionnaire harmonisation. Try Harmony today and embrace the new normal in psychological research.
 
 
-* [Validation and Harmonisation of Quickley-Hein plaque index (PI)](/harmonisation-validation/quickley-hein-plaque-index-pi)
-* [Validation and Harmonisation of Clinician-Administered PTSD Scale (CAPS)](/harmonisation-validation/clinician-administered-ptsd-scale-caps)
-* [Harmony: A Free AI Tool to Merge Cohort Studies](/item-harmonisation/harmony-a-free-ai-tool-to-merge-cohort-studies)
 
 ## Other instruments which you can compare and harmonise with Harmony
 
 * [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)
 * [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
 * [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)
+* [Validation and Harmonisation of Quickley-Hein plaque index (PI)](/harmonisation-validation/quickley-hein-plaque-index-pi)
+* [Validation and Harmonisation of Clinician-Administered PTSD Scale (CAPS)](/harmonisation-validation/clinician-administered-ptsd-scale-caps)
+* [Harmony: A Free AI Tool to Merge Cohort Studies](/item-harmonisation/harmony-a-free-ai-tool-to-merge-cohort-studies)

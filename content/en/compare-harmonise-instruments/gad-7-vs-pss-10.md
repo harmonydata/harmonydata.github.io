@@ -18,6 +18,13 @@ A significant challenge for psychologists often comes down to harmonizing differ
 
 
 
+## You may also be interested in these harmonisations
+
+* [CES-D vs GHQ 12](/compare-harmonise-instruments/ces-d-vs-ghq-12)
+* [ESPAD vs ASSIST](/compare-harmonise-instruments/alcoholism/espad-vs-assist)
+* [ESPAD vs MAST](/compare-harmonise-instruments/alcoholism/espad-vs-mast)
+
+
 This software matches items in the questionnaires effectively using natural language processing and generative AI models. This ability to harmonize GAD-7 vs PSS-10 is particularly beneficial allowing psychologists to study and compare the severity of GAD and perceived stress in respondents. Harmony would make matching the items such as "Feeling nervous, anxious, or on edge" in GAD-7 to "felt nervous and stressed" in PSS-10 seamless, thanks to its large language models.
 
 

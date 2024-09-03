@@ -40,9 +40,14 @@ Harmony uses natural language processing and generative AI models to harmonize q
 
 ## Other harmonisation projects with Harmony which you may be interested in
 
-* [GHQ-12 vs PHQ-9](/ghq-12-vs-phq-9)
-* [Validation and Harmonisation of PedsQL Multidimensional Fatigue Scale](/harmonisation-validation/pedsql-multidimensional-fatigue-scale)
-* [CES-D vs PHQ-9](/ces-d-vs-phq-9)
+
+* [Beck Anxiety Inventory vs RCADS](/compare-harmonise-instruments/beck-anxiety-inventory-vs-rcads)
+* [CES_D vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/ces-d-vs-de-jong-gierveld-loneliness-scale)
+* [CES-D vs CBCL](/compare-harmonise-instruments/ces-d-vs-cbcl)
+
+
+
+
 
 
 {{< card heading="Try Harmony" copy="Compare CES-D and GAD-7 " url="https://harmonydata.ac.uk/app" >}}

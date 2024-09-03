@@ -18,6 +18,13 @@ Psychologists and researchers often struggle with the task of harmonizing differ
 
 This is where Harmony, a trailblazing software tool developed for psychologists, comes into play. Harmony employs advanced natural language and generative AI processing to harmonize questionnaire items. A typical use case can be the comparison between PHQ-9 and CBCL. By replacing the traditionally tedious and subjective process of harmonization with an efficient, automated process, Harmony has revolutionized the field.
 
+## You may also be interested in these harmonisations
+
+* [AUDIT-10 vs TFLB](/compare-harmonise-instruments/alcoholism/audit-10-vs-tflb)
+* [CES-D vs GAD-7](/compare-harmonise-instruments/ces-d-vs-gad-7)
+* [Beck Anxiety Inventory vs RCADS](/compare-harmonise-instruments/beck-anxiety-inventory-vs-rcads)
+
+
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and CBCL " url="https://harmonydata.ac.uk/app" >}}
 

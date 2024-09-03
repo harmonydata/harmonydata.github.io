@@ -20,9 +20,14 @@ Both are predominant instruments used to evaluate patients' mental health. So, h
 
 ## Other harmonisation projects with Harmony which you may be interested in
 
-* [PHQ-9 vs Beck Anxiety Inventory](/phq-9-vs-beck-anxiety-inventory)
-* [CES-D vs GHQ-12](/ces-d-vs-ghq-12)
-* [Validation and Harmonisation of SF-36 health survey](/harmonisation-validation/sf-36-health-survey)
+
+* [DUDIT vs DTC](/compare-harmonise-instruments/alcoholism/dudit-vs-dtc)
+* [CHAT vs ADOS](/compare-harmonise-instruments/autism/chat-vs-ados)
+* [AUDIT-10 vs DTC](/compare-harmonise-instruments/alcoholism/audit-10-vs-dtc)
+
+
+
+
 
 Traditionally, drawing comparisons between the likes of PHQ-9 vs Beck Anxiety Inventory has been time-consuming - scrolling through long questionnaire PDFs and perhaps manually populating Excel with the data.
 

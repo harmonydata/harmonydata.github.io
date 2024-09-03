@@ -18,6 +18,13 @@ Behavioural research often requires psychometric evaluations utilizing different
 
 Harmony, utilizing ground-breaking natural language processing and generative AI models, is specifically designed to help researchers harmonise and compare questionnaire items. In the case of SDQ vs RCADS, Harmony is utilised for a detailed comparison of the instruments.
 
+## You may also be interested in these harmonisations
+
+* [SDQ vs MFQ](/compare-harmonise-instruments/sdq-vs-mfq)
+* [CHAT vs BAPQ](/compare-harmonise-instruments/autism/chat-vs-bapq)
+* [AOSI vs AQ-20](/compare-harmonise-instruments/autism/aosi-vs-aq-20)
+
+
 {{< card heading="Try Harmony" copy="Compare SDQ and RCADS " url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}

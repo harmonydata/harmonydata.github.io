@@ -19,6 +19,13 @@ When conducting research and comparing data from different psychological questio
 
 Harmony, a software developed specifically for psychologists, simplifies the harmonisation process by utilising cutting-edge natural language processing and generative AI models. The software is capable of analysing content from different sources and detecting similarities or correlations. By evaluating the items in the DTC vs RAPI through Harmony, researchers can extract a percentage match between each item in these scales, enhancing the reliability and efficiency of their findings.
 
+## You may also be interested in these harmonisations
+
+* [Adult ADHD Self-Report Scale vs MacLean Screening Instrument for BPD](/compare-harmonise-instruments/adult-adhd-self-report-scale-vs-maclean-screening-instrument-for-bpd)
+* [Beck Anxiety Inventory vs PSF](/compare-harmonise-instruments/beck-anxiety-inventory-vs-psf)
+* [DTC vs MAST](/compare-harmonise-instruments/alcoholism/dtc-vs-mast)
+
+
 
 {{< card heading="Try Harmony" copy="Compare DTC and RAPI " url="https://harmonydata.ac.uk/app" >}}
 

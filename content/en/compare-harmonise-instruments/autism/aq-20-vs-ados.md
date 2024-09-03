@@ -19,6 +19,13 @@ In autism research, two key instruments frequently brought to the table are the 
 
 Given the potential benefits of comparing AQ-20 vs ADOS, we recommend utilizing the intelligent software - Harmony. Harmony, a product of cutting-edge technological advancements, is a tool that seamlessly harmonizes items from both AQ-20 and ADOS using large language models. It offers the opportunity to assess each item's correlation in both instruments for a comprehensive comparison and understanding of AQ-20 vs ADOS.
 
+## You may also be interested in these harmonisations
+
+* [DUDIT vs DTC](/compare-harmonise-instruments/alcoholism/dudit-vs-dtc)
+* [ESPAD vs RAPI](/compare-harmonise-instruments/alcoholism/espad-vs-rapi)
+* [SDQ vs CBCL](/compare-harmonise-instruments/sdq-vs-cbcl)
+
+
 
 {{< card heading="Try Harmony" copy="Compare AQ-20 and ADOS " url="https://harmonydata.ac.uk/app" >}}
 

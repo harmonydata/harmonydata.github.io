@@ -19,6 +19,13 @@ Comparing questionnaires like CHAT (Checklist for Autism in Toddlers) and AQ-10 
 
 Through innovative use of artificial intelligence, Harmony streamlines the tedious task of manual comparison, transforming CHAT vs AQ-10 comparison into a streamlined process. Harmony's AI-driven system is capable of comparing each item in CHAT and AQ-10, assigning a percentage similarity. This not only accelerates the harmonization process but also reduces the subjective bias associated with manual item-matching. With Harmony, batch comparison of CHAT vs AQ-10 can be achieved in minutes instead of days, leading to more efficient analysis and improved data integrity.
 
+## You may also be interested in these harmonisations
+
+* [CES-D vs CBCL](/compare-harmonise-instruments/ces-d-vs-cbcl)
+* [GHQ 12 vs PHQ-9](/compare-harmonise-instruments/ghq-12-vs-phq-9)
+* [AOSI vs ADOS](/compare-harmonise-instruments/autism/aosi-vs-ados)
+
+
 
 {{< card heading="Try Harmony" copy="Compare CHAT and AQ-10 " url="https://harmonydata.ac.uk/app" >}}
 

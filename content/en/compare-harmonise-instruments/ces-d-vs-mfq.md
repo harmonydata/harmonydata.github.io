@@ -18,6 +18,13 @@ Comparing questionnaire items for psychological research can be a tedious task. 
 
 Harmony not only simplifies the assessment process but also enhances the accuracy of CES-D vs MFQ comparisons. The software uses large language models to compare and match questionnaire items, providing a percentage match between each item on the CES-D and MFQ. This can significantly reduce human error and subjective bias, while also saving researchers time. Furthermore, Harmony can handle multiple languages, making it easier for researchers to work with international cohorts and diversify their samples.
 
+## You may also be interested in these harmonisations
+
+* [CES-D vs SCARED (adult)](/compare-harmonise-instruments/ces-d-vs-scared)
+* [DUDIT vs DTC](/compare-harmonise-instruments/alcoholism/dudit-vs-dtc)
+* [GAD-7 vs RCADS](/compare-harmonise-instruments/gad-7-vs-rcads)
+
+
 
 
 {{< card heading="Try Harmony" copy="Compare CES-D and MFQ " url="https://harmonydata.ac.uk/app" >}}

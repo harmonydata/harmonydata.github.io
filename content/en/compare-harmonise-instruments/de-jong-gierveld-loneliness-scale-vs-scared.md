@@ -18,6 +18,13 @@ Researchers often need to harmonize and compare different psychological instrume
 
 Comparing the De Jong Gierveld Loneliness Scale and SCARED (adult) can be a challenging and time-consuming process, especially when trying to find a common ground between longitudinal studies. This is where Harmony steps in.
 
+## You may also be interested in these harmonisations
+
+* [DUDIT vs RAPI](/compare-harmonise-instruments/alcoholism/dudit-vs-rapi)
+* [Adult ADHD Self-Report Scale vs MacLean Screening Instrument for BPD](/compare-harmonise-instruments/adult-adhd-self-report-scale-vs-maclean-screening-instrument-for-bpd)
+* [MAST vs HAS](/compare-harmonise-instruments/alcoholism/mast-vs-has)
+
+
 {{< card heading="Try Harmony" copy="Compare De Jong Gierveld Loneliness Scale and SCARED (adult) " url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}

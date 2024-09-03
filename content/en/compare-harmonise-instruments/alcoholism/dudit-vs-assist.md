@@ -18,6 +18,13 @@ When studying substance abuse and addiction, psychologists and social scientists
 Harmony takes into consideration each item in both DUDIT and ASSIST, and gives a percentage match. This objective comparison makes the harmonization process more precise and less time-consuming. The "DUDIT Vs ASSIST" comparison using Harmony, for instance, provides a comparative view of the questionnaires, aiding researchers in understanding the overlap and differences between the two. Also, Harmony works across multiple languages making it both flexible and versatile for global research applications.
 
 
+## You may also be interested in these harmonisations
+
+* [DTC vs AUDIT](/compare-harmonise-instruments/alcoholism/dtc-vs-audit)
+* [CES-D vs GHQ-30](/compare-harmonise-instruments/ces-d-vs-ghq-30)
+* [GAD-7 vs PSS-10](/compare-harmonise-instruments/gad-7-vs-pss-10)
+
+
 {{< card heading="Try Harmony" copy="Compare DUDIT and ASSIST " url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}

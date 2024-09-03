@@ -19,6 +19,13 @@ Comparing different psychological questionnaires can aid psychologists and socia
 
 Harmony, a specially designed software for psychologists, uses natural language processing and generative AI models to harmonise questionnaire items across multiple languages. This software could be utilised by psychologists to compare GHQ 12 vs MFQ, enabling a faster and more efficient harmonisation process. Harmony provides an interface where these instruments can be uploaded in PDF format, following which it uses large language models to give a percentage match between each item.
 
+## You may also be interested in these harmonisations
+
+* [GAD-7 vs SCARED (adult)](/compare-harmonise-instruments/gad-7-vs-scared)
+* [GAD-7 vs RCADS](/compare-harmonise-instruments/gad-7-vs-rcads)
+* [AUDIT-10 vs ASSIST](/compare-harmonise-instruments/alcoholism/audit-10-vs-assist)
+
+
 
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and MFQ " url="https://harmonydata.ac.uk/app" >}}

@@ -18,6 +18,13 @@ Harmony provides an intuitive solution for psychologists comparing different psy
 The comparison of DTC vs ESPAD could be significantly streamlined using Harmony. DTC (Drinking to Cope) questionnaire deals with alcohol usage in different situations, while ESPAD (European School Survey Project on Alcohol and Drugs - Tobacco) focuses on cigarette smoking habits and behaviours. Users can easily load these instruments into Harmony through its user-friendly web interface, and the software will handle the rest.
 
 
+## You may also be interested in these harmonisations
+
+* [GAD-7 vs GHQ 12](/compare-harmonise-instruments/gad-7-vs-ghq-12)
+* [AOSI vs BAPQ](/compare-harmonise-instruments/autism/aosi-vs-bapq)
+* [GAD-7 vs Beck Anxiety Inventory](/compare-harmonise-instruments/gad-7-vs-beck-anxiety-inventory)
+
+
 
 {{< card heading="Try Harmony" copy="Compare DTC and ESPAD " url="https://harmonydata.ac.uk/app" >}}
 

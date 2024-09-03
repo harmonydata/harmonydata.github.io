@@ -19,6 +19,13 @@ Comparative analysis of different psychological evaluations like the Beck Anxiet
 
 Harmony, using its advanced natural language processing and AI models, allows the examination of these assessments to be carried out in a more time-efficient and cogent manner. Given the significant similarities between the Beck Anxiety Inventory and RCADS such as their focus in analyzing anxiety levels, Harmony offers a novel approach in comparing these by providing a percentage match between the elements, thus simplifying the harmonization process. It grants seamless deciphers of every question, including those in different languages, hence providing an in-depth comparison of the two inventories.
 
+## You may also be interested in these harmonisations
+
+* [CHAT vs ADOS](/compare-harmonise-instruments/autism/chat-vs-ados)
+* [Beck Anxiety Inventory vs RCADS](/compare-harmonise-instruments/beck-anxiety-inventory-vs-rcads)
+* [GAD-7 vs RCADS](/compare-harmonise-instruments/gad-7-vs-rcads)
+
+
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and RCADS " url="https://harmonydata.ac.uk/app" >}}
 

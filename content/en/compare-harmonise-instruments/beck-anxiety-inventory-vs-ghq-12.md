@@ -19,6 +19,13 @@ When comparing the Beck Anxiety Inventory (BAI) and GHQ-12, psychologists often 
 
 The Beck Anxiety Inventory, a self-report inventory of 21 items designed to measure common somatic and cognitive symptoms of anxiety, and GHQ-12, a general health questionnaire containing 12 items, differ significantly in content. Going through each item to identify similar or equivalent constructs in the two instruments can be daunting. But Harmony simplifies this process.
 
+## You may also be interested in these harmonisations
+
+* [SDQ vs SCARED (adult)](/compare-harmonise-instruments/sdq-vs-scared)
+* [CES_D vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/ces-d-vs-de-jong-gierveld-loneliness-scale)
+* [SDQ vs RCADS](/compare-harmonise-instruments/sdq-vs-rcads)
+
+
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and GHQ-12 " url="https://harmonydata.ac.uk/app" >}}
 

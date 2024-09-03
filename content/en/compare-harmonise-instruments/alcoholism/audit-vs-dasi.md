@@ -18,6 +18,13 @@ For psychologists and social scientists, the comparison of questionnaires such a
 
 If you're looking to directly compare 'AUDIT vs DASI', Harmony should be your go-to tool with its capabilities to provide percentage match between each questionnaire item. Harmony's multilingual compatibilities allows it to compare items in various languages, adding more depth to the comparison of 'AUDIT vs DASI'. This feature enhances its credibility among researchers who deal with multi-lingual or international studies.
 
+## You may also be interested in these harmonisations
+
+* [CHAT vs ADOS](/compare-harmonise-instruments/autism/chat-vs-ados)
+* [CHAT vs BAPQ](/compare-harmonise-instruments/autism/chat-vs-bapq)
+* [MAST vs HAS](/compare-harmonise-instruments/alcoholism/mast-vs-has)
+
+
 
 {{< card heading="Try Harmony" copy="Compare AUDIT and DASI " url="https://harmonydata.ac.uk/app" >}}
 

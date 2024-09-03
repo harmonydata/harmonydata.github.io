@@ -18,6 +18,13 @@ If you're a researcher in psychology or social sciences, you might often find yo
 Harmony can make this process easier and more efficient. Harmony uses natural language processing and generative AI models to automatically compare and harmonise questionnaire items. Notably, it can handle documents even in different languages. For instance, if you are comparing AOSI vs AQ-20, Harmony could provide a percentage match between each item in these two instruments, making it an invaluable tool for researching Autism-related behaviors across different age populations.
 
 
+## You may also be interested in these harmonisations
+
+* [PHQ-9 vs PSS-10](/compare-harmonise-instruments/phq-9-vs-pss-10)
+* [CHAT vs ADOS](/compare-harmonise-instruments/autism/chat-vs-ados)
+* [GAD-7 vs GHQ 12](/compare-harmonise-instruments/gad-7-vs-ghq-12)
+
+
 {{< card heading="Try Harmony" copy="Compare AOSI and AQ-20 " url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}

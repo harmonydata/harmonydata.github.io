@@ -18,6 +18,13 @@ Comparing questionnaires like the Drug Use Disorders Identification Test (DUDIT)
 
 
 
+## You may also be interested in these harmonisations
+
+* [Adult ADHD Self-Report Scale vs MacLean Screening Instrument for BPD](/compare-harmonise-instruments/adult-adhd-self-report-scale-vs-maclean-screening-instrument-for-bpd)
+* [GAD-7 vs MFQ](/compare-harmonise-instruments/gad-7-vs-mfq)
+* [AUDIT-10 vs HAS](/compare-harmonise-instruments/alcoholism/audit-10-vs-has)
+
+
 Using natural language processing and generative AI models, Harmony can provide a percent match between each item in the DUDIT and AUDIT questionnaires. This allows for an objective, data-driven approach to research harmonization. Furthermore, Harmony simplifies the process immensely with its easy-to-use interface and automated functionalities. The task of comparing DUDIT vs AUDIT becomes a breeze, saving significant time and reducing potential human error.
 
 

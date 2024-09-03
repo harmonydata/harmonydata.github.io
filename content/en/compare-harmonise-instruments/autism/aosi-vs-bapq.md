@@ -19,6 +19,13 @@ Harmony has revolutionized the harmonization process of psychological questionna
 
 This tool can compare questionnaire items and provide a percentage match, saving researchers from the traditional manual, time-consuming, and subjective processes.
 
+## You may also be interested in these harmonisations
+
+* [Beck Anxiety Inventory vs GHQ-28](/compare-harmonise-instruments/beck-anxiety-inventory-vs-ghq-28)
+* [GAD-7 vs CBCL](/compare-harmonise-instruments/gad-7-vs-cbcl)
+* [DTC vs AUDIT](/compare-harmonise-instruments/alcoholism/dtc-vs-audit)
+
+
 ## Using Harmony for AOSI vs BAPQ Comparison
 
 Harmony's web interface allows you to select AOSI and BAPQ from its database, or you can even drag and drop your own questionnaires in PDF form. Then, Harmony uses its state-of-the-art natural language processing algorithms to make a comparative analysis. If you will compare AOSI vs BAPQ, Harmony can provide insights with a percentage match.

@@ -19,6 +19,13 @@ The GAD-7 and SCARED scales are both commonly used psychologists and other resea
 
 {{< youtube cEZppTBj1NI >}}
 
+## You may also be interested in these harmonisations
+
+* [PHQ-9 vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/phq-9-vs-de-jong-gierveld-loneliness-scale)
+* [GHQ-12 vs CBCL](/compare-harmonise-instruments/ghq-12-vs-cbcl)
+* [AQ-10 vs BAPQ](/compare-harmonise-instruments/autism/aq-10-vs-bapq)
+
+
 Harmony makes the comparison of GAD-7 vs SCARED straightforward and precise. It offers a percentage match between each item in GAD-7 and SCARED, thereby providing valuable insights into their overlap and mutual relatability. The power of Harmony is not limited to one language; it can address comparisons among multiple languages enhancing its utility in diverse demographic studies.
 
 

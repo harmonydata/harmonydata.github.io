@@ -18,6 +18,13 @@ When it comes to alcoholism screening instruments, two popular ones are the Mich
 Harmony helps align and compare these two instruments in a manner that is both effective and efficient. Leveraging advanced features such as natural language processing and AI models, Harmony bridges the gap between these tools and aids in harmonization. MAST vs RAPI is no longer a time-consuming task.
 
 
+## You may also be interested in these harmonisations
+
+* [PHQ-9 vs SCARED (adult)](/compare-harmonise-instruments/phq-9-vs-scared)
+* [AOSI vs AQ-20](/compare-harmonise-instruments/autism/aosi-vs-aq-20)
+* [AUDIT-10 vs MAST](/compare-harmonise-instruments/alcoholism/audit-10-vs-mast)
+
+
 {{< card heading="Try Harmony" copy="Compare MAST and RAPI " url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}

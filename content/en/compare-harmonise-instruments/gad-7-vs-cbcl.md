@@ -18,6 +18,13 @@ The Generalised Anxiety Disorder Assessment (GAD-7) and Child Behaviour Checklis
 Employing a platform like Harmony significantly simplifies the process of comparison, particularly when exploring 'GAD-7 vs CBCL'. Harmony is a dedicated software which assists psychologists and social scientists in real time harmonization of different questionnaires, such as GAD-7 and CBCL.
 
 
+## You may also be interested in these harmonisations
+
+* [GHQ 12 vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/ghq-12-vs-de-jong-gierveld-loneliness-scale)
+* [GHQ-12 vs PSS-10](/compare-harmonise-instruments/ghq-12-vs-pss-10)
+* [AQ-10 vs ADOS](/compare-harmonise-instruments/autism/aq-10-vs-ados)
+
+
 {{< card heading="Try Harmony" copy="Compare GAD-7 and CBCL " url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}

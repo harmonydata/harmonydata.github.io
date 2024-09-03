@@ -19,6 +19,13 @@ aliases:
 
 {{< card heading="Try Harmony" copy="Compare ESPAD and ASSIST " url="https://harmonydata.ac.uk/app" >}}
 
+## You may also be interested in these harmonisations
+
+* [CES-D vs PHQ-9](/compare-harmonise-instruments/ces-d-vs-phq-9)
+* [GHQ 12 vs PHQ-9](/compare-harmonise-instruments/ghq-12-vs-phq-9)
+* [DUDIT vs ASSIST](/compare-harmonise-instruments/alcoholism/dudit-vs-assist)
+
+
 {{< youtube cEZppTBj1NI >}}
 
 

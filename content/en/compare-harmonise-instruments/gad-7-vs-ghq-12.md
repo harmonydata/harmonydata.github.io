@@ -33,9 +33,14 @@ Psychologists and social scientists around the world use tools like the Generali
 
 ## Other harmonisation projects with Harmony which you may be interested in
 
-* [CES-D vs GHQ-12](/ces-d-vs-ghq-12)
-* [GAD-7 vs PHQ-9](/gad-7-vs-phq-9)
-* [Harmony: A Free AI Tool for Item-Wise Harmonisation](/item-harmonisation/harmony-a-free-ai-tool-for-item-wise-harmonisation)
+
+* [Beck Anxiety Inventory vs PSF](/compare-harmonise-instruments/beck-anxiety-inventory-vs-psf)
+* [CHAT vs BAPQ](/compare-harmonise-instruments/autism/chat-vs-bapq)
+* [GHQ-12 vs GHQ-30](/compare-harmonise-instruments/ghq-12-vs-ghq-30)
+
+
+
+
 
 This is where Harmony, with its state-of-the-art technology, steps in and transforms the seemingly complex terrain of GAD-7 vs GHQ 12. Harmony utilises the power of natural language processing and generative AI models, bringing a new level of automation and accuracy to the harmonisation of these psychological assessment tools.
 

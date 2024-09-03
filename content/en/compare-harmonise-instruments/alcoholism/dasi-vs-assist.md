@@ -22,6 +22,13 @@ When it comes to the study of substance use, two notable instruments employed by
  
 {{< card heading="Try Harmony" copy="Compare DASI and ASSIST " url="https://harmonydata.ac.uk/app" >}}
 
+## You may also be interested in these harmonisations
+
+* [AOSI vs CHAT](/compare-harmonise-instruments/autism/aosi-vs-chat)
+* [PHQ-9 vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/phq-9-vs-de-jong-gierveld-loneliness-scale)
+* [AUDIT vs ASSIST](/compare-harmonise-instruments/alcoholism/audit-vs-assist)
+
+
 {{< youtube cEZppTBj1NI >}}
 
 

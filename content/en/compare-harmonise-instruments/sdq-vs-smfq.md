@@ -18,6 +18,13 @@ When it comes to behavioral screening and mood assessment in children, two promi
 
 The harmonisation of SDQ vs SMFQ presents a challenge to psychologists, one that Harmony software is optimally designed to address. Harmony, leveraging advanced AI and Natural Language Processing technology, can compare and match questionnaire items across SDQ and SMFQ swiftly and efficiently. It will not just save researchers the time-consuming and painstaking task of manual harmonization, but also ensures a higher degree of accuracy and objectivity.
 
+## You may also be interested in these harmonisations
+
+* [ESPAD vs RAPI](/compare-harmonise-instruments/alcoholism/espad-vs-rapi)
+* [MAST vs RAPI](/compare-harmonise-instruments/alcoholism/mast-vs-rapi)
+* [ESPAD vs ASSIST](/compare-harmonise-instruments/alcoholism/espad-vs-assist)
+
+
 
 {{< card heading="Try Harmony" copy="Compare SDQ and SMFQ " url="https://harmonydata.ac.uk/app" >}}
 

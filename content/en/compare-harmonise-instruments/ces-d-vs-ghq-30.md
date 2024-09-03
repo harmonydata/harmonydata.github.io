@@ -18,6 +18,13 @@ Making precise comparisons between psychiatric questionnaires like CES-D (Center
 
 
 
+## You may also be interested in these harmonisations
+
+* [CES-D vs Beck Anxiety Inventory](/compare-harmonise-instruments/ces-d-vs-beck-anxiety-inventory)
+* [DUDIT vs ASSIST](/compare-harmonise-instruments/alcoholism/dudit-vs-assist)
+* [GHQ 12 vs SDQ](/compare-harmonise-instruments/ghq-12-vs-sdq)
+
+
 Harmony simplifies the process of harmonising questionnaires by providing a percentage match for items between questionnaires such as CES-D and GHQ-30. Simply select your instruments from Harmony's broad database or upload your own PDF files to Harmony's user-friendly web interface.
 
 

@@ -18,6 +18,13 @@ Comparing questionnaires in psychological research such as the PHQ-9 vs SCARED q
 
 Harmony has the ability not only to compare standardised questionnaires like the PHQ-9 vs SCARED (adult), but also user-submitted questionnaire data in a variety of languages. This immensely simplifies multi-lingual and cross-study comparison. Its well-developed database and web interface allows for easy drag-and-drop uploading or selection of questionnaires. For example, the comparison of PHQ-9 vs SCARED (adult) can be done in a matter of clicks, saving researchers valuable time. In today’s world of data-driven research, making full use of the cohort and longitudinal studies requires accurate and efficient harmonisation. Harmony’s ability to provide a percentage match between each item of the two instruments, like PHQ-9 vs SCARED (adult), makes it an invaluable tool for any researchers wanting to compare exercise across various studies, verify consistent findings, or explore the impact of changing social conditions on results. Harmony is truly a game-changer in psychological research harmonisation.
 
+## You may also be interested in these harmonisations
+
+* [De Jong Gierveld Loneliness Scale vs SCARED](/compare-harmonise-instruments/de-jong-gierveld-loneliness-scale-vs-scared)
+* [CES-D vs Beck Anxiety Inventory](/compare-harmonise-instruments/ces-d-vs-beck-anxiety-inventory)
+* [SDQ vs Beck Anxiety Inventory](/compare-harmonise-instruments/sdq-vs-beck-anxiety-inventory)
+
+
 
 {{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
 

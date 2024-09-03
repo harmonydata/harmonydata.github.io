@@ -19,6 +19,13 @@ Researchers and psychologists often find themselves attempting to draw compariso
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and De Jong Gierveld Loneliness Scale " url="https://harmonydata.ac.uk/app" >}}
 
+## You may also be interested in these harmonisations
+
+* [GAD-7 vs RCADS](/compare-harmonise-instruments/gad-7-vs-rcads)
+* [GHQ-12 vs CBCL](/compare-harmonise-instruments/ghq-12-vs-cbcl)
+* [CES-D vs PSS-10](/compare-harmonise-instruments/ces-d-vs-pss-10)
+
+
 {{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 The GHQ 12 vs De Jong Gierveld Loneliness Scale comparison is made seamlessly easy and more efficient by utilizing Harmony software. Harmony uses advanced AI and natural language processing technology to help users quickly match and harmonize items — expressed in different ways or even languages — across arrays of questionnaires. In doing so, this cutting-edge tool enables experts to test, for example, whether patterns of results on the GHQ 12 and De Jong Gierveld Loneliness Scale are consistent across multiple studies. This comparison can be even more insightful if you use Harmony for GHQ 12 vs De Jong Gierveld Loneliness Scale. With Harmony, you don't have to get caught up in the subjective and time-consuming process of manually aligning items from these two instruments. Harmony's powerful AI engine does the hard lifting for you, providing a percentage match between items, even comparing items in multiple languages. The availability of multiple instruments in Harmony's database and an easy-to-use web interface enhance the harmonization process, making GHQ 12 vs De Jong Gierveld Loneliness Scale comparison a breeze.

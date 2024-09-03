@@ -20,9 +20,14 @@ These tools have provided psychometric insights into the behavioural and emotion
 
 ## Other harmonisation projects with Harmony which you may be interested in
 
-* [Validation and Harmonisation of Perceived Stress Scale (PSS)](/harmonisation-validation/perceived-stress-scale-pss)
-* [Validation and Harmonisation of PROMIS depression subscale](/harmonisation-validation/promis-depression-subscale)
-* [Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology)
+
+* [DTC vs AUDIT](/compare-harmonise-instruments/alcoholism/dtc-vs-audit)
+* [De Jong Gierveld Loneliness Scale vs SCARED](/compare-harmonise-instruments/de-jong-gierveld-loneliness-scale-vs-scared)
+* [GHQ 12 vs MFQ](/compare-harmonise-instruments/ghq-12-vs-mfq)
+
+
+
+
 
 An exacting task that was once subjected to human error and personal bias can now be accomplished with a few clicks and keystrokes. Before we delve into the specifics of SDQ vs Beck Anxiety Inventory comparison, here's a nutshell explanation of these intriguing psychological tools. The SDQ is a concise behavioural screening instrument about 2-17-year-old individuals.
 

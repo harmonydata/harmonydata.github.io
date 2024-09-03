@@ -18,6 +18,13 @@ Harmonising questionnaires in psychological research is often a time-consuming a
 
 But this challenge is made greatly simpler by using Harmony, a cutting-edge platform that assists psychologists in making these integral comparisons. Harmony is equipped with high-end natural language processing and generative AI models. For the task of CHAT vs ADOS comparison, it utilizes these technologies to determine a percentage match between each item in both instruments. Harmony can stall the laborious process of individually comparing each CHAT and ADOS item, and instead allows the researchers to focus on the significant questions brought about by the comparative analysis.
 
+## You may also be interested in these harmonisations
+
+* [SDQ vs MFQ](/compare-harmonise-instruments/sdq-vs-mfq)
+* [AUDIT vs ASSIST](/compare-harmonise-instruments/alcoholism/audit-vs-assist)
+* [GHQ 12 vs Beck Anxiety Inventory](/compare-harmonise-instruments/ghq-12-vs-beck-anxiety-inventory)
+
+
 
 {{< card heading="Try Harmony" copy="Compare CHAT and ADOS " url="https://harmonydata.ac.uk/app" >}}
 

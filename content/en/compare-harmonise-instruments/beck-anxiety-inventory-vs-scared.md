@@ -18,6 +18,13 @@ Psychologists and social scientists often encounter scenarios where they need to
 
 
 
+## You may also be interested in these harmonisations
+
+* [DUDIT vs RAPI](/compare-harmonise-instruments/alcoholism/dudit-vs-rapi)
+* [GAD-7 vs RCADS](/compare-harmonise-instruments/gad-7-vs-rcads)
+* [CES_D vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/ces-d-vs-de-jong-gierveld-loneliness-scale)
+
+
 
 This comparison, termed harmonisation, is a vital process but can be extremely time-consuming and subjective. Harmony is a software that comes in as a game changer in these situations. It is an innovative tool developed to eliminate the hassle and democratise the process of harmonisation. Harmony, equipped with natural language processing and generative AI models, can help psychologists derive a percentage match between the items in Beck Anxiety Inventory and SCARED (adult).
 

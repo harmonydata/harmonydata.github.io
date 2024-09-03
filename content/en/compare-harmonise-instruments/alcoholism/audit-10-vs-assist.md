@@ -18,6 +18,13 @@ Whether for in-depth psychological research or routine screening, the ability to
 
 Both the Alcohol Use Disorder Identification Test (AUDIT-10) and the Alcohol, Smoking, and Substance Involvement Screening Test (ASSIST) provide valuable insights, but their different parameters can make cross-comparison challenging. Harmony, an innovative software developed for psychologists, revolutionizes this process by utilizing natural language processing and generative AI models to harmonize questionnaire items, allowing for seamless comparison between various tools.
 
+## You may also be interested in these harmonisations
+
+* [DUDIT vs DTC](/compare-harmonise-instruments/alcoholism/dudit-vs-dtc)
+* [SDQ vs MFQ](/compare-harmonise-instruments/sdq-vs-mfq)
+* [AUDIT-10 vs MAST](/compare-harmonise-instruments/alcoholism/audit-10-vs-mast)
+
+
 
 {{< card heading="Try Harmony" copy="Compare AUDIT-10 and ASSIST " url="https://harmonydata.ac.uk/app" >}}
 

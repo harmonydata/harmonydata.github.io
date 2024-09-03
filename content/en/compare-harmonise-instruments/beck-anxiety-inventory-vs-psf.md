@@ -18,6 +18,13 @@ When studying anxiety and psychological symptoms, researchers often use tools li
 
 The Beck Anxiety Inventory vs PSF comparison can be much easier, more accurate, and less time-consuming with the help of Harmony. Harmony employs sophisticated natural language processing and generative AI models to accurately match items from different questionnaires. 
 
+## You may also be interested in these harmonisations
+
+* [CES-D vs Beck Anxiety Inventory](/compare-harmonise-instruments/ces-d-vs-beck-anxiety-inventory)
+* [CHAT vs AQ-10](/compare-harmonise-instruments/autism/chat-vs-aq-10)
+* [AQ-10 vs BAPQ](/compare-harmonise-instruments/autism/aq-10-vs-bapq)
+
+
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and PSF " url="https://harmonydata.ac.uk/app" >}}
 

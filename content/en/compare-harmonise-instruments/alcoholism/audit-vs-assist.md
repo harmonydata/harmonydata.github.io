@@ -18,6 +18,13 @@ The field of psychology often involves the use of questionnaires to gauge certai
 
 Moreover, the analyses often have to be repeated across multiple studies to ensure consistency. This is where the Harmony software comes in, offering an efficient solution for the comparison of AUDIT vs ASSIST. Harmony significantly simplifies the process by leveraging advanced AI technologies. Through the use of natural language processing and generative AI models, Harmony can effectively compare items in AUDIT and ASSIST, even if they are in different languages.
 
+## You may also be interested in these harmonisations
+
+* [GHQ 12 vs SDQ](/compare-harmonise-instruments/ghq-12-vs-sdq)
+* [AUDIT-10 vs RAPI](/compare-harmonise-instruments/alcoholism/audit-10-vs-rapi)
+* [AQ-10 vs BAPQ](/compare-harmonise-instruments/autism/aq-10-vs-bapq)
+
+
 
 {{< card heading="Try Harmony" copy="Compare AUDIT and ASSIST " url="https://harmonydata.ac.uk/app" >}}
 

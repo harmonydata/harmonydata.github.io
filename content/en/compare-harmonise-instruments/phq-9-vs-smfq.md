@@ -18,6 +18,13 @@ While PHQ-9 focuses mainly on depression symptoms, SMFQ broadly evaluates negati
 
 {{< youtube cEZppTBj1NI >}}
 
+## You may also be interested in these harmonisations
+
+* [GAD-7 vs Beck Anxiety Inventory](/compare-harmonise-instruments/gad-7-vs-beck-anxiety-inventory)
+* [CHAT vs AQ-10](/compare-harmonise-instruments/autism/chat-vs-aq-10)
+* [CES-D vs GHQ-30](/compare-harmonise-instruments/ces-d-vs-ghq-30)
+
+
 
 
 Harmony employs large language models that enable it to compare individual components within these instruments, providing a percentage match between each item in PHQ-9 vs SMFQ. The software’s expansive, pre-established database also enables researchers to draw their desired instruments or upload unique ones in PDF form. Moreover, Harmony also offers multilingual support, allowing different languages to be compared seamlessly, helping broaden the global relevance and understanding of PHQ-9 vs SMFQ.

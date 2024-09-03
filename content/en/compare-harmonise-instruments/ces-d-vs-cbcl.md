@@ -18,6 +18,13 @@ Comparing psychological instruments like the Center for Epidemiological Studies-
 It uses natural language processing to provide unbiased, efficient and accurate match percentages between every item in CES-D and CBCL. In CES-D vs CBCL comparisons, Harmony's capacity to support multiple languages certainly comes to the forefront. This remarkable software can expedite the usually tedious process of harmonisation, taking into account cultural nuances in different languages.
 
 
+## You may also be interested in these harmonisations
+
+* [RAPI vs ASSIST](/compare-harmonise-instruments/alcoholism/rapi-vs-assist)
+* [CES-D vs SDQ](/compare-harmonise-instruments/ces-d-vs-sdq)
+* [Beck Anxiety Inventory vs GHQ-12](/compare-harmonise-instruments/beck-anxiety-inventory-vs-ghq-12)
+
+
 {{< card heading="Try Harmony" copy="Compare CES-D and CBCL " url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}

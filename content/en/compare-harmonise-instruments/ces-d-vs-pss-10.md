@@ -18,6 +18,13 @@ A common challenge in psychology and social science research is the comparison a
 The CES-D vs PSS-10 comparison therefore requires careful harmonisation to ensure valid conclusions. Harmony is a software dedicated to facilitating this harmonisation process. With its advanced natural language processing and AI modelling, Harmony can swiftly compare each item in the CES-D and PSS-10, generating a percentage-match result. This vastly reduces the time-consuming work often necessary in manual comparison and interpretation.
 
 
+## You may also be interested in these harmonisations
+
+* [CES-D vs GHQ 12](/compare-harmonise-instruments/ces-d-vs-ghq-12)
+* [AUDIT vs ASSIST](/compare-harmonise-instruments/alcoholism/audit-vs-assist)
+* [GAD-7 vs GHQ-30](/compare-harmonise-instruments/gad-7-vs-ghq-30)
+
+
 {{< card heading="Try Harmony" copy="Compare CES-D and PSS-10 " url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}

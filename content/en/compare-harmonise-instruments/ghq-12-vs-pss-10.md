@@ -18,6 +18,13 @@ The **GHQ-12 vs PSS-10** comparison presents a unique challenge to psychologists
 
 Both questionnaires are invaluable in understanding the intricate nature of mental health and stress, hence comparing and finding correlations between them becomes quite significant. The manual process of harmonization often proves to be not only time-consuming but also subjective to an extent. To aid in such an intricate process, a tool like **Harmony** comes as a great boon.
 
+## You may also be interested in these harmonisations
+
+* [DUDIT vs RAPI](/compare-harmonise-instruments/alcoholism/dudit-vs-rapi)
+* [SDQ vs PHQ-9](/compare-harmonise-instruments/sdq-vs-phq-9)
+* [CES-D vs RCADS](/compare-harmonise-instruments/ces-d-vs-rcads)
+
+
 
 {{< card heading="Try Harmony" copy="Compare GHQ-12 and PSS-10 " url="https://harmonydata.ac.uk/app" >}}
 

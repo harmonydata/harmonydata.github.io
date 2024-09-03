@@ -18,6 +18,13 @@ Psychologists and social scientists often encounter challenges when comparing su
 
 Harmony, a sophisticated tool built using natural language processing and generative AI, simplifies the harmonisation process, saving time and subjective biases in comparing instruments like CHAT and BAPQ. Harmony offers an innovative solution to delve deeper into the CHAT vs BAPQ comparison by providing a percentage match between each item from CHAT and BAPQ. This essential AI-driven technology will expedite the research process, allowing researchers to focus more on interpreting results than on the time-consuming process of manually comparing these questionnaires.
 
+## You may also be interested in these harmonisations
+
+* [Beck Anxiety Inventory vs SCARED (adult)](/compare-harmonise-instruments/beck-anxiety-inventory-vs-scared)
+* [GAD-7 vs SMFQ](/compare-harmonise-instruments/gad-7-vs-smfq)
+* [De Jong Gierveld Loneliness Scale vs SCARED](/compare-harmonise-instruments/de-jong-gierveld-loneliness-scale-vs-scared)
+
+
 
 {{< card heading="Try Harmony" copy="Compare CHAT and BAPQ " url="https://harmonydata.ac.uk/app" >}}
 

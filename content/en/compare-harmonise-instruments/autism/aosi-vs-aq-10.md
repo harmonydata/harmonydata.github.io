@@ -18,6 +18,13 @@ When comparing the Autism Observation Scale for Infants (AOSI) and the Autism Qu
 
 Harmony, specifically designed for social scientists and psychologists, can be a game-changer in this "AOSI vs AQ-10" analysis challenge. Its ability to use natural language processing and generative AI models simplifies the harmonisation process significantly. Harmony streamlines the tedious process of matching items from these two different questionnaires.
 
+## You may also be interested in these harmonisations
+
+* [AUDIT-10 vs ESPAD](/compare-harmonise-instruments/alcoholism/audit-10-vs-espad)
+* [GHQ-12 vs RCADS](/compare-harmonise-instruments/ghq-12-vs-rcads)
+* [DUDIT vs ESPAD](/compare-harmonise-instruments/alcoholism/dudit-vs-espad)
+
+
 
 {{< card heading="Try Harmony" copy="Compare AOSI and AQ-10 " url="https://harmonydata.ac.uk/app" >}}
 

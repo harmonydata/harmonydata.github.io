@@ -18,6 +18,13 @@ When conducting research in psychology and social sciences, comparing different 
 
 ## Why choose Harmony for ESPAD vs RAPI?
 
+## You may also be interested in these harmonisations
+
+* [Beck Anxiety Inventory vs GHQ-30](/compare-harmonise-instruments/beck-anxiety-inventory-vs-ghq-30)
+* [GAD-7 vs MFQ](/compare-harmonise-instruments/gad-7-vs-mfq)
+* [MAST vs HAS](/compare-harmonise-instruments/alcoholism/mast-vs-has)
+
+
 Harmony uses advanced natural language processing and generative AI models to harmonise questionnaire items, even across different languages. For an ESPAD vs RAPI comparison, Harmony systematically compares the items in both instruments and provides a percentage match. The time-consuming and subjective process of manually going through PDFs and inputting data in Excel is virtually eliminated, allowing you to focus more on the analysis and interpretation of the data.
 
 

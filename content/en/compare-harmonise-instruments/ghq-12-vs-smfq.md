@@ -18,6 +18,13 @@ Comparing General Health Questionnaire 12 (GHQ 12) and Short Mood & Feelings Que
 
 Harmony has a user-friendly interface where researchers can either select the GHQ 12 and SMFQ instruments from its database or upload their customised PDF questionnaires. The software implements natural language processing and generative AI models that enable it to compare items in multiple languages. Thus, researchers can use Harmony to draw more comprehensive and accurate comparisons between GHQ 12 and SMFQ, setting a new standard for questionnaire harmonisation in the field. Not only does Harmony expedite the comparison process between GHQ 12 and SMFQ, but it also enhances the quality of research studies, allowing for a more precise and nuanced understanding of the gathered data.
 
+## You may also be interested in these harmonisations
+
+* [GAD-7 vs Beck Anxiety Inventory](/compare-harmonise-instruments/gad-7-vs-beck-anxiety-inventory)
+* [AOSI vs CHAT](/compare-harmonise-instruments/autism/aosi-vs-chat)
+* [SDQ vs RCADS](/compare-harmonise-instruments/sdq-vs-rcads)
+
+
 
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and SMFQ " url="https://harmonydata.ac.uk/app" >}}

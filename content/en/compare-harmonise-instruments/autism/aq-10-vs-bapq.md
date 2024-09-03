@@ -19,6 +19,13 @@ Harmony has revolutionized the way psychologists and social scientists discern s
 
 Harmony uses complex large language models to provide a percentage match between each item in AQ-10 and BAPQ, which offers a highly accurate AQ-10 vs BAPQ comparison. This not only expedites the research process but also eliminates any probable subjective bias. To utilise Harmony’s cutting-edge technology, all that the researchers need to do is simply select the instruments from Harmony's vast database or upload their own instruments in a pdf format into the Harmony's user-friendly web interface.
 
+## You may also be interested in these harmonisations
+
+* [DUDIT vs RAPI](/compare-harmonise-instruments/alcoholism/dudit-vs-rapi)
+* [AUDIT vs DASI](/compare-harmonise-instruments/alcoholism/audit-vs-dasi)
+* [CHAT vs BAPQ](/compare-harmonise-instruments/autism/chat-vs-bapq)
+
+
 
 {{< card heading="Try Harmony" copy="Compare AQ-10 and BAPQ " url="https://harmonydata.ac.uk/app" >}}
 

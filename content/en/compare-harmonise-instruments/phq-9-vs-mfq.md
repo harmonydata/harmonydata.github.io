@@ -18,6 +18,13 @@ The comparison and harmonising of questionnaire items between PHQ-9 (Patient Hea
 
 
 
+## You may also be interested in these harmonisations
+
+* [Beck Anxiety Inventory vs SCARED (adult)](/compare-harmonise-instruments/beck-anxiety-inventory-vs-scared)
+* [DUDIT vs ASSIST](/compare-harmonise-instruments/alcoholism/dudit-vs-assist)
+* [CES-D vs Beck Anxiety Inventory](/compare-harmonise-instruments/ces-d-vs-beck-anxiety-inventory)
+
+
 Harmony is a tool that uses progressive natural language processing and artificial intelligence technologies to simplify the harmonisation process. Harmony's ability to provide a percentage match between the questionnaire's items means that the overall comparison of PHQ-9 vs MFQ is streamlined.
 
 ## Compare the items in PHQ-9 and MFQ

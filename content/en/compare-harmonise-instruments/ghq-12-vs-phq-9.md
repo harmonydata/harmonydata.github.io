@@ -20,9 +20,14 @@ Both questionnaires play significant roles in psychological assessments, but wit
 
 ## Other harmonisation projects with Harmony which you may be interested in
 
-* [Validation and Harmonisation of AIM (Acceptability of Intervention Measure) score](/harmonisation-validation/aim-acceptability-of-intervention-measure-score)
-* [Validation and Harmonisation of Visual Analog Scale (VAS)](/harmonisation-validation/visual-analog-scale-vas)
-* [GAD-7 vs Beck Anxiety Inventory](/gad-7-vs-beck-anxiety-inventory)
+
+* [AOSI vs AQ-20](/compare-harmonise-instruments/autism/aosi-vs-aq-20)
+* [PHQ-9 vs Beck Anxiety Inventory](/compare-harmonise-instruments/phq-9-vs-beck-anxiety-inventory)
+* [GHQ 12 vs Beck Anxiety Inventory](/compare-harmonise-instruments/ghq-12-vs-beck-anxiety-inventory)
+
+
+
+
 
 
 

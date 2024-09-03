@@ -19,6 +19,13 @@ Comparison and harmonisation of different assessment tools is key to reliable an
 
 Both CES-D and PHQ are widely used instruments in examining depressive symptoms. However, harmonising items between the two can be a tedious, time-consuming, and sometimes subjective task. The CES-D vs PHQ comparison involves examining differences and similarities in how each instrument probes for symptoms of depression.
 
+## You may also be interested in these harmonisations
+
+* [DUDIT vs ESPAD](/compare-harmonise-instruments/alcoholism/dudit-vs-espad)
+* [MAST vs HAS](/compare-harmonise-instruments/alcoholism/mast-vs-has)
+* [CHAT vs ADOS](/compare-harmonise-instruments/autism/chat-vs-ados)
+
+
 
 For instance, CES-D tends to focus on affective components of depressive symptoms whereas PHQ includes elements of anhedonia and suicidal thoughts, presenting a comprehensive view of depressive experience. This necessitates a careful CES-D vs PHQ comparison to ensure these differences are taken into account in research analysis. As such, researchers often find themselves bogged down in spreadsheets and PDF documents, trying to make meaningful comparisons.
 

@@ -18,6 +18,13 @@ The comparison between AOSI (Autism Observation Scale for Infants) and ADOS (Aut
 
 Harmony, with its state-of-the-art technology and AI capabilities, can help you harmonize and compare AOSI and ADOS. Harmony not only compares the items in AOSI and ADOS, but it also provides a percentage match between each item. This feature can greatly save time and increase the efficiency of clinical psychologists and researchers.
 
+## You may also be interested in these harmonisations
+
+* [GHQ-12 vs CBCL](/compare-harmonise-instruments/ghq-12-vs-cbcl)
+* [GAD-7 vs GHQ 12](/compare-harmonise-instruments/gad-7-vs-ghq-12)
+* [CHAT vs AQ-20](/compare-harmonise-instruments/autism/chat-vs-aq-20)
+
+
 
 {{< card heading="Try Harmony" copy="Compare AOSI and ADOS " url="https://harmonydata.ac.uk/app" >}}
 

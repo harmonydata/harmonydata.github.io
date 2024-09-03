@@ -18,6 +18,13 @@ Psychologists engaged in research focusing on alcohol consumption patterns often
 
 However, comparing different questionnaires, or harmonisation, can be a time-consuming and subjective process. Harmony software is an effective solution that simplifies such comparison tasks. This tool, developed specifically for psychologists and social scientists, leverages the power of artificial intelligence to harmonise questionnaire items. It supports the comparison of AUDIT-10 and DTC, providing an extensive assessment of the correlation between questions in these instruments.
 
+## You may also be interested in these harmonisations
+
+* [Beck Anxiety Inventory vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/beck-anxiety-inventory-vs-de-jong-gierveld-loneliness-scale)
+* [GHQ 12 vs SCARED (adult)](/compare-harmonise-instruments/ghq-12-vs-scared)
+* [GAD-7 vs SCARED (adult)](/compare-harmonise-instruments/gad-7-vs-scared)
+
+
 
 {{< card heading="Try Harmony" copy="Compare AUDIT-10 and DTC " url="https://harmonydata.ac.uk/app" >}}
 

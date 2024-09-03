@@ -18,6 +18,13 @@ Comparing and harmonizing the responses from influential psychological diagnosti
 
 One of the significant uses of Harmony is that it can not only efficiently compare the items present in the GHQ-12 vs CBCL but also provide a percentage match between each item. By using Harmony's intuitive web interface, psychologists can have access to an expansive instrument database or simply drag and drop their own PDF tools.
 
+## You may also be interested in these harmonisations
+
+* [Beck Anxiety Inventory vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/beck-anxiety-inventory-vs-de-jong-gierveld-loneliness-scale)
+* [AUDIT-10 vs RAPI](/compare-harmonise-instruments/alcoholism/audit-10-vs-rapi)
+* [ESPAD vs MAST](/compare-harmonise-instruments/alcoholism/espad-vs-mast)
+
+
 
 {{< card heading="Try Harmony" copy="Compare GHQ-12 and CBCL " url="https://harmonydata.ac.uk/app" >}}
 

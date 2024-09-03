@@ -19,6 +19,13 @@ Psychologists exploring autistic disorders often come across two significant set
 
 Harmony, designed specifically for psychologists and researchers, emerges as a game changer in this process. Harmony enriches the process of comparing AQ-10 vs ADOS by employing robust natural language processing algorithms and generative AI models. The software enables researchers to compare corresponding items on these questionnaires meticulously, thus highlighting the crucial similarities and differences.
 
+## You may also be interested in these harmonisations
+
+* [SDQ vs PSS-10](/compare-harmonise-instruments/sdq-vs-pss-10)
+* [AUDIT-10 vs HAS](/compare-harmonise-instruments/alcoholism/audit-10-vs-has)
+* [SDQ vs Beck Anxiety Inventory](/compare-harmonise-instruments/sdq-vs-beck-anxiety-inventory)
+
+
 
 {{< card heading="Try Harmony" copy="Compare AQ-10 and ADOS " url="https://harmonydata.ac.uk/app" >}}
 

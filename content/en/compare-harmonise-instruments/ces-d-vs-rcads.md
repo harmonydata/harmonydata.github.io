@@ -19,6 +19,13 @@ Harmony is the perfect tool to aid researchers in comparing the CES-D and RCADS 
 
 However, deriving meaningful insights could be challenging due to the different construction of items in the two scales. This is where Harmony steps in to aid researchers in the harmonisation process, allowing comparisons both within and across the two studies. Harmony uses advanced language processing and AI models to compare these two well-regarded psychological instruments, providing a percentage match between each item within CES-D and RCADS.
 
+## You may also be interested in these harmonisations
+
+* [AOSI vs CHAT](/compare-harmonise-instruments/autism/aosi-vs-chat)
+* [Beck Anxiety Inventory vs MFQ](/compare-harmonise-instruments/beck-anxiety-inventory-vs-mfq)
+* [GAD-7 vs PSS-10](/compare-harmonise-instruments/gad-7-vs-pss-10)
+
+
 
 {{< card heading="Try Harmony" copy="Compare CES-D and RCADS " url="https://harmonydata.ac.uk/app" >}}
 

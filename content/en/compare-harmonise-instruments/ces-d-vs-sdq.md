@@ -28,9 +28,14 @@ With Harmony, the CES-D vs SDQ comparison is made easy. The Center for Epidemiol
 
 ## Other harmonisation projects with Harmony which you may be interested in
 
-* [Validation and Harmonisation of Loe & Silness Gingival Index](/harmonisation-validation/loe-silness-gingival-index)
-* [Validation and Harmonisation of Young Mania Rating Scale (YMRS)](/harmonisation-validation/young-mania-rating-scale-ymrs)
-* [Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology)
+
+* [AQ-20 vs BAPQ](/compare-harmonise-instruments/autism/aq-20-vs-bapq)
+* [CES-D vs GAD-7](/compare-harmonise-instruments/ces-d-vs-gad-7)
+* [AOSI vs AQ-20](/compare-harmonise-instruments/autism/aosi-vs-aq-20)
+
+
+
+
 
 
 

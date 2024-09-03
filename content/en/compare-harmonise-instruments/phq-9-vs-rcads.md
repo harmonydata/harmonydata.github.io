@@ -18,6 +18,13 @@ Psychologists and social scientists often ponder over the harmony between differ
 
 Comparing PHQ-9 and RCADS can be daunting and cumbersome due to large quantities of qualitative data that need to be closely examined and harmonized. This is where Harmony proves to be a boon. It is an intelligent tool designed to simplify the process of comparison and harmonization.
 
+## You may also be interested in these harmonisations
+
+* [GAD-7 vs SMFQ](/compare-harmonise-instruments/gad-7-vs-smfq)
+* [DTC vs MAST](/compare-harmonise-instruments/alcoholism/dtc-vs-mast)
+* [GHQ-12 vs RCADS](/compare-harmonise-instruments/ghq-12-vs-rcads)
+
+
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and RCADS " url="https://harmonydata.ac.uk/app" >}}
 

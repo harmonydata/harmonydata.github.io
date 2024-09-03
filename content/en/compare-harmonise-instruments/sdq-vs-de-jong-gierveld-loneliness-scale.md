@@ -18,6 +18,13 @@ Comparing different instruments used in psychological research can often seem li
 
 
 
+## You may also be interested in these harmonisations
+
+* [GAD-7 vs GHQ-30](/compare-harmonise-instruments/gad-7-vs-ghq-30)
+* [DUDIT vs DTC](/compare-harmonise-instruments/alcoholism/dudit-vs-dtc)
+* [PHQ-9 vs PSS-10](/compare-harmonise-instruments/phq-9-vs-pss-10)
+
+
 These two instruments, despite their differences, can be evaluated against each other to yield vital comparative insights that can aid in enriching psychological studies. Harmony is a sophisticated software tool designed to simplify this exact harmonisation process for researchers and social scientists. Offering AI-driven comparisons on the items from both SDQ and the De Jong Gierveld Loneliness Scale, Harmony uses large language models to estimate a percentage match between each set of items. The tool can even process and harmonise items in different languages, transcending a significant obstacle in cross-cultural studies. To make your research process easier and efficient, consider using Harmony for your 'SDQ vs De Jong Gierveld Loneliness Scale' comparison. Not only can Harmony save hours of manual work, but it can also help to ensure that your comparison analysis is accurate, objective, and consistent across studies. With Harmony, comparing SDQ and De Jong Gierveld Loneliness Scale has never been simpler or more reliable.
 
 ## Compare the items in SDQ and De Jong Gierveld Loneliness Scale English

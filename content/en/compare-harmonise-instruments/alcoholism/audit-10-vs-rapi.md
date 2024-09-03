@@ -19,6 +19,13 @@ Harmony offers a unique advantage for psychologists investigating alcohol-relate
 
 By leveraging natural language processing and generative AI models, Harmony can conduct a seamless comparison between AUDIT-10 vs RAPI, providing a percentage match score for each corresponding item. To delve further into specifics, consider the individual questions in AUDIT-10 such as "How often do you have a drink containing alcohol?" or "How many units of alcohol do you drink on a typical day when you are drinking?”. RAPI, however, includes items like "Not able to do your homework or study for a test" or "Got into fights with other people".
 
+## You may also be interested in these harmonisations
+
+* [GAD-7 vs RCADS](/compare-harmonise-instruments/gad-7-vs-rcads)
+* [GHQ-12 vs GHQ-30](/compare-harmonise-instruments/ghq-12-vs-ghq-30)
+* [AOSI vs AQ-10](/compare-harmonise-instruments/autism/aosi-vs-aq-10)
+
+
 
 {{< card heading="Try Harmony" copy="Compare AUDIT-10 and RAPI " url="https://harmonydata.ac.uk/app" >}}
 

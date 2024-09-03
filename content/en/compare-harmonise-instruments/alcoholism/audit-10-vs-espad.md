@@ -22,6 +22,13 @@ In psychology and social sciences, it is often necessary to compare different qu
  
 {{< card heading="Try Harmony" copy="Compare AUDIT-10 and ESPAD " url="https://harmonydata.ac.uk/app" >}}
 
+## You may also be interested in these harmonisations
+
+* [MAST vs HAS](/compare-harmonise-instruments/alcoholism/mast-vs-has)
+* [PHQ-9 vs CBCL](/compare-harmonise-instruments/phq-9-vs-cbcl)
+* [AUDIT-10 vs MAST](/compare-harmonise-instruments/alcoholism/audit-10-vs-mast)
+
+
 {{< youtube cEZppTBj1NI >}}
 
 

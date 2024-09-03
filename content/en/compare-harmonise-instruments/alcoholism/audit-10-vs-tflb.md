@@ -19,6 +19,13 @@ Harmony uses advanced algorithms and language models to detect similarities and 
 
 Whether you choose from the software's database or upload your own documents, Harmony makes the process of comparing AUDIT-10 vs TFLB simple and easy to understand. So, don't hesitate, check out Harmony and enhance the efficiency of your AUDIT-10 vs TFLB comparison process today.
 
+## You may also be interested in these harmonisations
+
+* [CES-D vs SDQ](/compare-harmonise-instruments/ces-d-vs-sdq)
+* [AOSI vs ADOS](/compare-harmonise-instruments/autism/aosi-vs-ados)
+* [DASI vs ASSIST](/compare-harmonise-instruments/alcoholism/dasi-vs-assist)
+
+
 
 ## Compare the items in AUDIT-10 and TFLB
 

@@ -18,6 +18,13 @@ In psychology, comparing different questionnaire instruments like AUDIT-10 vs HA
 
 
 
+## You may also be interested in these harmonisations
+
+* [RAPI vs DASI](/compare-harmonise-instruments/alcoholism/rapi-vs-dasi)
+* [AUDIT-10 vs MAST](/compare-harmonise-instruments/alcoholism/audit-10-vs-mast)
+* [GHQ 12 vs SMFQ](/compare-harmonise-instruments/ghq-12-vs-smfq)
+
+
 That's where Harmony steps in. Equipped with powerful natural language processing and generative AI models, Harmony makes the harmonisation of AUDIT-10 vs HAS a breeze. With Harmony, psychologists and social scientists can quickly determine the percentage match of each item between AUDIT-10 and HAS in multiple languages. This further allows for comparisons both within and across multiple studies, facilitating a more comprehensive analysis of cohort and longitudinal data.
 
 

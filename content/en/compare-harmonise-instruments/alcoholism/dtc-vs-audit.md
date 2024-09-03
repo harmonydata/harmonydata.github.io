@@ -18,6 +18,13 @@ Psychologists seeking to assess and compare alcohol-related behaviors often util
 
 
 
+## You may also be interested in these harmonisations
+
+* [SDQ vs CBCL](/compare-harmonise-instruments/sdq-vs-cbcl)
+* [AQ-20 vs BAPQ](/compare-harmonise-instruments/autism/aq-20-vs-bapq)
+* [SDQ vs SMFQ](/compare-harmonise-instruments/sdq-vs-smfq)
+
+
 Harmony offers an effortless and comprehensive approach to harmonize and compare DTC's and AUDIT's questionnaire items. The software utilizes large language models to perform a detailed DTC vs AUDIT comparison and produces a percentage match between each questionnaire item. This undoubtedly simplifies the process of data comparison, thus allowing psychologists to focus more on the results and less on the methodology.
 
 

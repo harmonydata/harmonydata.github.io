@@ -18,6 +18,13 @@ Psychologists often face the challenge of harmonizing related aspects between di
 
 Utilizing advanced algorithms and natural language processing techniques, Harmony offers a robust solution for comparing the Adult ADHD Self-Report Scale and the MacLean Screening Instrument for BPD.
 
+## You may also be interested in these harmonisations
+
+* [PHQ-9 vs CBCL](/compare-harmonise-instruments/phq-9-vs-cbcl)
+* [AQ-10 vs AQ-20](/compare-harmonise-instruments/autism/aq-10-vs-aq-20)
+* [AQ-20 vs ADOS](/compare-harmonise-instruments/autism/aq-20-vs-ados)
+
+
 
 {{< card heading="Try Harmony" copy="Compare Adult ADHD Self-Report Scale and MacLean Screening Instrument for BPD " url="https://harmonydata.ac.uk/app" >}}
 

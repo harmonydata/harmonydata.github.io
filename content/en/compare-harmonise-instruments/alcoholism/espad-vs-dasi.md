@@ -18,6 +18,13 @@ Identifying commonalities and differences in survey data is an essential part of
 
 Harmony not only helps to harmonise questionnaire items, it also allows for precise percentage matching between ESPAD and DASI. The comparison of ESPAD vs DASI, therefore, becomes a simpler and more accurate process. Harmony's state-of-the-art technology employs natural language processing and generative AI models, facilitating the harmonisation process even across multiple languages, making ESPAD vs DASI comparisons more accessible and seamless.
 
+## You may also be interested in these harmonisations
+
+* [Beck Anxiety Inventory vs PSF](/compare-harmonise-instruments/beck-anxiety-inventory-vs-psf)
+* [GHQ-12 vs CBCL](/compare-harmonise-instruments/ghq-12-vs-cbcl)
+* [GHQ 12 vs MFQ](/compare-harmonise-instruments/ghq-12-vs-mfq)
+
+
 
 {{< card heading="Try Harmony" copy="Compare ESPAD and DASI " url="https://harmonydata.ac.uk/app" >}}
 

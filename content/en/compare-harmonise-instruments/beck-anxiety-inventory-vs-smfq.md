@@ -18,6 +18,13 @@ Using comprehensive tools to compare different psychological assessments can pro
 The Beck Anxiety Inventory vs SMFQ comparison can be efficiently facilitated by Harmony. Harmony is a tool designed for researchers in psychology and social sciences. It is configured to harmonize questionnaire items by leveraging generative AI models and natural language processing. In the context of Beck Anxiety Inventory vs SMFQ, Harmony uses large language models to compare the contents of the two instruments, providing a percentage match between every item in them. This enables researchers to draw a detailed comparison between the questions on both assessments, aiding in the cross-examination of study results or identifying potential overlaps and gaps between different studies.
 
 
+## You may also be interested in these harmonisations
+
+* [ESPAD vs DASI](/compare-harmonise-instruments/alcoholism/espad-vs-dasi)
+* [ESPAD vs ASSIST](/compare-harmonise-instruments/alcoholism/espad-vs-assist)
+* [DUDIT vs DTC](/compare-harmonise-instruments/alcoholism/dudit-vs-dtc)
+
+
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and SMFQ " url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}

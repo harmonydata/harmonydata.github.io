@@ -18,6 +18,13 @@ As psychologists aiming to gather comprehensive insights into alcoholism and sel
 Harmony is built on advanced natural language processing technologies and AI models that hugely simplify the harmonization process. It enables us to quickly and accurately match items from both MAST and DASI, rendering the entire process more objective. Harmony can provide a percentage match between individual items in both questionnaires, ensuring an efficient comparison of MAST vs DASI. It can also compare items in multiple languages for studies requiring cross-cultural comparisons.
 
 
+## You may also be interested in these harmonisations
+
+* [Beck Anxiety Inventory vs MFQ](/compare-harmonise-instruments/beck-anxiety-inventory-vs-mfq)
+* [ESPAD vs DASI](/compare-harmonise-instruments/alcoholism/espad-vs-dasi)
+* [ESPAD vs MAST](/compare-harmonise-instruments/alcoholism/espad-vs-mast)
+
+
 {{< card heading="Try Harmony" copy="Compare MAST and DASI " url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}

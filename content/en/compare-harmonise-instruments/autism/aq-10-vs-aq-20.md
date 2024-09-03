@@ -19,6 +19,13 @@ Comparing the Autism Quotient (10-item) (AQ-10) and the Autism Spectrum Quotient
 
 Harmony facilitates the comparison of AQ-10 and AQ-20 by providing a percentage match between each item in the two instruments. This feature aids professionals in drawing accurate and objective conclusions from the data. Better yet, this can be done across different languages, which makes the AQ-10 vs AQ-20 comparison more encompassing and diverse.
 
+## You may also be interested in these harmonisations
+
+* [MAST vs HAS](/compare-harmonise-instruments/alcoholism/mast-vs-has)
+* [Beck Anxiety Inventory vs RCADS](/compare-harmonise-instruments/beck-anxiety-inventory-vs-rcads)
+* [DUDIT vs DTC](/compare-harmonise-instruments/alcoholism/dudit-vs-dtc)
+
+
 
 {{< card heading="Try Harmony" copy="Compare AQ-10 and AQ-20 " url="https://harmonydata.ac.uk/app" >}}
 

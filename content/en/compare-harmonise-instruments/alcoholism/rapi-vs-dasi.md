@@ -19,6 +19,13 @@ Software Harmonization of questionnaires is vital when comparing psychological i
 
 The use of Harmony's language models ensures a vigorous yet precise comparison between RAPI vs DASI. The comparison extends through all dimensions - from the frequency of usage of substances like alcohol and cannabis, right to feelings of dependency, self-harm and measures of personal and social distress. By running these two indices through Harmony, psychologists can make data-driven decisions and draw more reliable conclusions from these analyses.
 
+## You may also be interested in these harmonisations
+
+* [GAD-7 vs MFQ](/compare-harmonise-instruments/gad-7-vs-mfq)
+* [SDQ vs SCARED (adult)](/compare-harmonise-instruments/sdq-vs-scared)
+* [PHQ-9 vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/phq-9-vs-de-jong-gierveld-loneliness-scale)
+
+
 
 {{< card heading="Try Harmony" copy="Compare RAPI and DASI " url="https://harmonydata.ac.uk/app" >}}
 

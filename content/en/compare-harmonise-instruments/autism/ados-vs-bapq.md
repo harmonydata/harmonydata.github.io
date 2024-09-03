@@ -18,6 +18,13 @@ Psychologists and social scientists often find themselves in a repetitive and da
 The ADOS vs BAPQ comparison can therefore become tricky, time-consuming, and subject to human errors and biases without the right assistance. This is where Harmony - a state-of-the-art software developed for psychologists, comes into play. Harmony is an intelligent tool with the capability of using natural language processing and generative AI models to compare questionnaires line by line – making the task of ADOS vs BAPQ comparison significantly easier, faster, and more accurate.
 
 
+## You may also be interested in these harmonisations
+
+* [GAD-7 vs Beck Anxiety Inventory](/compare-harmonise-instruments/gad-7-vs-beck-anxiety-inventory)
+* [DUDIT vs MAST](/compare-harmonise-instruments/alcoholism/dudit-vs-mast)
+* [GHQ 12 vs SCARED (adult)](/compare-harmonise-instruments/ghq-12-vs-scared)
+
+
 {{< card heading="Try Harmony" copy="Compare ADOS and BAPQ " url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}

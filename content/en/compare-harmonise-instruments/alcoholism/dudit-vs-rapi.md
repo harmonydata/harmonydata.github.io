@@ -18,6 +18,13 @@ In psychological research and clinical practice, comparing assessment instrument
 
 By using Harmony, psychologists can access its extensive database, or drag and drop their instrument PDFs, to easily compare items between DUDIT vs RAPI. The system compares instruments and gives a percentage match between each item in these questionnaires. Interestingly, Harmony is not only limited to English. It can compare items across multiple languages, broadening its use and applicability in the global research setting.
 
+## You may also be interested in these harmonisations
+
+* [Beck Anxiety Inventory vs GHQ-12](/compare-harmonise-instruments/beck-anxiety-inventory-vs-ghq-12)
+* [GAD-7 vs PHQ-9](/compare-harmonise-instruments/gad-7-vs-phq-9)
+* [SDQ vs SMFQ](/compare-harmonise-instruments/sdq-vs-smfq)
+
+
 
 {{< card heading="Try Harmony" copy="Compare DUDIT and RAPI " url="https://harmonydata.ac.uk/app" >}}
 

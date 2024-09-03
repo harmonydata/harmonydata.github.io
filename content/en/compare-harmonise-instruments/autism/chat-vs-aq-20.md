@@ -18,6 +18,13 @@ Harmonisation is a crucial aspect of every psychologist’s job, especially when
 What makes Harmony stand out is its utilization of natural language processing and generative AI to identify harmony of questionnaire items. It delivers detailed results, including the percentage match between each item in CHAT and AQ-20. With Harmony, the intricate analysis of CHAT vs AQ-20 becomes less of a hurdle, leaving more time for service provision. This remarkable innovation does not just stop at English language, but extends its versatility across multiple languages.
 
 
+## You may also be interested in these harmonisations
+
+* [AOSI vs BAPQ](/compare-harmonise-instruments/autism/aosi-vs-bapq)
+* [AUDIT-10 vs RAPI](/compare-harmonise-instruments/alcoholism/audit-10-vs-rapi)
+* [CES-D vs CBCL](/compare-harmonise-instruments/ces-d-vs-cbcl)
+
+
 {{< card heading="Try Harmony" copy="Compare CHAT and AQ-20 " url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}

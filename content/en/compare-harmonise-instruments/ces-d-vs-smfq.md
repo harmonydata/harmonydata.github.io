@@ -19,6 +19,13 @@ The comparison of The Center for Epidemiological Studies-Depression (CES-D) and 
 
 Making use of Harmony's superior natural language processing capabilities, you can effortlessly compare CES-D and SMFQ. Harmony allows researchers to select instruments from its database or upload their own instruments in PDF form. The state-of-the-art technology then matches each item in CES-D and SMFQ, providing a percentage match value that aids in identifying similarities and disparity across both studies. Harmonising CES-D and SMFQ using Harmony not only saves time but also boosts accuracy and objectivity.
 
+## You may also be interested in these harmonisations
+
+* [CES-D vs CBCL](/compare-harmonise-instruments/ces-d-vs-cbcl)
+* [PHQ-9 vs MFQ](/compare-harmonise-instruments/phq-9-vs-mfq)
+* [MAST vs HAS](/compare-harmonise-instruments/alcoholism/mast-vs-has)
+
+
 
 ## Compare the items in CES-D English and SMFQ
 

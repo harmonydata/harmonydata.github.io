@@ -18,6 +18,13 @@ Comparing the Drug Use Disorders Identification Test (DUDIT) and the European Sc
 
 Harmony offers more than just comparison; it's a valuable platform that allows seamless import of instruments, simplifying the process of data harmonisation. Besides the available instruments in Harmony's database, researchers can easily drag and drop their own instruments in PDF format into the web interface. Whether you're comparing DUDIT and ESPAD or any other correlations, Harmony makes it incredibly straightforward.
 
+## You may also be interested in these harmonisations
+
+* [PHQ-9 vs RCADS](/compare-harmonise-instruments/phq-9-vs-rcads)
+* [AUDIT-10 vs ESPAD](/compare-harmonise-instruments/alcoholism/audit-10-vs-espad)
+* [DUDIT vs RAPI](/compare-harmonise-instruments/alcoholism/dudit-vs-rapi)
+
+
 
 {{< card heading="Try Harmony" copy="Compare DUDIT and ESPAD " url="https://harmonydata.ac.uk/app" >}}
 

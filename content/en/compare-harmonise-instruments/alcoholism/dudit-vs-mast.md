@@ -19,6 +19,13 @@ Comparing the Drug Use Disorders Identification Test (DUDIT) with the Michigan A
 
 **DUDIT vs MAST: Speedy Comparisons with Harmony** The task of comparing DUDIT vs MAST involves meticulously identifying the percentage match between each corresponding item in the two tests. Harmony, with its state-of-the-art natural language processing and generative AI models, can significantly ease this process. Users have the liberty of either selecting instruments from Harmony's database or uploading their own instruments in PDF form via the Harmony web interface. The tool supports multi-language comparisons, making transnational studies more feasible.
 
+## You may also be interested in these harmonisations
+
+* [AUDIT-10 vs HAS](/compare-harmonise-instruments/alcoholism/audit-10-vs-has)
+* [PHQ-9 vs SCARED (adult)](/compare-harmonise-instruments/phq-9-vs-scared)
+* [DTC vs MAST](/compare-harmonise-instruments/alcoholism/dtc-vs-mast)
+
+
 
 {{< card heading="Try Harmony" copy="Compare DUDIT and MAST " url="https://harmonydata.ac.uk/app" >}}
 

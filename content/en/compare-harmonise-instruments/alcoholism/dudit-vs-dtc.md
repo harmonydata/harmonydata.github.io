@@ -18,6 +18,13 @@ The process of comparing questionnaires like the Drug Use Disorders Identificati
 
 Using Harmony’s sophisticated natural language processing and generative AI models, researchers can now harmonize and compare these questionnaires efficiently. Harmony allows a straightforward comparison of DUDIT and DTC questionnaire's items with its in-built mechanism. It harnesses large language models prowess to generate a percentage match, providing an exact measure of items' similarity or variance across different questionnaires like *DUDIT vs DTC*.
 
+## You may also be interested in these harmonisations
+
+* [CES-D vs Beck Anxiety Inventory](/compare-harmonise-instruments/ces-d-vs-beck-anxiety-inventory)
+* [GAD-7 vs SCARED (adult)](/compare-harmonise-instruments/gad-7-vs-scared)
+* [AOSI vs BAPQ](/compare-harmonise-instruments/autism/aosi-vs-bapq)
+
+
 
 {{< card heading="Try Harmony" copy="Compare DUDIT and DTC " url="https://harmonydata.ac.uk/app" >}}
 

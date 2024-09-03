@@ -22,6 +22,13 @@ Comparison and harmonization of questionnaires like DTC (Drinking to Cope) and M
  
 {{< card heading="Try Harmony" copy="Compare DTC and MAST " url="https://harmonydata.ac.uk/app" >}}
 
+## You may also be interested in these harmonisations
+
+* [Beck Anxiety Inventory vs SMFQ](/compare-harmonise-instruments/beck-anxiety-inventory-vs-smfq)
+* [CES-D vs CBCL](/compare-harmonise-instruments/ces-d-vs-cbcl)
+* [MAST vs RAPI](/compare-harmonise-instruments/alcoholism/mast-vs-rapi)
+
+
 {{< youtube cEZppTBj1NI >}}
 
 

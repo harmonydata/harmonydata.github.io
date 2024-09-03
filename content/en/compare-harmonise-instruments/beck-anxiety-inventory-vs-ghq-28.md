@@ -18,6 +18,13 @@ Harmonising the elements of various psychological questionnaires can be challeng
 
 
 
+## You may also be interested in these harmonisations
+
+* [GAD-7 vs GHQ 12](/compare-harmonise-instruments/gad-7-vs-ghq-12)
+* [PHQ-9 vs SMFQ](/compare-harmonise-instruments/phq-9-vs-smfq)
+* [SDQ vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/sdq-vs-de-jong-gierveld-loneliness-scale)
+
+
 Harmony simplifies the comparison process by applying advanced AI to evaluate the similarities between each item in these two instruments.
 
 

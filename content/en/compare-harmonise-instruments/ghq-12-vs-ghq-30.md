@@ -19,6 +19,13 @@ The process of comparing and harmonising questionnaire items such as those in GH
 
 The General Health Questionnaire (GHQ) is a widely utilised measure for detecting psychological distress. That being said, the different versions (GHQ-12 and GHQ-30) often require harmonisation for accurate cross-study analysis.
 
+## You may also be interested in these harmonisations
+
+* [SDQ vs SMFQ](/compare-harmonise-instruments/sdq-vs-smfq)
+* [Beck Anxiety Inventory vs SCARED (adult)](/compare-harmonise-instruments/beck-anxiety-inventory-vs-scared)
+* [CES-D vs Beck Anxiety Inventory](/compare-harmonise-instruments/ces-d-vs-beck-anxiety-inventory)
+
+
 
 {{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
 

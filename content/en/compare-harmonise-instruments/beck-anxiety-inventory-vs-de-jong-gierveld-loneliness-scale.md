@@ -19,6 +19,13 @@ Are you in the field of psychology and conducting research around measures of an
 
 The Beck Anxiety Inventory (BAI) is a major measurement tool of anxiety symptoms, while the De Jong Gierveld Loneliness Scale holds top position when exploring scales on loneliness. However, comparing these two scales manually can be incredibly time-consuming and leaves room for subjective error. That's where Harmony comes in. Harmony is software designed specifically for this task.
 
+## You may also be interested in these harmonisations
+
+* [AQ-10 vs BAPQ](/compare-harmonise-instruments/autism/aq-10-vs-bapq)
+* [SDQ vs MFQ](/compare-harmonise-instruments/sdq-vs-mfq)
+* [GHQ 12 vs SMFQ](/compare-harmonise-instruments/ghq-12-vs-smfq)
+
+
 
 {{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
 

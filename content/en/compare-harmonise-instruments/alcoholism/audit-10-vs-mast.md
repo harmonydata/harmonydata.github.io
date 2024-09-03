@@ -18,6 +18,13 @@ The understanding of alcohol use and its potential issues can be greatly enhance
 
 Making use of Harmony ensures a comprehensive analysis of AUDIT-10 vs MAST, bringing out underlying similarities and differences that can drive forward psychological and social research. The software's ability to harmonize questionnaire items, even across different languages, makes the comparison process streamlined and accurate.
 
+## You may also be interested in these harmonisations
+
+* [ADOS vs BAPQ](/compare-harmonise-instruments/autism/ados-vs-bapq)
+* [Beck Anxiety Inventory vs SCARED (adult)](/compare-harmonise-instruments/beck-anxiety-inventory-vs-scared)
+* [Beck Anxiety Inventory vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/beck-anxiety-inventory-vs-de-jong-gierveld-loneliness-scale)
+
+
 
 
 {{< card heading="Try Harmony" copy="Compare AUDIT-10 and MAST " url="https://harmonydata.ac.uk/app" >}}

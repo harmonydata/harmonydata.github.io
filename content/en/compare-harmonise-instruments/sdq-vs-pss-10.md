@@ -18,6 +18,13 @@ Psychologists frequently encounter the challenge of correlating items from diffe
 
 
 
+## You may also be interested in these harmonisations
+
+* [Beck Anxiety Inventory vs MFQ](/compare-harmonise-instruments/beck-anxiety-inventory-vs-mfq)
+* [GAD-7 vs GHQ 12](/compare-harmonise-instruments/gad-7-vs-ghq-12)
+* [RAPI vs DASI](/compare-harmonise-instruments/alcoholism/rapi-vs-dasi)
+
+
 Harmony, by employing advanced natural language processing and AI technology, simplifies and streamlines the procedure for psychologists. The comparison between SDQ vs PSS-10 becomes less subjective and more systematic when using Harmony. Harmony uses large language models to conduct a thorough comparison between questionnaires like the SDQ vs PSS-10 and provides a percentage match for each item. The SDQ, for example, is used for behavioral screening for individuals aged 2-17, while PSS-10 gauges stress perception within the past month.
 
 

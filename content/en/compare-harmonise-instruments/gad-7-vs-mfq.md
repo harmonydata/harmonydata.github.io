@@ -18,6 +18,13 @@ Psychologists and researchers often encounter the challenge of harmonizing quest
 Consider an example where a psychologist needs to compare the GAD-7, a seven-item instrument used to assess the severity of generalized anxiety disorder, with the Mood and Feelings Questionnaire (MFQ). The MFQ is a comprehensive list of questions targeting various moods and feelings. Manually comparing and harmonizing these questionnaires can be a tedious task. By using Harmony, psychologists can streamline this task effortlessly.
 
 
+## You may also be interested in these harmonisations
+
+* [Beck Anxiety Inventory vs MFQ](/compare-harmonise-instruments/beck-anxiety-inventory-vs-mfq)
+* [CHAT vs BAPQ](/compare-harmonise-instruments/autism/chat-vs-bapq)
+* [AUDIT vs DASI](/compare-harmonise-instruments/alcoholism/audit-vs-dasi)
+
+
 {{< card heading="Try Harmony" copy="Compare GAD-7 and MFQ " url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}

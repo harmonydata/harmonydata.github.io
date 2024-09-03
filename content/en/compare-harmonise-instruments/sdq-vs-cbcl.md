@@ -18,6 +18,13 @@ Harmony offers an efficient solution to comparing questionnaires such as the Str
 
 The software provides a percentage match between each item in SDQ and CBCL, effectively aiding researchers by offering an easily interpretable data analysis for making viable comparisons both within and across the studies. Comparing SDQ vs CBCL using Harmony allows social scientists and psychologists to eliminate the long and tiresome process of manually going through each questionnaire, making the task of harmonisation considerably smoother.
 
+## You may also be interested in these harmonisations
+
+* [ESPAD vs RAPI](/compare-harmonise-instruments/alcoholism/espad-vs-rapi)
+* [DUDIT vs DTC](/compare-harmonise-instruments/alcoholism/dudit-vs-dtc)
+* [CES-D vs PHQ-9](/compare-harmonise-instruments/ces-d-vs-phq-9)
+
+
 
 {{< card heading="Try Harmony" copy="Compare SDQ and CBCL " url="https://harmonydata.ac.uk/app" >}}
 

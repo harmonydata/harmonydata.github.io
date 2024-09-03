@@ -19,6 +19,13 @@ Comparing the Beck Anxiety Inventory (BAI) and Mood and Feelings Questionnaire (
 
 Harmony uses natural language processing and generative AI models to compare and harmonise questionnaire items. With Beck Anxiety Inventory vs MFQ, Harmony can provide a percentage match for each item, helping researchers to harmonise the two instruments effectively and efficiently. This method and the results are not only time-saving but also reliable, overcoming the issue of subjectivity in manual comparison and harmonisation.
 
+## You may also be interested in these harmonisations
+
+* [CES-D vs SDQ](/compare-harmonise-instruments/ces-d-vs-sdq)
+* [CES-D vs SCARED (adult)](/compare-harmonise-instruments/ces-d-vs-scared)
+* [RAPI vs ASSIST](/compare-harmonise-instruments/alcoholism/rapi-vs-assist)
+
+
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and MFQ " url="https://harmonydata.ac.uk/app" >}}
 

@@ -33,9 +33,14 @@ As psychologists and social scientists, we constantly tread through veritable ju
 
 ## Other harmonisation projects with Harmony which you may be interested in
 
-* [Validation and Harmonisation of Pittsburgh Sleep Quality Index](/harmonisation-validation/pittsburgh-sleep-quality-index)
-* [Harmony: A Free AI Tool to Combine Cohort Studies](/item-harmonisation/harmony-a-free-ai-tool-to-combine-cohort-studies)
-* [Validation and Harmonisation of Pittsburgh Sleep Quality Index (PSQI)](/harmonisation-validation/pittsburgh-sleep-quality-index-psqi)
+
+* [DUDIT vs DTC](/compare-harmonise-instruments/alcoholism/dudit-vs-dtc)
+* [GHQ 12 vs PHQ-9](/compare-harmonise-instruments/ghq-12-vs-phq-9)
+* [CHAT vs AQ-10](/compare-harmonise-instruments/autism/chat-vs-aq-10)
+
+
+
+
 
 
 

@@ -19,6 +19,13 @@ Conducting research in the fields of psychology and social sciences often involv
 
 By using Harmony in the comparison of AUDIT-10 vs DUDIT, researchers can leverage the software's natural language processing and generative AI models. Harmony provides a percentage match between each item in the two assessments, which can be extremely helpful in the harmonisation process, particularly when the instruments are in different languages. Moreover, the tool offers a database of instruments for selection, or researchers can upload their own questionnaires in PDF format via Harmony's user-friendly web interface. With its ability to automate and streamline the harmonisation process, Harmony equips researchers with an indispensable tool in the analysis of cohort and longitudinal studies, especially those involving AUDIT-10 vs DUDIT.
 
+## You may also be interested in these harmonisations
+
+* [AUDIT-10 vs DUDIT](/compare-harmonise-instruments/alcoholism/audit-10-vs-dudit)
+* [Beck Anxiety Inventory vs GHQ-30](/compare-harmonise-instruments/beck-anxiety-inventory-vs-ghq-30)
+* [PHQ-9 vs CBCL](/compare-harmonise-instruments/phq-9-vs-cbcl)
+
+
 
 {{< card heading="Try Harmony" copy="Compare AUDIT-10 and DUDIT " url="https://harmonydata.ac.uk/app" >}}
 

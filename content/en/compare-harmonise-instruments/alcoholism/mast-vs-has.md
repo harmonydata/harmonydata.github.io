@@ -18,6 +18,13 @@ Harmonising questionnaires, especially between something as specific and as broa
 
 Harmony can match the items within the MAST and HAS tests in multiple languages and provide a percentage match between each item on the two instruments. By harnessing large language models to automate the harmonization process, the time-consuming, manual task of comparing and matching questionnaire items, like those in `MAST vs HAS`, becomes significantly less taxing. This enables researchers to validate their findings across multiple studies and shifting societal conditions, bolstering the reliability and impact of their work.
 
+## You may also be interested in these harmonisations
+
+* [AQ-10 vs BAPQ](/compare-harmonise-instruments/autism/aq-10-vs-bapq)
+* [PHQ-9 vs CBCL](/compare-harmonise-instruments/phq-9-vs-cbcl)
+* [CES-D vs SDQ](/compare-harmonise-instruments/ces-d-vs-sdq)
+
+
 
 {{< card heading="Try Harmony" copy="Compare MAST and HAS " url="https://harmonydata.ac.uk/app" >}}
 

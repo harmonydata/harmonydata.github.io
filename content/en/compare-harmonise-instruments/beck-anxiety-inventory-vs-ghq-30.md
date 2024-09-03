@@ -18,6 +18,13 @@ Psychologists sometimes need to compare data gathered with different questionnai
 
 Harmony is a software designed to simplify and expedite the process of questionnaire comparison. Harmony utilizes advanced natural language processing and generative AI models to automate the process of harmonising questionnaire items—like those found in the Beck Anxiety Inventory and GHQ-30.
 
+## You may also be interested in these harmonisations
+
+* [ESPAD vs DASI](/compare-harmonise-instruments/alcoholism/espad-vs-dasi)
+* [PHQ-9 vs RCADS](/compare-harmonise-instruments/phq-9-vs-rcads)
+* [ADOS vs BAPQ](/compare-harmonise-instruments/autism/ados-vs-bapq)
+
+
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and GHQ-30 " url="https://harmonydata.ac.uk/app" >}}
 

@@ -36,9 +36,14 @@ The GAD-7 is a seven-item instrument predominantly used to measure or assess the
 
 ## Other harmonisation projects with Harmony which you may be interested in
 
-* [Validation and Harmonisation of SIRS scale (Systemic Inflammatory Response Syndrome)](/harmonisation-validation/sirs-scale-systemic-inflammatory-response-syndrome)
-* [Validation and Harmonisation of Walking Impairment Questionaire (WIQ)](/harmonisation-validation/walking-impairment-questionaire-wiq)
-* [CES-D vs GHQ-12](/ces-d-vs-ghq-12)
+
+* [CES-D vs SMFQ](/compare-harmonise-instruments/ces-d-vs-smfq)
+* [AQ-10 vs BAPQ](/compare-harmonise-instruments/autism/aq-10-vs-bapq)
+* [Beck Anxiety Inventory vs PSF](/compare-harmonise-instruments/beck-anxiety-inventory-vs-psf)
+
+
+
+
 
 {{< youtube cEZppTBj1NI >}}
 

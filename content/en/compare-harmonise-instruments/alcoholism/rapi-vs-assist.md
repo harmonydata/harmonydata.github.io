@@ -18,6 +18,13 @@ The 'Rutgers Alcohol Problem Index' (RAPI) and the 'Alcohol, Smoking, and Substa
 
 Harmony employs large language models to match items from RAPI and ASSIST, providing researchers the percentage match between each item from both questionnaires. Researchers can either select the instruments from Harmony's database or upload their own in PDF form. With its state-of-the-art computational model, Harmony is able to automate the process, saving significant time and effort, whilst ensuring accuracy.
 
+## You may also be interested in these harmonisations
+
+* [De Jong Gierveld Loneliness Scale vs SCARED](/compare-harmonise-instruments/de-jong-gierveld-loneliness-scale-vs-scared)
+* [CHAT vs ADOS](/compare-harmonise-instruments/autism/chat-vs-ados)
+* [AUDIT-10 vs HAS](/compare-harmonise-instruments/alcoholism/audit-10-vs-has)
+
+
 
 {{< card heading="Try Harmony" copy="Compare RAPI and ASSIST " url="https://harmonydata.ac.uk/app" >}}
 

@@ -18,6 +18,13 @@ The process of comparing behavioural screening tests, especially those in differ
 
 
 
+## You may also be interested in these harmonisations
+
+* [AUDIT-10 vs ASSIST](/compare-harmonise-instruments/alcoholism/audit-10-vs-assist)
+* [CES-D vs CBCL](/compare-harmonise-instruments/ces-d-vs-cbcl)
+* [AUDIT-10 vs DTC](/compare-harmonise-instruments/alcoholism/audit-10-vs-dtc)
+
+
 The SDQ vs MFQ comparative process benefits greatly from Harmony’s unique ability to establish a percentage match between each item in SDQ and MFQ. Harmony extends the capability to conduct longitudinal analysis across several studies, thereby providing researchers a broad spectrum for validating consistency and detecting social condition influenced variations.
 
 

@@ -18,6 +18,13 @@ Comparative studies between different diagnostic instruments, such as the Michig
 The Harmony software leverages advanced natural language processing and generative AI models to aid researchers in harmonising questionnaire items. It can process and compare individual items from both the MAST and ASSIST, even if they are in different languages. Harmony provides a percentage match between each item, simplifying the process of determining overlaps or discrepancies, thus making the MAST vs ASSIST comparison a seamless preface for further studies.
 
 
+## You may also be interested in these harmonisations
+
+* [RAPI vs DASI](/compare-harmonise-instruments/alcoholism/rapi-vs-dasi)
+* [SDQ vs SMFQ](/compare-harmonise-instruments/sdq-vs-smfq)
+* [Beck Anxiety Inventory vs GHQ-12](/compare-harmonise-instruments/beck-anxiety-inventory-vs-ghq-12)
+
+
 {{< card heading="Try Harmony" copy="Compare MAST and ASSIST " url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}

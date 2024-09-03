@@ -18,6 +18,13 @@ Comparing psychological assessment scales such as the GAD-7 and GHQ-30 can be a 
 
 We have a distinctive approach for GAD-7 vs GHQ-30 comparison. Harmony allows for a two-fold comparison of both GAD-7 and GHQ-30. For one, it can compare instruments by giving a percentage match between each item in the two questionnaires. This feature proves invaluable for researchers who can select from Harmony's extensive database or even upload their own assessments in PDF form. Utilizing Harmony in a GAD-7 vs GHQ-30 analysis ensures a more objective and time-saving approach to harmonizing questionnaire items.
 
+## You may also be interested in these harmonisations
+
+* [SDQ vs SMFQ](/compare-harmonise-instruments/sdq-vs-smfq)
+* [SDQ vs MFQ](/compare-harmonise-instruments/sdq-vs-mfq)
+* [Beck Anxiety Inventory vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/beck-anxiety-inventory-vs-de-jong-gierveld-loneliness-scale)
+
+
 
 
 {{< card heading="Try Harmony" copy="Compare GAD-7 and GHQ-30 " url="https://harmonydata.ac.uk/app" >}}

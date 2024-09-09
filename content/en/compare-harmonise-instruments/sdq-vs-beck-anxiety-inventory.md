@@ -25,6 +25,7 @@ These tools have provided psychometric insights into the behavioural and emotion
 * [De Jong Gierveld Loneliness Scale vs SCARED](/compare-harmonise-instruments/de-jong-gierveld-loneliness-scale-vs-scared)
 * [GHQ 12 vs MFQ](/compare-harmonise-instruments/ghq-12-vs-mfq)
 
+* [Download Beck Anxiety Inventory in PDF form](https://res.cloudinary.com/dpmykpsih/image/upload/great-plains-health-site-358/media/1087/anxiety.pdf)
 
 
 
@@ -58,7 +59,6 @@ Let's take the SDQ vs Beck Anxiety Inventory comparison as an instance. With Har
 * [Validation and Harmonisation of Clinician-Administered PTSD Scale (CAPS)](/harmonisation-validation/clinician-administered-ptsd-scale-caps)
 * [Harmony: A Free AI Tool to Merge Cohort Studies](/item-harmonisation/harmony-a-free-ai-tool-to-merge-cohort-studies)
 
-* [Download Beck Anxiety Inventory in PDF form](https://res.cloudinary.com/dpmykpsih/image/upload/great-plains-health-site-358/media/1087/anxiety.pdf)
 
 
 ## References

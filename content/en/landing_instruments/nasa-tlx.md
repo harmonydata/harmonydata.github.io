@@ -1,10 +1,10 @@
 ---
-title: "Validation and Harmonisation of NASA TLX Survey Index Scores"
+title: "Validation and Harmonisation of NASA TLX (NASA Task Load Index)"
 
 url: /harmonisation-validation/nasa-tlx-task-load-index
 ---
 
-## Validation and Harmonisation of NASA TLX Survey Index Scores
+## Validation and Harmonisation of NASA TLX Survey Index Scores (NASA Task Load Index)
 
 The [NASA TLX](https://humansystems.arc.nasa.gov/groups/tlx/downloads/TLXScale.pdf) (National Aeronautics and Space Administration Task Load Index) is a survey that measures an individual's perceived task load in various workload dimensions, including mental, physical, and temporal demands, effort, and frustration level. It is often used in research and industry settings, such as in evaluating the workload of pilots and healthcare professionals.
 

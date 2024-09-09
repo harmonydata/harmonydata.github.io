@@ -33,7 +33,7 @@ Additionally, Harmony can help validate the NASA TLX Survey Index Scores by prov
 
 * {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of NASA TLX Survey Index Scores " title=" Validation and Harmonisation of NASA TLX Survey Index Scores " >}}
 
-{{< card heading="Try Harmony" copy=" Validation and Harmonisation of NASA TLX Survey Index Scores " url="https://harmonydata.ac.uk/app" >}}
+{{< card heading="Try Harmony" copy=" Validation and Harmonisation of NASA TLX Survey Index Scores " url="https://harmonydata.ac.uk/app/#/import/eyJpbnN0cnVtZW50X25hbWUiOiAiTkFTQSBUYXNrIExvYWQgSW5kZXgiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJIb3cgbWVudGFsbHkgZGVtYW5kaW5nIHdhcyB0aGUgdGFzaz8ifSwgeyJxdWVzdGlvbl90ZXh0IjogIkhvdyBwaHlzaWNhbGx5IGRlbWFuZGluZyB3YXMgdGhlIHRhc2s_In0sIHsicXVlc3Rpb25fdGV4dCI6ICJIb3cgaHVycmllZCBvciBydXNoZWQgd2FzIHRoZSBwYWNlIG9mIHRoZSB0YXNrPyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSG93IHN1Y2Nlc3NmdWwgd2VyZSB5b3UgaW4gYWNjb21wbGlzaGluZyB3aGF0IHlvdSB3ZXJlIGFza2VkIHRvIGRvPyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSG93IGhhcmQgZGlkIHlvdSBoYXZlIHRvIHdvcmsgdG8gYWNjb21wbGlzaCB5b3VyIGxldmVsIG9mIHBlcmZvcm1hbmNlPyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSG93IGluc2VjdXJlLCBkaXNjb3VyYWdlZCwgaXJyaXRhdGVkLCBzdHJlc3NlZCwgYW5kIGFubm95ZWQgd2VyZSB5b3U_In1dfQ==" >}}
 
 {{< youtube cEZppTBj1NI >}}
 

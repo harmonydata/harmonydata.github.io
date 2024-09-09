@@ -52,3 +52,11 @@ Enter Harmony, a versatile tool designed to streamline the harmonization process
 * [Validation and Harmonisation of Patient-reported Outcome Measure Information System (PROMIS) Anxiety subscale](/harmonisation-validation/patient-reported-outcome-measure-information-system-promis-anxiety-subscale)
 * [Validation and Harmonisation of Client Satisfaction Questionnaire (CSQ)](/harmonisation-validation/client-satisfaction-questionnaire-csq)
 * [Validation and Harmonisation of Visual Analog Scale (VAS)](/harmonisation-validation/visual-analog-scale-vas)
+
+* [See GHQ-12 questions](https://score.awellhealth.com/calculations/ghq_12)
+
+## References
+
+* Goldberg, D. P. (No year specified.). General Health Questionnaire-12 (GHQ-12) [Database record]. APA PsycTests.
+https://doi.org/10.1037/t00297-000
+

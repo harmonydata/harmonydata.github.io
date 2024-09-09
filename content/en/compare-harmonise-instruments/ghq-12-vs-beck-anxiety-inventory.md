@@ -53,3 +53,19 @@ In conclusion, the use of Harmony in a comparative study like GHQ 12 vs Beck Anx
 * [Validation and Harmonisation of Arthritis Impact Measurement Scales-2 (AIMS2)](/harmonisation-validation/arthritis-impact-measurement-scales-2-aims2)
 * [Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology)
 * [Validation and Harmonisation of Walking Impairment Questionaire (WIQ)](/harmonisation-validation/walking-impairment-questionaire-wiq)
+
+* [Download Beck Anxiety Inventory in PDF form](https://res.cloudinary.com/dpmykpsih/image/upload/great-plains-health-site-358/media/1087/anxiety.pdf)
+
+
+## References
+
+* Beck, A. T., Epstein, N., Brown, G., & Steer, R. (1988). Beck Anxiety Inventory [Database record]. APA PsycTests. https://doi.org/10.1037/t02025-000
+
+
+* [See GHQ-12 questions](https://score.awellhealth.com/calculations/ghq_12)
+
+## References
+
+* Goldberg, D. P. (No year specified.). General Health Questionnaire-12 (GHQ-12) [Database record]. APA PsycTests.
+https://doi.org/10.1037/t00297-000
+

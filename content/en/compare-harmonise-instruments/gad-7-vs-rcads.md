@@ -17,18 +17,15 @@ When conducting psychological research or assessments, it is essential to have a
 
 It’s not uncommon for psychologists to need to compare these two tools, a task that can be quite daunting and time-consuming. This is where *GAD-7 vs RCADS* comparison comes in, facilitated by the innovative software called Harmony. Harmony, using advanced AI and natural language processing, aids in the harmonization of these two instruments. By analyzing and comparing the items in GAD-7 and RCADS, Harmony is able to present a quantitative match percentage between the items of these two tools.
 
-{{< card heading="Try Harmony" copy="Compare GAD-7 and RCADS " url="https://harmonydata.ac.uk/app" >}}
+
 
 ## You may also be interested in these harmonisations
 
 * [CES-D vs MFQ](/compare-harmonise-instruments/ces-d-vs-mfq)
 * [AUDIT-10 vs TFLB](/compare-harmonise-instruments/alcoholism/audit-10-vs-tflb)
 * [GHQ-12 vs PSS-10](/compare-harmonise-instruments/ghq-12-vs-pss-10)
+* [See RCADS in PDF](https://rcads.ucla.edu/versions)
 
-
-{{< youtube cEZppTBj1NI >}}
-
-This allows researchers to view similarities and differences at a glance, significantly reducing the effort required in the manual comparison process. The term *GAD-7 vs RCADS* is redefined by utilizing Harmony, transforming a complex process into a streamlined and straightforward one. We highly recommend using Harmony for your *GAD-7 vs RCADS* comparison tasks whether you are conducting new research or revisiting older studies for fresh insights. You can select both instruments directly from Harmony's comprehensive database or upload your own copies in PDF format. The added bonus, Harmony is even equipped to handle comparisons in multiple languages. Simplify your research process with Harmony – the new standard for questionnaire harmonization.
 
 
 ## Questions in GAD-7
@@ -45,6 +42,14 @@ This allows researchers to view similarities and differences at a glance, signif
 |     8 | If you checked any problems, how difficult have they made it for you to do your work, take care of things at home, or get along with other people? |
 
 
+{{< card heading="Try Harmony" copy="Compare GAD-7 and RCADS " url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+This allows researchers to view similarities and differences at a glance, significantly reducing the effort required in the manual comparison process. The term *GAD-7 vs RCADS* is redefined by utilizing Harmony, transforming a complex process into a streamlined and straightforward one. We highly recommend using Harmony for your *GAD-7 vs RCADS* comparison tasks whether you are conducting new research or revisiting older studies for fresh insights. You can select both instruments directly from Harmony's comprehensive database or upload your own copies in PDF format. The added bonus, Harmony is even equipped to handle comparisons in multiple languages. Simplify your research process with Harmony – the new standard for questionnaire harmonization.
+
+
+
 {{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
@@ -57,3 +62,11 @@ This allows researchers to view similarities and differences at a glance, signif
 * [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)
 * [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
 * [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)
+
+
+
+## References
+
+* Chorpita, B. F., Yim, L. M., Moffitt, C. E., Umemoto L. A., & Francis, S. E. (2000). Assessment of symptoms of DSM-IV anxiety and depression in children: A Revised Child Anxiety and Depression Scale. Behaviour Research and Therapy, 38, 835-855. 
+
+

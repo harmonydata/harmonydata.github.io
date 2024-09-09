@@ -47,3 +47,11 @@ Harmony takes this time-consuming process off your shoulders in a user-friendly 
 * [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)
 * [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
 * [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)
+
+* [See GHQ-12 questions](https://score.awellhealth.com/calculations/ghq_12)
+
+## References
+
+* Goldberg, D. P. (No year specified.). General Health Questionnaire-12 (GHQ-12) [Database record]. APA PsycTests.
+https://doi.org/10.1037/t00297-000
+

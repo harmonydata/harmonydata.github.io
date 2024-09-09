@@ -57,3 +57,10 @@ Let's take the SDQ vs Beck Anxiety Inventory comparison as an instance. With Har
 * [Validation and Harmonisation of Quickley-Hein plaque index (PI)](/harmonisation-validation/quickley-hein-plaque-index-pi)
 * [Validation and Harmonisation of Clinician-Administered PTSD Scale (CAPS)](/harmonisation-validation/clinician-administered-ptsd-scale-caps)
 * [Harmony: A Free AI Tool to Merge Cohort Studies](/item-harmonisation/harmony-a-free-ai-tool-to-merge-cohort-studies)
+
+* [Download Beck Anxiety Inventory in PDF form](https://res.cloudinary.com/dpmykpsih/image/upload/great-plains-health-site-358/media/1087/anxiety.pdf)
+
+
+## References
+
+* Beck, A. T., Epstein, N., Brown, G., & Steer, R. (1988). Beck Anxiety Inventory [Database record]. APA PsycTests. https://doi.org/10.1037/t02025-000

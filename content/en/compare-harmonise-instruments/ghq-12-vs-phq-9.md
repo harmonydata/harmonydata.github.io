@@ -54,3 +54,11 @@ No more will you have to sift through lengthy PDFs and manually key data into Ex
 * [CES-D vs SDQ](/ces-d-vs-sdq)
 * [Validation and Harmonisation of Visual Analog Scale (VAS)](/harmonisation-validation/visual-analog-scale-vas)
 * [Validation and Harmonisation of Insomnia Severity Index (ISI)](/harmonisation-validation/insomnia-severity-index-isi)
+
+* [See GHQ-12 questions](https://score.awellhealth.com/calculations/ghq_12)
+
+## References
+
+* Goldberg, D. P. (No year specified.). General Health Questionnaire-12 (GHQ-12) [Database record]. APA PsycTests.
+https://doi.org/10.1037/t00297-000
+

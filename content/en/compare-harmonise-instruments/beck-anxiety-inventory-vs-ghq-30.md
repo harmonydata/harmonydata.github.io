@@ -44,3 +44,10 @@ With Harmony, researchers can easily compare items within and across these quest
 * [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)
 * [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
 * [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)
+
+* [Download Beck Anxiety Inventory in PDF form](https://res.cloudinary.com/dpmykpsih/image/upload/great-plains-health-site-358/media/1087/anxiety.pdf)
+
+
+## References
+
+* Beck, A. T., Epstein, N., Brown, G., & Steer, R. (1988). Beck Anxiety Inventory [Database record]. APA PsycTests. https://doi.org/10.1037/t02025-000

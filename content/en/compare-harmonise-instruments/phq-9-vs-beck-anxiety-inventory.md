@@ -67,3 +67,10 @@ So, when considering PHQ-9 vs Beck Anxiety Inventory, Harmony is your ideal tool
 * [Validation and Harmonisation of Montgomery Asberg Depression Rating Scale (MADRS)](/harmonisation-validation/montgomery-asberg-depression-rating-scale-madrs)
 * [Validation and Harmonisation of PedsQL Multidimensional Fatigue Scale](/harmonisation-validation/pedsql-multidimensional-fatigue-scale)
 * [Validation and Harmonisation of Perceived Stress Scale (PSS)](/harmonisation-validation/perceived-stress-scale-pss)
+
+* [Download Beck Anxiety Inventory in PDF form](https://res.cloudinary.com/dpmykpsih/image/upload/great-plains-health-site-358/media/1087/anxiety.pdf)
+
+
+## References
+
+* Beck, A. T., Epstein, N., Brown, G., & Steer, R. (1988). Beck Anxiety Inventory [Database record]. APA PsycTests. https://doi.org/10.1037/t02025-000

@@ -54,3 +54,10 @@ Harmony lets you upload your instruments in a simple drag-and-drop manner. The q
 * [Validation and Harmonisation of Walking Impairment Questionaire (WIQ)](/harmonisation-validation/walking-impairment-questionaire-wiq)
 * [Harmony: A Free AI Tool for Longitudinal Study In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study-in-psychology)
 * [Harmony: A Free AI Tool for Item Harmonisation](/item-harmonisation/harmony-a-free-ai-tool-for-item-harmonisation)
+
+* [Download Beck Anxiety Inventory in PDF form](https://res.cloudinary.com/dpmykpsih/image/upload/great-plains-health-site-358/media/1087/anxiety.pdf)
+
+
+## References
+
+* Beck, A. T., Epstein, N., Brown, G., & Steer, R. (1988). Beck Anxiety Inventory [Database record]. APA PsycTests. https://doi.org/10.1037/t02025-000

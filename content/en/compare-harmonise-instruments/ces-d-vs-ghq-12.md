@@ -52,3 +52,12 @@ In CES-D, items range from feelings associated with general unhappiness and fail
 * [Validation and Harmonisation of Montgomery Asberg Depression Rating Scale](/harmonisation-validation/montgomery-asberg-depression-rating-scale)
 * [Validation and Harmonisation of Medical Outcomes Survey Sleep Quality Subscale](/harmonisation-validation/medical-outcomes-survey-sleep-quality-subscale)
 * [CES-D vs SDQ](/ces-d-vs-sdq)
+
+
+* [See GHQ-12 questions](https://score.awellhealth.com/calculations/ghq_12)
+
+## References
+
+* Goldberg, D. P. (No year specified.). General Health Questionnaire-12 (GHQ-12) [Database record]. APA PsycTests.
+https://doi.org/10.1037/t00297-000
+

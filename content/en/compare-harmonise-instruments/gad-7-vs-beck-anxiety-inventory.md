@@ -71,3 +71,10 @@ No more sifting through long PDFs of questionnaires or manually entering questio
 * [GAD-7 vs GHQ-12](/gad-7-vs-ghq-12)
 * [Validation and Harmonisation of Beck Depression Inventory-II (BDI-II)](/harmonisation-validation/beck-depression-inventory-ii-bdi-ii)
 * [PHQ-9 vs Beck Anxiety Inventory](/phq-9-vs-beck-anxiety-inventory)
+
+* [Download Beck Anxiety Inventory in PDF form](https://res.cloudinary.com/dpmykpsih/image/upload/great-plains-health-site-358/media/1087/anxiety.pdf)
+
+
+## References
+
+* Beck, A. T., Epstein, N., Brown, G., & Steer, R. (1988). Beck Anxiety Inventory [Database record]. APA PsycTests. https://doi.org/10.1037/t02025-000

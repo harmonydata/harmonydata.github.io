@@ -15,11 +15,39 @@ Organisations typically collect data from multiple sources and for many differen
 
 So, if the data is not harmonised using the proper tools and frameworks, for example, organisations are bound to miss some very critical data pieces which will indefinitely affect business performance at some point. Plus, management might miss potential opportunities as the data (at this point, before the harmonisation) is in disparate forms and quite widespread.
 
+[Harmony](/app) is a data harmonisation tool which has been developed for cases where datasets have variables with differing names, for example disparate questionnaires with questions in different formats.
+
+If you collected data using two questionnaires, such as GAD-7 and Becks Anxiety Inventory as in the below image, you would need to harmonise the datasets, by identifying correspondences between variables (the arrow in the image)
+
+{{< image src="images/GAD-7-vs-Becks.drawio-min.png" alt="dog" title="dog" >}}
+
+*Data harmonisation of GAD-7 and Becks Anxiety Inventory - this is what a data harmonisation tool such as Harmony would produce.*
+
+Here's a video of how the data harmonisation tool Harmony works:
+
+{{< youtube cEZppTBj1NI >}}
+
+{{< card heading="Try Harmony" copy="Compare CES-D and SMFQ " url="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIkNFU19EIEVuZ2xpc2giLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJJIHdhcyBib3RoZXJlZCBieSB0aGluZ3MgdGhhdCB1c3VhbGx5IGRvblx1MjAxOXQgYm90aGVyIG1lLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSSBkaWQgbm90IGZlZWwgbGlrZSBlYXRpbmc7IG15IGFwcGV0aXRlIHdhcyBwb29yLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSSBmZWx0IHRoYXQgSSBjb3VsZCBub3Qgc2hha2Ugb2ZmIHRoZSBibHVlcyBldmVuIHdpdGggaGVscCBmcm9tIG15IGZhbWlseSBvciBmcmllbmRzLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSSBmZWx0IEkgd2FzIGp1c3QgYXMgZ29vZCBhcyBvdGhlciBwZW9wbGUuIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJJIGhhZCB0cm91YmxlIGtlZXBpbmcgbXkgbWluZCBvbiB3aGF0IEkgd2FzIGRvaW5nLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSSBmZWx0IGRlcHJlc3NlZC4ifSwgeyJxdWVzdGlvbl90ZXh0IjogIkkgZmVsdCB0aGF0IGV2ZXJ5dGhpbmcgSSBkaWQgd2FzIGFuIGVmZm9ydC4ifSwgeyJxdWVzdGlvbl90ZXh0IjogIkkgZmVsdCBob3BlZnVsIGFib3V0IHRoZSBmdXR1cmUuIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJJIHRob3VnaHQgbXkgbGlmZSBoYWQgYmVlbiBhIGZhaWx1cmUuIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJJIGZlbHQgZmVhcmZ1bC4ifSwgeyJxdWVzdGlvbl90ZXh0IjogIk15IHNsZWVwIHdhcyByZXN0bGVzcy4ifSwgeyJxdWVzdGlvbl90ZXh0IjogIkkgd2FzIGhhcHB5LiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSSB0YWxrZWQgbGVzcyB0aGFuIHVzdWFsLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSSBmZWx0IGxvbmVseS4ifSwgeyJxdWVzdGlvbl90ZXh0IjogIlBlb3BsZSB3ZXJlIHVuZnJpZW5kbHkuIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJJIGVuam95ZWQgbGlmZS4ifSwgeyJxdWVzdGlvbl90ZXh0IjogIkkgaGFkIGNyeWluZyBzcGVsbHMuIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJJIGZlbHQgc2FkLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSSBmZWx0IHRoYXQgcGVvcGxlIGRpc2xpa2UgbWUuIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJJIGNvdWxkIG5vdCBnZXQgXHUyMDFjZ29pbmcuXHUyMDFkIn1dfSwgeyJpbnN0cnVtZW50X25hbWUiOiAiU2hvcnQgTW9vZCAmIEZlZWxpbmdzIFF1ZXN0aW9ubmFpcmUgKDEzLWl0ZW0pIChTTUZRKSIsICJxdWVzdGlvbnMiOiBbeyJxdWVzdGlvbl90ZXh0IjogIlMvaGUgZmVsdCBtaXNlcmFibGUgb3IgdW5oYXBweSJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiUy9oZSBkaWRuXHUyMDE5dCBlbmpveSBhbnl0aGluZyBhdCBhbGwifSwgeyJxdWVzdGlvbl90ZXh0IjogIlMvaGUgZmVsdCBzbyB0aXJlZCB0aGF0IHMvaGUganVzdCBzYXQgYXJvdW5kIGFuZCBkaWQgbm90aGluZyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiUy9oZSB3YXMgdmVyeSByZXN0bGVzcyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiUy9oZSBmZWx0IHMvaGUgd2FzIG5vIGdvb2QgYW55IG1vcmUifSwgeyJxdWVzdGlvbl90ZXh0IjogIlMvaGUgY3JpZWQgYSBsb3QifSwgeyJxdWVzdGlvbl90ZXh0IjogIlMvaGUgZm91bmQgaXQgaGFyZCB0byB0aGluayBwcm9wZXJseSBvciBjb25jZW50cmF0ZSJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiUy9oZSBoYXRlZCBoZXJzZWxmL2hpbXNlbGYifSwgeyJxdWVzdGlvbl90ZXh0IjogIlMvaGUgZmVsdCBzL2hlIHdhcyBhIGJhZCBwZXJzb24ifSwgeyJxdWVzdGlvbl90ZXh0IjogIlMvaGUgZmVsdCBsb25lbHkifSwgeyJxdWVzdGlvbl90ZXh0IjogIlMvaGUgdGhvdWdodCBub2JvZHkgcmVhbGx5IGxvdmVkIGhlciJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiUy9oZSB0aG91Z2h0IHMvaGUgY291bGQgbmV2ZXIgYmUgYXMgZ29vZCBhcyBvdGhlciBraWRzIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJTL2hlIGZlbHQgcy9oZSBkaWQgZXZlcnl0aGluZyB3cm9uZyJ9XX1d" >}}
+
+
+
 With the data harmonisation frameworks and especially the right data harmonisation tools in your arsenal, more informed organisational decision-making can be supported as well as data processing that’s far more efficient. This means that business decisions will ultimately be more accurate and reliable, whilst the quality of the business data on which those decisions are made is also enhanced. Since the now processed and harmonised data is up to date, your organisation is already in an agile state and ready to respond to market changes.
 
 As mentioned at the beginning, organisations must take data from a variety of sources although these sources may not be the same every single time. They must then process it which in itself can be a cumbersome, time-consuming and often complex process where the chances of inaccuracies can be high.
 
 However, with a robust data harmonisation process supported by the appropriate tools and frameworks, an organisation’s data can be quickly centralised and up to date. Naturally, less time will be required to index, verify, and track it, thus, enabling swift decision-making according to shifting consumer demand, for example, or evolving market conditions.
+
+
+
+
+## Some examples of data harmonisation with Harmony
+
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIkNFU19EIEVuZ2xpc2giLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJJIHdhcyBib3RoZXJlZCBieSB0aGluZ3MgdGhhdCB1c3VhbGx5IGRvblx1MjAxOXQgYm90aGVyIG1lLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSSBkaWQgbm90IGZlZWwgbGlrZSBlYXRpbmc7IG15IGFwcGV0aXRlIHdhcyBwb29yLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSSBmZWx0IHRoYXQgSSBjb3VsZCBub3Qgc2hha2Ugb2ZmIHRoZSBibHVlcyBldmVuIHdpdGggaGVscCBmcm9tIG15IGZhbWlseSBvciBmcmllbmRzLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSSBmZWx0IEkgd2FzIGp1c3QgYXMgZ29vZCBhcyBvdGhlciBwZW9wbGUuIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJJIGhhZCB0cm91YmxlIGtlZXBpbmcgbXkgbWluZCBvbiB3aGF0IEkgd2FzIGRvaW5nLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSSBmZWx0IGRlcHJlc3NlZC4ifSwgeyJxdWVzdGlvbl90ZXh0IjogIkkgZmVsdCB0aGF0IGV2ZXJ5dGhpbmcgSSBkaWQgd2FzIGFuIGVmZm9ydC4ifSwgeyJxdWVzdGlvbl90ZXh0IjogIkkgZmVsdCBob3BlZnVsIGFib3V0IHRoZSBmdXR1cmUuIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJJIHRob3VnaHQgbXkgbGlmZSBoYWQgYmVlbiBhIGZhaWx1cmUuIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJJIGZlbHQgZmVhcmZ1bC4ifSwgeyJxdWVzdGlvbl90ZXh0IjogIk15IHNsZWVwIHdhcyByZXN0bGVzcy4ifSwgeyJxdWVzdGlvbl90ZXh0IjogIkkgd2FzIGhhcHB5LiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSSB0YWxrZWQgbGVzcyB0aGFuIHVzdWFsLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSSBmZWx0IGxvbmVseS4ifSwgeyJxdWVzdGlvbl90ZXh0IjogIlBlb3BsZSB3ZXJlIHVuZnJpZW5kbHkuIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJJIGVuam95ZWQgbGlmZS4ifSwgeyJxdWVzdGlvbl90ZXh0IjogIkkgaGFkIGNyeWluZyBzcGVsbHMuIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJJIGZlbHQgc2FkLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSSBmZWx0IHRoYXQgcGVvcGxlIGRpc2xpa2UgbWUuIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJJIGNvdWxkIG5vdCBnZXQgXHUyMDFjZ29pbmcuXHUyMDFkIn1dfSwgeyJpbnN0cnVtZW50X25hbWUiOiAiU2hvcnQgTW9vZCAmIEZlZWxpbmdzIFF1ZXN0aW9ubmFpcmUgKDEzLWl0ZW0pIChTTUZRKSIsICJxdWVzdGlvbnMiOiBbeyJxdWVzdGlvbl90ZXh0IjogIlMvaGUgZmVsdCBtaXNlcmFibGUgb3IgdW5oYXBweSJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiUy9oZSBkaWRuXHUyMDE5dCBlbmpveSBhbnl0aGluZyBhdCBhbGwifSwgeyJxdWVzdGlvbl90ZXh0IjogIlMvaGUgZmVsdCBzbyB0aXJlZCB0aGF0IHMvaGUganVzdCBzYXQgYXJvdW5kIGFuZCBkaWQgbm90aGluZyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiUy9oZSB3YXMgdmVyeSByZXN0bGVzcyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiUy9oZSBmZWx0IHMvaGUgd2FzIG5vIGdvb2QgYW55IG1vcmUifSwgeyJxdWVzdGlvbl90ZXh0IjogIlMvaGUgY3JpZWQgYSBsb3QifSwgeyJxdWVzdGlvbl90ZXh0IjogIlMvaGUgZm91bmQgaXQgaGFyZCB0byB0aGluayBwcm9wZXJseSBvciBjb25jZW50cmF0ZSJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiUy9oZSBoYXRlZCBoZXJzZWxmL2hpbXNlbGYifSwgeyJxdWVzdGlvbl90ZXh0IjogIlMvaGUgZmVsdCBzL2hlIHdhcyBhIGJhZCBwZXJzb24ifSwgeyJxdWVzdGlvbl90ZXh0IjogIlMvaGUgZmVsdCBsb25lbHkifSwgeyJxdWVzdGlvbl90ZXh0IjogIlMvaGUgdGhvdWdodCBub2JvZHkgcmVhbGx5IGxvdmVkIGhlciJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiUy9oZSB0aG91Z2h0IHMvaGUgY291bGQgbmV2ZXIgYmUgYXMgZ29vZCBhcyBvdGhlciBraWRzIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJTL2hlIGZlbHQgcy9oZSBkaWQgZXZlcnl0aGluZyB3cm9uZyJ9XX1d" target="harmonyapp">Import CES-D and SMFQ into Harmony and harmonise them</a> - find similarities between the two instruments using our AI platform
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlN0cmVuZ3RocyBhbmQgRGlmZmljdWx0aWVzIFF1ZXN0aW9ubmFpcmUgKDUtaXRlbSkgKFNEUSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNeSBjaGlsZC4uLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiWW91ciBjaGlsZCBvZnRlbiBjb21wbGFpbnMgb2YgaGVhZGFjaGVzLCBzdG9tYWNoLWFjaGVzLi4uIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IHdvcnJpZXMsIGFuZCBvZnRlbiBzZWVtcyB3b3JyaWVkIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG9mdGVuIHVuaGFwcHksIGRvd25oZWFydGVkLCBvciB0ZWFyZnVsIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG5lcnZvdXMgb3IgY2xpbmd5IGluIG5ldyBzaXR1YXRpb25zIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IGZlYXJzLCBhbmQgaXMgZWFzaWx5IHNjYXJlZCJ9XX0sIHsiaW5zdHJ1bWVudF9uYW1lIjogIlVudGl0bGVkIGluc3RydW1lbnQiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJOdW1ibmVzcyBvciB0aW5nbGluZyAifSwgeyJxdWVzdGlvbl90ZXh0IjogIkZlZWxpbmcgaG90ICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiV29iYmxpbmVzcyBpbiBsZWdzICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiVW5hYmxlIHRvIHJlbGF4ICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiRmVhciBvZiB3b3JzdCBoYXBwZW5pbmcgIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJEaXp6eSBvciBsaWdodGhlYWRlZCAifSwgeyJxdWVzdGlvbl90ZXh0IjogIkhlYXJ0IHBvdW5kaW5nIC8gcmFjaW5nICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiVW5zdGVhZHkgIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJUZXJyaWZpZWQgb3IgYWZyYWlkICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiTmVydm91cyAifSwgeyJxdWVzdGlvbl90ZXh0IjogIkZlZWxpbmcgb2YgY2hva2luZyAifSwgeyJxdWVzdGlvbl90ZXh0IjogIkhhbmRzIHRyZW1ibGluZyAifSwgeyJxdWVzdGlvbl90ZXh0IjogIlNoYWt5IC8gdW5zdGVhZHkgIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJGZWFyIG9mIGxvc2luZyBjb250cm9sICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiRGlmZmljdWx0eSBpbiBicmVhdGhpbmcgIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJGZWFyIG9mIGR5aW5nICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiU2NhcmVkICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSW5kaWdlc3Rpb24gIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJGYWludCAvIGxpZ2h0aGVhZGVkICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiRmFjZSBmbHVzaGVkICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSG90IC8gY29sZCBzd2VhdHMifV19XQ==" target="harmonyapp">Import SDQ and Beck Anxiety Inventory into Harmony and harmonise them</a> - find similarities between the two instruments using our AI platform
+* [See CES-D in PDF](https://nida.nih.gov/sites/default/files/Mental_HealthV.pdf)
+* [Download Beck Anxiety Inventory in PDF form](https://res.cloudinary.com/dpmykpsih/image/upload/great-plains-health-site-358/media/1087/anxiety.pdf)
+
+
 
 ## Data Harmonisation Tools and Frameworks – Before beginning
 
@@ -192,3 +220,155 @@ As we have learned, there are many options available when it comes to choosing s
 There’s no “good” or “bad” when it comes to using the best ones for harmonising data in 2024. We’re going to quickly reiterate that the choice, ultimately, comes down to your specific business goals and the outcomes you wish to achieve via data harmonisation.
 
 In any case, you’re halfway there by choosing the right tools and frameworks!
+
+## Data harmonisation examples with data harmonisation tool Harmony
+
+* [Adult ADHD Self-Report Scale vs MacLean Screening Instrument for BPD](/compare-harmonise-instruments/adult-adhd-self-report-scale-vs-maclean-screening-instrument-for-bpd)
+* [Beck Anxiety Inventory vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/beck-anxiety-inventory-vs-de-jong-gierveld-loneliness-scale)
+* [Beck Anxiety Inventory vs GHQ-12](/compare-harmonise-instruments/beck-anxiety-inventory-vs-ghq-12)
+* [Beck Anxiety Inventory vs GHQ-28](/compare-harmonise-instruments/beck-anxiety-inventory-vs-ghq-28)
+* [Beck Anxiety Inventory vs GHQ-30](/compare-harmonise-instruments/beck-anxiety-inventory-vs-ghq-30)
+* [Beck Anxiety Inventory vs MFQ](/compare-harmonise-instruments/beck-anxiety-inventory-vs-mfq)
+* [Beck Anxiety Inventory vs PSF](/compare-harmonise-instruments/beck-anxiety-inventory-vs-psf)
+* [Beck Anxiety Inventory vs RCADS](/compare-harmonise-instruments/beck-anxiety-inventory-vs-rcads)
+* [Beck Anxiety Inventory vs SCARED (adult)](/compare-harmonise-instruments/beck-anxiety-inventory-vs-scared)
+* [Beck Anxiety Inventory vs SMFQ](/compare-harmonise-instruments/beck-anxiety-inventory-vs-smfq)
+* [CES-D vs Beck Anxiety Inventory](/compare-harmonise-instruments/ces-d-vs-beck-anxiety-inventory)
+* [CES-D vs CBCL](/compare-harmonise-instruments/ces-d-vs-cbcl)
+* [CES_D vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/ces-d-vs-de-jong-gierveld-loneliness-scale)
+* [CES-D vs GAD-7](/compare-harmonise-instruments/ces-d-vs-gad-7)
+* [CES-D vs GHQ 12](/compare-harmonise-instruments/ces-d-vs-ghq-12)
+* [CES-D vs GHQ-30](/compare-harmonise-instruments/ces-d-vs-ghq-30)
+* [CES-D vs MFQ](/compare-harmonise-instruments/ces-d-vs-mfq)
+* [CES-D vs PHQ](/compare-harmonise-instruments/ces-d-vs-phq)
+* [CES-D vs PHQ-9](/compare-harmonise-instruments/ces-d-vs-phq-9)
+* [CES-D vs PSS-10](/compare-harmonise-instruments/ces-d-vs-pss-10)
+* [CES-D vs RCADS](/compare-harmonise-instruments/ces-d-vs-rcads)
+* [CES-D vs SCARED (adult)](/compare-harmonise-instruments/ces-d-vs-scared)
+* [CES-D vs SDQ](/compare-harmonise-instruments/ces-d-vs-sdq)
+* [CES-D vs SMFQ](/compare-harmonise-instruments/ces-d-vs-smfq)
+* [De Jong Gierveld Loneliness Scale vs SCARED](/compare-harmonise-instruments/de-jong-gierveld-loneliness-scale-vs-scared)
+* [GAD-7 vs Beck Anxiety Inventory](/compare-harmonise-instruments/gad-7-vs-beck-anxiety-inventory)
+* [GAD-7 vs CBCL](/compare-harmonise-instruments/gad-7-vs-cbcl)
+* [GAD-7 vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/gad-7-vs-de-jong-gierveld-loneliness-scale)
+* [GAD-7 vs GHQ 12](/compare-harmonise-instruments/gad-7-vs-ghq-12)
+* [GAD-7 vs GHQ-30](/compare-harmonise-instruments/gad-7-vs-ghq-30)
+* [GAD-7 vs MFQ](/compare-harmonise-instruments/gad-7-vs-mfq)
+* [GAD-7 vs PHQ-9](/compare-harmonise-instruments/gad-7-vs-phq-9)
+* [GAD-7 vs PSS-10](/compare-harmonise-instruments/gad-7-vs-pss-10)
+* [GAD-7 vs RCADS](/compare-harmonise-instruments/gad-7-vs-rcads)
+* [GAD-7 vs SCARED (adult)](/compare-harmonise-instruments/gad-7-vs-scared)
+* [GAD-7 vs SDQ](/compare-harmonise-instruments/gad-7-vs-sdq)
+* [GAD-7 vs SMFQ](/compare-harmonise-instruments/gad-7-vs-smfq)
+* [GHQ 12 vs Beck Anxiety Inventory](/compare-harmonise-instruments/ghq-12-vs-beck-anxiety-inventory)
+* [GHQ-12 vs CBCL](/compare-harmonise-instruments/ghq-12-vs-cbcl)
+* [GHQ 12 vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/ghq-12-vs-de-jong-gierveld-loneliness-scale)
+* [GHQ-12 vs GHQ-30](/compare-harmonise-instruments/ghq-12-vs-ghq-30)
+* [GHQ 12 vs MFQ](/compare-harmonise-instruments/ghq-12-vs-mfq)
+* [GHQ 12 vs PHQ-9](/compare-harmonise-instruments/ghq-12-vs-phq-9)
+* [GHQ-12 vs PSS-10](/compare-harmonise-instruments/ghq-12-vs-pss-10)
+* [GHQ-12 vs RCADS](/compare-harmonise-instruments/ghq-12-vs-rcads)
+* [GHQ 12 vs SCARED (adult)](/compare-harmonise-instruments/ghq-12-vs-scared)
+* [GHQ 12 vs SDQ](/compare-harmonise-instruments/ghq-12-vs-sdq)
+* [GHQ 12 vs SMFQ](/compare-harmonise-instruments/ghq-12-vs-smfq)
+* [PHQ-9 vs Beck Anxiety Inventory](/compare-harmonise-instruments/phq-9-vs-beck-anxiety-inventory)
+* [PHQ-9 vs CBCL](/compare-harmonise-instruments/phq-9-vs-cbcl)
+* [PHQ-9 vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/phq-9-vs-de-jong-gierveld-loneliness-scale)
+* [PHQ-9 vs MFQ](/compare-harmonise-instruments/phq-9-vs-mfq)
+* [PHQ-9 vs PSS-10](/compare-harmonise-instruments/phq-9-vs-pss-10)
+* [PHQ-9 vs RCADS](/compare-harmonise-instruments/phq-9-vs-rcads)
+* [PHQ-9 vs SCARED (adult)](/compare-harmonise-instruments/phq-9-vs-scared)
+* [PHQ-9 vs SMFQ](/compare-harmonise-instruments/phq-9-vs-smfq)
+* [SDQ vs Beck Anxiety Inventory](/compare-harmonise-instruments/sdq-vs-beck-anxiety-inventory)
+* [SDQ vs CBCL](/compare-harmonise-instruments/sdq-vs-cbcl)
+* [SDQ vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/sdq-vs-de-jong-gierveld-loneliness-scale)
+* [SDQ vs MFQ](/compare-harmonise-instruments/sdq-vs-mfq)
+* [SDQ vs PHQ-9](/compare-harmonise-instruments/sdq-vs-phq-9)
+* [SDQ vs PSS-10](/compare-harmonise-instruments/sdq-vs-pss-10)
+* [SDQ vs RCADS](/compare-harmonise-instruments/sdq-vs-rcads)
+* [SDQ vs SCARED (adult)](/compare-harmonise-instruments/sdq-vs-scared)
+* [SDQ vs SMFQ](/compare-harmonise-instruments/sdq-vs-smfq)
+
+## [Autism](/compare-harmonise-instruments/autism) 
+
+The most commonly used instruments for assessing autism spectrum disorder (ASD) include:
+
+**ADOS (Autism Diagnostic Observation Schedule):** This is a semi-structured observation tool that assesses communication, social interaction, and play behaviors in individuals with suspected ASD. It is considered the gold standard for diagnosing ASD in young children.
+
+**ADI-R (Autism Diagnostic Interview-Revised):** This is a structured interview conducted with parents or caregivers to gather information about the individual's developmental history, social communication, and repetitive behaviors. It is often used in conjunction with the ADOS for diagnosis.
+
+**AQ (Autism Quotient):** This is a self-report questionnaire that assesses autistic traits in adults. It is not a diagnostic tool but can be used as a screening measure.
+
+**CHAT (Checklist for Autism in Toddlers):** This is a screening tool for early identification of ASD in children aged 18-30 months.
+
+**BAPQ (Behavior Assessment for Preschoolers):** This is a standardized assessment tool for preschool-aged children that measures social skills, communication, and adaptive behaviors.
+
+The choice of instrument depends on the age of the individual, the purpose of the assessment, and the specific needs of the clinician. Here are some comparisons which you can do with Harmony:
+
+* [ADOS vs BAPQ](/compare-harmonise-instruments/autism/ados-vs-bapq)
+* [AOSI vs ADOS](/compare-harmonise-instruments/autism/aosi-vs-ados)
+* [AOSI vs AQ-10](/compare-harmonise-instruments/autism/aosi-vs-aq-10)
+* [AOSI vs AQ-20](/compare-harmonise-instruments/autism/aosi-vs-aq-20)
+* [AOSI vs BAPQ](/compare-harmonise-instruments/autism/aosi-vs-bapq)
+* [AOSI vs CHAT](/compare-harmonise-instruments/autism/aosi-vs-chat)
+* [AQ-10 vs ADOS](/compare-harmonise-instruments/autism/aq-10-vs-ados)
+* [AQ-10 vs AQ-20](/compare-harmonise-instruments/autism/aq-10-vs-aq-20)
+* [AQ-10 vs BAPQ](/compare-harmonise-instruments/autism/aq-10-vs-bapq)
+* [AQ-20 vs ADOS](/compare-harmonise-instruments/autism/aq-20-vs-ados)
+* [AQ-20 vs BAPQ](/compare-harmonise-instruments/autism/aq-20-vs-bapq)
+* [CHAT vs ADOS](/compare-harmonise-instruments/autism/chat-vs-ados)
+* [CHAT vs AQ-10](/compare-harmonise-instruments/autism/chat-vs-aq-10)
+* [CHAT vs AQ-20](/compare-harmonise-instruments/autism/chat-vs-aq-20)
+* [CHAT vs BAPQ](/compare-harmonise-instruments/autism/chat-vs-bapq)
+
+## [Alcoholism](/compare-harmonise-instruments/alcoholism) 
+
+The most commonly used instruments for assessing alcohol consumption and abuse include:
+
+**AUDIT-10 (Alcohol Use Disorders Identification Test):** A 10-item questionnaire that assesses alcohol consumption, dependence, and risk behaviors.
+
+**MAST (Michigan Alcoholism Screening Test):** A 24-item questionnaire that assesses alcohol dependence and abuse.
+
+**ESPAD (European School Survey Project on Alcohol and Drugs):** A survey that collects data on alcohol and drug use among adolescents.
+
+**ASSIST (Alcohol, Smoking and Substance Involvement Screening Test):** A 12-item questionnaire that assesses alcohol, tobacco, and other substance use.
+
+The choice of instrument depends on the purpose of the assessment, the age and demographic characteristics of the individual, and the specific needs of the researcher or clinician.
+
+
+* [AUDIT-10 vs ASSIST](/compare-harmonise-instruments/alcoholism/audit-10-vs-assist)
+* [AUDIT-10 vs DTC](/compare-harmonise-instruments/alcoholism/audit-10-vs-dtc)
+* [AUDIT-10 vs DUDIT](/compare-harmonise-instruments/alcoholism/audit-10-vs-dudit)
+* [AUDIT-10 vs ESPAD](/compare-harmonise-instruments/alcoholism/audit-10-vs-espad)
+* [AUDIT-10 vs HAS](/compare-harmonise-instruments/alcoholism/audit-10-vs-has)
+* [AUDIT-10 vs MAST](/compare-harmonise-instruments/alcoholism/audit-10-vs-mast)
+* [AUDIT-10 vs RAPI](/compare-harmonise-instruments/alcoholism/audit-10-vs-rapi)
+* [AUDIT-10 vs TFLB](/compare-harmonise-instruments/alcoholism/audit-10-vs-tflb)
+* [AUDIT vs ASSIST](/compare-harmonise-instruments/alcoholism/audit-vs-assist)
+* [AUDIT vs DASI](/compare-harmonise-instruments/alcoholism/audit-vs-dasi)
+* [DASI vs ASSIST](/compare-harmonise-instruments/alcoholism/dasi-vs-assist)
+* [DTC vs AUDIT](/compare-harmonise-instruments/alcoholism/dtc-vs-audit)
+* [DTC vs ESPAD](/compare-harmonise-instruments/alcoholism/dtc-vs-espad)
+* [DTC vs MAST](/compare-harmonise-instruments/alcoholism/dtc-vs-mast)
+* [DTC vs RAPI](/compare-harmonise-instruments/alcoholism/dtc-vs-rapi)
+* [DUDIT vs ASSIST](/compare-harmonise-instruments/alcoholism/dudit-vs-assist)
+* [DUDIT vs AUDIT](/compare-harmonise-instruments/alcoholism/dudit-vs-audit)
+* [DUDIT vs DTC](/compare-harmonise-instruments/alcoholism/dudit-vs-dtc)
+* [DUDIT vs ESPAD](/compare-harmonise-instruments/alcoholism/dudit-vs-espad)
+* [DUDIT vs MAST](/compare-harmonise-instruments/alcoholism/dudit-vs-mast)
+* [DUDIT vs RAPI](/compare-harmonise-instruments/alcoholism/dudit-vs-rapi)
+* [ESPAD vs ASSIST](/compare-harmonise-instruments/alcoholism/espad-vs-assist)
+* [ESPAD vs DASI](/compare-harmonise-instruments/alcoholism/espad-vs-dasi)
+* [ESPAD vs MAST](/compare-harmonise-instruments/alcoholism/espad-vs-mast)
+* [ESPAD vs RAPI](/compare-harmonise-instruments/alcoholism/espad-vs-rapi)
+* [MAST vs ASSIST](/compare-harmonise-instruments/alcoholism/mast-vs-assist)
+* [MAST vs DASI](/compare-harmonise-instruments/alcoholism/mast-vs-dasi)
+* [MAST vs HAS](/compare-harmonise-instruments/alcoholism/mast-vs-has)
+* [MAST vs RAPI](/compare-harmonise-instruments/alcoholism/mast-vs-rapi)
+* [RAPI vs ASSIST](/compare-harmonise-instruments/alcoholism/rapi-vs-assist)
+* [RAPI vs DASI](/compare-harmonise-instruments/alcoholism/rapi-vs-dasi)
+
+## Topic summaries
+
+* [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
+* [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)

@@ -48,15 +48,15 @@ Why ponder while Harmony can uncover? Start your research expedition now!
 
 ## What data sources does Harmony Discovery connect to?
 
-* [UKLLC](https://explore.ukllc.ac.uk)
-
 * [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
-* [CLOSER](https://closer.ac.uk/)
+* [HDR UK](https://www.healthdatagateway.org/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
 
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
-* [HDR UK](https://www.healthdatagateway.org/)
+* [CLOSER](https://closer.ac.uk/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -67,8 +67,10 @@ Why ponder while Harmony can uncover? Start your research expedition now!
 
 ## See also
 
-* [Avoidant Personality Disorder datasets and studies](/discover-data/avoidant-personality-disorder-datasets-and-studies)
+* [Asperger'S Syndrome datasets and studies](/discover-data/asperger's-syndrome-datasets-and-studies)
 
-* [Gender Dysphoria datasets and studies](/discover-data/gender-dysphoria-datasets-and-studies)
+* [Personality Disorders datasets and studies](/discover-data/personality-disorders-datasets-and-studies)
 
-* [Emotional Problems datasets and studies](/discover-data/emotional-problems-datasets-and-studies)
+* [Narcissistic Personality Disorder datasets and studies](/discover-data/narcissistic-personality-disorder-datasets-and-studies)
+
+* [Discover data on Harmony](/discover-data/)

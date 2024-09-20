@@ -36,15 +36,15 @@ These datasets open up a world of research possibilities, providing valuable ins
 
 ## What data sources does Harmony Discovery connect to?
 
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
 * [HDR UK](https://www.healthdatagateway.org/)
 
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+* [UKLLC](https://explore.ukllc.ac.uk)
 
 * [CLOSER](https://closer.ac.uk/)
 
-* [UKLLC](https://explore.ukllc.ac.uk)
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -55,10 +55,10 @@ Through Harmony Discovery, unlocking these valuable troves of data becomes more 
 
 ## See also
 
-* [Avoidant Personality Disorder datasets and studies](/discover-data/avoidant-personality-disorder-datasets-and-studies)
+* [Behavioural Problems datasets and studies](/discover-data/behavioural-problems-datasets-and-studies)
 
-* [Social Anxiety Disorder datasets and studies](/discover-data/social-anxiety-disorder-datasets-and-studies)
+* [Narcissistic Personality Disorder datasets and studies](/discover-data/narcissistic-personality-disorder-datasets-and-studies)
 
-* [Anxiety datasets and studies](/discover-data/anxiety-datasets-and-studies)
+* [Personality and Temperament datasets and studies](/discover-data/personality-and-temperament-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

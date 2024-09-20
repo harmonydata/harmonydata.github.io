@@ -36,13 +36,13 @@ Harmony is seamlessly connected to several major data sources, which include:
 
 ## What data sources does Harmony Discovery connect to?
 
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [CLOSER](https://closer.ac.uk/)
-
 * [HDR UK](https://www.healthdatagateway.org/)
 
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
 * [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [CLOSER](https://closer.ac.uk/)
 
 * [UKLLC](https://explore.ukllc.ac.uk)
 
@@ -55,10 +55,10 @@ In conclusion, for researchers looking to access and study datasets about Conduc
 
 ## See also
 
-* [Gambling datasets and studies](/discover-data/gambling-datasets-and-studies)
+* [Paranoid Personality Disorder datasets and studies](/discover-data/paranoid-personality-disorder-datasets-and-studies)
 
-* [Anxiety Sensitivity datasets and studies](/discover-data/anxiety-sensitivity-datasets-and-studies)
+* [Obsessive Compulsive Disorder (OCD) datasets and studies](/discover-data/obsessive-compulsive-disorder-(ocd)-datasets-and-studies)
 
-* [Antisocial Personality Disorder (ASPD) datasets and studies](/discover-data/antisocial-personality-disorder-(aspd)-datasets-and-studies)
+* [Borderline Personality Disorder (BPD) datasets and studies](/discover-data/borderline-personality-disorder-(bpd)-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

@@ -36,15 +36,15 @@ With Harmony Discovery, the entire process of finding data on BPD is seamless an
 
 ## What data sources does Harmony Discovery connect to?
 
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 * [CLOSER](https://closer.ac.uk/)
 
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -55,10 +55,10 @@ In conclusion, Harmony Discovery is a significant tool for social science resear
 
 ## See also
 
-* [Conduct Disorder datasets and studies](/discover-data/conduct-disorder-datasets-and-studies)
+* [Mental Illness datasets and studies](/discover-data/mental-illness-datasets-and-studies)
 
-* [Antisocial Personality Disorder (ASPD) datasets and studies](/discover-data/antisocial-personality-disorder-(aspd)-datasets-and-studies)
+* [Schizoid Personality Disorder datasets and studies](/discover-data/schizoid-personality-disorder-datasets-and-studies)
 
-* [Self Harm and Suicide datasets and studies](/discover-data/self-harm-and-suicide-datasets-and-studies)
+* [Psychological Wellbeing datasets and studies](/discover-data/psychological-wellbeing-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

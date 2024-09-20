@@ -26,15 +26,15 @@ Harmony sources these datasets from an array of databases such as the [UKLLC](ht
 
 ## What data sources does Harmony Discovery connect to?
 
-* [HDR UK](https://www.healthdatagateway.org/)
+* [CLOSER](https://closer.ac.uk/)
 
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
-* [CLOSER](https://closer.ac.uk/)
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [HDR UK](https://www.healthdatagateway.org/)
 
 * [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -45,8 +45,10 @@ This power of linking researchers with vast and varied datasets makes Harmony Di
 
 ## See also
 
-* [Self Harm and Suicide datasets and studies](/discover-data/self-harm-and-suicide-datasets-and-studies)
+* [Anxiety Sensitivity datasets and studies](/discover-data/anxiety-sensitivity-datasets-and-studies)
 
-* [Psychopathy datasets and studies](/discover-data/psychopathy-datasets-and-studies)
+* [Gambling Behaviour datasets and studies](/discover-data/gambling-behaviour-datasets-and-studies)
 
-* [Antisocial Behaviour datasets and studies](/discover-data/antisocial-behaviour-datasets-and-studies)
+* [Attachment Disorders datasets and studies](/discover-data/attachment-disorders-datasets-and-studies)
+
+* [Discover data on Harmony](/discover-data/)

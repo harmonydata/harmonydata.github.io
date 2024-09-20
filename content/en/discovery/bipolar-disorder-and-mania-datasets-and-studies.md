@@ -28,15 +28,15 @@ One fascinating advantage is that Harmony allows you to explore longitudinal stu
 
 ## What data sources does Harmony Discovery connect to?
 
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
 * [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 * [CLOSER](https://closer.ac.uk/)
 
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+* [HDR UK](https://www.healthdatagateway.org/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -47,10 +47,10 @@ The field of mental health research is expansive, and so are the challenges asso
 
 ## See also
 
-* [Gambling Disorder datasets and studies](/discover-data/gambling-disorder-datasets-and-studies)
+* [Impairment datasets and studies](/discover-data/impairment-datasets-and-studies)
 
-* [Depression datasets and studies](/discover-data/depression-datasets-and-studies)
+* [Personality and Temperament datasets and studies](/discover-data/personality-and-temperament-datasets-and-studies)
 
-* [Social Anxiety Disorder datasets and studies](/discover-data/social-anxiety-disorder-datasets-and-studies)
+* [Schizotypal Personality Disorder datasets and studies](/discover-data/schizotypal-personality-disorder-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

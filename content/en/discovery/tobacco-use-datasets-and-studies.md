@@ -28,13 +28,13 @@ Harmony Discovery is effectively empowering quality research on tobacco use. By 
 
 ## What data sources does Harmony Discovery connect to?
 
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
 * [CLOSER](https://closer.ac.uk/)
 
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+* [HDR UK](https://www.healthdatagateway.org/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
 
 * [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
@@ -47,10 +47,10 @@ If you are a social science researcher looking to make an impact through insight
 
 ## See also
 
-* [Personality and Temperament datasets and studies](/discover-data/personality-and-temperament-datasets-and-studies)
+* [Narcissistic Personality Disorder datasets and studies](/discover-data/narcissistic-personality-disorder-datasets-and-studies)
 
-* [Psychological Wellbeing datasets and studies](/discover-data/psychological-wellbeing-datasets-and-studies)
+* [Schizophrenia and Psychosis datasets and studies](/discover-data/schizophrenia-and-psychosis-datasets-and-studies)
 
-* [Autism datasets and studies](/discover-data/autism-datasets-and-studies)
+* [Social Anxiety Disorder datasets and studies](/discover-data/social-anxiety-disorder-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

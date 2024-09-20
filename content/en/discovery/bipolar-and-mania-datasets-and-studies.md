@@ -34,15 +34,15 @@ Harmony Discovery significantly simplifies this process. By providing a centrali
 
 ## What data sources does Harmony Discovery connect to?
 
-* [CLOSER](https://closer.ac.uk/)
-
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
-* [HDR UK](https://www.healthdatagateway.org/)
+* [UKLLC](https://explore.ukllc.ac.uk)
 
 * [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
-* [UKLLC](https://explore.ukllc.ac.uk)
+* [HDR UK](https://www.healthdatagateway.org/)
+
+* [CLOSER](https://closer.ac.uk/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -53,10 +53,10 @@ With the essential assistance Harmony Discovery provides, uncovering the intrica
 
 ## See also
 
-* [Psychological Wellbeing datasets and studies](/discover-data/psychological-wellbeing-datasets-and-studies)
+* [Somatic Symptom Disorder datasets and studies](/discover-data/somatic-symptom-disorder-datasets-and-studies)
 
-* [Bipolar Disorder and Mania datasets and studies](/discover-data/bipolar-disorder-and-mania-datasets-and-studies)
+* [Alcohol Use datasets and studies](/discover-data/alcohol-use-datasets-and-studies)
 
-* [Psychosis and Schizophrenia datasets and studies](/discover-data/psychosis-and-schizophrenia-datasets-and-studies)
+* [Social Skills datasets and studies](/discover-data/social-skills-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

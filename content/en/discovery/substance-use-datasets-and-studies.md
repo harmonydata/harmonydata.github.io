@@ -24,15 +24,15 @@ Additionally, researchers can examine categorised medication use, a crucial comp
 
 ## What data sources does Harmony Discovery connect to?
 
-* [UKLLC](https://explore.ukllc.ac.uk)
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 * [CLOSER](https://closer.ac.uk/)
 
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
 * [HDR UK](https://www.healthdatagateway.org/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -43,10 +43,10 @@ To summarise, Harmony Discovery is not just a tool; it's an enabler of world-cha
 
 ## See also
 
-* [Psychological Wellbeing datasets and studies](/discover-data/psychological-wellbeing-datasets-and-studies)
+* [Gender Dysphoria datasets and studies](/discover-data/gender-dysphoria-datasets-and-studies)
 
-* [Schizotypal Personality Disorder datasets and studies](/discover-data/schizotypal-personality-disorder-datasets-and-studies)
+* [Smoking datasets and studies](/discover-data/smoking-datasets-and-studies)
 
-* [Impairment datasets and studies](/discover-data/impairment-datasets-and-studies)
+* [Narcissistic Personality Disorder datasets and studies](/discover-data/narcissistic-personality-disorder-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

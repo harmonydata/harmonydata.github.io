@@ -38,15 +38,15 @@ Longitudinal studies, which make repeated observations of the same subjects, are
 
 ## What data sources does Harmony Discovery connect to?
 
-* [CLOSER](https://closer.ac.uk/)
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
 * [UKLLC](https://explore.ukllc.ac.uk)
 
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+* [CLOSER](https://closer.ac.uk/)
 
 * [HDR UK](https://www.healthdatagateway.org/)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -57,10 +57,10 @@ Metadata, the information about data, can sometimes be overwhelming to navigate.
 
 ## See also
 
-* [Narcissistic Personality Disorder datasets and studies](/discover-data/narcissistic-personality-disorder-datasets-and-studies)
+* [Attachment Disorders datasets and studies](/discover-data/attachment-disorders-datasets-and-studies)
 
-* [Borderline Personality Disorder (BPD) datasets and studies](/discover-data/borderline-personality-disorder-(bpd)-datasets-and-studies)
+* [Depression datasets and studies](/discover-data/depression-datasets-and-studies)
 
-* [Somatic Symptom Disorder datasets and studies](/discover-data/somatic-symptom-disorder-datasets-and-studies)
+* [Tobacco Use datasets and studies](/discover-data/tobacco-use-datasets-and-studies)
 
-* [Discover data on Harmony](/discover-data)
+* [Discover data on Harmony](/discover-data/)

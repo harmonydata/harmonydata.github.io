@@ -38,13 +38,13 @@ To start using Harmony Discovery for your research on Impairment, simply visit [
 
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
-* [UKLLC](https://explore.ukllc.ac.uk)
+* [HDR UK](https://www.healthdatagateway.org/)
 
 * [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
-* [CLOSER](https://closer.ac.uk/)
+* [UKLLC](https://explore.ukllc.ac.uk)
 
-* [HDR UK](https://www.healthdatagateway.org/)
+* [CLOSER](https://closer.ac.uk/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -55,10 +55,10 @@ As a researcher, accessing the right data is crucial to understanding the scope 
 
 ## See also
 
-* [ADHD datasets and studies](/discover-data/adhd-datasets-and-studies)
+* [Attachment Disorders datasets and studies](/discover-data/attachment-disorders-datasets-and-studies)
 
-* [Alexithymia datasets and studies](/discover-data/alexithymia-datasets-and-studies)
+* [Paranoid Personality Disorder datasets and studies](/discover-data/paranoid-personality-disorder-datasets-and-studies)
 
-* [Schizophrenia and Psychosis datasets and studies](/discover-data/schizophrenia-and-psychosis-datasets-and-studies)
+* [Depression datasets and studies](/discover-data/depression-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

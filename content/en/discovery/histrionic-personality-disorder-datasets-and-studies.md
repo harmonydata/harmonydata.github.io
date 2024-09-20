@@ -42,13 +42,13 @@ In the fast-paced world of mental health research, access to accurate and releva
 
 * [HDR UK](https://www.healthdatagateway.org/)
 
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+* [CLOSER](https://closer.ac.uk/)
 
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 * [UKLLC](https://explore.ukllc.ac.uk)
 
-* [CLOSER](https://closer.ac.uk/)
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -59,10 +59,10 @@ Harmony Discovery, bridging the gap between researchers and data in the realm of
 
 ## See also
 
-* [Autism Spectrum Disorder datasets and studies](/discover-data/autism-spectrum-disorder-datasets-and-studies)
+* [Eating Disorders datasets and studies](/discover-data/eating-disorders-datasets-and-studies)
 
-* [Alexithymia datasets and studies](/discover-data/alexithymia-datasets-and-studies)
+* [Antisocial Personality Disorder (ASPD) datasets and studies](/discover-data/antisocial-personality-disorder-(aspd)-datasets-and-studies)
 
-* [Self Harm and Suicide datasets and studies](/discover-data/self-harm-and-suicide-datasets-and-studies)
+* [Social Anxiety Disorder datasets and studies](/discover-data/social-anxiety-disorder-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

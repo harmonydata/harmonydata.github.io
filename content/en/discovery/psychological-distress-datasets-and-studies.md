@@ -40,15 +40,15 @@ What's more, Harmony Discovery maintains connections to an array of reliable dat
 
 ## What data sources does Harmony Discovery connect to?
 
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+* [UKLLC](https://explore.ukllc.ac.uk)
 
 * [HDR UK](https://www.healthdatagateway.org/)
 
-* [UKLLC](https://explore.ukllc.ac.uk)
-
 * [CLOSER](https://closer.ac.uk/)
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -59,10 +59,10 @@ With more resources at our disposal than ever before, navigating the world of ps
 
 ## See also
 
-* [Behavioural Problems datasets and studies](/discover-data/behavioural-problems-datasets-and-studies)
+* [Asperger'S Syndrome datasets and studies](/discover-data/asperger's-syndrome-datasets-and-studies)
 
-* [Obsessive Compulsive Disorder (OCD) datasets and studies](/discover-data/obsessive-compulsive-disorder-(ocd)-datasets-and-studies)
+* [Impairment datasets and studies](/discover-data/impairment-datasets-and-studies)
 
-* [Attachment Disorders datasets and studies](/discover-data/attachment-disorders-datasets-and-studies)
+* [Cannabis Use datasets and studies](/discover-data/cannabis-use-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

@@ -32,15 +32,15 @@ Professionals researching ADHD can save tons of time and effort thanks to Harmon
 
 ## What data sources does Harmony Discovery connect to?
 
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [CLOSER](https://closer.ac.uk/)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
 * [UKLLC](https://explore.ukllc.ac.uk)
 
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+* [CLOSER](https://closer.ac.uk/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -51,10 +51,10 @@ So, why wait? Ignite your research today with Harmony Discovery!
 
 ## See also
 
-* [Psychological Distress datasets and studies](/discover-data/psychological-distress-datasets-and-studies)
+* [Attachment Disorders datasets and studies](/discover-data/attachment-disorders-datasets-and-studies)
 
-* [Conduct Disorder datasets and studies](/discover-data/conduct-disorder-datasets-and-studies)
+* [Narcissistic Personality Disorder datasets and studies](/discover-data/narcissistic-personality-disorder-datasets-and-studies)
 
-* [Histrionic Personality Disorder datasets and studies](/discover-data/histrionic-personality-disorder-datasets-and-studies)
+* [Paranoid Personality Disorder datasets and studies](/discover-data/paranoid-personality-disorder-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

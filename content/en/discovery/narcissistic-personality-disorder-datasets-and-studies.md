@@ -39,15 +39,15 @@ Yet another valuable dataset is [Investigating prospection, imagination, and nav
 
 ## What data sources does Harmony Discovery connect to?
 
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
 * [HDR UK](https://www.healthdatagateway.org/)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 * [UKLLC](https://explore.ukllc.ac.uk)
 
-* [CLOSER](https://closer.ac.uk/)
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+* [CLOSER](https://closer.ac.uk/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -58,10 +58,10 @@ To summarise, Harmony Discovery comes as a boon for researchers working in the f
 
 ## See also
 
-* [Social Skills datasets and studies](/discover-data/social-skills-datasets-and-studies)
+* [Schizophrenia and Psychosis datasets and studies](/discover-data/schizophrenia-and-psychosis-datasets-and-studies)
 
-* [Impairment datasets and studies](/discover-data/impairment-datasets-and-studies)
+* [Anxiety datasets and studies](/discover-data/anxiety-datasets-and-studies)
 
-* [Antisocial Personality Disorder (ASPD) datasets and studies](/discover-data/antisocial-personality-disorder-(aspd)-datasets-and-studies)
+* [Schizoid Personality Disorder datasets and studies](/discover-data/schizoid-personality-disorder-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

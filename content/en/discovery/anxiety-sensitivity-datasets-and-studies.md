@@ -39,15 +39,15 @@ In conclusion, Harmony Discovery is a unique tool that goes a long way in easing
 
 ## What data sources does Harmony Discovery connect to?
 
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
 * [CLOSER](https://closer.ac.uk/)
 
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+* [UKLLC](https://explore.ukllc.ac.uk)
 
 * [HDR UK](https://www.healthdatagateway.org/)
 
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -58,8 +58,10 @@ In conclusion, Harmony Discovery is a unique tool that goes a long way in easing
 
 ## See also
 
-* [Psychological Wellbeing datasets and studies](/discover-data/psychological-wellbeing-datasets-and-studies)
+* [Impairment datasets and studies](/discover-data/impairment-datasets-and-studies)
 
-* [Gambling Behaviour datasets and studies](/discover-data/gambling-behaviour-datasets-and-studies)
+* [ADHD datasets and studies](/discover-data/adhd-datasets-and-studies)
 
-* [Paranoid Personality Disorder datasets and studies](/discover-data/paranoid-personality-disorder-datasets-and-studies)
+* [Social Anxiety Disorder datasets and studies](/discover-data/social-anxiety-disorder-datasets-and-studies)
+
+* [Discover data on Harmony](/discover-data/)

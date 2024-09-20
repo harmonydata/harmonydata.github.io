@@ -38,15 +38,15 @@ For each dataset, Harmony provides a brief description of its content and the re
 
 ## What data sources does Harmony Discovery connect to?
 
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
 * [CLOSER](https://closer.ac.uk/)
 
 * [UKLLC](https://explore.ukllc.ac.uk)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -57,10 +57,10 @@ Harmony Discovery not only saves researchers hours of manual searching, but it a
 
 ## See also
 
-* [Tobacco Use datasets and studies](/discover-data/tobacco-use-datasets-and-studies)
+* [Psychological Wellbeing datasets and studies](/discover-data/psychological-wellbeing-datasets-and-studies)
 
-* [PTSD datasets and studies](/discover-data/ptsd-datasets-and-studies)
+* [Mental Illness datasets and studies](/discover-data/mental-illness-datasets-and-studies)
 
-* [Schizoid Personality Disorder datasets and studies](/discover-data/schizoid-personality-disorder-datasets-and-studies)
+* [Substance Use datasets and studies](/discover-data/substance-use-datasets-and-studies)
 
-* [Discover data on Harmony](/discover-data)
+* [Discover data on Harmony](/discover-data/)

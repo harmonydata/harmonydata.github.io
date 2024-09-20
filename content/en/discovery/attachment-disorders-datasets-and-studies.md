@@ -26,15 +26,15 @@ As a step forward towards digital transformation in research, Harmony Discovery 
 
 ## What data sources does Harmony Discovery connect to?
 
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+* [UKLLC](https://explore.ukllc.ac.uk)
 
-* [HDR UK](https://www.healthdatagateway.org/)
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
 * [CLOSER](https://closer.ac.uk/)
 
-* [UKLLC](https://explore.ukllc.ac.uk)
+* [HDR UK](https://www.healthdatagateway.org/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -45,10 +45,10 @@ Through its user-friendly platform and integral links to a range of important da
 
 ## See also
 
-* [Gambling Disorder datasets and studies](/discover-data/gambling-disorder-datasets-and-studies)
+* [Bipolar and Mania datasets and studies](/discover-data/bipolar-and-mania-datasets-and-studies)
 
-* [Schizophrenia and Psychosis datasets and studies](/discover-data/schizophrenia-and-psychosis-datasets-and-studies)
+* [Emotional Problems datasets and studies](/discover-data/emotional-problems-datasets-and-studies)
 
-* [Histrionic Personality Disorder datasets and studies](/discover-data/histrionic-personality-disorder-datasets-and-studies)
+* [Bipolar Disorder and Mania datasets and studies](/discover-data/bipolar-disorder-and-mania-datasets-and-studies)
 
-* [Discover data on Harmony](/discover-data)
+* [Discover data on Harmony](/discover-data/)

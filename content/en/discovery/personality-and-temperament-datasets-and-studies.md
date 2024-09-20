@@ -34,15 +34,15 @@ So, if you're currently working on a research project centered on personality, t
 
 ## What data sources does Harmony Discovery connect to?
 
+* [CLOSER](https://closer.ac.uk/)
+
 * [HDR UK](https://www.healthdatagateway.org/)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
 
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
-* [CLOSER](https://closer.ac.uk/)
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -53,10 +53,10 @@ Start discovering with [Harmony Discovery](https://explore.ukllc.ac.uk) today an
 
 ## See also
 
-* [Alexithymia datasets and studies](/discover-data/alexithymia-datasets-and-studies)
+* [Substance Use datasets and studies](/discover-data/substance-use-datasets-and-studies)
 
-* [Personality Disorders datasets and studies](/discover-data/personality-disorders-datasets-and-studies)
+* [Personality and Temperament datasets and studies](/discover-data/personality-and-temperament-datasets-and-studies)
 
-* [Histrionic Personality Disorder datasets and studies](/discover-data/histrionic-personality-disorder-datasets-and-studies)
+* [Gambling Behaviour datasets and studies](/discover-data/gambling-behaviour-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

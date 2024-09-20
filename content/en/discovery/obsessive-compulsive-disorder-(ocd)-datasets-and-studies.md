@@ -32,13 +32,13 @@ Discovering datasets is the first step to any reliable, impactful study. This is
 
 ## What data sources does Harmony Discovery connect to?
 
-* [HDR UK](https://www.healthdatagateway.org/)
+* [UKLLC](https://explore.ukllc.ac.uk)
 
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+* [HDR UK](https://www.healthdatagateway.org/)
 
 * [CLOSER](https://closer.ac.uk/)
 
-* [UKLLC](https://explore.ukllc.ac.uk)
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
@@ -51,10 +51,10 @@ Say goodbye to the daunting task of dataset discovery. Plug into the power of th
 
 ## See also
 
-* [Autism datasets and studies](/discover-data/autism-datasets-and-studies)
-
 * [Anxiety datasets and studies](/discover-data/anxiety-datasets-and-studies)
 
-* [Bipolar and Mania datasets and studies](/discover-data/bipolar-and-mania-datasets-and-studies)
+* [Psychosis and Schizophrenia datasets and studies](/discover-data/psychosis-and-schizophrenia-datasets-and-studies)
+
+* [Histrionic Personality Disorder datasets and studies](/discover-data/histrionic-personality-disorder-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

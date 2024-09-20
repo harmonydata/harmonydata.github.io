@@ -36,13 +36,13 @@ One key feature that sets Harmony Discovery apart is its connection to multiple 
 
 ## What data sources does Harmony Discovery connect to?
 
-* [UKLLC](https://explore.ukllc.ac.uk)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
 * [CLOSER](https://closer.ac.uk/)
 
+* [UKLLC](https://explore.ukllc.ac.uk)
+
 * [HDR UK](https://www.healthdatagateway.org/)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
@@ -55,10 +55,10 @@ In conclusion, Harmony Discovery provides an invaluable resource for novice and 
 
 ## See also
 
-* [Bipolar and Mania datasets and studies](/discover-data/bipolar-and-mania-datasets-and-studies)
+* [Personality Disorders datasets and studies](/discover-data/personality-disorders-datasets-and-studies)
 
-* [Social Anxiety Disorder datasets and studies](/discover-data/social-anxiety-disorder-datasets-and-studies)
+* [Narcissistic Personality Disorder datasets and studies](/discover-data/narcissistic-personality-disorder-datasets-and-studies)
 
-* [Attachment Disorders datasets and studies](/discover-data/attachment-disorders-datasets-and-studies)
+* [Asperger'S Syndrome datasets and studies](/discover-data/asperger's-syndrome-datasets-and-studies)
 
-* [Discover data on Harmony](/discover-data)
+* [Discover data on Harmony](/discover-data/)

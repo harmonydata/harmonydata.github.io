@@ -48,13 +48,13 @@ Research like this can elucidate boundaries present in 'passive' social influenc
 
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
-* [CLOSER](https://closer.ac.uk/)
+* [HDR UK](https://www.healthdatagateway.org/)
 
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+* [CLOSER](https://closer.ac.uk/)
 
 * [UKLLC](https://explore.ukllc.ac.uk)
 
-* [HDR UK](https://www.healthdatagateway.org/)
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -65,10 +65,10 @@ The Harmony Discovery tool revolutionises behavioural problems research by pulli
 
 ## See also
 
-* [PTSD datasets and studies](/discover-data/ptsd-datasets-and-studies)
+* [Personality and Temperament datasets and studies](/discover-data/personality-and-temperament-datasets-and-studies)
 
-* [Cannabis Use datasets and studies](/discover-data/cannabis-use-datasets-and-studies)
+* [Psychological Distress datasets and studies](/discover-data/psychological-distress-datasets-and-studies)
 
-* [Psychopathy datasets and studies](/discover-data/psychopathy-datasets-and-studies)
+* [Alcohol Use datasets and studies](/discover-data/alcohol-use-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

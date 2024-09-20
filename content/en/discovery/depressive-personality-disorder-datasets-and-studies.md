@@ -37,13 +37,13 @@ With such resources easily accessible, Harmony significantly eases the research 
 
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
-* [UKLLC](https://explore.ukllc.ac.uk)
-
-* [HDR UK](https://www.healthdatagateway.org/)
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 * [CLOSER](https://closer.ac.uk/)
 
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+* [HDR UK](https://www.healthdatagateway.org/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -54,8 +54,10 @@ Achieving a comprehensive understanding of mental health disorders like DPD is i
 
 ## See also
 
-* [Mental Illness datasets and studies](/discover-data/mental-illness-datasets-and-studies)
+* [Antisocial Personality Disorder (ASPD) datasets and studies](/discover-data/antisocial-personality-disorder-(aspd)-datasets-and-studies)
 
-* [Smoking datasets and studies](/discover-data/smoking-datasets-and-studies)
+* [Asperger'S Syndrome datasets and studies](/discover-data/asperger's-syndrome-datasets-and-studies)
 
-* [Gambling datasets and studies](/discover-data/gambling-datasets-and-studies)
+* [Paranoid Personality Disorder datasets and studies](/discover-data/paranoid-personality-disorder-datasets-and-studies)
+
+* [Discover data on Harmony](/discover-data/)

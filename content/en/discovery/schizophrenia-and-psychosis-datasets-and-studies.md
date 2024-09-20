@@ -32,15 +32,15 @@ For those studying Schizophrenia and Psychosis, Harmony Discovery proves to be a
 
 ## What data sources does Harmony Discovery connect to?
 
-* [HDR UK](https://www.healthdatagateway.org/)
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 * [UKLLC](https://explore.ukllc.ac.uk)
 
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+* [HDR UK](https://www.healthdatagateway.org/)
 
 * [CLOSER](https://closer.ac.uk/)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -51,8 +51,10 @@ The quest for data doesn't have to be daunting. With the help of Harmony Discove
 
 ## See also
 
-* [Autism datasets and studies](/discover-data/autism-datasets-and-studies)
+* [Autism Spectrum Disorder datasets and studies](/discover-data/autism-spectrum-disorder-datasets-and-studies)
 
-* [Gambling datasets and studies](/discover-data/gambling-datasets-and-studies)
+* [Narcissistic Personality Disorder datasets and studies](/discover-data/narcissistic-personality-disorder-datasets-and-studies)
 
 * [Emotional Problems datasets and studies](/discover-data/emotional-problems-datasets-and-studies)
+
+* [Discover data on Harmony](/discover-data/)

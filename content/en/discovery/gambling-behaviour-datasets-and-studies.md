@@ -30,15 +30,15 @@ Harmony Discovery goes a step further by utilising large language models to matc
 
 ## What data sources does Harmony Discovery connect to?
 
-* [UKLLC](https://explore.ukllc.ac.uk)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
 * [CLOSER](https://closer.ac.uk/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
 
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
-* [HDR UK](https://www.healthdatagateway.org/)
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -49,10 +49,10 @@ In conclusion, Harmony Discovery equips researchers with robust, diverse, and qu
 
 ## See also
 
-* [Gambling datasets and studies](/discover-data/gambling-datasets-and-studies)
+* [Personality and Temperament datasets and studies](/discover-data/personality-and-temperament-datasets-and-studies)
 
-* [Gambling Disorder datasets and studies](/discover-data/gambling-disorder-datasets-and-studies)
+* [Psychological Wellbeing datasets and studies](/discover-data/psychological-wellbeing-datasets-and-studies)
 
-* [Social Skills datasets and studies](/discover-data/social-skills-datasets-and-studies)
+* [Alcohol Use datasets and studies](/discover-data/alcohol-use-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

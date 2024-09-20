@@ -32,15 +32,15 @@ And the Mental Health Services Data Set provides a snapshot of the real-time usa
 
 ## What data sources does Harmony Discovery connect to?
 
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+* [HDR UK](https://www.healthdatagateway.org/)
 
 * [CLOSER](https://closer.ac.uk/)
 
-* [UKLLC](https://explore.ukllc.ac.uk)
-
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
-* [HDR UK](https://www.healthdatagateway.org/)
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -51,10 +51,10 @@ Harmony Discovery is your go-to source to unlock a vault of valuable data sets p
 
 ## See also
 
-* [Bipolar Disorder and Mania datasets and studies](/discover-data/bipolar-disorder-and-mania-datasets-and-studies)
+* [Tobacco Use datasets and studies](/discover-data/tobacco-use-datasets-and-studies)
 
-* [Depressive Personality Disorder datasets and studies](/discover-data/depressive-personality-disorder-datasets-and-studies)
+* [ADHD datasets and studies](/discover-data/adhd-datasets-and-studies)
 
-* [Autism datasets and studies](/discover-data/autism-datasets-and-studies)
+* [Somatic Symptom Disorder datasets and studies](/discover-data/somatic-symptom-disorder-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

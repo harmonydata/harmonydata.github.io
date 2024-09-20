@@ -28,13 +28,13 @@ Thus, Harmony Discovery ensures that researchers could navigate through a wealth
 
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
 * [CLOSER](https://closer.ac.uk/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
 
 * [HDR UK](https://www.healthdatagateway.org/)
 
-* [UKLLC](https://explore.ukllc.ac.uk)
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -45,10 +45,10 @@ Whether you're starting your research about Cannabis Use or looking for specific
 
 ## See also
 
-* [Histrionic Personality Disorder datasets and studies](/discover-data/histrionic-personality-disorder-datasets-and-studies)
+* [Mental Illness datasets and studies](/discover-data/mental-illness-datasets-and-studies)
 
-* [Antisocial Behaviour datasets and studies](/discover-data/antisocial-behaviour-datasets-and-studies)
+* [Impairment datasets and studies](/discover-data/impairment-datasets-and-studies)
 
-* [Emotional Problems datasets and studies](/discover-data/emotional-problems-datasets-and-studies)
+* [Asperger'S Syndrome datasets and studies](/discover-data/asperger's-syndrome-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

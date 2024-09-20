@@ -32,15 +32,15 @@ Datasets such as 'Concepts of Healthy Eating Food Research: Phases I and II, 199
 
 ## What data sources does Harmony Discovery connect to?
 
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [CLOSER](https://closer.ac.uk/)
-
-* [HDR UK](https://www.healthdatagateway.org/)
+* [UKLLC](https://explore.ukllc.ac.uk)
 
 * [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
-* [UKLLC](https://explore.ukllc.ac.uk)
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+* [CLOSER](https://closer.ac.uk/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -51,10 +51,10 @@ By linking researchers to these diverse repositories and data sets, Harmony Disc
 
 ## See also
 
-* [Smoking datasets and studies](/discover-data/smoking-datasets-and-studies)
+* [Emotional Problems datasets and studies](/discover-data/emotional-problems-datasets-and-studies)
 
-* [Psychological Distress datasets and studies](/discover-data/psychological-distress-datasets-and-studies)
+* [Tobacco Use datasets and studies](/discover-data/tobacco-use-datasets-and-studies)
 
-* [Depressive Personality Disorder datasets and studies](/discover-data/depressive-personality-disorder-datasets-and-studies)
+* [Avoidant Personality Disorder datasets and studies](/discover-data/avoidant-personality-disorder-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

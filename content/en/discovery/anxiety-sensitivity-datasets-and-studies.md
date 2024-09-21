@@ -9,7 +9,7 @@ url: "/discover-data/anxiety-sensitivity-datasets-and-studies"
 
 * [Find Anxiety Sensitivity datasets and longitudinal studies on the Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/?content=search&query=Topic:anxiety+sensitivity)
 
-'''markdown
+
 # Discover Anxiety Sensitivity Datasets with Harmony Discovery
 
 In the realm of social sciences and mental health research, finding the right datasets can significantly streamline the research process. Key among this is the study of Anxiety Sensitivity, an area that has various implications for understanding and managing different anxiety-based mental health problems.
@@ -21,6 +21,24 @@ In the realm of social sciences and mental health research, finding the right da
 Harmony Discovery is linked to reputable data sources such as the [UKLLC](https://explore.ukllc.ac.uk/), [Closer](https://www.closer.ac.uk/), the [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/), [HDR UK](https://www.hdruk.ac.uk/) and [ADR UK](https://www.adruk.org/). This allows you to tap into a broad spectrum of data in your quest for understanding Anxiety Sensitivity.
 
 Here are some examples of Anxiety Sensitivity datasets that can be found through Harmony Discovery:
+
+## What data sources does Harmony Discovery connect to?
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [CLOSER](https://closer.ac.uk/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
 
 - **Mechanisms of catastrophic worrying** ([851072](https://reshare.ukdataservice.ac.uk/851072)):
   This dataset delves into chronic worrying, a characteristic of most anxiety-based mental health issues.
@@ -36,32 +54,14 @@ Here are some examples of Anxiety Sensitivity datasets that can be found through
 With an emphasis on longitudinal studies, Harmony Discovery facilitates the analysis of change at the individual level over time, providing deeper insights into the evolution of Anxiety Sensitivity.
 
 In conclusion, Harmony Discovery is a unique tool that goes a long way in easing the process of locating suitable datasets for studying Anxiety Sensitivity. It offers a treasure trove of valuable information, making it a priceless resource for all researchers venturing into this field.
-
-## What data sources does Harmony Discovery connect to?
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-* [CLOSER](https://closer.ac.uk/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
-
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
-
-{{< youtube cEZppTBj1NI >}}
-
-
 '''
 
 ## See also
 
-* [Impairment datasets and studies](/discover-data/impairment-datasets-and-studies)
+* [Attachment Disorders datasets and studies](/discover-data/attachment-disorders-datasets-and-studies)
 
-* [ADHD datasets and studies](/discover-data/adhd-datasets-and-studies)
+* [Paranoid Personality Disorder datasets and studies](/discover-data/paranoid-personality-disorder-datasets-and-studies)
 
-* [Social Anxiety Disorder datasets and studies](/discover-data/social-anxiety-disorder-datasets-and-studies)
+* [Narcissistic Personality Disorder datasets and studies](/discover-data/narcissistic-personality-disorder-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

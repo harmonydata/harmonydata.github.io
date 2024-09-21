@@ -23,38 +23,38 @@ Datasets related to ASD obtainable from Harmony include:
 
 1. [Savants, autism spectrum conditions and control profile data 2013-2016](https://reshare.ukdataservice.ac.uk/853449): This dataset provides questionnaire and task data for three different groups: autistic-savants, autistic-nonsavants, and controls, revolving around subjects like sensory sensitivities, systemising, obsessions, autistic traits, and savant skills.
 
-2. Connected Bradford - Secondary Care: An active autism dataset used for secondary care in Bradford.
-
-3. [Special Treatment of Prediction Errors in Autism Spectrum Disorder, 2018-2021](https://reshare.ukdataservice.ac.uk/854905): This dataset analyzes the assertion of the HIPPEA (High, Inflexible Precision of Prediction Errors in Autism), which suggests that neural processes in autism inflexibly place high precision on prediction errors.
-
-Longitudinal studies allow for repeated observations of the same subjects over a period, enabling researchers to analyze changes at the individual level. Researchers specializing in ASD can benefit significantly from Harmony's ability to efficiently zone in on appropriate ASD-related datasets.
-
-
 ## What data sources does Harmony Discovery connect to?
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 * [UKLLC](https://explore.ukllc.ac.uk)
 
-* [HDR UK](https://www.healthdatagateway.org/)
-
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
-* [CLOSER](https://closer.ac.uk/)
+* [HDR UK](https://www.healthdatagateway.org/)
 
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+* [CLOSER](https://closer.ac.uk/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}
 
 
+
+2. Connected Bradford - Secondary Care: An active autism dataset used for secondary care in Bradford.
+
+3. [Special Treatment of Prediction Errors in Autism Spectrum Disorder, 2018-2021](https://reshare.ukdataservice.ac.uk/854905): This dataset analyzes the assertion of the HIPPEA (High, Inflexible Precision of Prediction Errors in Autism), which suggests that neural processes in autism inflexibly place high precision on prediction errors.
+
+Longitudinal studies allow for repeated observations of the same subjects over a period, enabling researchers to analyze changes at the individual level. Researchers specializing in ASD can benefit significantly from Harmony's ability to efficiently zone in on appropriate ASD-related datasets.
+
 In summary, Harmony Discovery optimizes the process of locating relevant datasets for researchers concentrating on Autism Spectrum Disorder, proving to be an invaluable tool in social sciences and mental health research.
 
 ## See also
 
-* [Paranoid Personality Disorder datasets and studies](/discover-data/paranoid-personality-disorder-datasets-and-studies)
+* [Self Harm and Suicide datasets and studies](/discover-data/self-harm-and-suicide-datasets-and-studies)
 
-* [Schizoid Personality Disorder datasets and studies](/discover-data/schizoid-personality-disorder-datasets-and-studies)
+* [Asperger'S Syndrome datasets and studies](/discover-data/asperger's-syndrome-datasets-and-studies)
 
-* [Depression datasets and studies](/discover-data/depression-datasets-and-studies)
+* [Personality and Temperament datasets and studies](/discover-data/personality-and-temperament-datasets-and-studies)
 
-* [Discover data on Harmony](/discover-data)
+* [Discover data on Harmony](/discover-data/)

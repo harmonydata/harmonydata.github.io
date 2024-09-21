@@ -19,6 +19,24 @@ To give you an idea of what Harmony has on offer, here are a few gambling-relate
 
 1. [Gambling-related brain responses in social and problem gamblers](https://reshare.ukdataservice.ac.uk/850229): This dataset investigates the cognitive biases present in problem gamblers that lead them to overestimate their chances of winning.
 
+## What data sources does Harmony Discovery connect to?
+
+* [CLOSER](https://closer.ac.uk/)
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+
 2. Gaming and Betting Study: Survey of Loyalty Card Customers, Waves 1 and 2, 2014-2016: Conducted by the Responsible Gambling Trust, this programme dives into the patterns of play visible in machines in bookmakers. 
 
 3. [Gambling and Households: New Gambling Directive at Mass Observation Archive](https://reshare.ukdataservice.ac.uk/850851): This research effort presents a socio-cultural analysis of gambling and family life in the UK. 
@@ -27,32 +45,14 @@ The datasets provided by Harmony also carry the benefit of longitudinal studiesâ
 
 Harmony Discovery goes a step further by utilising large language models to match questionnaire items and variable names, smoothing out the process of sourcing relevant datasets.
 
-
-## What data sources does Harmony Discovery connect to?
-
-* [CLOSER](https://closer.ac.uk/)
-
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
-
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
-
-{{< youtube cEZppTBj1NI >}}
-
-
 In conclusion, Harmony Discovery equips researchers with robust, diverse, and quality longitudinal datasets on gambling behaviour, helping them stay ahead in their quest to understand and address problem gambling. This is data discovery reinvented!
 
 ## See also
 
-* [Personality and Temperament datasets and studies](/discover-data/personality-and-temperament-datasets-and-studies)
+* [Gambling Disorder datasets and studies](/discover-data/gambling-disorder-datasets-and-studies)
 
-* [Psychological Wellbeing datasets and studies](/discover-data/psychological-wellbeing-datasets-and-studies)
+* [Depressive Personality Disorder datasets and studies](/discover-data/depressive-personality-disorder-datasets-and-studies)
 
-* [Alcohol Use datasets and studies](/discover-data/alcohol-use-datasets-and-studies)
+* [Schizotypal Personality Disorder datasets and studies](/discover-data/schizotypal-personality-disorder-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

@@ -36,15 +36,15 @@ Selecting data on a specific topic as critical as Avoidant Personality Disorder 
 
 ## What data sources does Harmony Discovery connect to?
 
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
 * [CLOSER](https://closer.ac.uk/)
 
 * [HDR UK](https://www.healthdatagateway.org/)
 
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -57,8 +57,8 @@ Optimize your longitudinal study exploration with Harmony Discovery, and reshape
 
 * [Personality Disorders datasets and studies](/discover-data/personality-disorders-datasets-and-studies)
 
-* [Psychopathy datasets and studies](/discover-data/psychopathy-datasets-and-studies)
+* [Anxiety datasets and studies](/discover-data/anxiety-datasets-and-studies)
 
-* [Behavioural Problems datasets and studies](/discover-data/behavioural-problems-datasets-and-studies)
+* [Psychopathy datasets and studies](/discover-data/psychopathy-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

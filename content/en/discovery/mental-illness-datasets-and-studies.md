@@ -25,6 +25,24 @@ For instance, Harmony has a dataset titled 'Supporting Mental Health in Schools 
 
 Another dataset available through Harmony is the 'Multi-modal Open Dataset for Mental-disorder Analysis'. This set provides valuable information about the increasing prevalence of mental disorders, especially depression.
 
+## What data sources does Harmony Discovery connect to?
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [CLOSER](https://closer.ac.uk/)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+
 ## Connected to Key Data Sources
 
 No need to clutter your bookmarks with multiple databases! Harmony is connected to key data sources which include UKLLC, Closer, the Catalogue of Mental Health Measures, HDR UK, and ADR UK. It ensures that researchers stay updated with the latest and most relevant data for their studies.
@@ -35,32 +53,14 @@ Say goodbye to the painstaking process of data collection. Whether it's a compre
 
 ---
 
-
-## What data sources does Harmony Discovery connect to?
-
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [CLOSER](https://closer.ac.uk/)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
-
-{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
-
-{{< youtube cEZppTBj1NI >}}
-
-
 Harmony Discovery is truly a game-changer for social science researchers in the field of Mental Illness. This revolutionary tool brings valuable datasets to the fore, offering new insights and opportunities for in-depth research to understand and ultimately improve mental health. Explore Harmony Discovery today and unlock the door to a wealth of knowledge in the realm of Mental Illness.
 
 ## See also
 
-* [Self Harm and Suicide datasets and studies](/discover-data/self-harm-and-suicide-datasets-and-studies)
+* [Alexithymia datasets and studies](/discover-data/alexithymia-datasets-and-studies)
 
-* [Personality and Temperament datasets and studies](/discover-data/personality-and-temperament-datasets-and-studies)
+* [Bipolar and Mania datasets and studies](/discover-data/bipolar-and-mania-datasets-and-studies)
 
-* [Histrionic Personality Disorder datasets and studies](/discover-data/histrionic-personality-disorder-datasets-and-studies)
+* [Behavioural Problems datasets and studies](/discover-data/behavioural-problems-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

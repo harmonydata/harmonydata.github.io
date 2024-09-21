@@ -23,6 +23,24 @@ Harmony Discovery has identified a few valuable datasets for researchers studyin
 
 2. **Improving Access to Psychological Therapies Data Set**: A comprehensive dataset featuring data pertaining to psychological therapies, including treatments related to BPD.
 
+## What data sources does Harmony Discovery connect to?
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+* [CLOSER](https://closer.ac.uk/)
+
+{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+
 3. **Mental Health Dataset (MHDS) for CPRD Aurum**: A detailed mental health dataset providing extensive resources and information related to many psychological conditions, including BPD.
 
 Notably, Harmony is integrated with other major data sources such as [UKLLC](https://explore.ukllc.ac.uk), Closer, [the Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/), [HDR UK](https://www.hdruk.ac.uk/), and [ADR UK](https://www.adruk.org/).
@@ -33,32 +51,14 @@ Harmony Discovery is particularly effective for longitudinal studies concerning 
 
 With Harmony Discovery, the entire process of finding data on BPD is seamless and efficient. It sifts through data sources that range from traditional databases to more niche locations, ensuring that researchers don’t miss out on any potential data.
 
-
-## What data sources does Harmony Discovery connect to?
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-* [CLOSER](https://closer.ac.uk/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
-
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [HDR UK](https://www.healthdatagateway.org/)
-
-{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
-
-{{< youtube cEZppTBj1NI >}}
-
-
 In conclusion, Harmony Discovery is a significant tool for social science researchers, providing an efficient way to locate relevant and reliable datasets for various research fields, including BPD. It brings together various data sources and simplifies the process, saving time and enhancing the quality of the research.
 
 ## See also
 
-* [Mental Illness datasets and studies](/discover-data/mental-illness-datasets-and-studies)
+* [Schizophrenia and Psychosis datasets and studies](/discover-data/schizophrenia-and-psychosis-datasets-and-studies)
 
-* [Schizoid Personality Disorder datasets and studies](/discover-data/schizoid-personality-disorder-datasets-and-studies)
+* [Social Anxiety Disorder datasets and studies](/discover-data/social-anxiety-disorder-datasets-and-studies)
 
-* [Psychological Wellbeing datasets and studies](/discover-data/psychological-wellbeing-datasets-and-studies)
+* [Anxiety datasets and studies](/discover-data/anxiety-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

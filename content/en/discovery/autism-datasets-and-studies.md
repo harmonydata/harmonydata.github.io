@@ -33,13 +33,13 @@ Connected Bradford - Secondary Care dataset covers Autism in secondary healthcar
 
 ## What data sources does Harmony Discovery connect to?
 
-* [CLOSER](https://closer.ac.uk/)
-
 * [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
-* [UKLLC](https://explore.ukllc.ac.uk)
+* [CLOSER](https://closer.ac.uk/)
 
 * [HDR UK](https://www.healthdatagateway.org/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
 
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
@@ -52,10 +52,10 @@ Harmony Discovery is a potent tool that makes it easier for researchers to acces
 
 ## See also
 
-* [Psychological Distress datasets and studies](/discover-data/psychological-distress-datasets-and-studies)
+* [Gambling Behaviour datasets and studies](/discover-data/gambling-behaviour-datasets-and-studies)
 
-* [Alcohol Use datasets and studies](/discover-data/alcohol-use-datasets-and-studies)
+* [Depressive Personality Disorder datasets and studies](/discover-data/depressive-personality-disorder-datasets-and-studies)
 
-* [Gender Dysphoria datasets and studies](/discover-data/gender-dysphoria-datasets-and-studies)
+* [Self Harm and Suicide datasets and studies](/discover-data/self-harm-and-suicide-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

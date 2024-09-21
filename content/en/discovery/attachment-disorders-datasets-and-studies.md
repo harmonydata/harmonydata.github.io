@@ -19,20 +19,15 @@ Harmony Discovery is linked with an array of data sources from across the globe.
 
 One example of the type of dataset available on Harmony Discovery is called 'The Impact of Early Experiences on Empathy Development: Markers of Vulnerability and Resilience, 2020-2021' available [here](https://reshare.ukdataservice.ac.uk/855404). This study looks at how maltreatment in early childhood stages can impact the development of empathy, a factor which can potentially lead to Attachment Disorders.
 
-Another related dataset, 'Associations between Childhood Maltreatment and Peer Relationships: the Role of Empathy, 2020-2021', focuses on peer relationships and the social consequences of childhood maltreatment, accessible [here](https://reshare.ukdataservice.ac.uk/855445). 
-
-As a step forward towards digital transformation in research, Harmony Discovery uses large language models to ascertain correlations between questionnaire items and variable names. This enables researchers to obtain a more detailed, nuanced understanding of the appropriate datasets for their intended research. 
-
-
 ## What data sources does Harmony Discovery connect to?
-
-* [UKLLC](https://explore.ukllc.ac.uk)
 
 * [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+* [UKLLC](https://explore.ukllc.ac.uk)
 
 * [CLOSER](https://closer.ac.uk/)
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
 * [HDR UK](https://www.healthdatagateway.org/)
 
@@ -41,14 +36,19 @@ As a step forward towards digital transformation in research, Harmony Discovery 
 {{< youtube cEZppTBj1NI >}}
 
 
+
+Another related dataset, 'Associations between Childhood Maltreatment and Peer Relationships: the Role of Empathy, 2020-2021', focuses on peer relationships and the social consequences of childhood maltreatment, accessible [here](https://reshare.ukdataservice.ac.uk/855445). 
+
+As a step forward towards digital transformation in research, Harmony Discovery uses large language models to ascertain correlations between questionnaire items and variable names. This enables researchers to obtain a more detailed, nuanced understanding of the appropriate datasets for their intended research. 
+
 Through its user-friendly platform and integral links to a range of important data sources, Harmony Discovery is a notable tool for social sciences researchers. It simplifies the process of finding and accessing high-quality, relevant datasets for Attachment Disorders. For all researchers in this field, Harmony Discovery should certainly become a go-to resource.
 
 ## See also
 
-* [Bipolar and Mania datasets and studies](/discover-data/bipolar-and-mania-datasets-and-studies)
+* [Psychological Wellbeing datasets and studies](/discover-data/psychological-wellbeing-datasets-and-studies)
 
 * [Emotional Problems datasets and studies](/discover-data/emotional-problems-datasets-and-studies)
 
-* [Bipolar Disorder and Mania datasets and studies](/discover-data/bipolar-disorder-and-mania-datasets-and-studies)
+* [Mental Illness datasets and studies](/discover-data/mental-illness-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

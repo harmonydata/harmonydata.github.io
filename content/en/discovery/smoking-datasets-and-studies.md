@@ -21,38 +21,38 @@ Harmony is connected to a range of prominent sources of valuable data. Sources l
 
 For those working on mental health related themes, the Catalogue of Mental Health Measures ([CMHM](https://www.cataloguementalhealth.ac.uk/)) is a valuable resource. Owing to the established link between smoking and mental health, exploring this resource can be particularly useful for a well-rounded study into smoking behaviours.
 
-## Empowering Research with Timely Data
-
-One of the key features of our computational tool is its ability to process time-specific data. For example, one can access databases containing surveys on smoking conducted during specific periods. An illustrious example being the surveys on smoking conducted in 1976, meticulously categorised by the exact range of dates in July and June. 
-
-These datasets could provide a wealth of insights into the prevailing attitudes, consumption patterns, and public consciousness around smoking during that era. It's a treasure trove for researchers focusing on the temporal aspects of societal behaviour and shifts around smoking.
-
-
 ## What data sources does Harmony Discovery connect to?
-
-* [UKLLC](https://explore.ukllc.ac.uk)
-
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [CLOSER](https://closer.ac.uk/)
 
 * [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
+* [HDR UK](https://www.healthdatagateway.org/)
+
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [CLOSER](https://closer.ac.uk/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}
 
 
+
+## Empowering Research with Timely Data
+
+One of the key features of our computational tool is its ability to process time-specific data. For example, one can access databases containing surveys on smoking conducted during specific periods. An illustrious example being the surveys on smoking conducted in 1976, meticulously categorised by the exact range of dates in July and June. 
+
+These datasets could provide a wealth of insights into the prevailing attitudes, consumption patterns, and public consciousness around smoking during that era. It's a treasure trove for researchers focusing on the temporal aspects of societal behaviour and shifts around smoking.
+
 In conclusion, Harmony Discovery comes as a massive boon for researchers studying longitudinal smoking patterns. With its intuitive interface, extensive connectivity, and linguistic prowess, this tool simplifies the process of discovering relevant datasets, thereby accelerating and enhancing the research process. Tap into the power of Harmony Discovery and illuminate your research into smoking with data-driven insights.
 
 ## See also
 
-* [Somatic Symptom Disorder datasets and studies](/discover-data/somatic-symptom-disorder-datasets-and-studies)
+* [Conduct Disorder datasets and studies](/discover-data/conduct-disorder-datasets-and-studies)
 
-* [Anxiety datasets and studies](/discover-data/anxiety-datasets-and-studies)
+* [Asperger'S Syndrome datasets and studies](/discover-data/asperger's-syndrome-datasets-and-studies)
 
-* [Bipolar and Mania datasets and studies](/discover-data/bipolar-and-mania-datasets-and-studies)
+* [Avoidant Personality Disorder datasets and studies](/discover-data/avoidant-personality-disorder-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

@@ -19,38 +19,38 @@ Here are some datasets related to Bipolar Disorder and Mania you can discover us
 
 - **Lived Experience at the Core: A Classification System for Risk-Taking Behaviours in Bipolar, 2022**. This study explores the types of high-risk behaviours that individuals diagnosed with bipolar disorder exhibit. For more information, visit [here](https://reshare.ukdataservice.ac.uk/857253). 
 
-- **Multi-modal Open Dataset for Mental disorder Analysis, Experimental Data 2014-2016**. It offers fresh perspectives on the rapid increase in the number of mental disorder patients, especially those suffering from depression. Visit [here](https://reshare.ukdataservice.ac.uk/854301) for more details.
-
-- **Socio-Psychiatric Survey on Distribution and Aetiology of Psychiatric Disorder, 1975-1976**. A part of a series focusing on the role of psycho-social factors in psychiatric disorders. You can find the dataset [here](https://explore.ukllc.ac.uk/resources/1086).
-
-One fascinating advantage is that Harmony allows you to explore longitudinal studies, providing repeated observations of the same subjects over different periods. This feature is exceptionally valuable to track individual-level changes in chronic conditions such as Bipolar Disorder and Mania. 
-
-
 ## What data sources does Harmony Discovery connect to?
+
+* [CLOSER](https://closer.ac.uk/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [HDR UK](https://www.healthdatagateway.org/)
 
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
 * [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-* [CLOSER](https://closer.ac.uk/)
-
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}
 
 
+
+- **Multi-modal Open Dataset for Mental disorder Analysis, Experimental Data 2014-2016**. It offers fresh perspectives on the rapid increase in the number of mental disorder patients, especially those suffering from depression. Visit [here](https://reshare.ukdataservice.ac.uk/854301) for more details.
+
+- **Socio-Psychiatric Survey on Distribution and Aetiology of Psychiatric Disorder, 1975-1976**. A part of a series focusing on the role of psycho-social factors in psychiatric disorders. You can find the dataset [here](https://explore.ukllc.ac.uk/resources/1086).
+
+One fascinating advantage is that Harmony allows you to explore longitudinal studies, providing repeated observations of the same subjects over different periods. This feature is exceptionally valuable to track individual-level changes in chronic conditions such as Bipolar Disorder and Mania. 
+
 The field of mental health research is expansive, and so are the challenges associated with it. However, by making use of advanced tools like Harmony Discovery, researchers can gain a clear direction in their search for relevant datasets, ultimately nudging them closer to their ultimate goal of unravelling the mysteries of the human mind.
 
 ## See also
 
+* [Anxiety Sensitivity datasets and studies](/discover-data/anxiety-sensitivity-datasets-and-studies)
+
 * [Impairment datasets and studies](/discover-data/impairment-datasets-and-studies)
 
-* [Personality and Temperament datasets and studies](/discover-data/personality-and-temperament-datasets-and-studies)
-
-* [Schizotypal Personality Disorder datasets and studies](/discover-data/schizotypal-personality-disorder-datasets-and-studies)
+* [Attachment Disorders datasets and studies](/discover-data/attachment-disorders-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

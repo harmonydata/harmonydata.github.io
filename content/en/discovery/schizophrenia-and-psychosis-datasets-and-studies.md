@@ -21,6 +21,24 @@ Harmony Discovery aids researchers in discovering datasets about longitudinal st
 
 For those studying Schizophrenia and Psychosis, Harmony Discovery proves to be an exceptional resource. Multiple datasets related to these areas of study have been catalogued from various sources. For example:
 
+## What data sources does Harmony Discovery connect to?
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [CLOSER](https://closer.ac.uk/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+
 1. **National Audit of Psychosis - Audit on Early Intervention in Psychosis services - patient experience survey**: This dataset delves into the patient experience survey. It was last updated on 2024-02-29.
 
 2. **National Audit of Psychosis - Audit on Early Intervention in Psychosis services - case note audit**: This dataset contains information about patients attending Early Intervention Psychosis (EIP) services, sampled over one year. It includes whether individuals received interventions such as Cognitive Behavioural Therapy for Psychosis (CBTp) or physical health screening. It was last updated on 2024-02-29.
@@ -29,32 +47,14 @@ For those studying Schizophrenia and Psychosis, Harmony Discovery proves to be a
 
 ## Conclusion
 
-
-## What data sources does Harmony Discovery connect to?
-
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
-
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [CLOSER](https://closer.ac.uk/)
-
-{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
-
-{{< youtube cEZppTBj1NI >}}
-
-
 The quest for data doesn't have to be daunting. With the help of Harmony Discovery, researchers can now locate the relevant datasets they need, specifically targeted for their area of expertise. If you're a researcher focused on Schizophrenia and Psychosis, Harmony Discovery could be a pivotal tool in assisting your work and propelling your studies forward.
 
 ## See also
 
-* [Autism Spectrum Disorder datasets and studies](/discover-data/autism-spectrum-disorder-datasets-and-studies)
+* [Borderline Personality Disorder (BPD) datasets and studies](/discover-data/borderline-personality-disorder-(bpd)-datasets-and-studies)
 
-* [Narcissistic Personality Disorder datasets and studies](/discover-data/narcissistic-personality-disorder-datasets-and-studies)
+* [Anxiety datasets and studies](/discover-data/anxiety-datasets-and-studies)
 
-* [Emotional Problems datasets and studies](/discover-data/emotional-problems-datasets-and-studies)
+* [Eating Disorders datasets and studies](/discover-data/eating-disorders-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

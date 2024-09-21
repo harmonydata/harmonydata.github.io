@@ -21,6 +21,24 @@ Harmony has learned to match variable names and questionnaire items with dataset
 
 Harmony is connected to several data repositories including the UKLLC ([UKLLC](https://explore.ukllc.ac.uk)), Closer, the Catalogue of Mental Health Measures ([Catalogue of Mental Health](https://www.cataloguementalhealth.ac.uk/)), HDR UK ([HDR UK](https://www.hdruk.ac.uk/)), and ADR UK ([ADR UK](https://www.adruk.org/)). 
 
+## What data sources does Harmony Discovery connect to?
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [CLOSER](https://closer.ac.uk/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+
 These connections place a wealth of information at the fingertips of researchers. For instance, datasets such as 'Eating Together: Effects of the Social Context of Eating on Appetite, 2018-2021' investigate the social aspect of eating and its impact on food intake—a critical aspect when examining Eating disorders.
 
 Another dataset, 'The relationship between parental feeding practices and neural responses to food cues in adolescents', provides understanding around the influence of parental feeding habits on their teenage children’s eating behaviors, feeding directly into the research on adolescent eating disorders.
@@ -29,32 +47,14 @@ Another dataset, 'The relationship between parental feeding practices and neural
 
 Datasets such as 'Concepts of Healthy Eating Food Research: Phases I and II, 1992-1996' also provide an anthropological view of the relationship between food choices and health, providing an intersectional exploration of the topic.
 
-
-## What data sources does Harmony Discovery connect to?
-
-* [UKLLC](https://explore.ukllc.ac.uk)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [CLOSER](https://closer.ac.uk/)
-
-{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
-
-{{< youtube cEZppTBj1NI >}}
-
-
 By linking researchers to these diverse repositories and data sets, Harmony Discovery enables a more robust and comprehensive investigation into Eating Disorders. With such a resource, the quality and impact of your research can only be enhanced. So, leverage Harmony Discovery, dive deep into a sea of valuable Eating Disorders datasets, and enlighten the world with your findings.
 
 ## See also
 
-* [Emotional Problems datasets and studies](/discover-data/emotional-problems-datasets-and-studies)
+* [Personality Disorders datasets and studies](/discover-data/personality-disorders-datasets-and-studies)
 
-* [Tobacco Use datasets and studies](/discover-data/tobacco-use-datasets-and-studies)
+* [PTSD datasets and studies](/discover-data/ptsd-datasets-and-studies)
 
-* [Avoidant Personality Disorder datasets and studies](/discover-data/avoidant-personality-disorder-datasets-and-studies)
+* [Psychological Wellbeing datasets and studies](/discover-data/psychological-wellbeing-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

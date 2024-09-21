@@ -23,6 +23,24 @@ Harmony Discovery is connected to several key data sources in the mental health 
 
 When researching Bipolar Disorder or Mania, simply input relevant search parameters, and Harmony Discovery will utilise its powerful matching algorithm to locate corresponding available datasets. 
 
+## What data sources does Harmony Discovery connect to?
+
+* [CLOSER](https://closer.ac.uk/)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+
 For instance, the dataset 'Lived Experience at the Core: A Classification System for Risk-Taking Behaviours in Bipolar' (2022) investigates the high-risk behaviours demonstrated by individuals diagnosed with bipolar disorder. Another available dataset, 'Socio-Psychiatric Survey on Distribution and Aetiology of Psychiatric Disorder' (1975-1976), explores the interplay between life-events and depression.
 
 ## The Bottom Line
@@ -31,32 +49,14 @@ Research in the field of mental health requires a massive amount of data. Whethe
 
 Harmony Discovery significantly simplifies this process. By providing a centralized database of longitudinal datasets, complete with precise search capabilities, it allows researchers to focus on what they do best: interpreting data, drawing conclusions, and pushing the bounds of scientific understanding forward.
 
-
-## What data sources does Harmony Discovery connect to?
-
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [CLOSER](https://closer.ac.uk/)
-
-{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
-
-{{< youtube cEZppTBj1NI >}}
-
-
 With the essential assistance Harmony Discovery provides, uncovering the intricacies of conditions like Bipolar Disorder and Mania has never been more achievable. Happy researching!
 
 ## See also
 
+* [Gambling Behaviour datasets and studies](/discover-data/gambling-behaviour-datasets-and-studies)
+
 * [Somatic Symptom Disorder datasets and studies](/discover-data/somatic-symptom-disorder-datasets-and-studies)
 
-* [Alcohol Use datasets and studies](/discover-data/alcohol-use-datasets-and-studies)
-
-* [Social Skills datasets and studies](/discover-data/social-skills-datasets-and-studies)
+* [Anxiety datasets and studies](/discover-data/anxiety-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

@@ -17,36 +17,36 @@ Related to longitudinal studies, Harmony Discovery facilitates repeated observat
 
 Harmony teems with substance use datasets from prestigious sources such as Closer, the UKLLC, ADR UK, the Catalogue of Mental Health Measures, and HDR UK. For instance, researchers can explore the Substance Misuse Dataset (SMDS), which provides comprehensive information about substance misuse treatment for individuals (both adults and young persons) in Wales.
 
-In another study, researchers have examined the intersection of pregnancy and substance misuse, including two main research domains: how pregnant substance-misusing women and their foetuses are assessed and monitored, and how these women respond to the treatment offered, as well as the supervision of their pregnancies. 
-
-Additionally, researchers can examine categorised medication use, a crucial component of substance use studies. 
-
-
 ## What data sources does Harmony Discovery connect to?
 
 * [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 * [CLOSER](https://closer.ac.uk/)
 
-* [HDR UK](https://www.healthdatagateway.org/)
-
 * [UKLLC](https://explore.ukllc.ac.uk)
 
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}
 
 
+
+In another study, researchers have examined the intersection of pregnancy and substance misuse, including two main research domains: how pregnant substance-misusing women and their foetuses are assessed and monitored, and how these women respond to the treatment offered, as well as the supervision of their pregnancies. 
+
+Additionally, researchers can examine categorised medication use, a crucial component of substance use studies. 
+
 To summarise, Harmony Discovery is not just a tool; it's an enabler of world-changing research. It offers a unique opportunity for researchers to explore available datasets, delve deep into hidden correlations, and bring to life transformative findings in the field of Substance Use. So, whether your research needs an impetus or you're embarking on a new journey in your studies, Harmony Discovery can be your trusted companion.
 
 ## See also
 
-* [Gender Dysphoria datasets and studies](/discover-data/gender-dysphoria-datasets-and-studies)
+* [Depression datasets and studies](/discover-data/depression-datasets-and-studies)
 
-* [Smoking datasets and studies](/discover-data/smoking-datasets-and-studies)
+* [Attachment Disorders datasets and studies](/discover-data/attachment-disorders-datasets-and-studies)
 
-* [Narcissistic Personality Disorder datasets and studies](/discover-data/narcissistic-personality-disorder-datasets-and-studies)
+* [Personality Disorders datasets and studies](/discover-data/personality-disorders-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

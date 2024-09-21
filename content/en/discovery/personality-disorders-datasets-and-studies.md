@@ -25,6 +25,24 @@ Whether you're studying Borderline Personality Disorder, Narcissistic Personalit
 
 You can explore datasets like the Socio-Psychiatric Survey on Distribution and Aetiology of Psychiatric Disorder, the Parenting experience borderline personality disorder traits study, and the Improving Access to Psychological Therapies Data Set, among others.
 
+## What data sources does Harmony Discovery connect to?
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+* [CLOSER](https://closer.ac.uk/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+
 These datasets include information gathered from different perspectives – from practitioners' experiences in dealing with personality disorders to the experiences of individuals coping with these disorders and the impact on their parenting.
 
 ## How to Use Harmony Discovery
@@ -35,32 +53,14 @@ For each dataset, Harmony provides a brief description of its content and the re
 
 ## Conclusion
 
-
-## What data sources does Harmony Discovery connect to?
-
-* [CLOSER](https://closer.ac.uk/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
-
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
-
-{{< youtube cEZppTBj1NI >}}
-
-
 Harmony Discovery not only saves researchers hours of manual searching, but it also opens up new possibilities for discovering data and insights in the field of Personality Disorders. By bridging the gap between researchers and the wealth of data available, Harmony ensures more comprehensive and accurate research in this critical mental health area.
 
 ## See also
 
-* [Psychological Wellbeing datasets and studies](/discover-data/psychological-wellbeing-datasets-and-studies)
+* [Psychological Distress datasets and studies](/discover-data/psychological-distress-datasets-and-studies)
 
-* [Mental Illness datasets and studies](/discover-data/mental-illness-datasets-and-studies)
+* [Personality Disorders datasets and studies](/discover-data/personality-disorders-datasets-and-studies)
 
-* [Substance Use datasets and studies](/discover-data/substance-use-datasets-and-studies)
+* [Asperger'S Syndrome datasets and studies](/discover-data/asperger's-syndrome-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

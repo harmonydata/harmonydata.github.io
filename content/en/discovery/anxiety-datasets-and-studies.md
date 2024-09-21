@@ -23,6 +23,24 @@ Let's look at a few anxiety-related datasets gathered through Harmony's efficien
 
 1. [Beyond Self-Report: A Multi-Method Approach to Characterising Intolerance of Uncertainty, 2018-2021 (855063)](https://reshare.ukdataservice.ac.uk/855063) - This project explores daily uncertainties and their effects on stress levels.
 
+## What data sources does Harmony Discovery connect to?
+
+* [CLOSER](https://closer.ac.uk/)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+
 2. [Maternal Depression and Anxiety Disorders: Longitudinal Secondary Data Analysis, 2020-2022 (856044)](https://reshare.ukdataservice.ac.uk/856044) - This research focuses on the influence of maternal depression and anxiety disorders (MDAD) on children's mental health.
 
 3. [The Impact of Social Anxiety and Instruction on Avoidance, 2021-2022 (856315)](https://reshare.ukdataservice.ac.uk/856315) - This experiment investigates the effects of social anxiety and behavioural avoidance.
@@ -35,32 +53,14 @@ This tool significantly reduces the time spent scouring numerous catalogues or d
 
 Harmony Discovery is not just a tool but a catalyst in accelerating mental health research, giving researchers the data and time they need to make groundbreaking discoveries about conditions like anxiety.
 
-
-## What data sources does Harmony Discovery connect to?
-
-* [UKLLC](https://explore.ukllc.ac.uk)
-
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-* [CLOSER](https://closer.ac.uk/)
-
-{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
-
-{{< youtube cEZppTBj1NI >}}
-
-
 In conclusion, Harmony Discovery is well suited to streamline your search for anxiety-related datasets. Its rich repository and enabling technologies ensure that you are well-equipped to advance your anxiety research, efficiently and effectively.
 
 ## See also
 
-* [Personality Disorders datasets and studies](/discover-data/personality-disorders-datasets-and-studies)
+* [PTSD datasets and studies](/discover-data/ptsd-datasets-and-studies)
 
-* [Cannabis Use datasets and studies](/discover-data/cannabis-use-datasets-and-studies)
+* [Narcissistic Personality Disorder datasets and studies](/discover-data/narcissistic-personality-disorder-datasets-and-studies)
 
-* [Psychosis and Schizophrenia datasets and studies](/discover-data/psychosis-and-schizophrenia-datasets-and-studies)
+* [Social Skills datasets and studies](/discover-data/social-skills-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

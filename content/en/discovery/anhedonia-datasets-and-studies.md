@@ -30,15 +30,15 @@ Another dataset is 'Gen Z and Beyond: A Survey for Every Generation, 2021-2023.'
 
 ## What data sources does Harmony Discovery connect to?
 
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
 * [HDR UK](https://www.healthdatagateway.org/)
 
-* [UKLLC](https://explore.ukllc.ac.uk)
+* [CLOSER](https://closer.ac.uk/)
 
 * [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [CLOSER](https://closer.ac.uk/)
+* [UKLLC](https://explore.ukllc.ac.uk)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -49,10 +49,10 @@ To sum up, whether studying the direct impacts of Anhedonia or exploring this sy
 
 ## See also
 
-* [Anhedonia datasets and studies](/discover-data/anhedonia-datasets-and-studies)
+* [Eating Disorders datasets and studies](/discover-data/eating-disorders-datasets-and-studies)
 
-* [Obsessive Compulsive Disorder (OCD) datasets and studies](/discover-data/obsessive-compulsive-disorder-(ocd)-datasets-and-studies)
+* [Anxiety Sensitivity datasets and studies](/discover-data/anxiety-sensitivity-datasets-and-studies)
 
-* [Social Skills datasets and studies](/discover-data/social-skills-datasets-and-studies)
+* [Behavioural Problems datasets and studies](/discover-data/behavioural-problems-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

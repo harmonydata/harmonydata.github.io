@@ -25,6 +25,24 @@ Harmony boasts a comprehensive and expansive reach, sourcing data from various p
 
 The intuitive design of Harmony Discovery allows researchers to effortlessly browse and analyse longitudinal study datasets. Longitudinal studies, which entail repeated observations of the same subjects over time, are invaluable when studying individual-level changes which is common in gender dysphoria research. Harmony Discovery's design tailors specifically to this research model, facilitating efficient data discovery and extraction.
 
+## What data sources does Harmony Discovery connect to?
+
+* [CLOSER](https://closer.ac.uk/)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+
 ## Diverse Datasets
 
 Unequal gender division of labour, the intersection of class and gender in women's lives, feminisation or feminising sectors, are some of the gender-related topics covered in the datasets Harmony Discovery offers. The platform provides researchers with a rich reservoir of substantial, in-depth information for their investigations.
@@ -33,32 +51,14 @@ Unequal gender division of labour, the intersection of class and gender in women
 
 Researchers can access Harmony Discovery's offerings anytime and from anywhere. The cloud-based setup allows remote access to the data, an especially important feature in today's digital age.
 
-
-## What data sources does Harmony Discovery connect to?
-
-* [UKLLC](https://explore.ukllc.ac.uk)
-
-* [CLOSER](https://closer.ac.uk/)
-
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
-
-{{< youtube cEZppTBj1NI >}}
-
-
 In the pursuit to explore and understand the complex subject of gender dysphoria, Harmony Discovery proves to be an indispensable companion to researchers. Its extensive reach, user-friendly design, and the diverse range of datasets it holds are valuable resources for those delving into this area of study. As research continues to expand, tools like Harmony remain a powerful asset for the academic community.
 
 ## See also
 
-* [Alcohol Use datasets and studies](/discover-data/alcohol-use-datasets-and-studies)
+* [Bipolar and Mania datasets and studies](/discover-data/bipolar-and-mania-datasets-and-studies)
 
-* [Conduct Disorder datasets and studies](/discover-data/conduct-disorder-datasets-and-studies)
+* [ADHD datasets and studies](/discover-data/adhd-datasets-and-studies)
 
-* [Self Harm and Suicide datasets and studies](/discover-data/self-harm-and-suicide-datasets-and-studies)
+* [Dependent Personality Disorder datasets and studies](/discover-data/dependent-personality-disorder-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

@@ -39,13 +39,13 @@ Yet another valuable dataset is [Investigating prospection, imagination, and nav
 
 ## What data sources does Harmony Discovery connect to?
 
-* [HDR UK](https://www.healthdatagateway.org/)
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
 * [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 * [UKLLC](https://explore.ukllc.ac.uk)
 
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+* [HDR UK](https://www.healthdatagateway.org/)
 
 * [CLOSER](https://closer.ac.uk/)
 
@@ -58,10 +58,10 @@ To summarise, Harmony Discovery comes as a boon for researchers working in the f
 
 ## See also
 
-* [Schizophrenia and Psychosis datasets and studies](/discover-data/schizophrenia-and-psychosis-datasets-and-studies)
+* [Depressive Personality Disorder datasets and studies](/discover-data/depressive-personality-disorder-datasets-and-studies)
 
-* [Anxiety datasets and studies](/discover-data/anxiety-datasets-and-studies)
+* [Impairment datasets and studies](/discover-data/impairment-datasets-and-studies)
 
-* [Schizoid Personality Disorder datasets and studies](/discover-data/schizoid-personality-disorder-datasets-and-studies)
+* [Bipolar and Mania datasets and studies](/discover-data/bipolar-and-mania-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

@@ -23,6 +23,24 @@ Harmony employs sophisticated large language models to match questionnaire items
 
 For example, it can share datasets like [The Association between personality and social attitudes in a British context](https://reshare.ukdataservice.ac.uk/852860) or [Parenting experience borderline personality disorder traits: parent and practitioner perspectives](https://reshare.ukdataservice.ac.uk/854245). This implies how easier it makes for researchers to find and access the right kind of data. 
 
+## What data sources does Harmony Discovery connect to?
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+* [CLOSER](https://closer.ac.uk/)
+
+{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+
 ## Benefits of Using Harmony Discovery
 
 The functionality of Harmony Discovery spells numerous benefits for researchers. The ease and speed with which it finds relevant datasets save a significant amount of time and effort. Furthermore, the wide range of sources increases the likelihood of finding high-quality, detailed data.
@@ -31,32 +49,14 @@ Harmony Discovery is especially useful for longitudinal studies, which involve r
 
 So, if you're currently working on a research project centered on personality, temperament, or any related fields, you might want to give Harmony Discovery a try. It could very well hold the key to your next breakthrough. 
 
-
-## What data sources does Harmony Discovery connect to?
-
-* [CLOSER](https://closer.ac.uk/)
-
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
-
-{{< youtube cEZppTBj1NI >}}
-
-
 Start discovering with [Harmony Discovery](https://explore.ukllc.ac.uk) today and see how it can revolutionize your research process!
 
 ## See also
 
-* [Substance Use datasets and studies](/discover-data/substance-use-datasets-and-studies)
+* [Attachment Disorders datasets and studies](/discover-data/attachment-disorders-datasets-and-studies)
 
-* [Personality and Temperament datasets and studies](/discover-data/personality-and-temperament-datasets-and-studies)
+* [Psychological Wellbeing datasets and studies](/discover-data/psychological-wellbeing-datasets-and-studies)
 
-* [Gambling Behaviour datasets and studies](/discover-data/gambling-behaviour-datasets-and-studies)
+* [Social Anxiety Disorder datasets and studies](/discover-data/social-anxiety-disorder-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

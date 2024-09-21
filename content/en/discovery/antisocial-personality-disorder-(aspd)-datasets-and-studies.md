@@ -33,15 +33,15 @@ Here are some examples of the ASPD datasets researchers can analyse:
 
 ## What data sources does Harmony Discovery connect to?
 
-* [UKLLC](https://explore.ukllc.ac.uk)
-
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
-* [CLOSER](https://closer.ac.uk/)
+* [HDR UK](https://www.healthdatagateway.org/)
 
 * [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
-* [HDR UK](https://www.healthdatagateway.org/)
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [CLOSER](https://closer.ac.uk/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -52,10 +52,10 @@ With the mounting need to understand and address mental health conditions such a
 
 ## See also
 
-* [Alcohol Use datasets and studies](/discover-data/alcohol-use-datasets-and-studies)
+* [PTSD datasets and studies](/discover-data/ptsd-datasets-and-studies)
 
-* [Depression datasets and studies](/discover-data/depression-datasets-and-studies)
+* [Self Harm and Suicide datasets and studies](/discover-data/self-harm-and-suicide-datasets-and-studies)
 
-* [Schizophrenia and Psychosis datasets and studies](/discover-data/schizophrenia-and-psychosis-datasets-and-studies)
+* [Eating Disorders datasets and studies](/discover-data/eating-disorders-datasets-and-studies)
 
-* [Discover data on Harmony](/discover-data)
+* [Discover data on Harmony](/discover-data/)

@@ -32,13 +32,13 @@ Through Harmony Discovery, researchers can access data about psychopathy on mult
 
 ## What data sources does Harmony Discovery connect to?
 
+* [HDR UK](https://www.healthdatagateway.org/)
+
 * [CLOSER](https://closer.ac.uk/)
 
 * [UKLLC](https://explore.ukllc.ac.uk)
 
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [HDR UK](https://www.healthdatagateway.org/)
 
 * [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
@@ -51,10 +51,10 @@ In conclusion, Harmony Discovery is integral for researchers searching for datas
 
 ## See also
 
+* [Autism Spectrum Disorder datasets and studies](/discover-data/autism-spectrum-disorder-datasets-and-studies)
+
 * [Narcissistic Personality Disorder datasets and studies](/discover-data/narcissistic-personality-disorder-datasets-and-studies)
 
-* [Paranoid Personality Disorder datasets and studies](/discover-data/paranoid-personality-disorder-datasets-and-studies)
-
-* [Borderline Personality Disorder (BPD) datasets and studies](/discover-data/borderline-personality-disorder-(bpd)-datasets-and-studies)
+* [Obsessive Compulsive Disorder (OCD) datasets and studies](/discover-data/obsessive-compulsive-disorder-(ocd)-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

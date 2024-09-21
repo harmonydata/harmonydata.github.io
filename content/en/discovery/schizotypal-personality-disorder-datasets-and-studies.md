@@ -21,6 +21,24 @@ Harmony Discovery provides access to diverse and extensive mental health data se
 
 For instance, the Socio-Psychiatric Survey on Distribution and Aetiology of Psychiatric Disorder, https://reshare.ukdataservice.ac.uk/851491 Investigating prospection, and the Mental Health Services Data Set are just a few examples of datasets you'll find on Harmony. 
 
+## What data sources does Harmony Discovery connect to?
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [CLOSER](https://closer.ac.uk/)
+
+{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+
 ## Leverage Longitudinal Studies
 
 Longitudinal studies play a key role in understanding Schizotypal Personality Disorder as they involve repeated observations of the same subjects, leading to rich data about changes and trends in individuals over time. Harmony Discovery streamlines the process of finding datasets about longitudinal studies specific to SPD.
@@ -33,32 +51,14 @@ Harmony Discovery utilizes large language models to match questionnaire items an
 
 Harmony Discovery is an incredible tool for any researcher diving into the complex world of Schizotypal Personality Disorder. It brings a wealth of data right to your fingertips, making it easy to discover the most relevant datasets for your studies.
 
-
-## What data sources does Harmony Discovery connect to?
-
-* [CLOSER](https://closer.ac.uk/)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
-
-{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
-
-{{< youtube cEZppTBj1NI >}}
-
-
 Stay in the loop of ongoing SPD research, leverage the powerful features of Harmony Discovery, and contribute invaluably to the field of mental health.
 
 ## See also
 
-* [Anhedonia datasets and studies](/discover-data/anhedonia-datasets-and-studies)
+* [Paranoid Personality Disorder datasets and studies](/discover-data/paranoid-personality-disorder-datasets-and-studies)
 
-* [Behavioural Problems datasets and studies](/discover-data/behavioural-problems-datasets-and-studies)
+* [Depression datasets and studies](/discover-data/depression-datasets-and-studies)
 
-* [Autism datasets and studies](/discover-data/autism-datasets-and-studies)
+* [Alcohol Use datasets and studies](/discover-data/alcohol-use-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

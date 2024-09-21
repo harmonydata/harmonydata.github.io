@@ -40,15 +40,15 @@ In a nutshell, Harmony Discovery is a game-changer for researchers in the social
 
 ## What data sources does Harmony Discovery connect to?
 
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+* [HDR UK](https://www.healthdatagateway.org/)
 
-* [CLOSER](https://closer.ac.uk/)
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
 * [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
-* [UKLLC](https://explore.ukllc.ac.uk)
+* [CLOSER](https://closer.ac.uk/)
 
-* [HDR UK](https://www.healthdatagateway.org/)
+* [UKLLC](https://explore.ukllc.ac.uk)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -59,10 +59,10 @@ If you are examining self harm, suicide or related issues, we invite you to harn
 
 ## See also
 
-* [Impairment datasets and studies](/discover-data/impairment-datasets-and-studies)
+* [PTSD datasets and studies](/discover-data/ptsd-datasets-and-studies)
 
-* [Anxiety Sensitivity datasets and studies](/discover-data/anxiety-sensitivity-datasets-and-studies)
+* [Depression datasets and studies](/discover-data/depression-datasets-and-studies)
 
-* [Schizoid Personality Disorder datasets and studies](/discover-data/schizoid-personality-disorder-datasets-and-studies)
+* [Antisocial Behaviour datasets and studies](/discover-data/antisocial-behaviour-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

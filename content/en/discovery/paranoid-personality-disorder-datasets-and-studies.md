@@ -24,6 +24,24 @@ As a result, searching for and sourcing datasets become more efficient and accur
 To showcase the strength of Harmony Discovery, we examine three distinct datasets focused on topics relevant to PPD:
 
 - **Dataset 853978**: [Cognitive bias modification for paranoia, feasibility study: Main and interim datasets 2015-2017](https://reshare.ukdataservice.ac.uk/853978/). This investigated the feasibility of a cognitive intervention for clinical paranoia, compared to a control group engaging in regular text reading.
+
+## What data sources does Harmony Discovery connect to?
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [CLOSER](https://closer.ac.uk/)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
   
 - **Dataset 851072**: [Mechanisms of catastrophic worrying](https://reshare.ukdataservice.ac.uk/851072/). This study sought to comprehend why individuals with anxiety disorders (often coinciding with PPD) retain bouts of worry despite the distress it invokes.
   
@@ -31,32 +49,14 @@ To showcase the strength of Harmony Discovery, we examine three distinct dataset
 
 Each dataset can provide invaluable insights into the patterns, cognitive biases, and mechanisms associated with PPD and its related conditions.
 
-
-## What data sources does Harmony Discovery connect to?
-
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [CLOSER](https://closer.ac.uk/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
-
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
-
-{{< youtube cEZppTBj1NI >}}
-
-
 By implementing tools like Harmony Discovery, researchers navigating the vast seas of data can significantly expedite their exploration process while ensuring robust investigation into critical topics like PPD. The harmonisation of data discovery is the future of social sciences research, and it is available now, ready to be harnessed.
 
 ## See also
 
-* [Psychosis and Schizophrenia datasets and studies](/discover-data/psychosis-and-schizophrenia-datasets-and-studies)
+* [Attachment Disorders datasets and studies](/discover-data/attachment-disorders-datasets-and-studies)
 
-* [Antisocial Behaviour datasets and studies](/discover-data/antisocial-behaviour-datasets-and-studies)
+* [Anxiety Sensitivity datasets and studies](/discover-data/anxiety-sensitivity-datasets-and-studies)
 
-* [Personality Disorders datasets and studies](/discover-data/personality-disorders-datasets-and-studies)
+* [Social Anxiety Disorder datasets and studies](/discover-data/social-anxiety-disorder-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

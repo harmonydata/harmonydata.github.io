@@ -27,6 +27,24 @@ Here are some examples of Histrionic Personality Disorder datasets that can be f
 
 - **1086 Socio-Psychiatric Survey on Distribution and Aetiology of Psychiatric Disorder**: This survey focuses on psycho-social factors in the aetiology of psychiatric disorder, paying particular attention to the relationship between life-events and depression.
 
+## What data sources does Harmony Discovery connect to?
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [CLOSER](https://closer.ac.uk/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+
 - **Improving Access to Psychological Therapies Data Set**: This active dataset focuses on bettering access to psychological therapy, which plays an integral part in treating Histrionic Personality Disorder.
 
 - **854245 Parenting experience borderline personality disorder traits**: This qualitative data study seeks to understand the parenting experience and support required for those with traits similar to Histrionic Personality Disorder.
@@ -37,32 +55,14 @@ Longitudinal studies, which involve repeated observations of the same subjects, 
 
 In the fast-paced world of mental health research, access to accurate and relevant datasets is crucial. By significantly reducing the time and effort needed to find applicable datasets, tools like Harmony Discovery enable researchers to concentrate their efforts more on analysis and interpretation.
 
-
-## What data sources does Harmony Discovery connect to?
-
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [CLOSER](https://closer.ac.uk/)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
-
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
-
-{{< youtube cEZppTBj1NI >}}
-
-
 Harmony Discovery, bridging the gap between researchers and data in the realm of Histrionic Personality Disorder, is indeed an integral resource in the ever-progressing pursuit of enhancing our understanding of mental health.
 
 ## See also
 
-* [Eating Disorders datasets and studies](/discover-data/eating-disorders-datasets-and-studies)
+* [Alexithymia datasets and studies](/discover-data/alexithymia-datasets-and-studies)
 
-* [Antisocial Personality Disorder (ASPD) datasets and studies](/discover-data/antisocial-personality-disorder-(aspd)-datasets-and-studies)
+* [Psychological Distress datasets and studies](/discover-data/psychological-distress-datasets-and-studies)
 
-* [Social Anxiety Disorder datasets and studies](/discover-data/social-anxiety-disorder-datasets-and-studies)
+* [Autism datasets and studies](/discover-data/autism-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

@@ -23,38 +23,38 @@ Through Harmony's connection to numerous data sources including the UKLLC, Close
 
 For example, look into the Socio-Psychiatric Survey on Distribution and Aetiology of Psychiatric Disorder, 1975-1976 at the Lewis and North Uist. This dataset focuses on the correlation between life-events, difficulties, depression, and their role in the genesis of psychiatric disorders.
 
-Another dataset worth exploring is "Investigating prospection, imagination, and navigation in individuals with autism spectrum disorder" (https://reshare.ukdataservice.ac.uk/851491). This neuropsychology dataset imparts breakthrough insights into the impairment of episodic memory and future thinking in high-functioning autism spectrum disorder. This study may provide valuable cues to similar impairments in Schizoid Personality Disorder patients.
-
-And the Mental Health Services Data Set provides a snapshot of the real-time usage of mental health services, a crucial component in addressing public health anomalies presented by disorders like SPD.
-
-## Bottomline
-
-
 ## What data sources does Harmony Discovery connect to?
 
-* [HDR UK](https://www.healthdatagateway.org/)
-
 * [CLOSER](https://closer.ac.uk/)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
 
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
 * [UKLLC](https://explore.ukllc.ac.uk)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}
 
 
+
+Another dataset worth exploring is "Investigating prospection, imagination, and navigation in individuals with autism spectrum disorder" (https://reshare.ukdataservice.ac.uk/851491). This neuropsychology dataset imparts breakthrough insights into the impairment of episodic memory and future thinking in high-functioning autism spectrum disorder. This study may provide valuable cues to similar impairments in Schizoid Personality Disorder patients.
+
+And the Mental Health Services Data Set provides a snapshot of the real-time usage of mental health services, a crucial component in addressing public health anomalies presented by disorders like SPD.
+
+## Bottomline
+
 Harmony Discovery is your go-to source to unlock a vault of valuable data sets pertaining to Schizoid Personality Disorder. Whether you are seeking to develop new theories, discovering patterns, or simply interested in learning, Harmony Discovery serves to fuel your curiosity and support your research. Conduct your studies with a newfound depth and richness, and see the enigmas of the mind unfold.
 
 ## See also
 
-* [Tobacco Use datasets and studies](/discover-data/tobacco-use-datasets-and-studies)
+* [Histrionic Personality Disorder datasets and studies](/discover-data/histrionic-personality-disorder-datasets-and-studies)
 
-* [ADHD datasets and studies](/discover-data/adhd-datasets-and-studies)
+* [Self Harm and Suicide datasets and studies](/discover-data/self-harm-and-suicide-datasets-and-studies)
 
-* [Somatic Symptom Disorder datasets and studies](/discover-data/somatic-symptom-disorder-datasets-and-studies)
+* [Conduct Disorder datasets and studies](/discover-data/conduct-disorder-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

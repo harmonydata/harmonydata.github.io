@@ -32,15 +32,15 @@ Longitudinal studies are particularly informative for researchers as they allow 
 
 ## What data sources does Harmony Discovery connect to?
 
-* [CLOSER](https://closer.ac.uk/)
-
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [CLOSER](https://closer.ac.uk/)
 
 * [UKLLC](https://explore.ukllc.ac.uk)
 
-* [HDR UK](https://www.healthdatagateway.org/)
-
 * [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -51,10 +51,10 @@ The vast array of datasets made available by Harmony Discovery provides research
 
 ## See also
 
-* [Attachment Disorders datasets and studies](/discover-data/attachment-disorders-datasets-and-studies)
+* [Schizophrenia and Psychosis datasets and studies](/discover-data/schizophrenia-and-psychosis-datasets-and-studies)
 
-* [Gambling Behaviour datasets and studies](/discover-data/gambling-behaviour-datasets-and-studies)
+* [Alcohol Use datasets and studies](/discover-data/alcohol-use-datasets-and-studies)
 
-* [Social Skills datasets and studies](/discover-data/social-skills-datasets-and-studies)
+* [Psychological Distress datasets and studies](/discover-data/psychological-distress-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

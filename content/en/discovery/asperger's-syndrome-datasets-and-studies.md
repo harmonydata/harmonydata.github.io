@@ -25,6 +25,24 @@ Distinctive to Harmony, it concentrates on longitudinal studies that allow repea
 
 Harmony services social science researchers by assisting in finding datasets with longitudinal data on Asperger's Syndrome. For example, these datasets include:
 
+## What data sources does Harmony Discovery connect to?
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+* [CLOSER](https://closer.ac.uk/)
+
+{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+
 - [Conversational Alignment in Children with an Autistic Spectrum Condition and Typically Developing Children, 2017-2022](https://reshare.ukdataservice.ac.uk/855583/)
 - [Savants, autism spectrum conditions and control profile data 2013-2016](https://reshare.ukdataservice.ac.uk/853449/)
 - [Eyewitness testimony by adults with autism spectrum disorder](https://reshare.ukdataservice.ac.uk/851109/)
@@ -45,32 +63,14 @@ So whether you're looking to investigate conversational alignment in children wi
 
 Why ponder while Harmony can uncover? Start your research expedition now!
 
-
-## What data sources does Harmony Discovery connect to?
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
-
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [CLOSER](https://closer.ac.uk/)
-
-{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
-
-{{< youtube cEZppTBj1NI >}}
-
-
 ---
 
 ## See also
 
-* [Asperger'S Syndrome datasets and studies](/discover-data/asperger's-syndrome-datasets-and-studies)
+* [Substance Use datasets and studies](/discover-data/substance-use-datasets-and-studies)
 
-* [Personality Disorders datasets and studies](/discover-data/personality-disorders-datasets-and-studies)
+* [Cannabis Use datasets and studies](/discover-data/cannabis-use-datasets-and-studies)
 
-* [Narcissistic Personality Disorder datasets and studies](/discover-data/narcissistic-personality-disorder-datasets-and-studies)
+* [Conduct Disorder datasets and studies](/discover-data/conduct-disorder-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

@@ -21,36 +21,36 @@ A few examples include the '1647 Surveys on Smoking, 6-11 July, 1976', '1649 Sur
 
 Harmony Discovery leverages the power of large language models to match questionnaire items and variable names. By doing so, it makes it exceedingly simple and efficient to find related datasets. This smart tool has connected to several prolific data sources which include [UKLLC](https://explore.ukllc.ac.uk), [Closer](https://www.closer.ac.uk/), [The Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/), [HDR UK](https://www.hdruk.ac.uk), and [ADR UK](https://www.adruk.org/). The integration of these sources ensures a wide variety of relevant datasets at researchers' fingertips.
 
-## Empowering Tobacco Use Research
-
-Harmony Discovery is effectively empowering quality research on tobacco use. By connecting researchers to the right datasets quickly and efficiently, it allows them to focus more on their analyses and less on data acquisition.
-
-
 ## What data sources does Harmony Discovery connect to?
+
+* [UKLLC](https://explore.ukllc.ac.uk)
 
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
 * [CLOSER](https://closer.ac.uk/)
 
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
-
 * [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}
 
 
+
+## Empowering Tobacco Use Research
+
+Harmony Discovery is effectively empowering quality research on tobacco use. By connecting researchers to the right datasets quickly and efficiently, it allows them to focus more on their analyses and less on data acquisition.
+
 If you are a social science researcher looking to make an impact through insightful studies into tobacco use and consumption behaviour, get started with Harmony Discovery today. It will help you discover comprehensive, high-quality datasets, and perhaps, your next breakthrough finding.
 
 ## See also
 
+* [Personality Disorders datasets and studies](/discover-data/personality-disorders-datasets-and-studies)
+
+* [Personality and Temperament datasets and studies](/discover-data/personality-and-temperament-datasets-and-studies)
+
 * [Narcissistic Personality Disorder datasets and studies](/discover-data/narcissistic-personality-disorder-datasets-and-studies)
-
-* [Schizophrenia and Psychosis datasets and studies](/discover-data/schizophrenia-and-psychosis-datasets-and-studies)
-
-* [Social Anxiety Disorder datasets and studies](/discover-data/social-anxiety-disorder-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

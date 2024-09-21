@@ -25,6 +25,24 @@ The Harmony Discovery tool sources data from a broad range of archives. These in
 
 Given the nuances associated with Alexithymia, the condition provides ample opportunities for complex and rich research. Beyond the challenge of mapping and understanding the emotional landscape of an individual experiencing Alexithymia, it's crucial to explore the practical implications, such as how these individuals interact with healthcare systems. 
 
+## What data sources does Harmony Discovery connect to?
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+* [CLOSER](https://closer.ac.uk/)
+
+{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+
 Here are some examples of datasets Harmony can help researchers discover:
 
 1. ***Deeply phenotyped sepsis patients within hospital:*** This dataset is beneficial for those interested in exploring the relationships between Alexithymia, sepsis, and treatment outcomes. 
@@ -35,30 +53,14 @@ Here are some examples of datasets Harmony can help researchers discover:
 
 In the quest to understand Alexithymia better, datasets such as these provide a treasure trove of insights. With Harmony Discovery, accessing these insights becomes profoundly simpler and quicker. 
 
-
-{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
-
-{{< youtube cEZppTBj1NI >}}
-
-
 So, if you happen to be a researcher passionate about understanding human emotion better, give Harmony Discovery a go. It's a world of data, distilled into a tool, created just for you.
-
-## What data sources does Harmony Discovery connect to?
-
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [CLOSER](https://closer.ac.uk/)
-
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-* [UKLLC](https://explore.ukllc.ac.uk)
 
 ## See also
 
-* [Dependent Personality Disorder datasets and studies](/discover-data/dependent-personality-disorder-datasets-and-studies)
+* [PTSD datasets and studies](/discover-data/ptsd-datasets-and-studies)
 
-* [Schizotypal Personality Disorder datasets and studies](/discover-data/schizotypal-personality-disorder-datasets-and-studies)
+* [Psychopathy datasets and studies](/discover-data/psychopathy-datasets-and-studies)
 
 * [Autism Spectrum Disorder datasets and studies](/discover-data/autism-spectrum-disorder-datasets-and-studies)
+
+* [Discover data on Harmony](/discover-data/)

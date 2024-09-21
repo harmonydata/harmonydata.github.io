@@ -25,6 +25,24 @@ To begin using Harmony Discovery, you'll want to navigate to key datasets which 
 
 - [An exploration of emotional health interventions in English secondary schools](https://reshare.ukdataservice.ac.uk/850117) tackles the impact of emotional distress which first occurs in adolescence.
 
+## What data sources does Harmony Discovery connect to?
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [CLOSER](https://closer.ac.uk/)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+
 These resources will offer invaluable insight into the study of psychological distress and how it impacts various facets of society.
 
 ## Leveraging Harmony Discovery's Features
@@ -37,32 +55,14 @@ What's more, Harmony Discovery maintains connections to an array of reliable dat
 
 ## Conclusion
 
-
-## What data sources does Harmony Discovery connect to?
-
-* [UKLLC](https://explore.ukllc.ac.uk)
-
-* [HDR UK](https://www.healthdatagateway.org/)
-
-* [CLOSER](https://closer.ac.uk/)
-
-* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
-
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-{{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
-
-{{< youtube cEZppTBj1NI >}}
-
-
 With more resources at our disposal than ever before, navigating the world of psychological distress research can feel overwhelming. That's why Harmony Discovery is the perfect tool to easily and accurately locate crucial datasets. Embarking on important research requires the best tools; start your journey today.
 
 ## See also
 
-* [Asperger'S Syndrome datasets and studies](/discover-data/asperger's-syndrome-datasets-and-studies)
+* [Gender Dysphoria datasets and studies](/discover-data/gender-dysphoria-datasets-and-studies)
 
-* [Impairment datasets and studies](/discover-data/impairment-datasets-and-studies)
+* [Anhedonia datasets and studies](/discover-data/anhedonia-datasets-and-studies)
 
-* [Cannabis Use datasets and studies](/discover-data/cannabis-use-datasets-and-studies)
+* [Somatic Symptom Disorder datasets and studies](/discover-data/somatic-symptom-disorder-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

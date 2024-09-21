@@ -42,15 +42,15 @@ Like many powerful tools, Harmony is also quite versatile. Whether you're lookin
 
 ## What data sources does Harmony Discovery connect to?
 
-* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
-
-* [CLOSER](https://closer.ac.uk/)
-
 * [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
 
 * [HDR UK](https://www.healthdatagateway.org/)
 
 * [UKLLC](https://explore.ukllc.ac.uk)
+
+* [CLOSER](https://closer.ac.uk/)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
 
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
@@ -61,10 +61,10 @@ In conclusion, Harmony Discovery is a vital resource for researchers in Gambling
 
 ## See also
 
+* [Bipolar Disorder and Mania datasets and studies](/discover-data/bipolar-disorder-and-mania-datasets-and-studies)
+
+* [Tobacco Use datasets and studies](/discover-data/tobacco-use-datasets-and-studies)
+
 * [Impairment datasets and studies](/discover-data/impairment-datasets-and-studies)
-
-* [Borderline Personality Disorder (BPD) datasets and studies](/discover-data/borderline-personality-disorder-(bpd)-datasets-and-studies)
-
-* [Self Harm and Suicide datasets and studies](/discover-data/self-harm-and-suicide-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

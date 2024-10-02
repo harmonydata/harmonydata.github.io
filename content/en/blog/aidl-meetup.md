@@ -50,9 +50,9 @@ The AI|DL AI meetup is sponsored by [Daemon](https://www.dae.mn/).
 
 07:05pm - A short talk from our hosts Daemon
 
-07:10pm - Thomas Wood, Director of [Fast Data Science](https://fastdatascience.com/) "Project Harmony: a free online tool using LLMs for research in psychology and social sciences"
+07:10pm - Thomas Wood, Director of [Fast Data Science](https://fastdatascience.com/) [Project Harmony: a free online tool using LLMs for research in psychology and social sciences](https://fastdatascience.com/ai-in-research/aidl-meetup/)
 
-Thomas Wood will present our work on Harmony, harmonydata.ac.uk, which is a free online tool that uses generative AI and LLMs to help researchers compare items in questionnaires such as GAD-7 (used to measure anxiety), even when they are written in different languages. Harmony is open source under MIT License and is written in Python, and uses HuggingFace Sentence Transformers to find similarities between questionnaires. Harmony will soon allow researchers to discover datasets using a vector search.
+Thomas Wood will present our work on Harmony, harmonydata.ac.uk, which is a free online tool that uses generative AI and LLMs to help researchers compare items in questionnaires such as GAD-7 (used to measure anxiety), even when they are written in different languages. Harmony is open source under MIT License and is written in Python, and uses [HuggingFace Sentence Transformers](/measuring-the-performance-of-nlp-algorithms/) to find similarities between questionnaires. Harmony will soon allow researchers to discover datasets using a vector search.
 
 07:50pm - Break
 

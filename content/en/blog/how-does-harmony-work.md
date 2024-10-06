@@ -4,7 +4,11 @@ description: When you input two questionnaires into Harmony, such as the GAD-7 a
 date: 2022-11-03
 categories: ["nlp"]
 image: /images/blog/harmony-1.png
-aliases: "/blog/how-does-harmony-work"
+
+aliases:
+  - "/blog/how-does-harmony-work"
+  - "/how-does-harmony-work"
+url: "/nlp-semantic-text-matching/how-does-harmony-work/"
 ---
 
 When you input two questionnaires into Harmony, such as the [GAD-7](https://en.wikipedia.org/wiki/Generalized_Anxiety_Disorder_7) and [Beck’s Anxiety Inventory](https://res.cloudinary.com/dpmykpsih/image/upload/great-plains-health-site-358/media/1087/anxiety.pdf), Harmony is able to match similar questions and assign a number to the match. (I have written another blog post on [how we measured Harmony’s performance in terms of AUC](https://harmonydata.ac.uk/measuring-the-performance-of-nlp-algorithms/)).
@@ -120,7 +124,7 @@ With an aim to make our research as accessible to the public as possible, we hav
 
 ## What’s next for Harmony?
 
-### Likert scale [matching](https://harmonydata.ac.uk/semantic-text-matching-with-deep-learning-transformer-models)
+### Likert scale [matching](/nlp-semantic-text-matching/)
 
 The questions often come with a set of options such as *definitely not, somewhat anxious*, and the like. These are often a form of [Likert scale](https://en.wikipedia.org/wiki/Likert_scale). We would like to apply the same logic to match the candidate answers in a question, and identify when questions have opposite polarity (*I often feel anxious* vs *I rarely feel anxious*).
 

@@ -9,7 +9,7 @@ image: /images/blog/ccd.png
 aliases:
   - "/blog/how-far-can-we-go-with-harmony-testing-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe"
   - "/how-far-can-we-go-with-harmony-testing-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/"
-url: "/nlp-semantic-text-matching-with-deep-learning-transformer-models/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/"
+url: "/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/"
 ---
 
 Many psychologists believe that mental illnesses can vary across cultures. In 1904, [Emil Kraepelin](https://en.wikipedia.org/wiki/Emil_Kraepelin) initiated the field of comparative psychiatry after studying mental health disorders in Java, writing that _“Die Eigenart eines Volkes wird auch in der Häufigkeit und klinischen Gestaltung seiner Geistesstörungen zum Ausdruck kommen,”_ meaning “The peculiarity of a people[ethnic group] will also be expressed in the frequency and clinical form of its mental disorders.”[1]
@@ -59,7 +59,7 @@ Although English is the best-resource language for [natural language processing]
 
 Above: the text of the Shona symptom questionnaire for the detection of depression and anxiety.
 
-A problem I encountered was that the [transformer model](/nlp-semantic-text-matching-with-deep-learning-transformer-models/) didn’t work for both Shona and English (it’s not multilingual, like Harmony’s default transformer model). I Google translated [GHQ-12](/ghq-12-vs-beck-anxiety-inventory) into Shona as a temporary measure.
+A problem I encountered was that the [transformer model](/nlp-semantic-text-matching/) didn’t work for both Shona and English (it’s not multilingual, like Harmony’s default transformer model). I Google translated [GHQ-12](/ghq-12-vs-beck-anxiety-inventory) into Shona as a temporary measure.
 
 Also, the transformer model did not operate as a sentence transformer, but rather as a token-level transformer, so my sentence vectors were made by averaging token vectors across an input.
 
@@ -74,7 +74,7 @@ Also, when we are using English and Portuguese texts, which has until now been o
 
 ## Further reading
 
-You may want to read about my [experiments with semantic text matching with deep learning transformer models](/nlp-semantic-text-matching-with-deep-learning-transformer-models/).
+You may want to read about my [experiments with semantic text matching with deep learning transformer models](/nlp-semantic-text-matching/).
 
 ## References
 

@@ -130,7 +130,7 @@ Data harmonisation is not a theoretical concept but a practical necessity across
 {{< youtube cEZppTBj1NI >}}
 
 
-Tools like Harmony, designed specifically for the retrospective harmonisation of questionnaire items, are invaluable in research and data analysis. They allow for the comparison and combination of data from different studies or time periods, which is crucial in fields like social sciences, healthcare, and market research.
+Tools like Harmony, designed specifically for the [retrospective harmonisation of questionnaire items](/data-harmonisation/back-to-the-future-retrospectively-harmonising-questionnaire-data/), are invaluable in research and data analysis. They allow for the comparison and combination of data from different studies or time periods, which is crucial in fields like social sciences, healthcare, and market research.
 
 **Perspectives from EPAM and TIBCO**
 Companies like EPAM and TIBCO highlight the strategic importance of data harmonisation. They emphasize how it can provide a competitive edge by ensuring data consistency across an organization, improving decision-making, and streamlining operations.

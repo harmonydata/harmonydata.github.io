@@ -4,6 +4,12 @@ description: "Discover expert strategies for questionnaire harmonisation with Ha
 date: 2024-04-16
 categories: ["data"]
 image: "/images/10- How to harmonise questionnaires - X practical steps.svg"
+
+
+
+aliases:
+  - "/harmonising-questionnaire-data-10-1-practical-steps-for-enhanced-consistency/"
+url: "/data-harmonisation/harmonising-questionnaire-data-consistency/"
 ---
 
 # **How to Harmonise Questionnaires - 10 Practical Steps (+ 1 Bonus Tip)**
@@ -14,7 +20,7 @@ This quote really highlights the importance of effective questionnaires. They're
 
 This is where the challenge of non-harmonised data comes in, and it truly can be a problem when you have differently formatted surveys with different questions and scales. The questionnaires might not even be in the same language. Analysing the data straight-up is like trying to complete a jigsaw puzzle where the pieces are from different sets (it’s quite literally impossible). So, we need to get our questionnaires to work in harmony with each other.
 
-In this guide, you'll discover 10 practical steps – and we've thrown in an extra one for good measure – to assist you in the harmonisation of questionnaire data. These data harmonisation steps are designed to make the process smoother, so that your collected data is not just abundant but also rich in insights and meaning.
+In this guide, you'll discover 10 practical steps – and we've thrown in an extra one for good measure – to assist you in the harmonisation of questionnaire data. These [data harmonisation](/data-harmonisation/) steps are designed to make the process smoother, so that your collected data is not just abundant but also rich in insights and meaning.
 
 ## **1\. Define Clear Objectives**
 

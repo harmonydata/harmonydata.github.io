@@ -6,7 +6,7 @@ categories: ["nlp"]
 image: /images/blog/gad7-becks.jpg
 aliases: ['/semantic-text-matching-with-deep-learning-transformer-models/']
 
-url: "/nlp-semantic-text-matching-with-deep-learning-transformer-models/"
+url: "/nlp-semantic-text-matching/"
 ---
 
 Semantic text matching is a task in [natural language processing](https://naturallanguageprocessing.com/) involving estimating the semantic [similarity](https://fastdatascience.com/finding-similar-documents-nlp/) between two texts. For example, if we had to quantify the similarity between “I feel nervous” and “I feel anxious”, most people would agree that these are closer together than either sentence is to “I feel happy”. A semantic text matching algorithm would be able to place a number on the similarity, such as 79%.
@@ -35,4 +35,4 @@ Transformer models have proven to be very effective in semantic text matching. T
 
 ## See also
 
-* [Harmony on "kufungisisa": a cultural concept of distress from Zimbabwe](/nlp-semantic-text-matching-with-deep-learning-transformer-models/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/)
+* [Harmony on "kufungisisa": a cultural concept of distress from Zimbabwe](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/)

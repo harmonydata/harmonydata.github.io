@@ -3,7 +3,7 @@ title: "10 Data Harmonisation Examples That Move Businesses and Organisations Fo
 description: "Unlock Data Harmonisation with Harmony: Transform Your Research & Analysis. Explore Harmony for seamless data harmonisation. Dive into our guide on using this tool to enhance research, attract collaborations, and drive insights."
 date: 2024-02-27
 categories: ["data"]
-image: "/images/01- X Data harmonisation examples that move businessess and organizations forward.svg"
+image: "/images/01-data-harmonisation-examples-businesses.svg"
 aliases:
   - "/10-data-harmonisation-examples-that-move-businesses-and-organisations-forward/"
 url: "/data-harmonisation/10-data-harmonisation-examples-that-move-businesses-and-organisations-forward/"

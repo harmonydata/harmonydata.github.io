@@ -191,7 +191,7 @@ languages:
         parent: Useful links
         weight: 40
       - name: GAD-7 vs PHQ-9
-        url: "/gad-7-vs-phq-9"
+        url: "/compare-harmonise-instruments/gad-7-vs-phq-9/"
         parent: Useful links
         weight: 60
       - name: Discover anxiety datasets and studies

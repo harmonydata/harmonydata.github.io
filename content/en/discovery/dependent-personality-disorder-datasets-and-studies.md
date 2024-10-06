@@ -53,10 +53,10 @@ Relevant, high-quality data is the lifeblood of accurate and path-breaking resea
 
 ## See also
 
-* [Obsessive Compulsive Disorder (OCD) datasets and studies](/discover-data/obsessive-compulsive-disorder-(ocd)-datasets-and-studies)
+* [Obsessive Compulsive Disorder (OCD) datasets and studies](/discover-data/obsessive-compulsive-disorder-ocd-datasets-and-studies)
 
 * [Histrionic Personality Disorder datasets and studies](/discover-data/histrionic-personality-disorder-datasets-and-studies)
 
-* [Asperger'S Syndrome datasets and studies](/discover-data/asperger's-syndrome-datasets-and-studies)
+* [Asperger'S Syndrome datasets and studies](/discover-data/aspergers-syndrome-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

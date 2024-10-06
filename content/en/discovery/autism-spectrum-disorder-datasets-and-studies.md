@@ -53,7 +53,7 @@ In summary, Harmony Discovery optimizes the process of locating relevant dataset
 
 * [Self Harm and Suicide datasets and studies](/discover-data/self-harm-and-suicide-datasets-and-studies)
 
-* [Asperger'S Syndrome datasets and studies](/discover-data/asperger's-syndrome-datasets-and-studies)
+* [Asperger'S Syndrome datasets and studies](/discover-data/aspergers-syndrome-datasets-and-studies)
 
 * [Personality and Temperament datasets and studies](/discover-data/personality-and-temperament-datasets-and-studies)
 

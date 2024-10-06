@@ -36,7 +36,7 @@ The Harmony team is working on Harmony Discovery, which will allow social scient
 
 * [Psychosis and Schizophrenia datasets and studies](/discover-data/psychosis-and-schizophrenia-datasets-and-studies)
 
-* [Asperger'S Syndrome datasets and studies](/discover-data/asperger's-syndrome-datasets-and-studies)
+* [Asperger'S Syndrome datasets and studies](/discover-data/aspergers-syndrome-datasets-and-studies)
 
 * [Attachment Disorders datasets and studies](/discover-data/attachment-disorders-datasets-and-studies)
 
@@ -56,7 +56,7 @@ The Harmony team is working on Harmony Discovery, which will allow social scient
 
 * [Social Anxiety Disorder datasets and studies](/discover-data/social-anxiety-disorder-datasets-and-studies)
 
-* [Antisocial Personality Disorder (ASPD) datasets and studies](/discover-data/antisocial-personality-disorder-(aspd)-datasets-and-studies)
+* [Antisocial Personality Disorder (ASPD) datasets and studies](/discover-data/antisocial-personality-disorder-aspd-datasets-and-studies)
 
 * [Bipolar Disorder and Mania datasets and studies](/discover-data/bipolar-disorder-and-mania-datasets-and-studies)
 
@@ -92,7 +92,7 @@ The Harmony team is working on Harmony Discovery, which will allow social scient
 
 * [Conduct Disorder datasets and studies](/discover-data/conduct-disorder-datasets-and-studies)
 
-* [Borderline Personality Disorder (BPD) datasets and studies](/discover-data/borderline-personality-disorder-(bpd)-datasets-and-studies)
+* [Borderline Personality Disorder (BPD) datasets and studies](/discover-data/borderline-personality-disorder-bpd-datasets-and-studies)
 
 * [Behavioural Problems datasets and studies](/discover-data/behavioural-problems-datasets-and-studies)
 
@@ -110,7 +110,7 @@ The Harmony team is working on Harmony Discovery, which will allow social scient
 
 * [Dependent Personality Disorder datasets and studies](/discover-data/dependent-personality-disorder-datasets-and-studies)
 
-* [Obsessive Compulsive Disorder (OCD) datasets and studies](/discover-data/obsessive-compulsive-disorder-(ocd)-datasets-and-studies)
+* [Obsessive Compulsive Disorder (OCD) datasets and studies](/discover-data/obsessive-compulsive-disorder-ocd-datasets-and-studies)
 
 * [Gender Dysphoria datasets and studies](/discover-data/gender-dysphoria-datasets-and-studies)
 

@@ -59,6 +59,6 @@ In conclusion, Harmony Discovery provides an invaluable resource for novice and 
 
 * [Narcissistic Personality Disorder datasets and studies](/discover-data/narcissistic-personality-disorder-datasets-and-studies)
 
-* [Asperger'S Syndrome datasets and studies](/discover-data/asperger's-syndrome-datasets-and-studies)
+* [Asperger'S Syndrome datasets and studies](/discover-data/aspergers-syndrome-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

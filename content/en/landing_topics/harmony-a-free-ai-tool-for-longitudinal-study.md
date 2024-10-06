@@ -6,7 +6,7 @@ url: /item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study
 
 ## Harmony: A Free AI Tool for Longitudinal Studies
 
-Harmony is a powerful software designed specifically for psychologists and social scientists. Its main purpose is to assist researchers in harmonising questionnaire items in longitudinal studies, saving time and improving accuracy.
+Harmony is a powerful software designed specifically for psychologists and social scientists. Its main purpose is to assist researchers in [harmonising questionnaire items](/item-harmonisation/) in longitudinal studies, saving time and improving accuracy.
 
 {{< card heading="Try Harmony" copy=" Harmony: A Free AI Tool for Longitudinal Study " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}

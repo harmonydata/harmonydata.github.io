@@ -9,11 +9,11 @@ image: "/images/world.png"
 
 ## Accepted project ideas
 
-Below you can see the list of project ideas aligned with Harmony's standards, all designed to elevate the functionality and accessibility of Harmony. These proposals aim to fortify Harmony as a comprehensive tool for researchers navigating questionnaire item harmonization across diverse studies. Each idea maintains a clear scope, typically avoiding extensive overhauls. Quick-start guidelines and beginner-friendly tasks are provided for each idea. We encourage contributors to join mentor teams and GSoC applicants to submit proposals aligned with these concepts.
+Below you can see the list of project ideas aligned with Harmony's standards, all designed to elevate the functionality and accessibility of Harmony. These proposals aim to fortify Harmony as a comprehensive tool for researchers navigating questionnaire item harmonisation across diverse studies. Each idea maintains a clear scope, typically avoiding extensive overhauls. Quick-start guidelines and beginner-friendly tasks are provided for each idea. We encourage contributors to join mentor teams and GSoC applicants to submit proposals aligned with these concepts.
 
 ### Integrate p-values in Harmony's output
 
-We have a need to provide p-values instead of just the current Cosine similarity metric, in order to provide researchers with enhanced statistical insights, facilitating a more comprehensive analysis of harmonized questionnaire items
+We have a need to provide p-values instead of just the current Cosine similarity metric, in order to provide researchers with enhanced statistical insights, facilitating a more comprehensive analysis of harmonised questionnaire items
 
 **More information:** [https://github.com/harmonydata/harmony/issues](https://github.com/harmonydata/harmony/issues)
 
@@ -28,7 +28,7 @@ We have a need to provide p-values instead of just the current Cosine similarity
 
 ### Integrate with more LLMs
 
-Extend Harmony's capabilities by integrating with advanced language models like GPT-3 and GPT-4, enabling more sophisticated natural language processing for improved harmonization
+Extend Harmony's capabilities by integrating with advanced language models like GPT-3 and GPT-4, enabling more sophisticated natural language processing for improved harmonisation
 
 **More information:** [https://github.com/harmonydata/harmony/issues](https://github.com/harmonydata/harmony/issues)
 
@@ -75,7 +75,7 @@ Address and fix issues related to processing PDFs within Harmony, as identified 
 
 ### External integrations (multiple projects)
 
-Integrate Harmony with prominent repositories like the UK Data Archive, UKLLC, and others. Enable seamless access and harmonization of questionnaire items from these repositories
+Integrate Harmony with prominent repositories like the UK Data Archive, UKLLC, and others. Enable seamless access and harmonisation of questionnaire items from these repositories
 
 **More information:** [https://github.com/harmonydata/harmony/issues](https://github.com/harmonydata/harmony/issues)
 
@@ -191,25 +191,25 @@ Train a psychology-specific model where Harmony predicts the similarity between 
 **Difficulty:** hard
 
 
-### Designing Kaggle Competitions for Questionnaire Item Harmonization
+### Designing Kaggle Competitions for Questionnaire Item Harmonisation
 
-This project aims to leverage the Harmony project, a tool designed for retrospective harmonization of questionnaire items, to develop and manage Kaggle competitions focused on questionnaire item harmonization. Design Kaggle competitions centered around questionnaire item harmonization challenges, considering various aspects such as comparing items across studies, identifying the best match for item sets, assessing the compatibility of different questionnaire versions, and comparing items written in different languages.
+This project aims to leverage the Harmony project, a tool designed for retrospective harmonisation of questionnaire items, to develop and manage Kaggle competitions focused on questionnaire item harmonisation. Design Kaggle competitions centered around questionnaire item harmonisation challenges, considering various aspects such as comparing items across studies, identifying the best match for item sets, assessing the compatibility of different questionnaire versions, and comparing items written in different languages.
 
 **Goals**
 
 1. **Dataset Preparation:** Prepare datasets for the competitions by curating diverse sets of questionnaire items from different studies, ensuring variability in item formats, languages, and versions.
 
-2. **Task Formulation:** Define clear tasks and objectives for each competition, including specific harmonization goals, evaluation metrics, and guidelines for participants.
+2. **Task Formulation:** Define clear tasks and objectives for each competition, including specific harmonisation goals, evaluation metrics, and guidelines for participants.
 
 3. **Competition Management:** Oversee the entire competition lifecycle, including registration, submission, evaluation, and leaderboard management. Ensure fairness, transparency, and integrity throughout the competition.
 
-4. **Community Engagement:** Foster a supportive and collaborative community of participants, mentors, and stakeholders interested in questionnaire item harmonization. Provide guidance, resources, and support to participants throughout the competition.
+4. **Community Engagement:** Foster a supportive and collaborative community of participants, mentors, and stakeholders interested in questionnaire item harmonisation. Provide guidance, resources, and support to participants throughout the competition.
 
-5. **Evaluation Framework:** Develop robust evaluation frameworks and scoring mechanisms to assess the effectiveness and quality of harmonization solutions submitted by participants.
+5. **Evaluation Framework:** Develop robust evaluation frameworks and scoring mechanisms to assess the effectiveness and quality of harmonisation solutions submitted by participants.
 
 **Expected Deliverables**
 
-- Well-designed Kaggle competitions addressing various aspects of questionnaire item harmonization.
+- Well-designed Kaggle competitions addressing various aspects of questionnaire item harmonisation.
 
 - Curated datasets representing diverse questionnaire items for use in competitions.
 
@@ -232,7 +232,7 @@ This project aims to leverage the Harmony project, a tool designed for retrospec
 
 ### Integrate Pinecone for Efficient Variable Lookup in Harmony
 
-This project focuses on integrating Pinecone (subject to change), an off-the-shelf similarity search service, into the Harmony project to facilitate efficient variable lookup functionality. Harmony aims to provide a lookup feature by indexing all variables from third-party sources offline and updating them periodically to ensure accuracy and relevance. Pinecone's advanced search capabilities will enhance Harmony's ability to quickly retrieve similar variables, enabling seamless data harmonization across studies.
+This project focuses on integrating Pinecone (subject to change), an off-the-shelf similarity search service, into the Harmony project to facilitate efficient variable lookup functionality. Harmony aims to provide a lookup feature by indexing all variables from third-party sources offline and updating them periodically to ensure accuracy and relevance. Pinecone's advanced search capabilities will enhance Harmony's ability to quickly retrieve similar variables, enabling seamless data harmonisation across studies.
 
 In order to provide a lookup functionality, Harmony would need to index all the variables from a third party offline and do this every week or month. This means, converting them all to a vector and storing them somewhere so that we can quickly do a lookup. We might need an off the shelf tool such as [Pinecone](https://www.pinecone.io/) which would help us manage this lookup. Harmony is already doing this for the Mental Health Catalogue but the MHC case is simpler because there are fewer variables and we don't have a process for constantly updating the database.
 

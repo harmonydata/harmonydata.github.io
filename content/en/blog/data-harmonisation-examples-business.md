@@ -3,7 +3,10 @@ title: "10 Data Harmonisation Examples That Move Businesses and Organisations Fo
 description: "Unlock Data Harmonisation with Harmony: Transform Your Research & Analysis. Explore Harmony for seamless data harmonisation. Dive into our guide on using this tool to enhance research, attract collaborations, and drive insights."
 date: 2024-02-27
 categories: ["data"]
-image: "/images/01- X Data harmonization examples that move businessess and organizations forward.svg"
+image: "/images/01- X Data harmonisation examples that move businessess and organizations forward.svg"
+aliases:
+  - "/10-data-harmonisation-examples-that-move-businesses-and-organisations-forward/"
+url: "/data-harmonisation/10-data-harmonisation-examples-that-move-businesses-and-organisations-forward/"
 ---
 
 
@@ -11,7 +14,7 @@ Did you know that every day, humanity generates 2.5 quintillion bytes of data? T
 
 Decisions are increasingly driven by data, which is a big reason why the practice of data harmonisation has become essential in research and the realm of business analytics.
 
-Data harmonisation means combining data from different places to make sure it matches up and can be compared. This is vital for making sense of the huge amounts of data we collect and helps us find clear and important insights.
+[Data harmonisation](/data-harmonisation/) means combining data from different places to make sure it matches up and can be compared. This is vital for making sense of the huge amounts of data we collect and helps us find clear and important insights.
 
 Today, we'll answer all your questions about what data harmonisation is and what applications of data harmonisation there are. We'll also look at some data harmonisation examples that really drive home its importance in achieving accurate conclusions.
 

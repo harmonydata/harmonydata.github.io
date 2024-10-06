@@ -25,7 +25,7 @@ We encourage you to try Harmony and let us know what you think! You can also fol
 {{< image src="images/cran.png" alt="cran" title="cran" >}}
 
 
-## Are you excited to use Harmony to harmonize your instruments?
+## Are you excited to use Harmony to harmonise your instruments?
 
 Here is a quick walkthrough on how to do it:
 

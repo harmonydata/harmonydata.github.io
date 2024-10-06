@@ -3,6 +3,9 @@ title: "Data Harmonisation in the Public Sector - 6 applications"
 categories: ["data"]
 image: "/images/15- Data harmonisation in public sector - X applications.svg"
 date: 2024-05-20
+aliases:
+  - "/data-harmonisation-in-the-public-sector-6-applications/"
+url: "/data-harmonisation/data-harmonisation-in-public-sector/"
 ---
 
 # Overview
@@ -11,7 +14,7 @@ Public administrations today are tasked with managing massive volumes of data in
 
 As a result, the data can often be disseminated across multiple regions, especially in terms of content and presentation, unless it is ‘harmonised’. This is one reason why there is so much re-use at the low level of existing information on citizens and businesses, for example.
 
-Data harmonisation in the public sector allows for the management of consistent and coherent data – and in a way that’s also compatible and comparable, ultimately, unifying definitions, formats, and structures across all locations.
+[Data harmonisation](/data-harmonisation/) in the public sector allows for the management of consistent and coherent data – and in a way that’s also compatible and comparable, ultimately, unifying definitions, formats, and structures across all locations.
 
 While this shaping or harmonisation of data can be done separately for each project, it oversees a very high cost in terms of both time and resources. It’s, therefore, very important and even necessary to promote standards which allow public sector organisations to work with data that’s already harmonised.
 
@@ -42,7 +45,7 @@ The project’s key achievements and highlights included:
   - NIH BRIDG conceptual mode
   - RIDG to Fast Healthcare Interoperability Resources (FHIR®)
   - FHIR resource extensions
-  - Common Data Models Harmonization (CDMH) Implementation Guide (IG)
+  - Common Data Models Harmonisation (CDMH) Implementation Guide (IG)
 - The NIH/NLM team came up with a governance framework document outlining suggested policies & practices for access around real-world data, derived from data-sharing networks which connect CDMs.
 
 ### 2\. Data harmonisation for digitalisation in the food sector

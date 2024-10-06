@@ -51,7 +51,7 @@ The quest for data doesn't have to be daunting. With the help of Harmony Discove
 
 ## See also
 
-* [Borderline Personality Disorder (BPD) datasets and studies](/discover-data/borderline-personality-disorder-(bpd)-datasets-and-studies)
+* [Borderline Personality Disorder (BPD) datasets and studies](/discover-data/borderline-personality-disorder-bpd-datasets-and-studies)
 
 * [Anxiety datasets and studies](/discover-data/anxiety-datasets-and-studies)
 

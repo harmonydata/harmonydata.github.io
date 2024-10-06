@@ -75,14 +75,14 @@ Once the installation is complete, you can import Harmony into your R session:
 library(harmonydata)
 ```
 
-To harmonize two PDFs:
+To harmonise two PDFs:
 
-* Download the two PDFs that you want to harmonize.
+* Download the two PDFs that you want to harmonise.
 * Load the two PDFs into R using the load_instruments_from_file() function.
 * Append the two instruments into a list of instruments.
-* Call the match() function to harmonize the two instruments.
+* Call the match() function to harmonise the two instruments.
 * Export the results to a CSV file.
-* Here is an example of how to harmonize two PDFs in R:
+* Here is an example of how to harmonise two PDFs in R:
 
 
 ### Load the two PDFs
@@ -94,7 +94,7 @@ instrument_2 <- load_instruments_from_file("GAD-7.pdf")
 ```
 instruments <- list(instrument_1, instrument_2)
 ```
-### Harmonize the two instruments
+### Harmonise the two instruments
 ```
 matches <- match(instruments)
 ```
@@ -102,9 +102,9 @@ matches <- match(instruments)
 ### Export the results to a CSV file
 
 ```
-write.csv(matches, "harmonized_instruments.csv")
+write.csv(matches, "harmonised_instruments.csv")
 ```
-This will create a CSV file called harmonized_instruments.csv that contains the harmonized instruments.
+This will create a CSV file called harmonised_instruments.csv that contains the harmonised instruments.
 
 
 
@@ -114,23 +114,23 @@ This will create a CSV file called harmonized_instruments.csv that contains the 
 
 **Summary**
 
-Harmony is a tool that helps researchers harmonize and compare questionnaires and instruments across social sciences, market research, and political polling. The video shows how to use Harmony to integrate data from different sources.
+Harmony is a tool that helps researchers harmonise and compare questionnaires and instruments across social sciences, market research, and political polling. The video shows how to use Harmony to integrate data from different sources.
 
 The video begins by showing how to upload a PDF or Excel file of a questionnaire into Harmony. If the file is a PDF, Harmony will extract the questions from it. If the extraction fails, the user can edit or delete rows.
 
-The video then shows how to select multiple questionnaires to be harmonized. In this example, the user selects the CES-D, SCARED English questionnaire, and [GAD-7](https://adaa.org/sites/default/files/GAD-7_Anxiety-updated_0.pdf) Portuguese questionnaire collected in Brazil.
+The video then shows how to select multiple questionnaires to be harmonised. In this example, the user selects the CES-D, SCARED English questionnaire, and [GAD-7](https://adaa.org/sites/default/files/GAD-7_Anxiety-updated_0.pdf) Portuguese questionnaire collected in Brazil.
 
 Once the questionnaires have been selected, Harmony will match the questions from each questionnaire to the questions in the other questionnaires. The user can then adjust the match threshold percentage to control how strict or lenient the question match is.
 
-The video concludes by showing how to export the harmonized data from Harmony.
+The video concludes by showing how to export the harmonised data from Harmony.
 
 Here are some of the key features of Harmony:
 
-* It can harmonize questionnaires in PDF or Excel format.
+* It can harmonise questionnaires in PDF or Excel format.
 * It can match questions from different questionnaires based on their meaning, not just their exact wording.
 * It allows the user to adjust the match threshold percentage to control how strict or lenient the question match is.
-* It can export the harmonized data in a variety of formats, including Excel, CSV, and JSON.
-* Harmony is a powerful tool that can help researchers harmonize and compare questionnaires and instruments across different sources. It is easy to use and can be customised to meet the specific needs of the user.
+* It can export the harmonised data in a variety of formats, including Excel, CSV, and JSON.
+* Harmony is a powerful tool that can help researchers harmonise and compare questionnaires and instruments across different sources. It is easy to use and can be customised to meet the specific needs of the user.
 
 ## Installing Harmony [Python](https://www.python.org/) library and getting started with French and English instruments
 
@@ -138,7 +138,7 @@ Here are some of the key features of Harmony:
 
 **Summary**
 
-This video is about how to install and use Harmony, a tool for [harmonizing](https://harmonydata.ac.uk/back-to-the-future-retrospectively-harmonizing-questionnaire-data) and comparing questionnaires and instruments. The video starts by explaining what Harmony is and how it can be used. Then, the video walks through the steps of installing Harmony, including installing Python, Anaconda, Tika, and Java. Once Harmony is installed, the video shows how to use it to match questionnaires. The video also shows how to download an instrument from a PDF and how to work with a [multilingual](https://fastdatascience.com/multilingual-natural-language-processing/) model.
+This video is about how to install and use Harmony, a tool for [harmonising](https://harmonydata.ac.uk/back-to-the-future-retrospectively-harmonising-questionnaire-data) and comparing questionnaires and instruments. The video starts by explaining what Harmony is and how it can be used. Then, the video walks through the steps of installing Harmony, including installing Python, Anaconda, Tika, and Java. Once Harmony is installed, the video shows how to use it to match questionnaires. The video also shows how to download an instrument from a PDF and how to work with a [multilingual](https://fastdatascience.com/multilingual-natural-language-processing/) model.
 
 Here are some of the key points from the video:
 

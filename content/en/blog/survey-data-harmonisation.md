@@ -1,6 +1,6 @@
 ---
 title: "Survey Data Harmonisation - The steps and expected results"
-Discription: "Data harmonization is a cornerstone of modern biopharmaceutical research and development. By standardizing data from disparate sources, the industry can improve the quality and efficiency of drug development processes, ensure regulatory compliance, and ultimately enhance patient outcomes."
+Discription: "Data harmonisation is a cornerstone of modern biopharmaceutical research and development. By standardizing data from disparate sources, the industry can improve the quality and efficiency of drug development processes, ensure regulatory compliance, and ultimately enhance patient outcomes."
 date: 2024-05-06
 #date: 2024-03-05
 draft: true

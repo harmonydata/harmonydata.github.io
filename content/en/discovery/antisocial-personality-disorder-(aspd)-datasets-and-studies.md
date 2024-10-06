@@ -1,6 +1,6 @@
 ---
 title: Antisocial Personality Disorder (ASPD) datasets and studies
-url: "/discover-data/antisocial-personality-disorder-(aspd)-datasets-and-studies"
+url: "/discover-data/antisocial-personality-disorder-aspd-datasets-and-studies"
 ---
 
 ## Antisocial Personality Disorder (ASPD) datasets and studies

@@ -4,7 +4,9 @@ description: "Harmonised data refers to the standardisation of disparate data fo
 date: 2024-04-02
 categories: ["data"]
 image: "/images/06- Data harmonisation tools and frameworks in 2024.svg"
-url: "/data-harmonisation-tools-frameworks"
+aliases:
+  - "/data-harmonisation-tools-frameworks/"
+url: "/data-harmonisation/data-harmonisation-tools-frameworks/"
 ---
 
 # Data Harmonisation Tools – Overview
@@ -13,7 +15,7 @@ Organisations typically collect data from multiple sources and for many differen
 
 [Data harmonisation](/harmonised-data), an advanced technique used to make sense of all the raw data collected and uses for research purposes, becomes necessary in this case, but unless it is incorporated effectively, organisations might miss the full, holistic view of business performance that they wish to gain.
 
-So, if the data is not harmonised using the proper tools and frameworks, for example, organisations are bound to miss some very critical data pieces which will indefinitely affect business performance at some point. Plus, management might miss potential opportunities as the data (at this point, before the harmonisation) is in disparate forms and quite widespread.
+So, if the [data is not harmonised](/data-harmonisation/) using the proper tools and frameworks, for example, organisations are bound to miss some very critical data pieces which will indefinitely affect business performance at some point. Plus, management might miss potential opportunities as the data (at this point, before the harmonisation) is in disparate forms and quite widespread.
 
 [Harmony](/app) is a data harmonisation tool which has been developed for cases where datasets have variables with differing names, for example disparate questionnaires with questions in different formats.
 

@@ -6,7 +6,7 @@ url: /item-harmonisation/harmony-a-free-ai-tool-for-item-wise-harmonisation
 
 ## Harmony: A Free AI Tool for Item-Wise Harmonisation
 
-Harmony is a software designed specifically for psychologists and social scientists to aid in the harmonisation of questionnaire items. This tool uses natural language processing and AI models to help researchers match items from different questionnaires, even if they are in different languages. This saves researchers a significant amount of time and effort, as the process of harmonisation can be time-consuming and subjective.
+Harmony is a software designed specifically for psychologists and social scientists to aid in the [harmonisation of questionnaire items](/item-harmonisation/). This tool uses natural language processing and AI models to help researchers match items from different questionnaires, even if they are in different languages. This saves researchers a significant amount of time and effort, as the process of harmonisation can be time-consuming and subjective.
 
 {{< card heading="Try Harmony" copy=" Harmony: A Free AI Tool for Item-Wise Harmonisation " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}

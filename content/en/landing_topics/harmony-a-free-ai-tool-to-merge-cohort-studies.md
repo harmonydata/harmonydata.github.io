@@ -6,12 +6,12 @@ url: /item-harmonisation/harmony-a-free-ai-tool-to-merge-cohort-studies
 
 ## Harmony: A Free AI Tool to Merge Cohort Studies
 
-Harmony is a software that uses natural language processing and generative AI models to assist psychologists in harmonizing questionnaire items. Whether researchers are merging items from different questionnaires or comparing instruments in longitudinal studies, Harmony can efficiently analyze and match items in multiple languages.
+Harmony is a software that uses natural language processing and generative AI models to assist psychologists in [harmonising questionnaire items](/item-harmonisation/). Whether researchers are merging items from different questionnaires or comparing instruments in longitudinal studies, Harmony can efficiently analyze and match items in multiple languages.
 
 {{< card heading="Try Harmony" copy=" Harmony: A Free AI Tool to Merge Cohort Studies " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-One of the main challenges for psychologists and social scientists is the time-consuming and subjective process of harmonization. Going through long PDFs of questionnaires and manually transferring items into Excel can be tedious and prone to errors. Harmony offers a solution by automating this process and providing accurate and consistent results.
+One of the main challenges for psychologists and social scientists is the time-consuming and subjective process of harmonisation. Going through long PDFs of questionnaires and manually transferring items into Excel can be tedious and prone to errors. Harmony offers a solution by automating this process and providing accurate and consistent results.
 
 * [Validation and Harmonisation of Physical Activity Scale for the Elderly (PASE)](/harmonisation-validation/physical-activity-scale-for-the-elderly-pase)
 * [CES-D vs Beck Anxiety Inventory](/ces-d-vs-beck-anxiety-inventory)
@@ -21,7 +21,7 @@ By using large language models, Harmony can give a percentage match between each
 
 What sets Harmony apart is its flexibility in instrument selection. Users can choose from Harmony's database of instruments or easily upload their own instruments in PDF form into the web interface at https://harmonydata.ac.uk/app. This allows researchers to work with the specific instruments they need and seamlessly integrate Harmony into their workflow.
 
-Overall, Harmony is a powerful tool for psychologists looking to streamline their research process and make reliable comparisons across studies. By leveraging AI technology, Harmony offers a user-friendly and efficient solution for harmonizing questionnaire items and promoting data harmonization in the field of psychology. 
+Overall, Harmony is a powerful tool for psychologists looking to streamline their research process and make reliable comparisons across studies. By leveraging AI technology, Harmony offers a user-friendly and efficient solution for harmonising questionnaire items and promoting data harmonisation in the field of psychology. 
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Harmony: A Free AI Tool to Merge Cohort Studies " title=" Harmony: A Free AI Tool to Merge Cohort Studies " >}}

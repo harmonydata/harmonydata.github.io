@@ -4,7 +4,11 @@ description: "Harmony was able to reconstruct the matches of the questionnaire h
 date: 2023-02-25
 categories: ["nlp"]
 image: /images/blog/roc.png
-aliases: "/blog/measuring-the-performance-of-nlp-algorithms/"
+
+aliases:
+  - "/blog/measuring-the-performance-of-nlp-algorithms/"
+  - "/measuring-the-performance-of-nlp-algorithms/"
+url: "/semantic-text-matching-with-deep-learning-transformer-models/measuring-the-performance-of-nlp-algorithms/"
 ---
 
 _Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: childhood **84%**, adulthood **80%**. Harmony was able to match the questions of the English and Portuguese [GAD-7](https://adaa.org/sites/default/files/GAD-7_Anxiety-updated_0.pdf) instruments with AUC **100%** and the Portuguese [CBCL](https://www.apa.org/depression-guideline/child-behavior-checklist.pdf) and [SDQ](/ces-d-vs-sdq) with AUC **89%**. Harmony was also evaluated using a variety of transformer models including MentalBERT, a publicly available pretrained language model for the mental [healthcare](https://fastdatascience.com/the-use-of-ai-in-healthcare) domain._

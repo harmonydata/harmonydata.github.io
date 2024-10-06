@@ -6,7 +6,7 @@ url: /item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments
 
 ## Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology
 
-Harmony is a powerful software developed specifically for psychologists and social scientists. Its main purpose is to help with the process of harmonisation, which involves matching items from different questionnaires.
+Harmony is a powerful software developed specifically for psychologists and social scientists. Its main purpose is to help with the process of [item harmonisation](/item-harmonisation/), which involves matching items from different questionnaires.
 
 {{< card heading="Try Harmony" copy=" Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}

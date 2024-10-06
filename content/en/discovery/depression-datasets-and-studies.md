@@ -49,6 +49,6 @@ This power of linking researchers with vast and varied datasets makes Harmony Di
 
 * [Psychosis and Schizophrenia datasets and studies](/discover-data/psychosis-and-schizophrenia-datasets-and-studies)
 
-* [Antisocial Personality Disorder (ASPD) datasets and studies](/discover-data/antisocial-personality-disorder-(aspd)-datasets-and-studies)
+* [Antisocial Personality Disorder (ASPD) datasets and studies](/discover-data/antisocial-personality-disorder-aspd-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

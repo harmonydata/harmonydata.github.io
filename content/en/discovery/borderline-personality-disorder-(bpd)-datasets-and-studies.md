@@ -1,6 +1,6 @@
 ---
 title: Borderline Personality Disorder (BPD) datasets and studies
-url: "/discover-data/borderline-personality-disorder-(bpd)-datasets-and-studies"
+url: "/discover-data/borderline-personality-disorder-bpd-datasets-and-studies"
 ---
 
 ## Borderline Personality Disorder (BPD) datasets and studies

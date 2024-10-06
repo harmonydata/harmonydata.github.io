@@ -51,7 +51,7 @@ In conclusion, Harmony Discovery comes as a massive boon for researchers studyin
 
 * [Conduct Disorder datasets and studies](/discover-data/conduct-disorder-datasets-and-studies)
 
-* [Asperger'S Syndrome datasets and studies](/discover-data/asperger's-syndrome-datasets-and-studies)
+* [Asperger'S Syndrome datasets and studies](/discover-data/aspergers-syndrome-datasets-and-studies)
 
 * [Avoidant Personality Disorder datasets and studies](/discover-data/avoidant-personality-disorder-datasets-and-studies)
 

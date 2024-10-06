@@ -6,7 +6,7 @@ url: /item-harmonisation/harmony-a-free-ai-tool-to-merge-longitudinal-studies
 
 ## Harmony: A Free AI Tool to Merge Longitudinal Studies
 
-Harmony is a powerful software tool designed for psychologists and social scientists to help them harmonize questionnaire items in different languages. This AI-driven platform uses natural language processing and generative AI models to make the process of harmonization easier, faster and more accurate.
+Harmony is a powerful software tool designed for psychologists and social scientists to help them [harmonise](/item-harmonisation/) questionnaire items in different languages. This AI-driven platform uses natural language processing and generative AI models to make the process of harmonisation easier, faster and more accurate.
 
 {{< card heading="Try Harmony" copy=" Harmony: A Free AI Tool to Merge Longitudinal Studies " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
@@ -21,7 +21,7 @@ One of the main benefits of using Harmony is its ability to make comparisons bot
 
 Users can access Harmony through its web interface at https://harmonydata.ac.uk/app. They can either select instruments from the database provided by Harmony, or upload their own instrument in PDF form. Harmony's AI capabilities allow for a seamless comparison process, making it easier for researchers to conduct longitudinal analyses.
 
-In addition to saving time and effort, Harmony also eliminates subjectivity in the harmonization process. Its use of AI models ensures that the comparisons are objective and accurate, providing researchers with reliable data for their studies. As a free tool, Harmony aims to help researchers make the most out of cohort and longitudinal studies by providing a comprehensive and efficient harmonization solution.
+In addition to saving time and effort, Harmony also eliminates subjectivity in the harmonisation process. Its use of AI models ensures that the comparisons are objective and accurate, providing researchers with reliable data for their studies. As a free tool, Harmony aims to help researchers make the most out of cohort and longitudinal studies by providing a comprehensive and efficient harmonisation solution.
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Harmony: A Free AI Tool to Merge Longitudinal Studies " title=" Harmony: A Free AI Tool to Merge Longitudinal Studies " >}}

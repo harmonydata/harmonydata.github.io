@@ -1,6 +1,6 @@
 ---
 title: Obsessive Compulsive Disorder (OCD) datasets and studies
-url: "/discover-data/obsessive-compulsive-disorder-(ocd)-datasets-and-studies"
+url: "/discover-data/obsessive-compulsive-disorder-ocd-datasets-and-studies"
 ---
 
 ## Obsessive Compulsive Disorder (OCD) datasets and studies

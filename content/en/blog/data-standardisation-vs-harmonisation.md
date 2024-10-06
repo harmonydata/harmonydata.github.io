@@ -5,6 +5,9 @@ date: 2024-01-30
 author: "Vidhya Sudani"
 categories: ["data"]
 image: "/images/03- Data standartisation vs harmonisation - the right things at the right times.svg"
+aliases:
+  - "/data-standardisation-vs-harmonisation-the-right-things-at-the-right-times/"
+url: "/data-harmonisation/data-standardisation-vs-harmonisation/"
 ---
 
 # Data Standardisation vs Harmonisation: The Right Things at the Right Times
@@ -79,7 +82,7 @@ While both data standardisation and harmonisation are vital in the data manageme
 
 ## Data Standardisation vs Harmonisation: A Comparative Analysis
 
-{{< image src="/images/comparative-analysis-between-Data-Standardization-and-Data-Harmonization.png" alt="comparative-analysis-between-Data-Standardization-and-Data-Harmonization" title="comparative-analysis-between-Data-Standardization-and-Data-Harmonization">}}
+{{< image src="/images/comparative-analysis-between-Data-Standardization-and-Data-Harmonisation.png" alt="comparative-analysis-between-Data-Standardization-and-Data-Harmonisation" title="comparative-analysis-between-Data-Standardization-and-Data-Harmonisation">}}
 
 In the context of data management, understanding when to apply standardisation and when to opt for harmonisation is crucial.
 
@@ -142,7 +145,7 @@ Data harmonisation takes the principles of standardisation and applies them acro
 
 ## Best Practices for Data Standardisation and Harmonisation
 
-{{< image src="/images/best-practices-for-Data-Standardization-and-Data-Harmonization.png" alt="Data-Standardization-and-Data-Harmonization" title="Data-Standardization-and-Data-Harmonization" >}}
+{{< image src="/images/best-practices-for-Data-Standardization-and-Data-Harmonisation.png" alt="Data-Standardization-and-Data-Harmonisation" title="Data-Standardization-and-Data-Harmonisation" >}}
 
 To maximise the benefits of data standardisation and harmonisation, certain best practices should be followed:
 
@@ -179,7 +182,7 @@ Various industries have benefitted from using Harmony. For instance, in healthca
 - **Impact**: The utilization of Harmony to combine data from diverse climatic studies has led to the development of comprehensive environmental models. These models are playing a crucial role in climate change research by providing researchers with valuable insights and data-driven predictions. The impact is substantial, as it enhances our understanding of environmental changes, contributes to more accurate climate models, and supports efforts to address and mitigate the effects of climate change.
 
 3. **Case Study 3**: A pharmaceutical company using data harmonisation for clinical trial data, leading to more accurate and reliable drug efficacy assessments.
-- **Impact**: Data harmonization in clinical trial data has resulted in more accurate and reliable assessments of drug efficacy. This impact is profound in the field of pharmaceuticals and healthcare. It has improved the ability to evaluate the effectiveness and safety of drugs, ultimately leading to better treatment options for patients, shorter drug development cycles, and advancements in medical science.
+- **Impact**: Data harmonisation in clinical trial data has resulted in more accurate and reliable assessments of drug efficacy. This impact is profound in the field of pharmaceuticals and healthcare. It has improved the ability to evaluate the effectiveness and safety of drugs, ultimately leading to better treatment options for patients, shorter drug development cycles, and advancements in medical science.
 
 4. **Case Study 4**: A retail chain implementing data standardisation for inventory management across different locations, resulting in improved supply chain efficiency.
 - **Impact**: The implementation of data standardization for inventory management across different locations within a retail chain has brought significant improvements to supply chain efficiency. This impact is a prime example in the business sector. It has streamlined inventory processes, reduced errors, optimized stock levels, and ultimately enhanced the overall operational efficiency of the retail chain. This results in cost savings and improved customer service.

@@ -1,7 +1,7 @@
 ---
 title: "International cancer data harmonisation in 2024"
 categories: ["data"]
-image: "/images/18- International cancer data harmonization - the state of 2024.svg"
+image: "/images/18- International cancer data harmonisation - the state of 2024.svg"
 date: 2024-06-12
 draft: true
 ---
@@ -28,7 +28,7 @@ Visualise this scenario if you will:
 
 You want to run an analysis to find out the total number of PMP (post-menopausal) women who have been diagnosed with HER2 breast cancer in order to better understand how they responded to a specific cancer medication. A query like this would need to reach into databases which store tissue, proteomic, genomic, and demographic data – and then extract the required data to generate meaningful results.
 
-The National Cancer Institute (NCI) came up with a new initiative (CCDH or Centre for Cancer Data Harmonization) to help link the datasets we described above. The CCDH draws on established data standards and feedback from the research community to come up with new methods of organising data.
+The National Cancer Institute (NCI) came up with a new initiative (CCDH or Centre for Cancer Data Harmonisation) to help link the datasets we described above. The CCDH draws on established data standards and feedback from the research community to come up with new methods of organising data.
 
 ## How data is harmonised for international data harmonisation in cancer: A basic example
 

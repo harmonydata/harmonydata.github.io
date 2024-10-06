@@ -4,12 +4,17 @@ description: Many psychologists believe that mental illnesses can vary across cu
 date: 2023-04-02
 categories: ["nlp"]
 image: /images/blog/ccd.png
-aliases: ['/blog/how-far-can-we-go-with-harmony-testing-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe']
+
+
+aliases:
+  - "/blog/how-far-can-we-go-with-harmony-testing-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe"
+  - "/how-far-can-we-go-with-harmony-testing-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/"
+url: "/nlp-semantic-text-matching-with-deep-learning-transformer-models/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/"
 ---
 
 Many psychologists believe that mental illnesses can vary across cultures. In 1904, [Emil Kraepelin](https://en.wikipedia.org/wiki/Emil_Kraepelin) initiated the field of comparative psychiatry after studying mental health disorders in Java, writing that _“Die Eigenart eines Volkes wird auch in der Häufigkeit und klinischen Gestaltung seiner Geistesstörungen zum Ausdruck kommen,”_ meaning “The peculiarity of a people[ethnic group] will also be expressed in the frequency and clinical form of its mental disorders.”[1]
 
-More than a century later, the emergence of global mental health research [projects](https://harmonydata.ac.uk/projects-partners) has opened a number of debates about the applicability of psychiatric categories to different cultural settings, such as those in the Diagnostic and Statistical Manual of Mental Disorders (DSM) series[2].
+More than a century later, the emergence of global mental health research [projects](/projects-partners) has opened a number of debates about the applicability of psychiatric categories to different cultural settings, such as those in the Diagnostic and Statistical Manual of Mental Disorders (DSM) series[2].
 
 In 2013, the publication of DSM-5 included for the first time Cultural Concepts of Distress (CCD), referring to “ways that cultural groups experience, understand, and communicate suffering, behavioral problems, or troubling thoughts and emotions”[2].
 
@@ -54,7 +59,7 @@ Although English is the best-resource language for [natural language processing]
 
 Above: the text of the Shona symptom questionnaire for the detection of depression and anxiety.
 
-A problem I encountered was that the transformer model didn’t work for both Shona and English (it’s not multilingual, like Harmony’s default transformer model). I Google translated [GHQ-12](/ghq-12-vs-beck-anxiety-inventory) into Shona as a temporary measure.
+A problem I encountered was that the [transformer model](/nlp-semantic-text-matching-with-deep-learning-transformer-models/) didn’t work for both Shona and English (it’s not multilingual, like Harmony’s default transformer model). I Google translated [GHQ-12](/ghq-12-vs-beck-anxiety-inventory) into Shona as a temporary measure.
 
 Also, the transformer model did not operate as a sentence transformer, but rather as a token-level transformer, so my sentence vectors were made by averaging token vectors across an input.
 
@@ -66,6 +71,10 @@ My model’s output is below:
 Harmony and the Shona transformer model matched the question about “kufungisisa” to GHQ-12 question 1 “been able to concentrate on whatever you’re doing?” which seems approximately OK. However, I would need a Shona native speaker to validate my results.
 
 Also, when we are using English and Portuguese texts, which has until now been our go-to bilingual combination, we have had the advantage that some multilingual models cover both languages and so it’s possible to directly compare in both source languages. In the absence of an LLM (large language model) which can handle both Shona and English, it’s not possible to directly compare English and Shona text, but my experiment above shows that Harmony can work on monolingual Shona text.
+
+## Further reading
+
+You may want to read about my [experiments with semantic text matching with deep learning transformer models](/nlp-semantic-text-matching-with-deep-learning-transformer-models/).
 
 ## References
 

@@ -3,7 +3,7 @@ title: "Harmonising Questionnaire Data: 10+1 Practical Steps for Enhanced Consis
 description: "Discover expert strategies for questionnaire harmonisation with Harmony. Learn 10+1 practical steps for improved data consistency and analysis."
 date: 2024-04-16
 categories: ["data"]
-image: "/images/10- How to harmonize questionnaires - X practical steps.svg"
+image: "/images/10- How to harmonise questionnaires - X practical steps.svg"
 ---
 
 # **How to Harmonise Questionnaires - 10 Practical Steps (+ 1 Bonus Tip)**

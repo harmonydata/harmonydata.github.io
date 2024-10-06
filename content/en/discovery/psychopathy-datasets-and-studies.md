@@ -55,6 +55,6 @@ In conclusion, Harmony Discovery is integral for researchers searching for datas
 
 * [Narcissistic Personality Disorder datasets and studies](/discover-data/narcissistic-personality-disorder-datasets-and-studies)
 
-* [Obsessive Compulsive Disorder (OCD) datasets and studies](/discover-data/obsessive-compulsive-disorder-(ocd)-datasets-and-studies)
+* [Obsessive Compulsive Disorder (OCD) datasets and studies](/discover-data/obsessive-compulsive-disorder-ocd-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

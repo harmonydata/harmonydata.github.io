@@ -1,13 +1,13 @@
 ---
-title: Asperger'S Syndrome datasets and studies
-url: "/discover-data/asperger's-syndrome-datasets-and-studies"
+title: Aspergers Syndrome datasets and studies
+url: "/discover-data/aspergers-syndrome-datasets-and-studies"
 ---
 
 ## Asperger'S Syndrome datasets and studies
 
 *The Harmony team is working on Harmony Discovery, which will allow social scientists to find datasets about Asperger'S Syndrome across data platforms. Harmony Discovery is due in 2025 and will extend the functionality of Harmony.*
 
-* [Find Asperger'S Syndrome datasets and longitudinal studies on the Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/?content=search&query=Topic:asperger%27s+syndrome)
+* [Find Aspergers Syndrome datasets and longitudinal studies on the Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/?content=search&query=Topic:asperger%27s+syndrome)
 
 ---
 

@@ -4,19 +4,21 @@ Discription: "Data harmonisation is a critical process in data management that i
 date: 2024-02-06
 author: "Vidhya Sudani"
 categories: ["data"]
-image: "/images/04- Data harmonization steps, techniques and best practices.svg"
-
+image: "/images/04- Data harmonisation steps, techniques and best practices.svg"
+aliases:
+  - "/data-harmonisation-steps-techniques-and-best-practices/"
+url: "/data-harmonisation/data-harmonisation-steps-techniques-best-practices/"
 ---
 
 ## Introduction
 
-In the digital age, data is often collected from multiple sources, leading to variability in formats, standards, and quality. Data harmonisation addresses these issues by transforming disparate data into a cohesive dataset, enabling better analysis, insights, and decision-making. It is essential for organizations looking to leverage their data assets across diverse systems and platforms.
+In the digital age, data is often collected from multiple sources, leading to variability in formats, standards, and quality. [Data harmonisation](/data-harmonisation/) addresses these issues by transforming disparate data into a cohesive dataset, enabling better analysis, insights, and decision-making. It is essential for organizations looking to leverage their data assets across diverse systems and platforms.
 
 Before diving into the specifics, it's essential to understand that data harmonisation involves several key steps: preparing, transforming, and validating data. Additionally, it's built on a foundation of best practices that ensure the integrity, accuracy, and usability of the harmonised data. This guide will walk you through these steps and provide insights into the techniques that make data harmonisation successful.
 
 
 ## Understanding Data Harmonisation
-{{< image src="/images/concept of data harmonization-min-min.jpg" alt="concept of data harmonisation" title="concept of data harmonisation" >}}
+{{< image src="/images/concept of data harmonisation-min-min.jpg" alt="concept of data harmonisation" title="concept of data harmonisation" >}}
 
 Before embarking on the data harmonisation journey, it's essential to grasp its significance and the challenges it aims to solve:
 
@@ -40,7 +42,7 @@ Before embarking on the data harmonisation journey, it's essential to grasp its 
 
 
 ### The Importance of Data Harmonisation
-{{< image src="/images/importance of data harmonization-min-min.jpg" alt="importance of data harmonisation" title="importance of data harmonisation" >}}
+{{< image src="/images/importance of data harmonisation-min-min.jpg" alt="importance of data harmonisation" title="importance of data harmonisation" >}}
 
 - **Enhanced Data Quality:** Achieve cleaner, more consistent, and reliable data. Data harmonisation significantly improves the cleanliness, consistency, and reliability of data. By standardizing data formats, units of measurement, and other variables, organizations can reduce errors and discrepancies that often arise from using data collected from various sources. This leads to a higher quality of data that is more dependable for analysis purposes.
 
@@ -64,7 +66,7 @@ Before embarking on the data harmonisation journey, it's essential to grasp its 
 
 
 ## Data Harmonisation Steps
-{{< image src="/images/data harmonization process-min-min.jpg" alt="data harmonisation process" title="data harmonisation process" >}}
+{{< image src="/images/data harmonisation process-min-min.jpg" alt="data harmonisation process" title="data harmonisation process" >}}
 
 ### 1. Data Assessment and Preparation
 The initial phase involves a thorough examination of the existing data landscape within the organization. This step is foundational, as it sets the stage for the entire harmonisation process.

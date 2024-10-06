@@ -61,6 +61,6 @@ Harmony Discovery not only saves researchers hours of manual searching, but it a
 
 * [Personality Disorders datasets and studies](/discover-data/personality-disorders-datasets-and-studies)
 
-* [Asperger'S Syndrome datasets and studies](/discover-data/asperger's-syndrome-datasets-and-studies)
+* [Asperger'S Syndrome datasets and studies](/discover-data/aspergers-syndrome-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

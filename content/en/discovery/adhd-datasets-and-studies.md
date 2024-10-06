@@ -55,6 +55,6 @@ So, why wait? Ignite your research today with Harmony Discovery!
 
 * [Autism Spectrum Disorder datasets and studies](/discover-data/autism-spectrum-disorder-datasets-and-studies)
 
-* [Obsessive Compulsive Disorder (OCD) datasets and studies](/discover-data/obsessive-compulsive-disorder-(ocd)-datasets-and-studies)
+* [Obsessive Compulsive Disorder (OCD) datasets and studies](/discover-data/obsessive-compulsive-disorder-ocd-datasets-and-studies)
 
 * [Discover data on Harmony](/discover-data/)

@@ -7,7 +7,7 @@ aliases:
 
 ## RAPI vs ASSIST
 
-The 'Rutgers Alcohol Problem Index' (RAPI) and the 'Alcohol, Smoking, and Substance Involvement Screening Test - Substance Use' (ASSIST) are two integral tools in the field of psychology for assessing addictive behaviors. Comparing these two questionnaires can often be a difficult and time-consuming task for researchers. However, the software tool Harmony simplifies this process by harmonizing questionnaire items effectively in multiple languages, making the task of comparing RAPI vs ASSIST a breeze.
+The 'Rutgers Alcohol Problem Index' (RAPI) and the 'Alcohol, Smoking, and Substance Involvement Screening Test - Substance Use' (ASSIST) are two integral tools in the field of psychology for assessing addictive behaviors. Comparing these two questionnaires can often be a difficult and time-consuming task for researchers. However, the software tool Harmony simplifies this process by harmonising questionnaire items effectively in multiple languages, making the task of comparing RAPI vs ASSIST a breeze.
 
 ## Compare the items in RAPI and ASSIST
 
@@ -30,7 +30,7 @@ Harmony employs large language models to match items from RAPI and ASSIST, provi
 
 {{< youtube cEZppTBj1NI >}}
 
-Hence, for the comparison study of RAPI vs ASSIST, Harmony serves as an ideal tool. In conclusion, for psychologists and social scientists looking to conduct a comparison between RAPI and ASSIST, Harmony is the go-to tool. Its convenience, accuracy, and ease of use make the often tedious task of questionnaire harmonization simple and efficient. Thus, in the comparison study of RAPI vs ASSIST, Harmony undoubtedly adds significant value, empowering researchers to focus on the analysis and interpretation stages of their work.
+Hence, for the comparison study of RAPI vs ASSIST, Harmony serves as an ideal tool. In conclusion, for psychologists and social scientists looking to conduct a comparison between RAPI and ASSIST, Harmony is the go-to tool. Its convenience, accuracy, and ease of use make the often tedious task of questionnaire harmonisation simple and efficient. Thus, in the comparison study of RAPI vs ASSIST, Harmony undoubtedly adds significant value, empowering researchers to focus on the analysis and interpretation stages of their work.
 
 
 {{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}

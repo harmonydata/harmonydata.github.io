@@ -14,7 +14,7 @@ Psychologists and social scientists often encounter difficulties in comparing di
 {{< youtube cEZppTBj1NI >}}
 
 
-The need for reliable tools to facilitate such analysis is evident, and this is where the role of Harmony becomes critical. An outstanding software solution for psychologists, Harmony presents a remarkable way to compare SDQ and SCARED (adult). Harmony, with its advanced natural language processing and generative AI models, provides an efficient process to harmonize questionnaire items. It even supports multi-lingual comparisons for a seamless user experience.
+The need for reliable tools to facilitate such analysis is evident, and this is where the role of Harmony becomes critical. An outstanding software solution for psychologists, Harmony presents a remarkable way to compare SDQ and SCARED (adult). Harmony, with its advanced natural language processing and generative AI models, provides an efficient process to harmonise questionnaire items. It even supports multi-lingual comparisons for a seamless user experience.
 
 ## Import SDQ and SCARED into Harmony to compare items
 

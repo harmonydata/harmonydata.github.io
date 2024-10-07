@@ -9,7 +9,7 @@ title: "Australian Data Archive using Harmony for questionnaire harmonisation"
 {{</ htmlcode >}}
 
 
-The [Australian Data Archive (ADA)](https://ada.edu.au/) is a national service for the collection and preservation of digital research data, similar to the [UK Data Archive (UKDA)](https://www.data-archive.ac.uk/).
+The [Australian Data Archive (ADA)](https://ada.edu.au/) is a national service for the collection and preservation of digital [research data](/item-harmonisation/harmony-a-free-ai-tool-for-cross-cohort-research/), similar to the [UK Data Archive (UKDA)](https://www.data-archive.ac.uk/).
 
 The ADA provides data access through the [ADA Dataverse](https://dataverse.ada.edu.au/). The collection includes polls on housing conditions in Australian states, political views over time across the country, questions about employment or health, and other datasets that the ADA has collected over the years (such as the Australian election study).
 

@@ -33,7 +33,7 @@ Creating a comprehensive harmonises data from multiple survey sources is both an
 
 {{< image src="/images/Understanding Data Harmonisation.webp" alt="Understanding Data Harmonisation" title="Understanding Data Harmonisation" >}}
 
-Data harmonisation refers to the process of bringing together disparate data sources, standardizing variables and measures, to create a cohesive, comprehensive dataset that can be analyzed as a whole. This practice is pivotal in overcoming the inherent limitations of single-source data, enabling researchers to address broader questions with higher degrees of accuracy and detail. However, it's not without challenges—differences in survey design, data collection methodologies, and measurement scales can pose significant hurdles.
+Data harmonisation refers to the process of bringing together disparate data sources, standardizing variables and measures, to create a cohesive, comprehensive dataset that can be analysed as a whole. This practice is pivotal in overcoming the inherent limitations of single-source data, enabling researchers to address broader questions with higher degrees of accuracy and detail. However, it's not without challenges—differences in survey design, data collection methodologies, and measurement scales can pose significant hurdles.
 
 ---
 
@@ -45,7 +45,7 @@ Data harmonisation refers to the process of bringing together disparate data sou
 
 Before delving into best practices, it’s crucial to understand the landscape of survey data. With the proliferation of survey tools and platforms, organizations often collect data from multiple sources such as online surveys, in-person interviews, focus groups, and social media polls. While each source provides valuable information independently, combining data from these sources can offer a more comprehensive understanding of the target audience or market.
 
-However, integrating data from disparate survey sources poses several challenges, including data inconsistency, duplication, and formatting issues. This article serves as a roadmap for seamlessly integrating and analyzing data from multiple sources, ensuring coherence and accuracy in insights generation.
+However, integrating data from disparate survey sources poses several challenges, including data inconsistency, duplication, and formatting issues. This article serves as a roadmap for seamlessly integrating and analysing data from multiple sources, ensuring coherence and accuracy in insights generation.
 
 
 ## Best Practice 1: Establish Clear Objectives
@@ -53,7 +53,7 @@ However, integrating data from disparate survey sources poses several challenges
 Before merging data from multiple surveys, it’s crucial to define clear objectives. What are you aiming to achieve? Are you looking to increase engagement, boost brand awareness, or drive conversions? Setting clear goals will guide the data integration process, ensuring that the combined data serves a specific purpose.
 
 ### Tips for Setting Objectives:
-- **Review historical data** Analyze past performance to identify what worked, what didn't, and where there are opportunities for improvement. This can help in setting realistic and impactful objectives.
+- **Review historical data** analyse past performance to identify what worked, what didn't, and where there are opportunities for improvement. This can help in setting realistic and impactful objectives.
 - **Consult with stakeholders** Engage with key stakeholders across the organization to ensure that the objectives of integrating survey data align with broader business goals. This collaborative approach ensures buy-in and relevance across departments.
 - **Create SMART goals** Specific, Measurable, Achievable, Relevant, Time-bound goals are critical. They provide a clear roadmap and metrics for success, guiding the strategy with precision and purpose.
 
@@ -110,7 +110,7 @@ Leveraging advanced data integration techniques, such as data fusion and machine
 
 ## Best Practice 5: Use Meta-Data Effectively
 
-- **Metadata Analysis:** Analyze metadata such as collection dates, geographical information, and response rates to understand the context of each dataset.
+- **Metadata Analysis:** analyse metadata such as collection dates, geographical information, and response rates to understand the context of each dataset.
 - **Alignment:**  Ensure that metadata fields are consistent across datasets, facilitating easier integration and comparison.
 
 
@@ -154,7 +154,7 @@ The final step in combining survey sources is to translate the integrated insigh
 ### Leveraging Insights Effectively:
 - **Segment your audience**  Use combined data insights to segment your audience more accurately, allowing for more targeted and relevant data.
 - **Tailor content to audience preferences** Develop content that aligns with the preferences and pain points identified through data analysis, enhancing engagement and effectiveness.
-- **Monitor and adapt strategies** Continuously collect and analyze data to refine and adapt strategies, ensuring they remain aligned with audience needs and preferences.
+- **Monitor and adapt strategies** Continuously collect and analyse data to refine and adapt strategies, ensuring they remain aligned with audience needs and preferences.
 
 
 ## Best Practice 9: Choose the Right Tools

@@ -33,7 +33,7 @@ Harmony facilitates the comparison of AQ-10 and AQ-20 by providing a percentage 
 
 
 
-Harmonizing AQ-10 vs AQ-20 has never been easier with Harmony's database, which users can utilize, or they can also add their instruments in PDF form through the website's interface. As such, the tool is a must-have for those facing the AQ-10 vs AQ-20 comparison challenge, as it simplifies what could otherwise be a complex and time-consuming process.
+harmonising AQ-10 vs AQ-20 has never been easier with Harmony's database, which users can utilize, or they can also add their instruments in PDF form through the website's interface. As such, the tool is a must-have for those facing the AQ-10 vs AQ-20 comparison challenge, as it simplifies what could otherwise be a complex and time-consuming process.
 
 {{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
 

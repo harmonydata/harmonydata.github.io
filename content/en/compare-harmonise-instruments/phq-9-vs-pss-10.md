@@ -25,7 +25,7 @@ Comparing patient questionnaires is a vital aspect of psychological research, pa
 * [PHQ-9 vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/phq-9-vs-de-jong-gierveld-loneliness-scale)
 
 
-Harmony is a software designed specifically to aid psychologists and researchers in the process of harmonizing questionnaire items. For studies involving PHQ-9 vs PSS-10, Harmony is an invaluable tool. It uses advanced language processing and artificial intelligence to give a percentage match between the items in these two lists, thus helping you to draw essential conclusions about the data.
+Harmony is a software designed specifically to aid psychologists and researchers in the process of harmonising questionnaire items. For studies involving PHQ-9 vs PSS-10, Harmony is an invaluable tool. It uses advanced language processing and artificial intelligence to give a percentage match between the items in these two lists, thus helping you to draw essential conclusions about the data.
 
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and PSS-10 " url="https://harmonydata.ac.uk/app" >}}

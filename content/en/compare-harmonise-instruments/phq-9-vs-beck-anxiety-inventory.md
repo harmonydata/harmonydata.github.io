@@ -34,7 +34,7 @@ Traditionally, drawing comparisons between the likes of PHQ-9 vs Beck Anxiety In
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and Beck Anxiety Inventory " url="https://harmonydata.ac.uk/app" >}}
 
-With Harmony, researchers have a revolutionary tool that uses natural language processing and generative AI models to harmonize questionnaire items of both similar and different languages seamlessly. As researchers, we know the PHQ-9 is a self-administered instrument evaluating each of the nine DSM-IV criteria for depression. Meanwhile, the Beck Anxiety Inventory measures 21 common somatic and cognitive symptoms of anxiety. Both serve their own purpose, but finding their common and contrasting elements – that's where the real challenge lies.
+With Harmony, researchers have a revolutionary tool that uses natural language processing and generative AI models to harmonise questionnaire items of both similar and different languages seamlessly. As researchers, we know the PHQ-9 is a self-administered instrument evaluating each of the nine DSM-IV criteria for depression. Meanwhile, the Beck Anxiety Inventory measures 21 common somatic and cognitive symptoms of anxiety. Both serve their own purpose, but finding their common and contrasting elements – that's where the real challenge lies.
 
 {{< youtube cEZppTBj1NI >}}
 

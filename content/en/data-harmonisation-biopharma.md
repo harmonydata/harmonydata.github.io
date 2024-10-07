@@ -15,7 +15,7 @@ url: "/data-harmonisation/data-harmonisation-in-biopharma/"
 # Harmonising Data in Biopharma
 {{< image src="/images/Harmonising Data in Biopharma.webp" alt="Harmonising Data in Biopharma" title="Harmonising Data in Biopharma" >}}
 
-In the biopharmaceutical sector, the collection and analysis of data from diverse sources—clinical trials, real-world evidence (RWE), patient registries, and more—are fundamental to drug development, regulatory approval, and post-market surveillance. However, data from these sources often vary in format, nomenclature, and measurement standards, making it challenging to aggregate and analyze them effectively. [Data harmonisation](/data-harmonisation/) addresses these challenges by standardizing disparate data for seamless integration, analysis, and interpretation.
+In the biopharmaceutical sector, the collection and analysis of data from diverse sources—clinical trials, real-world evidence (RWE), patient registries, and more—are fundamental to drug development, regulatory approval, and post-market surveillance. However, data from these sources often vary in format, nomenclature, and measurement standards, making it challenging to aggregate and analyse them effectively. [Data harmonisation](/data-harmonisation/) addresses these challenges by standardizing disparate data for seamless integration, analysis, and interpretation.
 
 ## Introduction
 
@@ -74,7 +74,7 @@ Data harmonisation plays a pivotal role in advancing research and development ef
 
 3. **Facilitated Analysis and Interpretation**: Harmonised data simplifies analysis by providing a unified framework for comparing and combining data from multiple sources. This enables researchers to extract meaningful insights and identify patterns more effectively, leading to deeper understanding and more robust conclusions. Moreover, harmonisation facilitates data visualization and exploration, allowing researchers to uncover hidden relationships and trends that may inform future research directions.
 
-4. **Accelerated Research and Development**: By streamlining data integration and analysis processes, harmonisation accelerates the pace of research and development, leading to faster drug discovery and more efficient clinical trials. By reducing the time and effort required to access, prepare, and analyze data, harmonisation enables researchers to focus on innovation and experimentation, driving progress towards the development of novel therapies and treatments.
+4. **Accelerated Research and Development**: By streamlining data integration and analysis processes, harmonisation accelerates the pace of research and development, leading to faster drug discovery and more efficient clinical trials. By reducing the time and effort required to access, prepare, and analyse data, harmonisation enables researchers to focus on innovation and experimentation, driving progress towards the development of novel therapies and treatments.
 
 5. **Optimized Resource Utilization**: Harmonised data enables better resource allocation by providing a comprehensive view of available data assets. By harmonising data from diverse sources, organizations can gain insights into their data landscape, identify redundancies and gaps, and prioritize research efforts accordingly. This optimization of resource utilization ensures that limited resources, such as time, funding, and expertise, are allocated strategically, maximizing their impact on research outcomes and driving tangible value for patients and stakeholders.
 

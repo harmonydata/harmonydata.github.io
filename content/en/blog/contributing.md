@@ -42,12 +42,12 @@ There are lots of ways you can contribute to Harmony! You can work on code, impr
 
 * Write code
 * Improve unit tests or integration tests
-* Add new functionality to Harmony
-* Improve Harmony's documentation
+* Add [new functionality](/ideas/) to Harmony
+* Improve Harmony's [documentation](/nlp-semantic-text-matching/how-does-harmony-work/)
 * Add integrations to other LLMs or LLM providers such as OpenAI, IBM, or similar
-* Add integrations from your website to Harmony
-* Publicise Harmony in web forums such as Reddit, HuggingFace forum, Quora, or similar
-* Create example notebooks, such as Jupyter Notebook, RStudio, or Google Colab
+* Add integrations from your website to Harmony - [please read our guide on how to serialise an instrument and pass it to Harmony as a query string](/integrating-with-harmony/).
+* Publicise Harmony in web forums such as [Reddit](https://www.reddit.com/r/opensource/comments/18zq6cf/comment/kgmh3x7/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), [HuggingFace forum](https://discuss.huggingface.co/t/open-source-psychology-project-using-hf-sentence-transformers/73174), Quora, or similar
+* Create example notebooks, such as [Jupyter Notebook](https://github.com/harmonydata/harmony/blob/main/Harmony_example_walkthrough.ipynb), [RStudio](/harmony_r_example.nb.html), or [Google Colab](https://colab.research.google.com/github/harmonydata/harmony/blob/main/Harmony_example_walkthrough.ipynb)
 * Investigate [bugs and issues in Harmony](https://github.com/harmonydata/harmony/issues)
 * Review and comment on [pull requests](https://github.com/harmonydata/harmony/pulls)
 * [Cite Harmony](/frequently-asked-questions/#how-do-i-cite-harmony) in your blogs, papers, and articles
@@ -56,15 +56,15 @@ There are lots of ways you can contribute to Harmony! You can work on code, impr
 
 ## Where do we need help in Harmony?
 
-In particular, the PDF extraction (converting PDFs to structured questionnaire items) is very hard and we have a separate Github repo with examples here: https://github.com/harmonydata/pdf-questionnaire-extraction
+In particular, the [PDF extraction](/data-harmonisation/extract-process-data-from-questionnaires/) (converting PDFs to structured questionnaire items) is very hard and we have a separate Github repo with examples here: https://github.com/harmonydata/pdf-questionnaire-extraction
 
-We are planning on running a hackathon focused on this aspect of the tool.
+We are planning on running a [hackathon](/hackathon) focused on this aspect of the tool.
 
 Also, other initiatives that could be really useful include:
 
 * Better handling of active vs passive voice in questionnaire items
-* Allowing Harmony to switch LLMs
-* Integration with other websites and tools
+* Allowing Harmony to [switch LLMs](/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/)
+* Integration with other websites and tools (such as [via Harmony API](/releasing-harmony-api/), [discovering datasets from other sources](/discovery/), and [integrations allowing other tools to send instruments and data to Harmony](/integrating-with-harmony/).
 * An h-score: a similarity measure between instruments
 
 We started to make a new repo with training data to improve the PDF data processing. This repo has manually annotated training data:
@@ -75,7 +75,7 @@ One issue that would be really helpful would be, to handle active and passive vo
 
 Maybe a small task is easier to start with. Can you see any obvious bugs that you'd like to pick up?
 
-We’ve been looking at integrations with other data repositories. One way forward is to make an npm package other sites can install that makes it easy for them to send data over to the app. Or possibly just to interact with the API directly.
+We’ve been looking at integrations with other data repositories. One way forward is to make an npm package other sites can install that makes it easy for them to send data over to the app. Or possibly just to interact with [Harmony's API](/releasing-harmony-api/) directly.
 
 ## Raising issues and the issue tracker
 
@@ -90,7 +90,7 @@ The issue list is [in the Github repository](https://github.com/harmonydata/harm
 
 Harmony is mostly coded in Python. We use [Pycharm IDE](https://www.jetbrains.com/pycharm/) by JetBrains. Please ensure you are familiar with Python, [HuggingFace](https://huggingface.co/), and [FastAPI](https://fastapi.tiangolo.com/), or Javascript and [React](https://react.dev/) if you want to work on the front end.
 
-Please make sure all code you commit is linted using the [Pycharm default linter](https://www.reddit.com/r/pycharm/comments/mm77el/what_is_the_default_linter_in_pycharm/). If you use a different one (such as VS Code's linter, or pylint), this will make the code history hard to follow, so please be consistent.
+Please make sure all code you commit is [linted](https://stackoverflow.com/questions/8503559/what-is-linting) using the [Pycharm default linter](https://www.reddit.com/r/pycharm/comments/mm77el/what_is_the_default_linter_in_pycharm/). If you use a different one (such as VS Code's linter, or pylint), this will make the code history hard to follow, so please be consistent.
 
 ## Unit tests and code stability
 
@@ -100,7 +100,7 @@ The Harmony Python library [https://github.com/harmonydata/harmony](https://gith
 
 However, the Harmony API repo [https://github.com/harmonydata/harmonyapi](https://github.com/harmonydata/harmonyapi) uses the Harmony Python library as a submodule. When you update the Python library, please run the [unit tests and integration tests in the API repo](https://github.com/harmonydata/harmonyapi/tree/main/tests) to check nothing is broken - including the Selenium tests which test the browser app end to end. You will need to [install Selenium](https://selenium-python.readthedocs.io/) to run the tests.
 
-Since the API repo includes the Python library as a submodule, when you update the Python library, you will need to update the submodule (in the `harmonyapi` repo, `cd` into the submodule folder and do `git pull`, then `cd` out and do `git add`, commit and push). We recommend you [familiarise yourself with Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
+Since the API repo includes the Python library as a [submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules), when you update the Python library, you will need to update the submodule (in the `harmonyapi` repo, `cd` into the submodule folder and do `git pull`, then `cd` out and do `git add`, commit and push). We recommend you [familiarise yourself with Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
 
 Finally, the app repo [https://github.com/harmonydata/app](https://github.com/harmonydata/app) is the React front end. Please check you can run this repo locally also before you start contributing. To point the front end repo to a local copy of your API repo, please change the file [.env](https://github.com/harmonydata/app/blob/master/.env) to point to `http://localhost:8000`.
 

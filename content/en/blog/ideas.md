@@ -43,7 +43,7 @@ Extend Harmony's capabilities by integrating with advanced language models like 
 
 ### Multilingual negation
 
-Enhance Harmony to process negation in languages other than English and Portuguese, expanding its applicability and utility for researchers working with diverse language datasets
+Enhance Harmony to process negation in languages other than English and Portuguese, expanding its applicability and utility for researchers working with [diverse language datasets](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/).
 
 **More information:** [https://github.com/harmonydata/harmony/issues](https://github.com/harmonydata/harmony/issues)
 

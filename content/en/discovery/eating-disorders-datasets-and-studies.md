@@ -13,7 +13,7 @@ url: "/discover-data/eating-disorders-datasets-and-studies"
 
 If you're a researcher in the area of social sciences and are interested in studying Eating Disorders, finding the right datasets to power your investigation is key. Access to rich, in-depth data can significantly enhance the quality of your research. This is where Harmony Discovery comes in.
 
-Harmony Discovery is an advanced tool designed to assist researchers in finding datasets for longitudinal studies - studies that involve observing the same subjects over a period of time to analyze changes at the individual level. In the case of Eating Disorders, Harmony is a lifesaver, helping researchers discover datasets that offer insights into these conditions over a given timeframe.
+Harmony Discovery is an advanced tool designed to assist researchers in finding datasets for longitudinal studies - studies that involve observing the same subjects over a period of time to analyse changes at the individual level. In the case of Eating Disorders, Harmony is a lifesaver, helping researchers discover datasets that offer insights into these conditions over a given timeframe.
 
 Harmony has learned to match variable names and questionnaire items with datasets, using sophisticated large language models. This allows for better context and reference points on the given subject, enabling a more profound and nuanced exploration of the topic at hand.
 

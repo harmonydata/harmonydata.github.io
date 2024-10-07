@@ -10,7 +10,7 @@ aliases:
 The process of drawing comparisons between unique psychometric instruments can be tricky yet crucial. When considering the likes of PHQ-9 vs SMFQ, this becomes even more apparent. PHQ-9 or the Patient Health Questionnaire and SMFQ or Short Mood & Feelings Questionnaire are two significant methods widely used in determining mental health disorders.
 
 
-While PHQ-9 focuses mainly on depression symptoms, SMFQ broadly evaluates negative mood patterns in young people. Harmony, with its sophisticated AI-powered information processing capabilities, can streamline this harmonization process, providing a systematic comparison between the multiple facets of PHQ-9 vs SMFQ.
+While PHQ-9 focuses mainly on depression symptoms, SMFQ broadly evaluates negative mood patterns in young people. Harmony, with its sophisticated AI-powered information processing capabilities, can streamline this harmonisation process, providing a systematic comparison between the multiple facets of PHQ-9 vs SMFQ.
 
 
 
@@ -27,7 +27,7 @@ While PHQ-9 focuses mainly on depression symptoms, SMFQ broadly evaluates negati
 
 
 
-Harmony employs large language models that enable it to compare individual components within these instruments, providing a percentage match between each item in PHQ-9 vs SMFQ. The software’s expansive, pre-established database also enables researchers to draw their desired instruments or upload unique ones in PDF form. Moreover, Harmony also offers multilingual support, allowing different languages to be compared seamlessly, helping broaden the global relevance and understanding of PHQ-9 vs SMFQ.
+Harmony employs large language models that enable it to compare individual components within these instruments, providing a percentage match between each item in PHQ-9 vs SMFQ. The software’s expansive, pre-established database also enables researchers to draw their desired instruments or upload unique ones in PDF form. Moreover, Harmony also offers [multilingual support](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/), allowing different languages to be compared seamlessly, helping broaden the global relevance and understanding of PHQ-9 vs SMFQ.
 
 ## Compare the items in PHQ-9 and SMFQ
 
@@ -37,7 +37,7 @@ Harmony employs large language models that enable it to compare individual compo
 
 
 
-Rigorous manual comparison of PHQ-9 vs SMFQ not only takes a hefty amount of time but is also subjected to the risk of subjective interpretation. Employing Harmony's cutting-edge features can save time, enhance objectivity, and even possibly shed light on overlooked aspects of comparative analyses between PHQ-9 vs SMFQ. Its inclusive engagement with a variety of test instruments and multilingual support further proves it to be a vital tool for psychological and social science research.
+Rigorous manual comparison of PHQ-9 vs SMFQ not only takes a hefty amount of time but is also subjected to the risk of subjective interpretation. Employing Harmony's cutting-edge features can save time, enhance objectivity, and even possibly shed light on overlooked aspects of comparative analyses between PHQ-9 vs SMFQ. Its inclusive engagement with a variety of test instruments and [multilingual support](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/) further proves it to be a vital tool for psychological and social science research.
 
 {{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
 

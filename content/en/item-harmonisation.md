@@ -29,7 +29,7 @@ Harmony is a free online tool that leverages the power of  [natural language pro
 Here's how Harmony simplifies your work:
 
 * **Effortless matching:**  Upload your questionnaires and Harmony uses  cutting-edge AI  to identify  semantically equivalent items**  across different instruments. This eliminates the need for manual slogging through PDFs.
-* **Goodbye language barriers:**  Harmony tackles questionnaires in  multiple languages**. This opens doors to analyzing data from a wider range of populations.
+* **Goodbye language barriers:**  Harmony tackles questionnaires in  multiple languages**. This opens doors to analysing data from a wider range of populations.
 * **Time is precious:**  Harmony automates a significant portion of the item harmonisation process, freeing up your valuable research time.
 
 ## The benefits of effective item harmonisation

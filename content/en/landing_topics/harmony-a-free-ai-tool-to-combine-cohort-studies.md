@@ -12,7 +12,7 @@ Harmony is an innovative software that has been specifically designed for psycho
 {{< card heading="Try Harmony" copy=" Harmony: A Free AI Tool to Combine Cohort Studies " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-One of the main features of Harmony is its ability to match items in different questionnaires, ultimately making the process of harmonisation faster and more accurate. This is crucial for psychologists as they often have to compare and analyze data from multiple studies, including longitudinal studies. With Harmony, researchers can easily make comparisons within and across studies, allowing for a deeper understanding of the data and potential changes in social conditions.
+One of the main features of Harmony is its ability to match items in different questionnaires, ultimately making the process of harmonisation faster and more accurate. This is crucial for psychologists as they often have to compare and analyse data from multiple studies, including longitudinal studies. With Harmony, researchers can easily make comparisons within and across studies, allowing for a deeper understanding of the data and potential changes in social conditions.
 
 * [Validation and Harmonisation of Overall Health-related Quality of Life (SF-36)](/harmonisation-validation/overall-health-related-quality-of-life-sf-36)
 * [GAD-7 vs SDQ](/gad-7-vs-sdq)

@@ -19,7 +19,7 @@ Harmony can aid researchers in validating and harmonising the Loe & Silness Ging
 
 Using Harmony's natural language processing and AI models, researchers can quickly and accurately compare the Loe & Silness Gingival Index with other instruments in multiple languages. This not only saves time and resources, but also helps ensure consistency and accuracy in the measurement of the construct being studied.
 
-Furthermore, researchers can use Harmony to validate the Loe & Silness Gingival Index by analyzing its effectiveness in measuring changes in gingival inflammation over time. This can be done by using Harmony to compare results from the Loe & Silness Gingival Index with those from other instruments over a period of time.
+Furthermore, researchers can use Harmony to validate the Loe & Silness Gingival Index by analysing its effectiveness in measuring changes in gingival inflammation over time. This can be done by using Harmony to compare results from the Loe & Silness Gingival Index with those from other instruments over a period of time.
 
 In summary, Harmony can greatly aid in the validation and harmonisation of the Loe & Silness Gingival Index with other instruments in order to enhance the effectiveness and accuracy of research in the field of gingival inflammation.
 

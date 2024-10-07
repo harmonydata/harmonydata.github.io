@@ -12,7 +12,7 @@ We are excited to announce that Harmony, a Natural Language Processing tool for 
 
 Previously, [Harmony R](/harmony-r-released/) could be installed using [devtools](https://www.r-project.org/nosvn/pandoc/devtools.html).
 
-Harmony can be used to compare questionnaire items across studies, find the best match for a set of items, and identify different versions of the same questionnaire. Harmony is a collaboration project between [Ulster University](https://ulster.ac.uk), [University College London](https://ucl.ac.uk), the [Universidade Federal de Santa Maria](https://ufsm.br), and [Fast Data Science](https://fastdatascience.com/harmony-wellcome-data-prize/). It is funded by Wellcome as part of the [Wellcome Data Prize in Mental Health](https://wellcome.org/what-we-do/data-science-and-health-trustworthy-data-science/wellcome-data-prizes).
+Harmony can be used to compare questionnaire items across studies, find the best match for a set of items, and identify different versions of the same questionnaire. Harmony is a collaboration project between [Ulster University](https://ulster.ac.uk), [University College London](https://ucl.ac.uk), the [Universidade Federal de Santa Maria](https://ufsm.br), and [Fast Data Science](https://fastdatascience.com/harmony-wellcome-data-prize/). It has been funded by Wellcome as part of the [Wellcome Data Prize](https://wellcome.org/what-we-do/data-science-and-health-trustworthy-data-science/wellcome-data-prizes) in [Mental Health](/ai-in-mental-health/), as well as UKRI.
 
 To install Harmony, you can use the following command in your [R console](https://docs.posit.co/ide/user/ide/guide/code/console.html) or [R Studio](https://posit.co/download/rstudio-desktop/):
 

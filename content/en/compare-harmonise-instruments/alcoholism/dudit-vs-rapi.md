@@ -33,7 +33,7 @@ By using Harmony, psychologists can access its extensive database, or drag and d
 
 
 
-To leverage the power of AI in psychological research, Harmony is indeed the go-to tool for instrument comparison, specifically for tasks such as DUDIT vs RAPI. With its user-friendly web interface and robust features, it can aid researchers in their longitudinal studies, ultimately contributing to a better understanding of substance use disorders. Cut down your manual work and let Harmony take care of the harmonization process.
+To leverage the power of AI in psychological research, Harmony is indeed the go-to tool for instrument comparison, specifically for tasks such as DUDIT vs RAPI. With its user-friendly web interface and robust features, it can aid researchers in their longitudinal studies, ultimately contributing to a better understanding of substance use disorders. Cut down your manual work and let Harmony take care of the harmonisation process.
 
 
 {{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}

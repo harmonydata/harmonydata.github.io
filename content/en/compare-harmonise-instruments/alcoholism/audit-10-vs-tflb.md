@@ -7,10 +7,10 @@ aliases:
 
 ## AUDIT-10 vs TFLB
 
-The AUDIT-10 (Alcohol use disorders identification test) and TFLB (Timeline Followback Method Assessment) are two highly recognized questionnaires used by psychologists to assess alcohol use disorders. However, comparing these two tools can be time-consuming and subjective, often requiring manual harmonization of questionnaire items. That's why we recommend making use of Harmony— a software developed to help researchers navigate this process easily and efficiently.
+The AUDIT-10 (Alcohol use disorders identification test) and TFLB (Timeline Followback Method Assessment) are two highly recognized questionnaires used by psychologists to assess alcohol use disorders. However, comparing these two tools can be time-consuming and subjective, often requiring manual harmonisation of questionnaire items. That's why we recommend making use of Harmony— a software developed to help researchers navigate this process easily and efficiently.
 
 
-Harmony uses advanced algorithms and language models to detect similarities and differences, providing a percentage match between each item in the AUDIT-10 and TFLB. With Harmony, the process of comparing AUDIT-10 vs TFLB becomes more streamlined and accurate, even allowing for the comparison of items in different languages. Taking full advantage of Harmony's capabilities can substantially alleviate the burdensome task of questionnaire harmonization.
+Harmony uses advanced algorithms and language models to detect similarities and differences, providing a percentage match between each item in the AUDIT-10 and TFLB. With Harmony, the process of comparing AUDIT-10 vs TFLB becomes more streamlined and accurate, even allowing for the comparison of items in different languages. Taking full advantage of Harmony's capabilities can substantially alleviate the burdensome task of questionnaire harmonisation.
 
 
 {{< card heading="Try Harmony" copy="Compare AUDIT-10 and TFLB " url="https://harmonydata.ac.uk/app" >}}

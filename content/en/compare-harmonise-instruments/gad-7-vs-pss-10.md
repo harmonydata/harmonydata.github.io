@@ -7,7 +7,7 @@ aliases:
 
 ## GAD-7 vs PSS-10: A Comparative Insight with Harmony
 
-A significant challenge for psychologists often comes down to harmonizing different questionnaires such as [GAD-7](https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder/overview/) and [PSS-10](http://www.macses.ucsf.edu/research/psychosocial/pss10.php). This challenge begins with trying to match the individual items of these two different instruments that assess anxiety disorder and stress perception respectively. For some meta-analyses you might need to compare the GAD-7 vs the PSS-10.
+A significant challenge for psychologists often comes down to harmonising different questionnaires such as [GAD-7](https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder/overview/) and [PSS-10](http://www.macses.ucsf.edu/research/psychosocial/pss10.php). This challenge begins with trying to match the individual items of these two different instruments that assess anxiety disorder and stress perception respectively. For some meta-analyses you might need to compare the GAD-7 vs the PSS-10.
 
 
 ## Compare the items in GAD-7 English and PSS-10
@@ -25,7 +25,7 @@ A significant challenge for psychologists often comes down to harmonizing differ
 * [ESPAD vs MAST](/compare-harmonise-instruments/alcoholism/espad-vs-mast)
 
 
-This software matches items in the questionnaires effectively using natural language processing and generative AI models. This ability to harmonize GAD-7 vs PSS-10 is particularly beneficial allowing psychologists to study and compare the severity of GAD and perceived stress in respondents. Harmony would make matching the items such as "Feeling nervous, anxious, or on edge" in GAD-7 to "felt nervous and stressed" in PSS-10 seamless, thanks to its large language models.
+This software matches items in the questionnaires effectively using natural language processing and generative AI models. This ability to harmonise GAD-7 vs PSS-10 is particularly beneficial allowing psychologists to study and compare the severity of GAD and perceived stress in respondents. Harmony would make matching the items such as "Feeling nervous, anxious, or on edge" in GAD-7 to "felt nervous and stressed" in PSS-10 seamless, thanks to its large language models.
 
 
 {{< card heading="Try Harmony" copy="Compare GAD-7 and PSS-10 " url="https://harmonydata.ac.uk/app" >}}

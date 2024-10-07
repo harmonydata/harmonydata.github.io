@@ -7,7 +7,7 @@ aliases:
 
 ## PHQ-9 vs De Jong Gierveld Loneliness Scale
 
-The agenda of psychological research often encounters the need for comparison and harmonization of different psychometric instruments. One of such example is comparison between PHQ-9, a widespread diagnostic instrument for mental disorders, and De Jong Gierveld Loneliness Scale, a widely-used tool for assessing loneliness. The **PHQ-9 vs De Jong Gierveld Loneliness Scale** comparison requires a time-consuming and subjective process, which might not be efficient for researchers. This is where Harmony software can offer significant assistance.
+The agenda of psychological research often encounters the need for comparison and harmonisation of different psychometric instruments. One of such example is comparison between PHQ-9, a widespread diagnostic instrument for mental disorders, and De Jong Gierveld Loneliness Scale, a widely-used tool for assessing loneliness. The **PHQ-9 vs De Jong Gierveld Loneliness Scale** comparison requires a time-consuming and subjective process, which might not be efficient for researchers. This is where Harmony software can offer significant assistance.
 
 {{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
@@ -16,7 +16,7 @@ The agenda of psychological research often encounters the need for comparison an
 {{< youtube cEZppTBj1NI >}}
 
 
-By leveraging natural language processing and AI models, Harmony allows for seamless comparison and harmonization of different questionnaires. Psychologists and social scientists enthusiastic about understanding the nuances between **PHQ-9 vs De Jong Gierveld Loneliness Scale** would find Harmony an indispensable tool for their research. Not only does it allow the comparison of individual questions in the instruments, but it also provides a percentage match, assisting in a more in-depth analysis. Harmony breaks down the traditional barriers of language as well, by boasting a multi-language support system in its database. Therefore, researchers can effectively use Harmony for **PHQ-9 vs De Jong Gierveld Loneliness Scale**, regardless of the original language of the instruments. If your research pertains to related areas, consider using Harmony for its ease of use, sophisticated AI support, and hassle-free comparison of psychometric tools.
+By leveraging natural language processing and AI models, Harmony allows for seamless comparison and harmonisation of different questionnaires. Psychologists and social scientists enthusiastic about understanding the nuances between **PHQ-9 vs De Jong Gierveld Loneliness Scale** would find Harmony an indispensable tool for their research. Not only does it allow the comparison of individual questions in the instruments, but it also provides a percentage match, assisting in a more in-depth analysis. Harmony breaks down the traditional barriers of language as well, by boasting a multi-language support system in its database. Therefore, researchers can effectively use Harmony for **PHQ-9 vs De Jong Gierveld Loneliness Scale**, regardless of the original language of the instruments. If your research pertains to related areas, consider using Harmony for its ease of use, sophisticated AI support, and hassle-free comparison of psychometric tools.
 
 ## You may also be interested in these harmonisations
 

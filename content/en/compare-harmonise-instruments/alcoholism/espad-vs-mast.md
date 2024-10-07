@@ -25,7 +25,7 @@ Comparative analysis between different questionnaires, like 'European School Sur
 * [DUDIT vs ASSIST](/compare-harmonise-instruments/alcoholism/dudit-vs-assist)
 
 
-This analytical software uses natural language processing and generative AI models, thereby expediting the harmonization process of questionnaire items, regardless of the language barrier. The ESPAD vs MAST analysis can be performed by selecting the respective instruments from Harmony's extensive database or uploading the respective PDFs into the easy-to-use web interface. The software compares each item in ESPAD and MAST, providing a percentage match.
+This analytical software uses natural language processing and generative AI models, thereby expediting the harmonisation process of questionnaire items, regardless of the language barrier. The ESPAD vs MAST analysis can be performed by selecting the respective instruments from Harmony's extensive database or uploading the respective PDFs into the easy-to-use web interface. The software compares each item in ESPAD and MAST, providing a percentage match.
 
 
 {{< card heading="Try Harmony" copy="Compare ESPAD and MAST " url="https://harmonydata.ac.uk/app" >}}

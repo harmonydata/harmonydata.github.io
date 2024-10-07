@@ -48,7 +48,7 @@ In the realm of data harmonisation, the emphasis on quality over quantity cannot
 
 
 #### Role of Machine Learning and AI
-Machine learning and AI play a pivotal role in the cleaning and harmonising of data, making it more usable for predictive analytics. These technologies can automatically detect inconsistencies, outliers, and errors that would be time-consuming and challenging to identify manually. By employing advanced algorithms, AI can also suggest harmonisation strategies, such as normalization techniques and data transformation methods, to ensure that disparate data sources are compatible and can be analyzed together. This not only improves the quality of the data but also accelerates the harmonisation process, enabling researchers and clinicians to focus on deriving insights and making informed decisions.
+Machine learning and AI play a pivotal role in the cleaning and harmonising of data, making it more usable for predictive analytics. These technologies can automatically detect inconsistencies, outliers, and errors that would be time-consuming and challenging to identify manually. By employing advanced algorithms, AI can also suggest harmonisation strategies, such as normalization techniques and data transformation methods, to ensure that disparate data sources are compatible and can be analysed together. This not only improves the quality of the data but also accelerates the harmonisation process, enabling researchers and clinicians to focus on deriving insights and making informed decisions.
 
 
 ### Managing Volumes of Disparate Data
@@ -176,7 +176,7 @@ PEDSnet, a pediatric learning health system, aims to harmonise electronic health
 - **Common Data Model Adoption:** Adopt a common data model (CDM) that allows for the standardization of EHR data across different [hospital](/harmonisation-validation/hospital-anxiety-and-depression-scale-hads) systems, including demographics, diagnoses, procedures, medications, and outcomes.
 - **Data Transformation and Mapping:** Work with data analysts at each institution to map their local EHR data to the CDM, ensuring that data from different sources becomes comparable and analyzable.
 - **Quality Assurance Processes:** Implement continuous data quality checks to ensure the accuracy, completeness, and consistency of the harmonised data set.
-- **Data Sharing and Access Infrastructure:** Develop a secure infrastructure that allows researchers to access and analyze the harmonised data while protecting patient privacy and adhering to data use agreements.
+- **Data Sharing and Access Infrastructure:** Develop a secure infrastructure that allows researchers to access and analyse the harmonised data while protecting patient privacy and adhering to data use agreements.
 - **Engagement and Governance:** Establish a governance structure that includes representatives from all participating institutions, researchers, and patient advocacy groups to oversee the project and ensure its alignment with patient care improvement goals.
 
 These case studies provide tangible examples of how harmonisation efforts in healthcare can leverage real data to advance research, improve clinical care, and facilitate global collaboration. The BRCA Challenge and PEDSnet demonstrate the potential of harmonised data to impact patient care and outcomes significantly by enabling more informed research and clinical decisions.
@@ -264,7 +264,7 @@ The evolving landscape of data harmonisation will likely necessitate changes in 
 
 ### The Potential Impact on Healthcare Efficiency and Equity
 
-The promise of data harmonisation extends beyond technological advancements, touching on key aspects of healthcare efficiency and equity. By making it easier to combine and analyze data from varied sources, harmonisation efforts can help identify and address disparities in healthcare access and outcomes. This can lead to more equitable healthcare systems where decisions are informed by comprehensive, high-quality data reflecting diverse patient populations.
+The promise of data harmonisation extends beyond technological advancements, touching on key aspects of healthcare efficiency and equity. By making it easier to combine and analyse data from varied sources, harmonisation efforts can help identify and address disparities in healthcare access and outcomes. This can lead to more equitable healthcare systems where decisions are informed by comprehensive, high-quality data reflecting diverse patient populations.
 
 Moreover, the efficiency gains from streamlined data processes can reduce healthcare costs and improve patient outcomes. As data harmonisation facilitates quicker, more accurate analyses, healthcare providers can make informed decisions faster, leading to better health outcomes and more efficient use of resources.
 

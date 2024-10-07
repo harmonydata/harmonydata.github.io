@@ -7,7 +7,7 @@ aliases:
 
 ## DTC vs ESPAD
 
-Harmony provides an intuitive solution for psychologists comparing different psychological questionnaires, such as DTC vs ESPAD, allowing them to gain insights more efficiently. The traditional method of manual harmonization poses several challenges like the enormous time investment and subjectivity of the process. However, Harmony leverages advanced technologies like natural language processing and generative AI models for cross-referencing between different instruments. It also offers a handy feature of comparing questionnaire items in multiple languages.
+Harmony provides an intuitive solution for psychologists comparing different psychological questionnaires, such as DTC vs ESPAD, allowing them to gain insights more efficiently. The traditional method of manual harmonisation poses several challenges like the enormous time investment and subjectivity of the process. However, Harmony leverages advanced technologies like natural language processing and generative AI models for cross-referencing between different instruments. It also offers a handy feature of comparing questionnaire items in multiple languages.
 
 ## Compare the items in DTC and ESPAD
 
@@ -30,7 +30,7 @@ The comparison of DTC vs ESPAD could be significantly streamlined using Harmony.
 
 {{< youtube cEZppTBj1NI >}}
 
-Harmony's AI models will analyse and compare each item of DTC and ESPAD, providing a percentage match per item. In sum, using Harmony provides a more practical and efficient way of conducting comparative analyses like DTC vs ESPAD, therefore enabling researchers to save time and reduce subjectivity. By addressing the time-consuming task of manual harmonization with automation, Harmony ultimately contributes to more comprehensive and reliable longitudinal and cohort studies. For researchers seeking to enhance their work process, Harmony indeed offers a promising solution.
+Harmony's AI models will analyse and compare each item of DTC and ESPAD, providing a percentage match per item. In sum, using Harmony provides a more practical and efficient way of conducting comparative analyses like DTC vs ESPAD, therefore enabling researchers to save time and reduce subjectivity. By addressing the time-consuming task of manual harmonisation with automation, Harmony ultimately contributes to more comprehensive and reliable longitudinal and cohort studies. For researchers seeking to enhance their work process, Harmony indeed offers a promising solution.
 
 
 

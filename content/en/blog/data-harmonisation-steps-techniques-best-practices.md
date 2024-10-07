@@ -23,7 +23,7 @@ Data harmonisation involves several key steps: preparing, transforming, and vali
 Before embarking on the data harmonisation journey, it's essential to grasp its significance and the challenges it aims to solve:
 
 - **Definition and Scope**: Data harmonisation is the process of bringing together data from different sources, aligning on common standards to ensure they are comparable and usable in analysis. 
-    - This process involves standardising data attributes, such as units of measurement, time zones, and terminologies, to create a unified data set that can be easily analyzed and interpreted. 
+    - This process involves standardising data attributes, such as units of measurement, time zones, and terminologies, to create a unified data set that can be easily analysed and interpreted. 
     - The scope of data harmonisation extends beyond mere data cleaning or transformation; it encompasses the establishment of common standards and practices to achieve interoperability among datasets.
 
 - **Importance**: It enhances data quality, facilitates interoperability, and supports comprehensive analytics, thereby driving informed decisions.
@@ -46,7 +46,7 @@ Before embarking on the data harmonisation journey, it's essential to grasp its 
 
 - **Enhanced Data Quality:** Achieve cleaner, more consistent, and reliable data. Data harmonisation significantly improves the cleanliness, consistency, and reliability of data. By standardising data formats, units of measurement, and other variables, organisations can reduce errors and discrepancies that often arise from using data collected from various sources. This leads to a higher quality of data that is more dependable for analysis purposes.
 
-    - Reduces Ambiguity: Ensuring that data from different sources speaks the same "language" reduces ambiguity, making it easier to interpret and analyze.
+    - Reduces Ambiguity: Ensuring that data from different sources speaks the same "language" reduces ambiguity, making it easier to interpret and analyse.
     - Increases Accuracy: By aligning data to common standards, the accuracy of datasets is improved, which is crucial for analytics and reporting.
 
 - **Better Decision Making:** Unified data provides a more comprehensive view of the information, enabling organisations to conduct thorough analyses and gain deeper insights. This holistic perspective is critical for identifying trends, making predictions, and uncovering hidden patterns that would be difficult to discern using fragmented or siloed data.

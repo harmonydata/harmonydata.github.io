@@ -7,7 +7,7 @@ image: /images/harmony-tidal-workshop.jpg
 ---
 
 
-On Thursday, August 17th, 2023, the Harmony and [TIDAL](https://github.com/AmeliaES/TIDAL) teams teamed up to run a workshop at [University College London](https://www.ucl.ac.uk/) to allow researchers to try out their software tools. The workshop was attended by researchers interested in using these tools to study child and adolescent mental health, and other areas in social science research, from the effects of gambling addiction to asking questions about nature vs nurture in twin studies.
+On Thursday, August 17th, 2023, the Harmony and [TIDAL](https://github.com/AmeliaES/TIDAL) teams teamed up to run a workshop at [University College London](https://www.ucl.ac.uk/) to allow researchers to try out their software tools. The workshop was attended by researchers interested in using these tools to study child and adolescent [mental health](/ai-in-mental-health/), and other areas in social science research, from the effects of gambling addiction to asking questions about nature vs nurture in twin studies.
 
 [You can read more about the event on the Centre for Longitudinal Studies' website.](https://cls.ucl.ac.uk/events/mental-health-data-tools-workshop/)
 
@@ -26,7 +26,7 @@ The participants were given the opportunity to practice using Harmony and TIDAL 
 
 ## Data used in the workshop
 
-The data used in the workshop was synthetic data that had been simulated based on the following two UK cohort studies:
+The data used in the workshop was synthetic data that had been simulated based on the following two UK [cohort studies](/item-harmonisation/harmony-a-free-ai-tool-for-cross-cohort-research/):
 
 * Avon Longitudinal Study of Parents and Children (ALSPAC)
 * 1970 British Cohort Study (BCS70)
@@ -55,7 +55,7 @@ If you are interested in learning more about Harmony, please check out some of o
 
 ## About TIDAL
 
-TIDAL stands for Tool to Implement Developmental Analyses of Longitudinal Data. TIDAL is designed to facilitate work trajectories and remove barriers to implementing longitudinal research to researchers without specialist statistical backgrounds, enabling them to address questions like:
+TIDAL stands for Tool to Implement Developmental Analyses of Longitudinal Data. TIDAL is designed to facilitate work trajectories and remove barriers to implementing [longitudinal research](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study/) to researchers without specialist statistical backgrounds, enabling them to address questions like:
 
 * How mental health is changing over specific periods of time.
 * When mental health is improving or worsening at the fastest rate (points of acceleration).

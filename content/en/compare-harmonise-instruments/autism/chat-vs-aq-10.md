@@ -7,7 +7,7 @@ aliases:
 
 ## CHAT vs AQ-10
 
-Comparing questionnaires like CHAT (Checklist for Autism in Toddlers) and AQ-10 (Autism Quotient 10-item) is often a daunting and laborious task for researchers. Nevertheless, recognizing similarities and differences in such instruments can be crucial for correlational studies or meta-analyses. Thus, we recommend utilizing Harmony, a cutting-edge tool developed specifically for analyzing and comparing psychological questionnaires.
+Comparing questionnaires like CHAT (Checklist for Autism in Toddlers) and AQ-10 (Autism Quotient 10-item) is often a daunting and laborious task for researchers. Nevertheless, recognizing similarities and differences in such instruments can be crucial for correlational studies or meta-analyses. Thus, we recommend utilizing Harmony, a cutting-edge tool developed specifically for analysing and comparing psychological questionnaires.
 
 ## Compare the items in CHAT and AQ-10
 
@@ -17,7 +17,7 @@ Comparing questionnaires like CHAT (Checklist for Autism in Toddlers) and AQ-10 
 
 
 
-Through innovative use of artificial intelligence, Harmony streamlines the tedious task of manual comparison, transforming CHAT vs AQ-10 comparison into a streamlined process. Harmony's AI-driven system is capable of comparing each item in CHAT and AQ-10, assigning a percentage similarity. This not only accelerates the harmonization process but also reduces the subjective bias associated with manual item-matching. With Harmony, batch comparison of CHAT vs AQ-10 can be achieved in minutes instead of days, leading to more efficient analysis and improved data integrity.
+Through innovative use of artificial intelligence, Harmony streamlines the tedious task of manual comparison, transforming CHAT vs AQ-10 comparison into a streamlined process. Harmony's AI-driven system is capable of comparing each item in CHAT and AQ-10, assigning a percentage similarity. This not only accelerates the harmonisation process but also reduces the subjective bias associated with manual item-matching. With Harmony, batch comparison of CHAT vs AQ-10 can be achieved in minutes instead of days, leading to more efficient analysis and improved data integrity.
 
 ## You may also be interested in these harmonisations
 

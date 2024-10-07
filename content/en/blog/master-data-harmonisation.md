@@ -74,7 +74,7 @@ Interested in learning how master data can revolutionize your business? Check ou
 
 ## **What is Data Harmonisation in Mental Health Research?**
 
-Ever wondered how mental health research makes sense of so much varied data – and how you can do the same for your research or business data? You start out with data that is all over the place: different languages, different formats and questions and scales. How do you get this data to reveal the answers you're looking for? The answer lies – once again – in data harmonisation.
+Ever wondered how [mental health](/ai-in-mental-health/) research makes sense of so much varied data – and how you can do the same for your research or business data? You start out with data that is all over the place: [different languages](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/), different formats and questions and scales. How do you get this data to reveal the answers you're looking for? The answer lies – once again – in data harmonisation.
 
 You might be asking, “Isn’t that a long and tedious process? Do I need to harmonise my data manually?” The data harmonisation process can seem quite scary and overwhelming, as it traditionally requires extensive manual effort and meticulous attention to detail.
 
@@ -96,7 +96,7 @@ The data harmonisation process with NLP involves several steps:
 2. Harmony's NLP algorithms then analyse the text and map out similarities and differences across various questionnaires.
 3. The system can identify identical questions, those with similar meanings, or even contrasting items. Thereby it creates a complete network graph for analysis.
 
-This capability is particularly helpful and important in multilingual settings. For instance, Harmony can map the GAD-7 questionnaire used in the UK with its Brazilian Portuguese counterpart – for accuracy and relevancy in cross-cultural research.
+This capability is particularly helpful and important in [multilingual settings](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/). For instance, Harmony can map the GAD-7 questionnaire used in the UK with its Brazilian Portuguese counterpart – for accuracy and relevancy in cross-cultural research.
 
 To learn how to integrate this powerful tool into your research workflow, read through our [Frequently Asked Questions](https://harmonydata.ac.uk/frequently-asked-questions/) or just [give it a try](https://harmonydata.ac.uk/app/#/) yourself.
 

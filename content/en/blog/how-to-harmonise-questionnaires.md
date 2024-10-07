@@ -83,7 +83,7 @@ If this sounds too technical, here’s how it works in real life: For instance, 
 
 You might have data from different countries all over the world (which is amazing), but now you don’t know how to analyse this data and make sense of it together. After all, what good is all this diverse data if you can’t get the results and answers you need from it?
 
-Harmony can help you out again! One of the unique and groundbreaking capabilities of the data harmonisation tool is its proficiency in multilingual data harmonisation. This feature is particularly vital for global research studies that involve data collection across different linguistic groups. Its smart use of natural language processing means it can work with languages far and wide, which guarantees that every piece of data fits perfectly, no matter where it's from.
+Harmony can help you out again! One of the unique and groundbreaking capabilities of the data harmonisation tool is its proficiency in [multilingual data harmonisation](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/). This feature is particularly vital for global research studies that involve data collection across different linguistic groups. Its smart use of natural language processing means it can work with languages far and wide, which guarantees that every piece of data fits perfectly, no matter where it's from.
 
 Particularly in mental health research, where the subtleties of language matter, the ability to map datasets from various languages can open doors to new insights into issues like social isolation and anxiety.
 

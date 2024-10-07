@@ -7,7 +7,7 @@ aliases:
 
 ## DTC vs AUDIT: A Comparative Analysis using Harmony
 
-Psychologists seeking to assess and compare alcohol-related behaviors often utilize questionnaires such as Drinking to Cope (DTC) and Alcohol Use Disorders Identification Test (AUDIT). However, the comparative analysis and harmonization of these distinct assessment tools can be time consuming and subjective. The innovative software Harmony can redefine this process. It revolutionizes the DTC vs AUDIT comparison procedure by leveraging the power of natural language processing and generative AI models.
+Psychologists seeking to assess and compare alcohol-related behaviors often utilize questionnaires such as Drinking to Cope (DTC) and Alcohol Use Disorders Identification Test (AUDIT). However, the comparative analysis and harmonisation of these distinct assessment tools can be time consuming and subjective. The innovative software Harmony can redefine this process. It revolutionizes the DTC vs AUDIT comparison procedure by leveraging the power of natural language processing and generative AI models.
 
 ## Compare the items in DTC and AUDIT
 
@@ -25,7 +25,7 @@ Psychologists seeking to assess and compare alcohol-related behaviors often util
 * [SDQ vs SMFQ](/compare-harmonise-instruments/sdq-vs-smfq)
 
 
-Harmony offers an effortless and comprehensive approach to harmonize and compare DTC's and AUDIT's questionnaire items. The software utilizes large language models to perform a detailed DTC vs AUDIT comparison and produces a percentage match between each questionnaire item. This undoubtedly simplifies the process of data comparison, thus allowing psychologists to focus more on the results and less on the methodology.
+Harmony offers an effortless and comprehensive approach to harmonise and compare DTC's and AUDIT's questionnaire items. The software utilizes large language models to perform a detailed DTC vs AUDIT comparison and produces a percentage match between each questionnaire item. This undoubtedly simplifies the process of data comparison, thus allowing psychologists to focus more on the results and less on the methodology.
 
 
 {{< card heading="Try Harmony" copy="Compare DTC and AUDIT " url="https://harmonydata.ac.uk/app" >}}
@@ -34,7 +34,7 @@ Harmony offers an effortless and comprehensive approach to harmonize and compare
 
 
 
-Harmony enables users to upload their questionnaires directly into its web interface, breaking the tedious cycle of manually sorting through PDF files. Moreover, Harmony's aptitude extends beyond just the English language. The software can aptly compare and harmonize questionnaires written in multiple languages. That makes DTC vs AUDIT comparisons across different cultural and social contexts easier than ever. Harmony effectively shreds the barriers of linguistics and introduces a new era in cross-study comparisons. The software is poised to be an invaluable tool for psychologists aspiring to unravel the intricate web of behavioral patterns across various challenges and cultures.
+Harmony enables users to upload their questionnaires directly into its web interface, breaking the tedious cycle of manually sorting through PDF files. Moreover, Harmony's aptitude extends beyond just the English language. The software can aptly compare and harmonise questionnaires written in multiple languages. That makes DTC vs AUDIT comparisons across different cultural and social contexts easier than ever. Harmony effectively shreds the barriers of linguistics and introduces a new era in cross-study comparisons. The software is poised to be an invaluable tool for psychologists aspiring to unravel the intricate web of behavioral patterns across various challenges and cultures.
 
 {{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
 

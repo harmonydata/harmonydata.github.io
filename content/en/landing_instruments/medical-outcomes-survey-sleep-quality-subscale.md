@@ -19,7 +19,7 @@ Researchers may want to validate the MOS-SQS or harmonise it with other similar 
 
 Harmony uses natural language processing and generative AI models to compare instruments, including the MOS-SQS, and can give a percentage match between each item in the instrument. This can help researchers identify which variables in the MOS-SQS match variables in other instruments and establish crosswalks between them. 
 
-Additionally, researchers can select the MOS-SQS from Harmony's database or upload their own version of the instrument in PDF form. Harmony can then analyze and compare the items in both versions, providing researchers with a harmonised version of the instrument.
+Additionally, researchers can select the MOS-SQS from Harmony's database or upload their own version of the instrument in PDF form. Harmony can then analyse and compare the items in both versions, providing researchers with a harmonised version of the instrument.
 
 By harmonising the MOS-SQS with other instruments, researchers can ensure that their data is consistent and comparable across different studies. This can improve the validity of their research and help them make more accurate and reliable conclusions.
 

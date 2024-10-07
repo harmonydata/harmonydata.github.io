@@ -15,7 +15,7 @@ Harmony Discovery is a powerful tool that researchers can use to explore dataset
 
 ## What is Somatic Symptom Disorder?
 
-Somatic Symptom Disorder is a mental health disorder characterized by an extreme focus on physical symptoms, such as pain or fatigue, causing major emotional distress and problems functioning. The person has excessive thoughts, feelings or behaviors related to the physical symptoms. The symptoms can be related to any part of the body and can widely vary in their severity.
+Somatic Symptom Disorder is a [mental health](/ai-in-mental-health/) disorder characterized by an extreme focus on physical symptoms, such as pain or fatigue, causing major emotional distress and problems functioning. The person has excessive thoughts, feelings or behaviors related to the physical symptoms. The symptoms can be related to any part of the body and can widely vary in their severity.
 
 ## Using Harmony Discovery for Research
 
@@ -25,7 +25,7 @@ Research data regarding Somatic Symptom Disorder can be found in various databas
 
 ## The Value of Longitudinal Studies
 
-Longitudinal studies are particularly informative for researchers as they allow changes to be analyzed at an individual level, yielding detailed and nuanced findings. Such studies provide valuable insights into the progression of Somatic Symptom Disorder and can be crucial for determining effective interventions or therapies. 
+Longitudinal studies are particularly informative for researchers as they allow changes to be analysed at an individual level, yielding detailed and nuanced findings. Such studies provide valuable insights into the progression of Somatic Symptom Disorder and can be crucial for determining effective interventions or therapies. 
 
 ## Conclusion
 

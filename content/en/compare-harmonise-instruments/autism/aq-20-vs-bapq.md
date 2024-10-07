@@ -17,7 +17,7 @@ For psychologists and social scientists focusing on the Autism Spectrum, compari
 
 
 
-Offering a user-friendly platform, Harmony makes comparing AQ-20 vs BAPQ seamless and less time-consuming. You just need to select the instruments from the Harmony database or drop your PDFs directly into the Harmony's web interface. Going beyond language barriers, it also compares items in different languages, making it a comprehensive tool for multinational or multilingual studies. Looking at AQ-20 vs BAPQ, Harmony allows researchers to capitalize on longitudinal or cohort studies by facilitating comparisons both within and across these studies.
+Offering a user-friendly platform, Harmony makes comparing AQ-20 vs BAPQ seamless and less time-consuming. You just need to select the instruments from the Harmony database or drop your PDFs directly into the Harmony's web interface. Going beyond language barriers, it also compares items in different languages, making it a comprehensive tool for multinational or [multilingual studies](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/). Looking at AQ-20 vs BAPQ, Harmony allows researchers to capitalize on longitudinal or cohort studies by facilitating comparisons both within and across these studies.
 
 ## You may also be interested in these harmonisations
 

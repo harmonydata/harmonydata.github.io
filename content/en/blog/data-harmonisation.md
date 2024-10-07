@@ -1,6 +1,6 @@
 ---
 title: "What is data harmonisation - and why it matters in 2024"
-description: While this data can be a valuable asset, it often comes in different formats, structures, and standards, making it challenging to analyze, share, and extract meaningful insights. This is where the concept of **data harmonisation** comes into play. In this article, we will explore what data harmonisation is, why it is important, and how it can benefit organizations and society as a whole.
+description: While this data can be a valuable asset, it often comes in different formats, structures, and standards, making it challenging to analyse, share, and extract meaningful insights. This is where the concept of **data harmonisation** comes into play. In this article, we will explore what data harmonisation is, why it is important, and how it can benefit organizations and society as a whole.
 date: 2024-01-23
 categories: ["data"]
 image: "/images/02- What is data harmonisation - and why it matters in 2024.svg"
@@ -37,7 +37,7 @@ Imagine trying to compare financial reports from different countries, each using
 
 2. **Data Cleaning and Preprocessing**: This involves cleansing the data to ensure its quality. Common tasks include correcting errors, handling missing values, removing duplicates, and addressing outliers. Preprocessing also involves standardizing data, like ensuring consistent naming conventions and formats.
 
-3. **Data Transformation**: Here, data is converted into a standardized format or structure. This could involve changing data types, normalizing values (like converting all currencies to a standard currency), standardizing date formats, or [scaling measurements to a common unit](/data-harmonisation/find-matching-and-common-items-in-questionnaires-and-surveys/). The goal is to ensure that data from different sources can be compared and analyzed together.
+3. **Data Transformation**: Here, data is converted into a standardized format or structure. This could involve changing data types, normalizing values (like converting all currencies to a standard currency), standardizing date formats, [tabulating the data](/data-harmonisation/tabulate-questionnaire-survey-result-data/),  or [scaling measurements to a common unit](/data-harmonisation/find-matching-and-common-items-in-questionnaires-and-surveys/). The goal is to ensure that data from different sources can be compared and analysed together.
 
 4. **Data Integration**: In this step, the cleaned and transformed data from various sources is merged into a single, unified dataset. This involves aligning data schemas, resolving any conflicts in data structure or content, and ensuring that data from different sources correctly corresponds and aligns with each other.
 
@@ -54,7 +54,7 @@ Each of these steps is critical in the process of transforming diverse and dispa
 
 1. **Improved Data Quality**: Data harmonisation enhances the accuracy, consistency, and reliability of data. By cleaning and standardizing data, it reduces errors and discrepancies, ensuring that the data is trustworthy and valuable for decision-making. This improved quality is essential for any data-driven process, as it forms the foundation for reliable insights and conclusions.
 
-2. **Better Data Analysis**: Harmonised data enables more effective and comprehensive data analysis. Since the data from different sources is brought into a uniform format, it becomes easier to compare, contrast, and analyze. This leads to deeper insights, as data analysts and scientists can work with a cohesive dataset that provides a more complete picture.
+2. **Better Data Analysis**: Harmonised data enables more effective and comprehensive data analysis. Since the data from different sources is brought into a uniform format, it becomes easier to compare, contrast, and analyse. This leads to deeper insights, as data analysts and scientists can work with a cohesive dataset that provides a more complete picture.
 
 3. **Time and Cost Efficiency**: Harmonisation automates and streamlines the process of integrating data from various sources, reducing the need for manual data cleaning and adjustments. This efficiency saves significant amounts of time and resources, making data management processes more cost-effective and less labor-intensive.
 
@@ -108,7 +108,7 @@ Let's explore this need further in various sectors:
 
 4. **Governmental and Public Policy Analysis**: Governments need to harmonise data across various departments (such as health, education, and transportation) to make [informed policy decisions](/data-harmonisation/data-harmonisation-in-public-sector/). Disparate data systems between local, regional, and national levels make it difficult to assess the overall situation and implement effective policies.
 
-5. **Financial Markets and Economic Research**: Investors and economists analyze data from different markets and economies. Discrepancies in financial reporting standards, currency values, and economic indicators can lead to misunderstandings and poor decision-making. Harmonised data enables better comparison and understanding of global economic trends.
+5. **Financial Markets and Economic Research**: Investors and economists analyse data from different markets and economies. Discrepancies in financial reporting standards, currency values, and economic indicators can lead to misunderstandings and poor decision-making. Harmonised data enables better comparison and understanding of global economic trends.
 
 6. **Technology and Data Science**: With the growing field of big data and AI, harmonised data is fundamental for training machine learning models. Diverse data sources must be standardized to ensure that these models are accurate and unbiased.
 

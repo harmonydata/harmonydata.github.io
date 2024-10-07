@@ -17,7 +17,7 @@ One major hurdle in psychology research is [data harmonisation](/data-harmonisat
 
 Harmony uses:
 
-* **Natural Language Processing (NLP):** NLP allows Harmony to understand the meaning and intent behind questionnaire items. By analyzing the language itself, it can identify similarities between seemingly different phrases, even in different languages.
+* **Natural Language Processing (NLP):** NLP allows Harmony to understand the meaning and intent behind questionnaire items. By analysing the language itself, it can identify similarities between seemingly different phrases, even in different languages.
 * **Generative AI Models:** Imagine a tool that can bridge the gap between "I often feel anxious" and "Feeling nervous, anxious or afraid." Harmony uses generative AI models to do exactly that. These models, trained on vast datasets of text, recognise subtle variations in wording and suggest harmonised versions of questionnaire items.
 
 ## Benefits for Researchers

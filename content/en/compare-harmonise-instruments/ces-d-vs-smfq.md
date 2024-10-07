@@ -37,7 +37,7 @@ Making use of Harmony's superior natural language processing capabilities, you c
 * [MAST vs HAS](/compare-harmonise-instruments/alcoholism/mast-vs-has)
 
 
-Furthermore, Harmony boasts multilingual support, enabling CES-D and SMFQ compatibility studies across different languages. For researchers seeking to determine the similarities or discrepancies in social conditions across varying populations, the comparative analysis of CES-D vs SMFQ using Harmony can provide invaluable insights. By utilising Harmony, researchers can facilitate their studies, as it is an efficient tool that enhances the understanding of both CES-D and SMFQ.
+Furthermore, Harmony boasts [multilingual support](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/), enabling CES-D and SMFQ compatibility studies across different languages. For researchers seeking to determine the similarities or discrepancies in social conditions across varying populations, the comparative analysis of CES-D vs SMFQ using Harmony can provide invaluable insights. By utilising Harmony, researchers can facilitate their studies, as it is an efficient tool that enhances the understanding of both CES-D and SMFQ.
 
 
 

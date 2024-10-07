@@ -11,7 +11,7 @@ url: "/discover-data/obsessive-compulsive-disorder-ocd-datasets-and-studies"
 
 ## Discover Obsessive Compulsive Disorder (OCD) Datasets
 
-Researchers in social sciences and neurology are often required to perform longitudinal studies to gain deeper insights into mental health conditions like Obsessive Compulsive Disorder (OCD). These studies entail repeated observations of the same subjects over a period of time, allowing them to analyze changes at an individual level. However, the discovery of relevant datasets is critical for these investigative endeavours and can be a challenging task. 
+Researchers in social sciences and neurology are often required to perform longitudinal studies to gain deeper insights into mental health conditions like Obsessive Compulsive Disorder (OCD). These studies entail repeated observations of the same subjects over a period of time, allowing them to analyse changes at an individual level. However, the discovery of relevant datasets is critical for these investigative endeavours and can be a challenging task. 
 
 In light of this, Harmony Discovery offers a simple, efficient solution for researchers to discover datasets by topic, from subjects as varied as social epidemiology to neurodevelopmental disorders like OCD. 
 

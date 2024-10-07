@@ -11,7 +11,7 @@ The Hamilton depression rating scale (HDRS) is a widely used and validated instr
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Hamilton depression rating scale " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-Harmony can be a useful tool for researchers who want to validate or compare the HDRS with other instruments. With its natural language processing capabilities and AI models, Harmony can analyze the items in the HDRS and compare them to items in other instruments. This can help researchers identify which items in the HDRS correspond to similar items in other instruments, and establish crosswalks between them.
+Harmony can be a useful tool for researchers who want to validate or compare the HDRS with other instruments. With its natural language processing capabilities and AI models, Harmony can analyse the items in the HDRS and compare them to items in other instruments. This can help researchers identify which items in the HDRS correspond to similar items in other instruments, and establish crosswalks between them.
 
 * [Validation and Harmonisation of Berg Balance Scale](/harmonisation-validation/berg-balance-scale)
 * [Validation and Harmonisation of Dermatology Life Quality Index (DLQI)](/harmonisation-validation/dermatology-life-quality-index-dlqi)

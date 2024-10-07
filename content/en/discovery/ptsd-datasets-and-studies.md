@@ -13,7 +13,7 @@ url: "/discover-data/ptsd-datasets-and-studies"
 
 Uncovering critical insights about Post Traumatic Stress Disorder (PTSD) and the variation of its impact on individuals over time is crucial for healthcare and social science professionals. In such a scenario, having access to the right datasets can be like striking gold.
 
-Harmony Discovery is a powerful tool for researchers seeking datasets about longitudinal studies on PTSD - it's an advanced data discovery platform that employs large language models to match questionnaire items and variable names in a highly accurate manner. The main purpose? To guide researchers to the right dataset to observe and analyze subjects over an extended period and understand the developmental and behavioral changes associated with PTSD.
+Harmony Discovery is a powerful tool for researchers seeking datasets about longitudinal studies on PTSD - it's an advanced data discovery platform that employs large language models to match questionnaire items and variable names in a highly accurate manner. The main purpose? To guide researchers to the right dataset to observe and analyse subjects over an extended period and understand the developmental and behavioral changes associated with PTSD.
 
 ## Notable Features of Harmony Discovery
 

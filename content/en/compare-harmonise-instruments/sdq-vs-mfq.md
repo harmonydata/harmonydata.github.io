@@ -7,7 +7,7 @@ aliases:
 
 ## SDQ vs MFQ: A Harmony-Assisted Comparative View
 
-The process of comparing behavioural screening tests, especially those in different languages, has never been more seamless thanks to Harmony. Tools like Harmony make the comparison between The Strengths and Difficulties Questionnaire (SDQ) and the Mood and Feelings Questionnaire (MFQ) considerably less time-consuming and more objective by leveraging large language models for harmonization.
+The process of comparing behavioural screening tests, especially those in different languages, has never been more seamless thanks to Harmony. Tools like Harmony make the comparison between The Strengths and Difficulties Questionnaire (SDQ) and the Mood and Feelings Questionnaire (MFQ) considerably less time-consuming and more objective by leveraging large language models for harmonisation.
 
 ## Compare the items in SDQ and MFQ
 
@@ -25,7 +25,7 @@ The process of comparing behavioural screening tests, especially those in differ
 * [AUDIT-10 vs DTC](/compare-harmonise-instruments/alcoholism/audit-10-vs-dtc)
 
 
-The SDQ vs MFQ comparative process benefits greatly from Harmony’s unique ability to establish a percentage match between each item in SDQ and MFQ. Harmony extends the capability to conduct longitudinal analysis across several studies, thereby providing researchers a broad spectrum for validating consistency and detecting social condition influenced variations.
+The SDQ vs MFQ comparative process benefits greatly from Harmony’s unique ability to establish a percentage match between each item in SDQ and MFQ. Harmony extends the capability to conduct [longitudinal analysis](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study/) across several studies, thereby providing researchers a broad spectrum for validating consistency and detecting social condition influenced variations.
 
 
 {{< card heading="Try Harmony" copy="Compare SDQ and MFQ " url="https://harmonydata.ac.uk/app" >}}

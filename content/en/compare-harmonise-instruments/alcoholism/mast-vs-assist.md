@@ -32,7 +32,7 @@ The Harmony software leverages advanced natural language processing and generati
 
 
 
-To comprehensively compare and analyze MAST vs ASSIST, Harmony invites psychologists to upload the appropriate instruments into its user-friendly web interface. By significantly reducing the time and effort required in the harmonisation process, Harmony allows researchers to focus on the more critical aspects of their work — interpreting results and discovering insights in comparative studies like MAST vs ASSIST.
+To comprehensively compare and analyse MAST vs ASSIST, Harmony invites psychologists to upload the appropriate instruments into its user-friendly web interface. By significantly reducing the time and effort required in the harmonisation process, Harmony allows researchers to focus on the more critical aspects of their work — interpreting results and discovering insights in comparative studies like MAST vs ASSIST.
 
 
 

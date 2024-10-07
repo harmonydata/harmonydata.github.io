@@ -9,7 +9,7 @@ aliases:
 
 # AOSI vs CHAT: A Comparative Analysis
 
-The 'Autism Observation Scale for Infants' (AOSI) and the 'Checklist for Autism in Toddlers' (CHAT) are two crucial instruments used to detect early signs of Autism. However, difficulties could arise when researchers attempt to harmonize or compare the items in these questionnaires. This is where ‘Harmony’ comes in the picture.
+The 'Autism Observation Scale for Infants' (AOSI) and the 'Checklist for Autism in Toddlers' (CHAT) are two crucial instruments used to detect early signs of Autism. However, difficulties could arise when researchers attempt to harmonise or compare the items in these questionnaires. This is where ‘Harmony’ comes in the picture.
 
 ## Compare the items in AOSI and CHAT
 
@@ -26,7 +26,7 @@ The 'Autism Observation Scale for Infants' (AOSI) and the 'Checklist for Autism 
 
 
 
-Harmony can be highly advantageous for researchers wishing to conduct a comparative analysis of AOSI vs CHAT. Harmony uses advanced natural language processing and generative AI models to help researchers harmonize questionnaire items, even in different languages. It uses large language models to compare instruments and provides a percentage match between each item in both AOSI and CHAT.
+Harmony can be highly advantageous for researchers wishing to conduct a comparative analysis of AOSI vs CHAT. Harmony uses advanced natural language processing and generative AI models to help researchers harmonise questionnaire items, even in different languages. It uses large language models to compare instruments and provides a percentage match between each item in both AOSI and CHAT.
 
 
 {{< card heading="Try Harmony" copy="Compare AOSI and CHAT " url="https://harmonydata.ac.uk/app" >}}

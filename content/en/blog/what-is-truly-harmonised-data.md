@@ -95,7 +95,7 @@ Recognizing truly harmonised data involves looking for several key indicators:
 
 - **Consistency Across Sources:** Data definitions, formats, and structures are uniform across all data sources and systems.
 - **High Data Quality:** The data is accurate, complete, and timely, with minimal discrepancies or errors.
-- **Seamless Integration:** Data from various sources can be easily combined and analyzed together, without extensive manual intervention.
+- **Seamless Integration:** Data from various sources can be easily combined and analysed together, without extensive manual intervention.
 - **Accessibility and Usability:** Harmonised data is readily available to authorized users, who can easily extract insights and value from it.
 
 ## The Gap Between Perception and Reality

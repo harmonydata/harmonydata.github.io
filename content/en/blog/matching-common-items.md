@@ -8,16 +8,17 @@ image: "/images/11- Finding matching and common items in questionnaires and surv
 
 aliases:
   - "/how-to-find-matching-and-common-items-in-questionnaires-and-surveys/"
-url: "/data-harmonisation/find-matching-and-common-items-in-questionnaires-and-surveys/"
+  - "/data-harmonisation/find-matching-and-common-items-in-questionnaires-and-surveys/"
+url: "/item-harmonisation/find-matching-and-common-items-in-questionnaires-and-surveys/"
 ---
 
-When researchers take on the task of analysing data from surveys and questionnaires, they often encounter a significant obstacle: finding matching or common items across different sources. This challenge is due to the many different ways questions are asked or formatted. This makes it tough to compare and merge data effectively.
+When researchers take on the task of analysing data from surveys and questionnaires, they often encounter a significant obstacle: finding matching or [common items](/item-harmonisation/) across different sources. This challenge is due to the many different ways questions are asked or formatted. This makes it tough to compare and merge data effectively.
 
 According to [Forbes](https://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says/?sh=46f8687f6f63), researchers spend up to 80% of their time just getting data ready for analysis, and a big part of that time goes into harmonising data.
 
 The [harmonisation of questionnaire data](/data-harmonisation/), therefore, becomes an important aspect of research. This is especially true when you’re striving for high data accuracy and comparability (as you should).
 
-Achieving a harmonious dataset means researchers can draw reliable connections and conclusions across different studies and this boosts the credibility and impact of their work. But how do you make it happen? Let’s talk about it!
+Achieving a harmonised dataset means researchers can draw reliable connections and conclusions across different studies and this boosts the credibility and impact of their work. But how do you make it happen? Let’s talk about it!
 
 ## **Top 3 Strategies for Finding Matching Items**
 

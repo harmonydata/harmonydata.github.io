@@ -6,9 +6,9 @@ url: "/compare-harmonise-instruments/"
 
 Harmony offers several advantages for comparing instruments in psychology and the social sciences.
 
-**1. Efficiency:** Harmony automates the process of comparing questionnaire items, saving researchers significant time and effort. This allows them to focus on analyzing the data and interpreting the results.
+**1. Efficiency:** Harmony automates the process of comparing questionnaire items, saving researchers significant time and effort. This allows them to focus on analysing the data and interpreting the results.
 
-**2. Objectivity:** Harmony's natural language processing and generative AI models provide a more objective approach to harmonization compared to manual methods. This reduces the risk of human error and bias.
+**2. Objectivity:** Harmony's natural language processing and generative AI models provide a more objective approach to harmonisation compared to manual methods. This reduces the risk of human error and bias.
 
 **3. Consistency:** By using Harmony to compare instruments across studies, researchers can ensure consistency in their analyses and improve the reliability of their findings.
 

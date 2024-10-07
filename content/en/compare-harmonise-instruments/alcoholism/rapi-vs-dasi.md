@@ -7,7 +7,7 @@ aliases:
 
 ## RAPI vs DASI
 
-Software Harmonization of questionnaires is vital when comparing psychological instruments like the Rutgers Alcohol Problem Index (RAPI) and the Drug, Alcohol and Self Injury Questionnaire (DASI). "RAPI vs DASI," is a common issue faced by professionals who deal with these indices but, with the Harmony tool, you can proficiently compare these surveys across languages and obtain a percentage match between each item.
+Software harmonisation of questionnaires is vital when comparing psychological instruments like the Rutgers Alcohol Problem Index (RAPI) and the Drug, Alcohol and Self Injury Questionnaire (DASI). "RAPI vs DASI," is a common issue faced by professionals who deal with these indices but, with the Harmony tool, you can proficiently compare these surveys across languages and obtain a percentage match between each item.
 
 ## Compare the items in RAPI and DASI
 

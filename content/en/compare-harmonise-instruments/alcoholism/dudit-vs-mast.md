@@ -34,7 +34,7 @@ Comparing the Drug Use Disorders Identification Test (DUDIT) with the Michigan A
 
 
 
-**The Harmony Advantage in DUDIT vs MAST** In conclusion, the process of harmonizing DUDIT vs MAST using traditional manual methods is set to become a thing of the past. Harmony not only automates the labor-intensive task but also reduces subjectivity, allowing researchers to focus more on the results and insights of comparisons. If you're gearing up for a DUDIT vs MAST comparison, why not give Harmony a try and experience the benefits first hand?
+**The Harmony Advantage in DUDIT vs MAST** In conclusion, the process of harmonising DUDIT vs MAST using traditional manual methods is set to become a thing of the past. Harmony not only automates the labor-intensive task but also reduces subjectivity, allowing researchers to focus more on the results and insights of comparisons. If you're gearing up for a DUDIT vs MAST comparison, why not give Harmony a try and experience the benefits first hand?
 
 {{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
 

@@ -5,7 +5,7 @@ aliases:
   - "/ces-d-vs-cbcl"
 ---
 
-## CES-D vs CBCL: A Harmonized Comparison
+## CES-D vs CBCL: A harmonised Comparison
 
 Comparing psychological instruments like the Center for Epidemiological Studies-Depression (CES-D) and the Child Behavior Checklist (CBCL) can be a challenging yet crucial task. CES-D vs CBCL comparisons are essential to create more comprehensive strategies for mental health intervention. Harmony, a sophisticated tool with a state-of-the-art AI system, can be of immense aid in this regard.
 

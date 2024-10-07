@@ -7,7 +7,7 @@ aliases:
 
 ## GAD-7 vs SMFQ
 
-Psychologists and social scientists always seek to understand the deep nuances that differentiate or connect psychological assessments like the Generalised Anxiety Disorder Assessment (GAD-7) and the Short Mood & Feelings Questionnaire (SMFQ). However, going through the cumbersome process of harmonisation on these instruments might be a daunting task. This is why the Harmony software comes into the play. By making use of AI and natural language processing, Harmony allows an efficient comparison between these two highly relevant psychological assessments: GAD-7 vs SMFQ, with the potential to analyze them in different languages.
+Psychologists and social scientists always seek to understand the deep nuances that differentiate or connect psychological assessments like the Generalised Anxiety Disorder Assessment (GAD-7) and the Short Mood & Feelings Questionnaire (SMFQ). However, going through the cumbersome process of harmonisation on these instruments might be a daunting task. This is why the Harmony software comes into the play. By making use of AI and natural language processing, Harmony allows an efficient comparison between these two highly relevant psychological assessments: GAD-7 vs SMFQ, with the potential to analyse them in different languages.
 
 
 ## Comparing GAD-7 and SMFQ using Harmony

@@ -14,7 +14,7 @@ url: "/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-d
 
 Many psychologists believe that mental illnesses can vary across cultures. In 1904, [Emil Kraepelin](https://en.wikipedia.org/wiki/Emil_Kraepelin) initiated the field of comparative psychiatry after studying mental health disorders in Java, writing that _“Die Eigenart eines Volkes wird auch in der Häufigkeit und klinischen Gestaltung seiner Geistesstörungen zum Ausdruck kommen,”_ meaning “The peculiarity of a people[ethnic group] will also be expressed in the frequency and clinical form of its mental disorders.”[1]
 
-More than a century later, the emergence of global mental health research [projects](/projects-partners) has opened a number of debates about the applicability of psychiatric categories to different cultural settings, such as those in the Diagnostic and Statistical Manual of Mental Disorders (DSM) series[2].
+More than a century later, the emergence of global [mental health](/ai-in-mental-health/) research [projects](/projects-partners) has opened a number of debates about the applicability of psychiatric categories to different cultural settings, such as those in the Diagnostic and Statistical Manual of Mental Disorders (DSM) series[2].
 
 In 2013, the publication of DSM-5 included for the first time Cultural Concepts of Distress (CCD), referring to “ways that cultural groups experience, understand, and communicate suffering, behavioral problems, or troubling thoughts and emotions”[2].
 

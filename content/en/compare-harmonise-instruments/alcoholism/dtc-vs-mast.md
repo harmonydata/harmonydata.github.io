@@ -7,7 +7,7 @@ aliases:
 
 ## DTC vs MAST
 
-Comparison and harmonization of questionnaires like DTC (Drinking to Cope) and MAST (Michigan Alcoholism Screening Test) are vital for psychologists and social scientists. However, traditionally, this process has been time-consuming and subjective. Here's where Harmony comes in. With the Harmony software, you can streamline the process of comparing DTC and MAST, effortlessly converting long PDFs into digestible data. Just upload the instruments in PDF form into Harmony's user-friendly web interface, and let the software do the rest.
+Comparison and harmonisation of questionnaires like DTC (Drinking to Cope) and MAST (Michigan Alcoholism Screening Test) are vital for psychologists and social scientists. However, traditionally, this process has been time-consuming and subjective. Here's where Harmony comes in. With the Harmony software, you can streamline the process of comparing DTC and MAST, effortlessly converting long PDFs into digestible data. Just upload the instruments in PDF form into Harmony's user-friendly web interface, and let the software do the rest.
 
 ## Compare the items in DTC and MAST
 

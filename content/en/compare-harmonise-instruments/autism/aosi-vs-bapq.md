@@ -7,7 +7,7 @@ aliases:
 
 ## AOSI vs BAPQ: A Comparative Analysis with Harmony
 
-Harmony has revolutionized the harmonization process of psychological questionnaires like AOSI (Autism Observation Scale for Infants) and BAPQ (Broad Autism Phenotype Questionnaire). With AI, Harmony is able to compare each item in AOSI Vs BAPQ, making it an invaluable tool for psychologists interested in autism studies.
+Harmony has revolutionized the harmonisation process of psychological questionnaires like AOSI (Autism Observation Scale for Infants) and BAPQ (Broad Autism Phenotype Questionnaire). With AI, Harmony is able to compare each item in AOSI Vs BAPQ, making it an invaluable tool for psychologists interested in autism studies.
 
 ## Compare the items in AOSI and BAPQ
 

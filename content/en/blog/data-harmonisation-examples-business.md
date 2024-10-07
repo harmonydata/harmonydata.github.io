@@ -129,7 +129,7 @@ The Harmony Project is a community-driven initiative that flourishes with collec
 
 - **Coding and Quality Assurance:** Do you have coding skills in Python, R, or web development? Your skills could refine Harmony's features or interface. Spotting bugs and sharing your insights are also great ways to boost the tool's performance and user experience.
 - **Crafting Guides and How-Tos:** If you're good at breaking down complex processes into easy-to-follow steps, you could write guides, tutorials, or documentation. Your knowledge could help newcomers trying to navigate Harmony's capabilities.
-- **Breaking Language Barriers:** Harmony's mission of multilingual harmonisation means there's a need for translation experts. If you can translate the interface or docs, you're opening doors for non-English speakers to join the community.
+- **Breaking Language Barriers:** Harmony's mission of [multilingual](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/) harmonisation means there's a need for translation experts. If you can translate the interface or docs, you're opening doors for non-English speakers to join the community.
 
 ### **Opportunities for the Research Community**
 

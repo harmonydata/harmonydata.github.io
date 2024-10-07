@@ -27,7 +27,7 @@ For researchers interested specifically in psychosis and schizophrenia datasets,
 
 ## Harnessing the Power of Longitudinal Studies
 
-Harmony Discovery also opens the door to longitudinal studies. These studies involve repeated observations of the same subjects over time, a methodology that enhances the accuracy and reliability of the data collected. This continuous monitoring allows researchers to analyze changes at the individual level, crucial for understanding conditions like psychosis and schizophrenia.
+Harmony Discovery also opens the door to longitudinal studies. These studies involve repeated observations of the same subjects over time, a methodology that enhances the accuracy and reliability of the data collected. This continuous monitoring allows researchers to analyse changes at the individual level, crucial for understanding conditions like psychosis and schizophrenia.
 
 ## Widespread Data Connection
 

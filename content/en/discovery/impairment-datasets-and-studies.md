@@ -15,7 +15,7 @@ Harmony Discovery is an innovative tool designed for social science researchers 
 
 Whether you are researching developmental disorders of arithmetical ability in children, the psychological and social problems of teenagers with congenital cerebral palsy or spina bifida with hydrocephalus, or seeking answers from the Disability Supplemental Questions Dataset, Harmony Discovery can help.
 
-Harmony Discovery employs large language models to match variable names and questionnaire items in the datasets. It is particularly useful for longitudinal studies as it facilitates repeated observations of the same subjects, enabling researchers to analyze the changes at an individual level over time. 
+Harmony Discovery employs large language models to match variable names and questionnaire items in the datasets. It is particularly useful for longitudinal studies as it facilitates repeated observations of the same subjects, enabling researchers to analyse the changes at an individual level over time. 
 
 An example of a few datasets available on Impairment include:
 

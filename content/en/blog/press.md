@@ -30,13 +30,13 @@ Bettina Moltrecht from University College London (UCL) gave a presentation on th
 
 Harmony is a new AI-driven tool that can help researchers identify, compare and match survey items across multiple studies in a more efficient and transparent way. It can be used to harmonise questionnaires, i.e. identify similar question items that tap into the same symptom from different scales, and test their measurement properties and equivalence empirically – thus enabling researchers to compare and combine findings across existing studies, even when different measures have been administered.
 
-Dr Moltrecht presented use-case examples using real world meta-data from two UK cohort studies, findings from her ongoing validation research, and how existing platforms can benefit from Harmony. She also invited the audience to discuss familiar challenges and possible solutions around data harmonisation, especially considering cultural and contextual adaptations.
+Dr Moltrecht presented use-case examples using real world meta-data from [two UK cohort studies](/item-harmonisation/harmony-a-free-ai-tool-for-cross-cohort-research/), findings from her ongoing validation research, and how existing platforms can benefit from Harmony. She also invited the audience to discuss familiar challenges and possible solutions around data harmonisation, especially considering cultural and contextual adaptations.
 
 [Read more on FORS' website](https://forscenter.ch/events-training/methods-and-research-meetings/)
 
 ## 17 August 2023, Centre for Longitudinal Studies
 
-During [a recent free half-day event](/harmony-and-tidal-workshop/), attendees were introduced to two new digital tools for researchers working with longitudinal data: Harmony and TIDAL.
+During [a recent free half-day event](/harmony-and-tidal-workshop/), attendees were introduced to two new digital tools for researchers working with [longitudinal data](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study/): Harmony and TIDAL.
 
 Harmony is a tool that facilitates fast and easy harmonisation of questionnaires commonly used in mental health research. It uses natural language processing to identify commonalities across items, which allows researchers to combine and compare data from multiple studies.
 

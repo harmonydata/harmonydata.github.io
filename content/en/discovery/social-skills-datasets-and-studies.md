@@ -33,7 +33,7 @@ Harmony Discovery utilizes large language models to match questionnaire items an
 
 
 
-Moreover, Harmony Discovery isn't limited to cross-sectional studies. Researchers interested in investigating individual change over time can access numerous longitudinal studies through the tool. Longitudinal studies involve repeated observations of the same subjects, enabling change at an individual level to be analyzed effectively. This can be invaluable in understanding the evolution of social skills over time.
+Moreover, Harmony Discovery isn't limited to cross-sectional studies. Researchers interested in investigating individual change over time can access numerous longitudinal studies through the tool. Longitudinal studies involve repeated observations of the same subjects, enabling change at an individual level to be analysed effectively. This can be invaluable in understanding the evolution of social skills over time.
 
 The Harmony is connected to a range of valuable data sources, such as the [UKLLC](https://explore.ukllc.ac.uk), [Closer](https://www.closer.ac.uk/), the [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/), [HDR UK](https://www.hdruk.ac.uk/), and [ADR UK](https://www.adruk.org/). These partnerships offer an enriched repository of datasets that can foster insightful research in social skills.
 

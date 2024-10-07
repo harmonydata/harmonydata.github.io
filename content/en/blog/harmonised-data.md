@@ -11,7 +11,7 @@ image: "/images/05- What is truly harmonised data - the practical overview.svg"
 
 If you’ve ever heard of data integration then you can easily understand what harmonised data or data harmonisation is: where disparate data sources are brought together into a single, unified location. But where harmonisation goes a step further is that it reorganises data according to the parameters set by a single schema.
 
-Let’s say you want to combine surveys or questionnaires on mental health with different kinds of wording for similar questions, like “anxiety vs. I feel anxious”. In psychology, market research, or social sciences, for example, this is a common problem, particularly when surveys are run by different organisations or in different regions altogether.
+Let’s say you want to combine surveys or questionnaires on [mental health](/ai-in-mental-health/) with different kinds of wording for similar questions, like "anxiety" vs. "I feel anxious". In psychology, market research, or social sciences, for example, this is a common problem, particularly when surveys are run by different organisations or in different regions altogether.
 
 A data harmonisation project like Harmony uses NLP (natural language processing) to help researchers make vastly better use of existing data extracted from multiple studies – by providing them with the ‘harmonisation’ of the various items and measures used across different studies.
 

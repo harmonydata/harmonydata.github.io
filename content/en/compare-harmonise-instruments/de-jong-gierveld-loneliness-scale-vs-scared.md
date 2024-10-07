@@ -7,7 +7,7 @@ aliases:
 
 ## De Jong Gierveld Loneliness Scale vs SCARED
 
-Researchers often need to harmonize and compare different psychological instruments. One such comparison might be between the De Jong Gierveld Loneliness Scale and SCARED (adult). These two instruments, although targeting different aspects of mental health, have their own utility in various studies and researches.
+Researchers often need to harmonise and compare different psychological instruments. One such comparison might be between the De Jong Gierveld Loneliness Scale and SCARED (adult). These two instruments, although targeting different aspects of mental health, have their own utility in various studies and researches.
 
 ## Compare the items in De Jong Gierveld Loneliness Scale English and SCARED English (adult)
 
@@ -30,7 +30,7 @@ Comparing the De Jong Gierveld Loneliness Scale and SCARED (adult) can be a chal
 {{< youtube cEZppTBj1NI >}}
 
 
-By using Harmony, researchers can select these instruments from the database or upload their own versions. Harmony is specifically designed to aid in such comparisons by using large language models that provide a percentage match between each item in both scales. Harmony’s ability to compare items in multiple languages adds a valuable layer of potential international research collaboration. The comparison between the De Jong Gierveld Loneliness Scale and SCARED (adult) can thus be conducted in a much simpler, quicker, and more effective manner, reducing the time spent on harmonization and increasing the time for analysis and interpretation. With Harmony, the comparison of De Jong Gierveld Loneliness Scale vs SCARED (adult) becomes a straightforward process.
+By using Harmony, researchers can select these instruments from the database or upload their own versions. Harmony is specifically designed to aid in such comparisons by using large language models that provide a percentage match between each item in both scales. Harmony’s ability to compare items in multiple languages adds a valuable layer of potential international research collaboration. The comparison between the De Jong Gierveld Loneliness Scale and SCARED (adult) can thus be conducted in a much simpler, quicker, and more effective manner, reducing the time spent on harmonisation and increasing the time for analysis and interpretation. With Harmony, the comparison of De Jong Gierveld Loneliness Scale vs SCARED (adult) becomes a straightforward process.
 
 
 {{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}

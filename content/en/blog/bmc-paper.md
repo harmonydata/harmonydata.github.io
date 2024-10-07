@@ -29,7 +29,7 @@ By comparing the semantic similarity of questionnaire items using NLP (the [Sent
 
 While the NLP model showed promise in uncovering underlying patterns in the data, it required manual intervention to determine which relationships were truly relevant. 
 
-Our study showed that NLP can be a useful tool to match similar questions from different questionnaires, but it's not perfect and should be used with caution.
+Our study showed that NLP can be a useful tool to match [similar questions from different questionnaires](/data-harmonisation/find-matching-and-common-items-in-questionnaires-and-surveys/), but it's not perfect and should be used with caution.
 
 ## Citing the BMC validation paper
 

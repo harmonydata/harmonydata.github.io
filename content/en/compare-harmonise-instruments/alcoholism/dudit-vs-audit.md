@@ -7,7 +7,7 @@ aliases:
 
 ## DUDIT vs AUDIT
 
-Comparing questionnaires like the Drug Use Disorders Identification Test (DUDIT) and the Alcohol Use Disorders Identification Test (AUDIT) is a common and necessary practice in psychological research, often referred to as harmonization. However, manual harmonisation can be time consuming and subjective. This is where the groundbreaking software, Harmony, comes in. Harmony enables psychologists to streamline the comparison process between such tests as DUDIT vs AUDIT.
+Comparing questionnaires like the Drug Use Disorders Identification Test (DUDIT) and the Alcohol Use Disorders Identification Test (AUDIT) is a common and necessary practice in psychological research, often referred to as harmonisation. However, manual harmonisation can be time consuming and subjective. This is where the groundbreaking software, Harmony, comes in. Harmony enables psychologists to streamline the comparison process between such tests as DUDIT vs AUDIT.
 
 
 ## Compare the items in DUDIT and AUDIT
@@ -25,7 +25,7 @@ Comparing questionnaires like the Drug Use Disorders Identification Test (DUDIT)
 * [AUDIT-10 vs HAS](/compare-harmonise-instruments/alcoholism/audit-10-vs-has)
 
 
-Using natural language processing and generative AI models, Harmony can provide a percent match between each item in the DUDIT and AUDIT questionnaires. This allows for an objective, data-driven approach to research harmonization. Furthermore, Harmony simplifies the process immensely with its easy-to-use interface and automated functionalities. The task of comparing DUDIT vs AUDIT becomes a breeze, saving significant time and reducing potential human error.
+Using natural language processing and generative AI models, Harmony can provide a percent match between each item in the DUDIT and AUDIT questionnaires. This allows for an objective, data-driven approach to research harmonisation. Furthermore, Harmony simplifies the process immensely with its easy-to-use interface and automated functionalities. The task of comparing DUDIT vs AUDIT becomes a breeze, saving significant time and reducing potential human error.
 
 
 {{< card heading="Try Harmony" copy="Compare DUDIT and AUDIT " url="https://harmonydata.ac.uk/app" >}}

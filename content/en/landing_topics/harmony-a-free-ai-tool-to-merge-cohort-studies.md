@@ -6,7 +6,7 @@ url: /item-harmonisation/harmony-a-free-ai-tool-to-merge-cohort-studies
 
 ## Harmony: A Free AI Tool to Merge Cohort Studies
 
-Harmony is a software that uses natural language processing and generative AI models to assist psychologists in [harmonising questionnaire items](/item-harmonisation/). Whether researchers are merging items from different questionnaires or comparing instruments in longitudinal studies, Harmony can efficiently analyze and match items in multiple languages.
+Harmony is a software that uses natural language processing and generative AI models to assist psychologists in [harmonising questionnaire items](/item-harmonisation/). Whether researchers are merging items from different questionnaires or comparing instruments in longitudinal studies, Harmony can efficiently analyse and match items in multiple languages.
 
 {{< card heading="Try Harmony" copy=" Harmony: A Free AI Tool to Merge Cohort Studies " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}

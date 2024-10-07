@@ -21,8 +21,8 @@ We have recently published a paper in BMC Psychiatry validating Harmony for real
 
 Beyond Harmony, AI is being used in a wide range of mental health research applications:
 
-* **Predictive Modelling:** AI algorithms can analyze large datasets to identify patterns and predict future outcomes, such as the likelihood of a relapse or the effectiveness of a particular treatment.
-* **Natural Language Processing:** NLP tools can analyze text data, such as social media posts or clinical notes, to gain insights into mental health conditions and identify potential risk factors.
+* **Predictive Modelling:** AI algorithms can analyse large datasets to identify patterns and predict future outcomes, such as the likelihood of a relapse or the effectiveness of a particular treatment.
+* **Natural Language Processing:** NLP tools can analyse text data, such as social media posts or clinical notes, to gain insights into mental health conditions and identify potential risk factors.
 * **Machine Learning:** Machine learning algorithms can be trained on vast amounts of data to develop models that can diagnose mental health conditions with greater accuracy than traditional methods.
 * **Virtual Reality:** AI-powered virtual reality experiences can be used to simulate real-world situations and provide exposure therapy for conditions like anxiety and phobias.
 

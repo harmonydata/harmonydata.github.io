@@ -7,7 +7,7 @@ aliases:
 
 ## GHQ-12 vs CBCL: A Comparative Analysis
 
-Comparing and harmonizing the responses from influential psychological diagnostic tools like the General Health Questionnaire (GHQ-12) and Child Behaviour Checklist (CBCL) can be daunting and subjective. Therefore, to facilitate an accurate and objective comparison, a tool like Harmony that uses advanced artificial intelligence can be invaluable. Especially when it comes to comparing GHQ-12 vs CBCL, the process can become time-consuming given the substantial difference in the number of items each measure contains.
+Comparing and harmonising the responses from influential psychological diagnostic tools like the General Health Questionnaire (GHQ-12) and Child Behaviour Checklist (CBCL) can be daunting and subjective. Therefore, to facilitate an accurate and objective comparison, a tool like Harmony that uses advanced artificial intelligence can be invaluable. Especially when it comes to comparing GHQ-12 vs CBCL, the process can become time-consuming given the substantial difference in the number of items each measure contains.
 
 ## Compare the items in GHQ-12 English and CBCL
 
@@ -30,7 +30,7 @@ One of the significant uses of Harmony is that it can not only efficiently compa
 
 {{< youtube cEZppTBj1NI >}}
 
-Through optimization of longitudinal comparisons between GHQ-12 vs CBCL, Harmony can contribute to testing the consistency of results across different studies. In the context of multi-language instruments as in the comparison between GHQ-12 vs CBCL, Harmony’s ability to facilitate analysis across different languages further underscores its immense utility. Whether you wish to examine the unidimensionality of GHQ-12 or explore the multidimensional structures of the CBCL, Harmony provides an effortless, streamlined process for reliable harmonization and comparison. For psychological researchers who aim to enrich their practice through enhanced harmonization, Harmony stands out as an essential tool of choice.
+Through optimization of longitudinal comparisons between GHQ-12 vs CBCL, Harmony can contribute to testing the consistency of results across different studies. In the context of multi-language instruments as in the comparison between GHQ-12 vs CBCL, Harmony’s ability to facilitate analysis across different languages further underscores its immense utility. Whether you wish to examine the unidimensionality of GHQ-12 or explore the multidimensional structures of the CBCL, Harmony provides an effortless, streamlined process for reliable harmonisation and comparison. For psychological researchers who aim to enrich their practice through enhanced harmonisation, Harmony stands out as an essential tool of choice.
 
 
 {{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}

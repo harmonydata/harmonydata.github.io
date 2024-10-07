@@ -31,7 +31,7 @@ Here are some examples of the kind of datasets Harmony Discovery can help you fi
 
 3. [The role of social identity on the 'contagious' transmission of scratching behaviour: Study 1, 2016-2018.](https://reshare.ukdataservice.ac.uk/853785)
 
-Longitudinal studies, which make repeated observations of the same subjects, are particularly enlightening when analyzing change at the individual level. Harmony Discovery can be instrumental in finding datasets relevant to these types of studies.
+[Longitudinal studies](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study/), which make repeated observations of the same subjects, are particularly enlightening when analysing change at the individual level. Harmony Discovery can be instrumental in finding datasets relevant to these types of studies.
 
 ## The researcher's companion
 

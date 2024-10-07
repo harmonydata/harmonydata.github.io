@@ -7,7 +7,7 @@ aliases:
 
 ## PHQ-9 vs CBCL
 
-Psychologists and researchers often struggle with the task of harmonizing different questionnaires to derive useful insights. A common comparison seen in mental health research involves the Patient Health Questionnaire (PHQ-9) and Child Behavior Checklist (CBCL). Both these tools play a crucial role in analyzing the psychological well-being of patients. However, comparing them manually can be time-consuming, prone to errors, and subject to personal bias.
+Psychologists and researchers often struggle with the task of harmonising different questionnaires to derive useful insights. A common comparison seen in mental health research involves the Patient Health Questionnaire (PHQ-9) and Child Behavior Checklist (CBCL). Both these tools play a crucial role in analysing the psychological well-being of patients. However, comparing them manually can be time-consuming, prone to errors, and subject to personal bias.
 
 ## Compare the items in PHQ-9 and CBCL
 
@@ -16,7 +16,7 @@ Psychologists and researchers often struggle with the task of harmonizing differ
 * <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlBhdGllbnQgSGVhbHRoIFF1ZXN0aW9ubmFpcmUgKDktaXRlbSkgKFBIUS05KSIsICJxdWVzdGlvbnMiOiBbeyJxdWVzdGlvbl90ZXh0IjogIkxpdHRsZSBpbnRlcmVzdCBvciBwbGVhc3VyZSBpbiBkb2luZyB0aGluZ3MifSwgeyJxdWVzdGlvbl90ZXh0IjogIkZlZWxpbmcgZG93biwgZGVwcmVzc2VkLCBvciBob3BlbGVzcyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiVHJvdWJsZSBmYWxsaW5nL3N0YXlpbmcgYXNsZWVwLCBzbGVlcGluZyB0b28gbXVjaCJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiRmVlbGluZyB0aXJlZCBvciBoYXZpbmcgbGl0dGxlIGVuZXJneSJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiUG9vciBhcHBldGl0ZSBvciBvdmVyZWF0aW5nIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJGZWVsaW5nIGJhZCBhYm91dCB5b3Vyc2VsZiBvciB0aGF0IHlvdSBhcmUgYSBmYWlsdXJlIG9yIGhhdmUgbGV0IHlvdXJzZWxmIG9yIHlvdXIgZmFtaWx5IGRvd24ifSwgeyJxdWVzdGlvbl90ZXh0IjogIlRyb3VibGUgY29uY2VudHJhdGluZyBvbiB0aGluZ3MsIHN1Y2ggYXMgcmVhZGluZyB0aGUgbmV3c3BhcGVyIG9yIHdhdGNoaW5nIHRlbGV2aXNpb24uIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJNb3Zpbmcgb3Igc3BlYWtpbmcgc28gc2xvd2x5IHRoYXQgb3RoZXIgcGVvcGxlIGNvdWxkIGhhdmUgbm90aWNlZC4gT3IgdGhlIG9wcG9zaXRlOyBiZWluZyBzbyBmaWRnZXR5IG9yIHJlc3RsZXNzIHRoYXQgeW91IGhhdmUgYmVlbiBtb3ZpbmcgYXJvdW5kIGEgbG90IG1vcmUgdGhhbiB1c3VhbC4ifSwgeyJxdWVzdGlvbl90ZXh0IjogIlRob3VnaHRzIHRoYXQgeW91IHdvdWxkIGJlIGJldHRlciBvZmYgZGVhZCBvciBvZiBodXJ0aW5nIHlvdXJzZWxmIGluIHNvbWUgd2F5LiJ9XX0sIHsiaW5zdHJ1bWVudF9uYW1lIjogIkNoaWxkIEJlaGF2aW91ciBDaGVja2xpc3QgKENCQ0wpIiwgInF1ZXN0aW9ucyI6IFt7InF1ZXN0aW9uX3RleHQiOiAiT3ZlciAxMDAgaXRlbXMifV19XQ==" target="harmonyapp">Import just CBCL into Harmony</a> - compare CBCL with other instruments
 
 
-This is where Harmony, a trailblazing software tool developed for psychologists, comes into play. Harmony employs advanced natural language and generative AI processing to harmonize questionnaire items. A typical use case can be the comparison between PHQ-9 and CBCL. By replacing the traditionally tedious and subjective process of harmonization with an efficient, automated process, Harmony has revolutionized the field.
+This is where Harmony, a trailblazing software tool developed for psychologists, comes into play. Harmony employs advanced natural language and generative AI processing to harmonise questionnaire items. A typical use case can be the comparison between PHQ-9 and CBCL. By replacing the traditionally tedious and subjective process of harmonisation with an efficient, automated process, Harmony has revolutionized the field.
 
 ## You may also be interested in these harmonisations
 
@@ -32,7 +32,7 @@ This is where Harmony, a trailblazing software tool developed for psychologists,
 
 
 
-The software presents a percentage match between the individual items in PHQ-9 and CBCL, allowing a critical review of the similarities and differences between the instruments. The prolific use of Harmony in psychological research, especially in harmonizing PHQ-9 vs CBCL, can significantly enhance the accuracy and speed of comparative studies. It supports multiple languages, adds to its versatility, and broadens its reach to a global research scenario. The software allows users to choose instruments from its database or lets them upload their own in a PDF format. Visit [Harmony's web interface](https://harmonydata.ac.uk/app) to experience its superior harmonization features for PHQ-9 vs CBCL today.
+The software presents a percentage match between the individual items in PHQ-9 and CBCL, allowing a critical review of the similarities and differences between the instruments. The prolific use of Harmony in psychological research, especially in harmonising PHQ-9 vs CBCL, can significantly enhance the accuracy and speed of comparative studies. It supports multiple languages, adds to its versatility, and broadens its reach to a global research scenario. The software allows users to choose instruments from its database or lets them upload their own in a PDF format. Visit [Harmony's web interface](https://harmonydata.ac.uk/app) to experience its superior harmonisation features for PHQ-9 vs CBCL today.
 
 
 

@@ -212,14 +212,8 @@ Understanding the nuances between data standardisation and harmonisation is key 
 
 ## Links to Related Articles
 
-- [Understanding Data Governance](https://harmonydata.ac.uk/blog/data-governance)
-- [Best Practices in Data Quality Management](https://harmonydata.ac.uk/blog/data-quality-management)
-- [Case Studies in Data Harmonisation](https://harmonydata.ac.uk/blog/data-harmonisation-case-studies)
-- [Innovations in Data Analysis](https://harmonydata.ac.uk/blog/data-innovation)
-- [Integrating Data Management Practices](https://harmonydata.ac.uk/blog/integrating-data-management)
-- [The Future of Data Harmonisation](https://harmonydata.ac.uk/blog/future-of-data-harmonisation)
-- Explore more on data management best practices at [HarmonyData Blog](https://harmonydata.ac.uk/blog).
-- For a deeper dive into data harmonisation, see our detailed guide [here](https://harmonydata.ac.uk/resources/harmonisation-guide).
+- [Case Studies in Data Harmonisation](/ada)
+- Explore more on data management best practices at [Harmony Blog](https://harmonydata.ac.uk).
 
 ---
 

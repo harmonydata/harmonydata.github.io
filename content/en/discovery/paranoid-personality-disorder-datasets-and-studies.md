@@ -11,7 +11,7 @@ url: "/discover-data/paranoid-personality-disorder-datasets-and-studies"
 
 ## Discover Paranoid Personality Disorder Datasets with Harmony Discovery
 
-Paranoid Personality Disorder (PPD) is an often misunderstood and under-researched topic in the mental health field. In the age of big data, valuable insights into PPD can be gleaned from longitudinal studies, involving repeated observations of individuals over time. The challenge lies in discovering these datasets. Enter [Harmony Discovery](https://harmony.discovery.ac.uk/), a powerful tool designed to aid social sciences researchers in their quest for pertinent datasets, including those related to PPD.
+Paranoid Personality Disorder (PPD) is an often misunderstood and under-researched topic in the mental health field. In the age of big data, valuable insights into PPD can be gleaned from longitudinal studies, involving repeated observations of individuals over time. The challenge lies in discovering these datasets. Enter [Harmony Discovery](/discovery), a powerful tool designed to aid social sciences researchers in their quest for pertinent datasets, including those related to PPD.
 
 ## The Power of Harmony Discovery
 

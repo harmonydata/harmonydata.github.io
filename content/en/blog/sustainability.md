@@ -138,7 +138,7 @@ Alternatives to version numbers include, depending upon where the dependency ori
 
 source code repository commit identifier or tag, or a download date.
 
-See our guide on [How to cite and describe software](http://software.ac.uk/so-exactly-what-software-did-you-use).
+See our guide on [How to cite and describe software](https://www.software.ac.uk/publication/how-cite-and-describe-software).
 
 _Question 11.6: Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?_ Users don't want to have to search the web for your third-party dependencies to find the information they need to package or deploy your software. You already know all the information that your users will need about suitable versions, licences and suchlike, so you should make it available to your users. In particular, licence information is very important, because users need to understand the terms and conditions of third-party dependencies so that they can determine whether they are legally permitted to use them, and, so, use your software.
 

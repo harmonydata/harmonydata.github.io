@@ -26,7 +26,8 @@ The Savants, autism spectrum conditions and control profile data 2013-2016 datas
 The Special Treatment of Prediction Errors in Autism Spectrum Disorder dataset (2018-2021) provides data proposing that neural processes in autism inflexibly assign high precision to prediction errors regardless of context. This dataset can be accessed [here](https://reshare.ukdataservice.ac.uk/854905).
 
 #### Connected Bradford – Secondary Care: Autism Dataset
-Connected Bradford - Secondary Care dataset covers Autism in secondary healthcare service. Researchers can access this data [here](https://search.data.gov.uk/dataset/0a78c5e9-d304-469c-9aff-453cb95283cd). 
+
+Connected Bradford - Secondary Care dataset covers Autism in secondary healthcare service. Researchers can access this data [here](https://bradfordresearch.nhs.uk/connected-bradford/connected-bradford-datasets/). 
 
 ### Final Thoughts
 

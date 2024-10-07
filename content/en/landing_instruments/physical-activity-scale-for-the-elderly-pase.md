@@ -37,3 +37,4 @@ In conclusion, Harmony is a valuable software for psychologists that can aid in 
 * [Validation and Harmonisation of Clinician Administered PTSD Scale (CAPS)](/harmonisation-validation/clinician-administered-ptsd-scale-caps)
 * [Validation and Harmonisation of Functional Assessment of Cancer Therapy-General (FACT-G) with FACT-Head and Neck (FACT-HN) subscale](/harmonisation-validation/functional-assessment-of-cancer-therapy-general-fact-g-with-fact-head-and-neck-fact-hn-subscale)
 * [GAD-7 vs GHQ-12](/gad-7-vs-ghq-12)
+* [Harmonisation and validation of instruments](/harmonisation-validation/)

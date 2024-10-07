@@ -40,3 +40,4 @@ Additionally, Harmony can help validate the NASA TLX Survey Index Scores by prov
 ## References
 
 * Hart S. G., Staveland L. E. (1988) Development of NASA-TLX (Task Load Index): Results of empirical and theoretical research. In Hancock P. A., Meshkati N. (Eds.) Human Mental Workload. Amsterdam: North Holland Press.
+* [Harmonisation and validation of instruments](/harmonisation-validation/)

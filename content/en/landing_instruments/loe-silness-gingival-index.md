@@ -37,3 +37,4 @@ In summary, Harmony can greatly aid in the validation and harmonisation of the L
 * [Validation and Harmonisation of Montgomery Asberg Depression Rating Scale (MADRS)](/harmonisation-validation/montgomery-asberg-depression-rating-scale-madrs)
 * [Validation and Harmonisation of Beck Depression Inventory-II (BDI-II)](/harmonisation-validation/beck-depression-inventory-ii-bdi-ii)
 * [Validation and Harmonisation of Dermatology Life Quality Index (DLQI)](/harmonisation-validation/dermatology-life-quality-index-dlqi)
+* [Harmonisation and validation of instruments](/harmonisation-validation/)

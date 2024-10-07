@@ -41,3 +41,4 @@ Overall, Harmony can save researchers time and effort in the process of validati
 * [Validation and Harmonisation of Quality of Life (QoL) EORTC QLQ-C30](/harmonisation-validation/quality-of-life-qol-eortc-qlq-c30)
 * [Validation and Harmonisation of Sheehan Disability Scale (SDS)](/harmonisation-validation/sheehan-disability-scale-sds)
 * [Validation and Harmonisation of Young Mania Rating Scale (YMRS)](/harmonisation-validation/young-mania-rating-scale-ymrs)
+* [Harmonisation and validation of instruments](/harmonisation-validation/)

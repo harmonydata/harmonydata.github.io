@@ -37,3 +37,4 @@ In conclusion, Harmony can provide valuable assistance to researchers in validat
 * [Validation and Harmonisation of Functional Assessment of Cancer Therapy-General (FACT-G) with FACT-Head and Neck (FACT-HN) subscale](/harmonisation-validation/functional-assessment-of-cancer-therapy-general-fact-g-with-fact-head-and-neck-fact-hn-subscale)
 * [Harmony: A Free AI Tool for Cross-Cohort Research](/item-harmonisation/harmony-a-free-ai-tool-for-cross-cohort-research)
 * [Validation and Harmonisation of Perceived Stress Scale (PSS)](/harmonisation-validation/perceived-stress-scale-pss)
+* [Harmonisation and validation of instruments](/harmonisation-validation/)

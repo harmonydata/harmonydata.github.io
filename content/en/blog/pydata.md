@@ -15,7 +15,7 @@ url: "/psychology-ai-tool/pydata-meetup/"
 
 Topic: **NLP and generative models for psychology research**
 
-Thomas Wood will present our work on Harmony, harmonydata.ac.uk, which is a free online tool that uses generative AI and LLMs to help psychologists analyse datasets. It uses Python, Pandas and HuggingFace Sentence Transformers to find similarities between questionnaires.
+Thomas Wood will present our work on Harmony, harmonydata.ac.uk, which is a [free online tool](/psychology-ai-tool/) that uses generative AI and LLMs to help psychologists analyse datasets. It uses Python, Pandas and HuggingFace Sentence Transformers to find similarities between questionnaires.
 
 * Psychologists and social scientists often have to match items in different questionnaires, such as "I often feel anxious" and "Feeling nervous, anxious or afraid".
 * This is called harmonisation.

@@ -39,3 +39,4 @@ In conclusion, Harmony is a valuable tool for psychologists researching pain ass
 * [Validation and Harmonisation of Walking Impairment Questionaire (WIQ)](/harmonisation-validation/walking-impairment-questionaire-wiq)
 * [Validation and Harmonisation of Insomnia Severity Index (ISI)](/harmonisation-validation/insomnia-severity-index-isi)
 * [Validation and Harmonisation of Quality of Life (QoL) EORTC QLQ-C30](/harmonisation-validation/quality-of-life-qol-eortc-qlq-c30)
+* [Harmonisation and validation of instruments](/harmonisation-validation/)

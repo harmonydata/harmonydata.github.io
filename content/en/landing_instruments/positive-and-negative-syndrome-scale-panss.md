@@ -37,3 +37,4 @@ Overall, Harmony can be a useful tool for psychologists and social scientists in
 * [Validation and Harmonisation of Dermatology Life Quality Index (DLQI)](/harmonisation-validation/dermatology-life-quality-index-dlqi)
 * [Validation and Harmonisation of PROMIS-29 v2.0 questionnaire](/harmonisation-validation/promis-29-v2-0-questionnaire)
 * [Validation and Harmonisation of Penn Alcohol Craving Scale (PACS)](/harmonisation-validation/penn-alcohol-craving-scale-pacs)
+* [Harmonisation and validation of instruments](/harmonisation-validation/)

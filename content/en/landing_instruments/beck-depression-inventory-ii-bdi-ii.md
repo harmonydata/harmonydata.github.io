@@ -37,3 +37,5 @@ Overall, Harmony can be a valuable tool for researchers in the field of psycholo
 * [Validation and Harmonisation of Epworth Sleepiness Scale](/harmonisation-validation/epworth-sleepiness-scale)
 * [Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology)
 * [Validation and Harmonisation of Clinician Administered PTSD Scale (CAPS)](/harmonisation-validation/clinician-administered-ptsd-scale-caps)
+
+* [Harmonisation and validation of instruments](/harmonisation-validation/)

@@ -27,10 +27,12 @@ Harmony uses:
 * **Greater Efficiency Across Languages:**  Harmony [transcends language barriers](/psychology-ai-tool/harmony-many-languages/). It can identify similarities in questionnaires written in different languages, facilitating international research collaborations.
 
 
+Let us know [what features you would like to see in Harmony](/psychology-ai-tool/what-features-would-you-like-to-see-in-harmony/)!
 
 
 ## Harmony events
 
+* [Harmony at Pydata](/psychology-ai-tool/pydata-meetup/)
 * [Harmony at AI Camp](/psychology-ai-tool/aicamp-meetup/)
 * [Harmony at AI|DL](/psychology-ai-tool/aidl-meetup/)
 * [Kaggle](/psychology-ai-tool/kaggle/) - Harmony has a Kaggle competition

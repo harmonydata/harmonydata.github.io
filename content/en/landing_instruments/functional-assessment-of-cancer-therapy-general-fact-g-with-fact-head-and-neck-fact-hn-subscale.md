@@ -41,3 +41,4 @@ Overall, Harmony can aid in the validation and harmonisation of the FACT-G with 
 * [Validation and Harmonisation of Clinical Global Impression of Change (CGIC)](/harmonisation-validation/clinical-global-impression-of-change-cgic)
 * [CES-D vs PHQ-9](/ces-d-vs-phq-9)
 * [Validation and Harmonisation of Columbia-Suicide Severity Rating Scale (C-SSRS)](/harmonisation-validation/columbia-suicide-severity-rating-scale-c-ssrs)
+* [Harmonisation and validation of instruments](/harmonisation-validation/)

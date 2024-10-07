@@ -33,3 +33,4 @@ By using Harmony, researchers can easily compare the MADRS with other instrument
 * [CES-D vs GAD-7](/ces-d-vs-gad-7)
 * [Validation and Harmonisation of AIM (Acceptability of Intervention Measure) score](/harmonisation-validation/aim-acceptability-of-intervention-measure-score)
 * [Validation and Harmonisation of Contact Lens User Experience (CLUE)](/harmonisation-validation/contact-lens-user-experience-clue)
+* [Harmonisation and validation of instruments](/harmonisation-validation/)

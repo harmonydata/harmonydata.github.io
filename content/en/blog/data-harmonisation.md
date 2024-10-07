@@ -37,7 +37,7 @@ Imagine trying to compare financial reports from different countries, each using
 
 2. **Data Cleaning and Preprocessing**: This involves cleansing the data to ensure its quality. Common tasks include correcting errors, handling missing values, removing duplicates, and addressing outliers. Preprocessing also involves standardizing data, like ensuring consistent naming conventions and formats.
 
-3. **Data Transformation**: Here, data is converted into a standardized format or structure. This could involve changing data types, normalizing values (like converting all currencies to a standard currency), standardizing date formats, or scaling measurements to a common unit. The goal is to ensure that data from different sources can be compared and analyzed together.
+3. **Data Transformation**: Here, data is converted into a standardized format or structure. This could involve changing data types, normalizing values (like converting all currencies to a standard currency), standardizing date formats, or [scaling measurements to a common unit](/data-harmonisation/find-matching-and-common-items-in-questionnaires-and-surveys/). The goal is to ensure that data from different sources can be compared and analyzed together.
 
 4. **Data Integration**: In this step, the cleaned and transformed data from various sources is merged into a single, unified dataset. This involves aligning data schemas, resolving any conflicts in data structure or content, and ensuring that data from different sources correctly corresponds and aligns with each other.
 

@@ -37,3 +37,4 @@ Overall, the use of Harmony can aid in the validation and harmonisation of the P
 * [Harmony: A Free AI Tool for Data Pooling](/item-harmonisation/harmony-a-free-ai-tool-for-data-pooling)
 * [GAD-7 vs SDQ](/gad-7-vs-sdq)
 * [Validation and Harmonisation of Overall Health-related Quality of Life (SF-36)](/harmonisation-validation/overall-health-related-quality-of-life-sf-36)
+* [Harmonisation and validation of instruments](/harmonisation-validation/)

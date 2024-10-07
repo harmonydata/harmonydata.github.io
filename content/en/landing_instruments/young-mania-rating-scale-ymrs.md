@@ -37,3 +37,4 @@ In summary, Harmony is a valuable tool for psychologists and social scientists, 
 * [Validation and Harmonisation of Beck Depression Inventory-II (BDI-II)](/harmonisation-validation/beck-depression-inventory-ii-bdi-ii)
 * [Validation and Harmonisation of Young Mania Rating Scale (YMRS)](/harmonisation-validation/young-mania-rating-scale-ymrs)
 * [GHQ-12 vs SDQ](/ghq-12-vs-sdq)
+* [Harmonisation and validation of instruments](/harmonisation-validation/)

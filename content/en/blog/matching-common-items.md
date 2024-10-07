@@ -15,7 +15,7 @@ When researchers take on the task of analysing data from surveys and questionnai
 
 According to [Forbes](https://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says/?sh=46f8687f6f63), researchers spend up to 80% of their time just getting data ready for analysis, and a big part of that time goes into harmonising data.
 
-The harmonisation of questionnaire data, therefore, becomes an important aspect of research. This is especially true when you’re striving for high data accuracy and comparability (as you should).
+The [harmonisation of questionnaire data](/data-harmonisation/), therefore, becomes an important aspect of research. This is especially true when you’re striving for high data accuracy and comparability (as you should).
 
 Achieving a harmonious dataset means researchers can draw reliable connections and conclusions across different studies and this boosts the credibility and impact of their work. But how do you make it happen? Let’s talk about it!
 

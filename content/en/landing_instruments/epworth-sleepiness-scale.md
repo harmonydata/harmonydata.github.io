@@ -37,3 +37,4 @@ Overall, Harmony can save researchers time and effort in manually comparing and 
 * [Validation and Harmonisation of Berg Balance Scale](/harmonisation-validation/berg-balance-scale)
 * [Harmony: A Free AI Tool for Longitudinal Study](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study)
 * [Validation and Harmonisation of Montgomery-Asberg Depression Rating Scale (MADRS)](/harmonisation-validation/montgomery-asberg-depression-rating-scale-madrs)
+* [Harmonisation and validation of instruments](/harmonisation-validation/)

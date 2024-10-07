@@ -37,3 +37,4 @@ In summary, Harmony can aid researchers in the validation and harmonisation of t
 * [Validation and Harmonisation of Hospital Anxiety and Depression Scale (HADS)](/harmonisation-validation/hospital-anxiety-and-depression-scale-hads)
 * [GAD-7 vs PHQ-9](/gad-7-vs-phq-9)
 * [Validation and Harmonisation of Patient Health Questionnaire-9 (PHQ-9)](/harmonisation-validation/patient-health-questionnaire-9-phq-9)
+* [Harmonisation and validation of instruments](/harmonisation-validation/)

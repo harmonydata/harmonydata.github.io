@@ -33,3 +33,4 @@ This can help researchers determine the validity of the VAS as a measurement too
 * [Validation and Harmonisation of Epworth Sleepiness Scale](/harmonisation-validation/epworth-sleepiness-scale)
 * [Harmony: A Free AI Tool for Longitudinal Study In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study-in-psychology)
 * [GAD-7 vs GHQ-12](/gad-7-vs-ghq-12)
+* [Harmonisation and validation of instruments](/harmonisation-validation/)

@@ -37,3 +37,4 @@ In summary, Harmony can assist researchers in validating the ODI and harmonising
 * [Harmony: A Free AI Tool for Longitudinal Study In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study-in-psychology)
 * [Validation and Harmonisation of Hamilton depression rating scale](/harmonisation-validation/hamilton-depression-rating-scale)
 * [Validation and Harmonisation of Positive and Negative Syndrome Scale (PANSS)](/harmonisation-validation/positive-and-negative-syndrome-scale-panss)
+* [Harmonisation and validation of instruments](/harmonisation-validation/)

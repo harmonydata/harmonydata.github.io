@@ -23,7 +23,7 @@ We are pleased to announce the publication of a paper validating Harmony on real
 
 ## Summary of the Harmony real-world validation study
 
-Our study aimed to evaluate the effectiveness of Natural Language Processing (NLP) in [harmonising mental health questionnaires](/ces-d-vs-gad-7/) for cross-study research.
+Our study aimed to evaluate the effectiveness of Natural Language Processing (NLP) in [harmonising mental health questionnaires](/ces-d-vs-gad-7/) for cross-study research in areas such as [mental health](/ai-in-mental-health/).
 
 By comparing the semantic similarity of questionnaire items using NLP (the [Sentence-BERT transformer model](/measuring-the-performance-of-nlp-algorithms/)) with their actual correlation in a sample population, we found a moderate relationship (*r* = .48, *p* < .001) between the two measures. This suggests that NLP can accurately identify similar questions across different questionnaires. 
 

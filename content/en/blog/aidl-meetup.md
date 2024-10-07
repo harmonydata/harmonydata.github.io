@@ -79,8 +79,9 @@ Our session will explore the transformative potential of Generative AI, focusing
 
 ## See also our past events
 
-* 11 and 12 September 2024: [Harmony at MethodsCon Futures](/harmony-at-methodscon-futures-in-manchester/) in Manchester
-* 2 July 2024: [Harmony: NLP and generative models for psychology research](/pydata)  at Pydata London
+* 11 and 12 September 2024: [Harmony at MethodsCon Futures](/ai-in-mental-health/harmony-at-methodscon-futures/
+) in Manchester
+* 2 July 2024: [Harmony: NLP and generative models for psychology research](/psychology-ai-tool/pydata-meetup/)  at Pydata London
 * 3 June 2024: [Harmony Hackathon](/hackathon/) at UCL
 * 5 May 2024: [Harmony: A global platform for harmonisation, translation and cooperation in mental health](/harmony-at-lifecourse-seminar/) at  Melbourne Children’s LifeCourse Initiative seminar series.
 * 27 March 2024: [Harmony at AI Camp](/upcoming-tech-talk-at-aicamp-meetup/)

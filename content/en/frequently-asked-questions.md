@@ -18,7 +18,7 @@ Harmony is a tool that helps researchers automate the process of harmonisation u
 
 ## How do I cite Harmony?
 
-If you would like to cite our [validation study](/bmc-psychiatry-paper/), published in BMC Psychiatry, you can cite:
+If you would like to cite our [validation study](/ai-in-mental-health/bmc-psychiatry-paper/), published in BMC Psychiatry, you can cite:
 
 * McElroy, E., Wood, T.A., Bond, R., Mulvenna M., Shevlin M., Ploubidis G., Scopel Hoffmann M., Moltrecht B., [Using natural language processing to facilitate the harmonisation of mental health questionnaires: a validation study using real-world data](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-024-05954-2#citeas). BMC Psychiatry 24, 530 (2024). https://doi.org/10.1186/s12888-024-05954-2
 

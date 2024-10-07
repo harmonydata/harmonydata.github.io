@@ -57,7 +57,7 @@ You might find this guide helpful: https://opensource.guide/how-to-contribute as
 
 Read our [guide to contributing to Harmony](/contributing-to-harmony/).
 
-Harmony is a powerful [data harmonisation tool](/data-harmonisation-unifying-data-for-deeper-insights/) which uses [natural language processing](https://naturallanguageprocessing.com/) (NLP) to [bridge the gap between diverse research studies](/ppie-for-secondary-data-analysis/), automatically comparing and grouping similar items across datasets.  Here are a few ways you can get involved in the project:
+Harmony is a powerful [data harmonisation tool](/data-harmonisation/) which uses [natural language processing](https://naturallanguageprocessing.com/) (NLP) to [bridge the gap between diverse research studies](/ai-in-mental-health/ppie-for-secondary-data-analysis/), automatically comparing and grouping similar items across datasets.  Here are a few ways you can get involved in the project:
 
 ### 1. Get coding
 

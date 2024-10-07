@@ -14,7 +14,7 @@ The Hackathon event will be held at Chandler House (UCL), providing a vibrant an
 
 **This is an in-person hackathon happening in London on 3 June 2024.**
 
-Make sure to also join our [community](/community) on Discord, check out the [ideas list](/ideas) and try our [Kaggle competition](/kaggle)!
+Make sure to also join our [community](/community) on Discord, check out the [ideas list](/ideas) and try our [Kaggle competition](/psychology-ai-tool/kaggle/)!
 
 {{< card heading="Register for the Harmony hackathon" copy="Sign up on Eventbrite" url="https://www.eventbrite.com/e/harmony-hackathon-tickets-887795278577" >}}
 

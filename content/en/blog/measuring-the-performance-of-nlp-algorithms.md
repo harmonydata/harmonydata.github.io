@@ -15,7 +15,7 @@ _Harmony was able to reconstruct the matches of the questionnaire harmonisation 
 
 The content of this blog post has been written up as a [preprint for publication on OSF](https://osf.io/9x5ej).
 
-Harmony is a tool for comparing questions in natural language from different surveys or instruments. In order to develop the tool, we had to be able to quantify how good it is at recognising equivalent or similar questions. You can read about how Harmony works [in my earlier blog post](/how-does-harmony-work/).
+Harmony is a tool for comparing questions in natural language from different surveys or instruments. In order to develop the tool, we had to be able to quantify how good it is at recognising equivalent or similar questions. You can read about how Harmony works [in my earlier blog post](/nlp-semantic-text-matching/how-does-harmony-work/).
 
 For example, we might consider _Tries to Stop Quarrels_ is equivalent to _Is helpful if someone is hurt, upset or feeling ill_, even though there are no words in common between the two texts. But this is subjective, and if we are using AI to make this kind of matches, how can we put a number on our AI’s performance?
 

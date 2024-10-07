@@ -13,7 +13,7 @@ The [Australian Data Archive (ADA)](https://ada.edu.au/) is a national service f
 
 The ADA provides data access through the [ADA Dataverse](https://dataverse.ada.edu.au/). The collection includes polls on housing conditions in Australian states, political views over time across the country, questions about employment or health, and other datasets that the ADA has collected over the years (such as the Australian election study).
 
-In 2023, the ADA embarked on a project to harmonise a vast collection of survey questions, seeking a solution that could effectively identify and group similar items across different studies. Researchers at the ADA found Harmony, a [data harmonisation](/data-harmonisation-unifying-data-for-deeper-insights/) tool powered by [natural language processing](https://naturallanguageprocessing.com/) (NLP), and the ADA recognised its potential to streamline this process.
+In 2023, the ADA embarked on a project to harmonise a vast collection of survey questions, seeking a solution that could effectively identify and group similar items across different studies. Researchers at the ADA found Harmony, a [data harmonisation](/data-harmonisation/) tool powered by [natural language processing](https://naturallanguageprocessing.com/) (NLP), and the ADA recognised its potential to streamline this process.
 
 ## Challenges
 
@@ -25,7 +25,7 @@ The ADA faces several challenges in managing its extensive questionnaire data:
 ## Integrating Harmony into the ADA’s workflow
 
 The ADA may integrate Harmony into its processes, using its powerful NLP capabilities to address the challenges and expedite questionnaire harmonisation:
-1. Automated item comparison: Harmony's NLP algorithms [automatically compared and grouped questionnaire items based on their semantic similarity](/how-does-harmony-work/), eliminating the need for manual effort.
+1. Automated item comparison: Harmony's NLP algorithms [automatically compared and grouped questionnaire items based on their semantic similarity](/nlp-semantic-text-matching/how-does-harmony-work/), eliminating the need for manual effort.
 2. Enhanced consistency: Harmony's intelligent approach ensured consistent categorisation of questionnaire items, reducing inconsistencies and improving data integrity.
 
 ## Impact of Harmony on ADA's Operations

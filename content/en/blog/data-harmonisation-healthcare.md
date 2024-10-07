@@ -34,7 +34,8 @@ Data harmonisation is a critical endeavor in healthcare, underpinning efforts to
 ---
 ### Methodological Considerations
 
-Harmonisation methods in data science and healthcare research aim to standardize disparate data sources to ensure consistency, comparability, and reliability across datasets. These methods are critical in the context of big data and the increasing reliance on electronic health records (EHRs), where data is often collected from various sources with different standards and formats. Harmonisation can be approached retrospectively, after data collection, or prospectively, before data collection begins. The choice between these approaches depends on the constraints of the existing datasets and the theoretical [frameworks](/data-harmonisation-tools-frameworks) guiding the research or clinical objectives.
+Harmonisation methods in data science and healthcare research aim to standardize disparate data sources to ensure consistency, comparability, and reliability across datasets. These methods are critical in the context of big data and the increasing reliance on electronic health records (EHRs), where data is often collected from various sources with different standards and formats. Harmonisation can be approached retrospectively, after data collection, or prospectively, before data collection begins. The choice between these approaches depends on the constraints of the existing datasets and the theoretical [frameworks](/data-harmonisation/data-harmonisation-tools-frameworks/
+) guiding the research or clinical objectives.
 
 ---
 ## Key Strategies for Harmonisation
@@ -105,7 +106,7 @@ Despite these challenges, the benefits of harmonising health data are substantia
 ---
 ## Implementing Data Harmonisation
 
-Data harmonisation can be implemented retrospectively, after data collection, or prospectively, before data is collected. [Retrospective](/back-to-the-future-retrospectively-harmonising-questionnaire-data) harmonisation, also known as ex-post or output harmonisation, aligns existing datasets. Prospective harmonisation, or ex-ante/input harmonisation, involves planning data collection methods and standards in advance to ensure compatibility. Each approach has its merits, and the choice between them often depends on the goals of the harmonisation effort and the nature of the data involved.
+Data harmonisation can be implemented retrospectively, after data collection, or prospectively, before data is collected. [Retrospective harmonisation](/data-harmonisation/back-to-the-future-retrospectively-harmonising-questionnaire-data/), also known as ex-post or output harmonisation, aligns existing datasets. Prospective harmonisation, or ex-ante/input harmonisation, involves planning data collection methods and standards in advance to ensure compatibility. Each approach has its merits, and the choice between them often depends on the goals of the harmonisation effort and the nature of the data involved.
 
 The process involves defining the scope of harmonisation, identifying relevant data sources, standardizing data formats and terminologies, and employing technologies such as natural language processing (NLP) to ensure data quality and consistency. Numerous initiatives support data harmonisation efforts, such as the Common Data Model Harmonisation project, which aims to enhance data utility and interoperability across healthcare networks. Tools and technologies like CDASH and the NIH's Common Data Elements facilitate registry interoperability.
 

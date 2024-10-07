@@ -4,7 +4,11 @@ categories:
   - "ai-in-research"
 image: "/images/aidl.jpg"
 date: 2024-09-20
-url: "/psychology/aidl-meetup"
+
+
+aliases:
+  - "/psychology/aidl-meetup/"
+url: "/psychology-ai-tool/aidl-meetup/"
 ---
 
 ## Tech Talk at the AI|DL AI Meetup (London) Artificial Intelligence and Deep Learning for Enterprise
@@ -15,7 +19,7 @@ Topic: **Harmony: a free online tool using LLMs for research in psychology and s
 
 Speaker: [Thomas Wood](https://freelancedatascientist.net/) ([Fast Data Science](https://fastdatascience.com/))
 
-Description: Thomas Wood will present our work on Harmony, harmonydata.ac.uk, which is a free online tool that uses generative AI and LLMs to help researchers compare items in questionnaires such as [GAD-7](/compare-harmonise-instruments/gad-7-vs-sdq/) (used to measure anxiety), even when they are written in different languages. Harmony is open source under [MIT License](https://github.com/harmonydata/harmony/blob/main/LICENSE) and is written in Python, and uses [HuggingFace Sentence Transformers](/measuring-the-performance-of-nlp-algorithms/) to find similarities between questionnaires.
+Description: Thomas Wood will present our work on Harmony, harmonydata.ac.uk, which is a [free online tool](/psychology-ai-tool/) that uses generative AI and LLMs to help researchers compare items in questionnaires such as [GAD-7](/compare-harmonise-instruments/gad-7-vs-sdq/) (used to measure anxiety), even when they are written in different languages. Harmony is open source under [MIT License](https://github.com/harmonydata/harmony/blob/main/LICENSE) and is written in Python, and uses [HuggingFace Sentence Transformers](/measuring-the-performance-of-nlp-algorithms/) to find similarities between questionnaires.
 
 [Harmony Discovery](/discovery/) will soon allow researchers to discover datasets using a vector search.
 

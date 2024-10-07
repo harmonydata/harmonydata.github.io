@@ -6,8 +6,10 @@ categories:
   - "psychology"
 
 image: "/images/bmc.png"
-url: "/bmc-psychiatry-paper"
 
+aliases:
+  - "/bmc-psychiatry-paper/"
+url: "/ai-in-mental-health/bmc-psychiatry-paper/"
 ---
 
 # BMC Psychiatry has published our paper validating Harmony on real-world data

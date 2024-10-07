@@ -9,9 +9,9 @@ url: "/item-harmonisation/"
 ---
 
 
-## Conquer the Chaos of Questionnaires:  Item harmonisation Made Easy
+## Conquer the Chaos of Questionnaires:  Item harmonisation made easy
 
-Researchers in psychology and social sciences frequently face a challenge: [comparing data from different questionnaires](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology/). For example, they may be [combining cohort studies](/item-harmonisation/harmony-a-free-ai-tool-to-combine-cohort-studies/) or [longitudinal studies]/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study-in-psychology/) or [pooling data](/item-harmonisation/harmony-a-free-ai-tool-for-data-pooling/) for [cross cohort research](/item-harmonisation/harmony-a-free-ai-tool-for-cross-cohort-research/). Imagine trying to compare responses to "I often feel anxious" with "Feeling nervous, anxious or afraid" –  even though they seem similar, they might not capture the same level of anxiety. This is where **item harmonisation** comes in.
+Researchers in psychology and social sciences frequently face a challenge: [comparing data from different questionnaires](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology/). For example, they may be [combining cohort studies](/item-harmonisation/harmony-a-free-ai-tool-to-combine-cohort-studies/) or [longitudinal studies](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study-in-psychology/) or [pooling data](/item-harmonisation/harmony-a-free-ai-tool-for-data-pooling/) for [cross cohort research](/item-harmonisation/harmony-a-free-ai-tool-for-cross-cohort-research/). Imagine trying to compare responses to "I often feel anxious" with "Feeling nervous, anxious or afraid" –  even though they seem similar, they might not capture the same level of anxiety. This is where **item harmonisation** comes in.
 
 [Item harmonisation](/item-harmonisation/harmony-a-free-ai-tool-for-item-harmonisation/) ([item wise harmonisation](/item-harmonisation/harmony-a-free-ai-tool-for-item-wise-harmonisation/)) is the process of matching items across different questionnaires that measure the same construct (like anxiety) but use slightly different wording. It ensures researchers are truly comparing apples to apples, not apples to oranges. 
 

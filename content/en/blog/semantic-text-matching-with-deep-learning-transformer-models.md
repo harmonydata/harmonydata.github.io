@@ -29,7 +29,7 @@ Recent advancements in deep learning have enabled a new type of semantic text ma
 
 [Transformer](/how-does-harmony-work) models operate on sequences of words, and transform entire sentences in many languages into a vector representation in high-dimensional space. Then we can quantify the similarity between sentences with a simple metric such as Euclidean or cosine distance. This enables us to measure the similarity between words.
 
-In developing Harmony, the most performant algorithm tested so far was GPT-3, however, as the field is evolving so rapidly, this is likely to be out of date very soon. So please watch our blog, and in the meantime you can [test out Harmony](https://harmonydata.ac.uk/app/) on your data.
+In developing Harmony, the [most performant algorithm](/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/) tested so far was GPT-3, however, as the field is evolving so rapidly, this is likely to be out of date very soon. So please watch our blog, and in the meantime you can [test out Harmony](https://harmonydata.ac.uk/app/) on your data.
 
 Transformer models have proven to be very effective in semantic text matching. They are also very efficient in terms of computational resources and can easily scale to large datasets. This makes them a great choice for applications related to text matching tasks.
 

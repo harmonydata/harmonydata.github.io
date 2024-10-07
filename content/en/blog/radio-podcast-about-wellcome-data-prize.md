@@ -4,6 +4,11 @@ description: Wellcome Data Prize Featured on Smile 90.4FM
 date: 2023-02-11
 categories: ["harmony"]
 image: /images/blog/pexels-scott-webb-29049.jpg
+
+
+aliases:
+  - "/radio-podcast-about-wellcome-data-prize/"
+url: "/ai-in-mental-health/radio-podcast-about-wellcome-data-prize/"
 ---
 
 

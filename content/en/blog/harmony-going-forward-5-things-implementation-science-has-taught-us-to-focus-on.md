@@ -7,6 +7,8 @@ image: /images/blog/noah-buscher-x8ZStukS2PM-unsplash-1536x880.jpg
 aliases:
   - /blog/harmony-going-forward/
   - /harmony-going-forward-5-things-implementation-science-has-taught-us-to-focus-on
+  - /harmony-going-forward/
+url: "/ai-in-mental-health/harmony-going-forward/"
 ---
 
 **5 key things Implementation Science has taught us** **to focus on**

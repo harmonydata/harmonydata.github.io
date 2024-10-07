@@ -4,7 +4,13 @@ description: Click here to view other people’s responses.
 date: 2024-02-11
 categories: ["psychology"]
 image: /images/blog/how_can_harmony_help_you.png
+
+aliases:
+  - "/what-features-would-you-like-to-see-in-harmony/"
+url: "/psychology-ai-tool/what-features-would-you-like-to-see-in-harmony/"
 ---
+
+Please fill out this form to give feedback on [Harmony](/psychology-ai-tool/).
 
 {{< htmlcode >}}
 

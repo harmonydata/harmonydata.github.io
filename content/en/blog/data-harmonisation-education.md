@@ -3,6 +3,11 @@ title: "Data Harmonisation in Education"
 categories: ["data"]
 image: "/images/17- Data harmonisation in education.svg"
 date: 2024-06-05
+
+
+aliases:
+  - "/data-harmonisation-in-education/"
+url: "/data-harmonisation/data-harmonisation-in-education/"
 ---
 
 # Data Harmonisation in Education: Overview
@@ -11,7 +16,7 @@ The term ‘harmonisation’ has often been used in different contexts – for e
 
 Now, the underlying degree of interaction between all the players involved can run a lot deeper and tighter when we transition from collaboration, partnership, and cooperation to integration, community, harmonisation, and interdependence. We might also infer that integration of any kind is an entire process where multiple steps are involved based on the level of commitment coming from the various actors or parties involved.
 
-Data harmonisation has been used for well over a decade in policy documents. For example, the term “harmonisation” was coined in EHEA (European Higher Education Area) as a chief element in the Sorbonne Declaration of June 1999, signed as architecture of reform of the EU’s higher education system.
+[Data harmonisation](/data-harmonisation/) has been used for well over a decade in policy documents. For example, the term “harmonisation” was coined in the EHEA (European Higher Education Area) as a chief element in the Sorbonne Declaration of June 1999, signed as architecture of reform of the EU’s higher education system.
 
 The African union has developed a similar framework to harmonise their higher education system where their policy documentation clearly refers to the entire process as “harmonisation”.
 

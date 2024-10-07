@@ -3,7 +3,10 @@ title: "Pydata on 2 July"
 date: 2024-06-23
 categories: ["development"]
 image: "/images/thomas-wood-pydata.jpg"
-url: "/pydata"
+
+aliases:
+  - "/pydata/"
+url: "/psychology-ai-tool/aidl-meetup/"
 ---
 
 ## Harmony at PyData London - 86th Meetup

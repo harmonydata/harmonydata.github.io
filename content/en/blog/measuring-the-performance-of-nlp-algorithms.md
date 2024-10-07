@@ -15,7 +15,7 @@ _Harmony was able to reconstruct the matches of the questionnaire harmonisation 
 
 The content of this blog post has been written up as a [preprint for publication on OSF](https://osf.io/9x5ej).
 
-Harmony is a tool for comparing questions in natural language from different surveys or instruments. In order to develop the tool, we had to be able to quantify how good it is at recognising equivalent or similar questions. You can read about how Harmony works [in my earlier blog post](https://harmonydata.ac.uk/how-does-harmony-work/).
+Harmony is a tool for comparing questions in natural language from different surveys or instruments. In order to develop the tool, we had to be able to quantify how good it is at recognising equivalent or similar questions. You can read about how Harmony works [in my earlier blog post](/how-does-harmony-work/).
 
 For example, we might consider _Tries to Stop Quarrels_ is equivalent to _Is helpful if someone is hurt, upset or feeling ill_, even though there are no words in common between the two texts. But this is subjective, and if we are using AI to make this kind of matches, how can we put a number on our AI’s performance?
 
@@ -64,7 +64,7 @@ For example, for the [GAD-7](/gad-7-vs-sdq) English vs Portuguese dataset contai
 
 ## Comparing versions of Harmony
 
-In the process of developing Harmony, it was not immediately apparent which technology should be used. Before trying cutting-edge technology such as neural networks, it was necessary to establish a baseline for performance using a simpler tool such as a bag-of-words model (see my [earlier blog post](https://harmonydata.ac.uk/how-does-harmony-work/) for an explanation of the technologies explored in this post).
+In the process of developing Harmony, it was not immediately apparent which technology should be used. Before trying cutting-edge technology such as neural networks, it was necessary to establish a baseline for performance using a simpler tool such as a bag-of-words model (see my [earlier blog post](/how-does-harmony-work/) for an explanation of the technologies explored in this post).
 
 I tested the following candidate models:
 
@@ -85,7 +85,7 @@ For each model design, I generated a [ROC curve](https://fastdatascience.com/mea
 
 ### Bag-of-words approaches
 
-The baseline model, the Tf\*Idf, gave a 71% and 67% AUC on the childhood and adulthood datasets respectively. On the English vs Portuguese it scored a 49% AUC, showing that it was unable to perform any [matching](https://harmonydata.ac.uk/semantic-text-matching-with-deep-learning-transformer-models) at all. This is not surprising as there are no words in common between the English and Portuguese GAD-7s.
+The baseline model, the Tf\*Idf, gave a 71% and 67% AUC on the childhood and adulthood datasets respectively. On the English vs Portuguese it scored a 49% AUC, showing that it was unable to perform any [matching](/nlp-semantic-text-matching/) at all. This is not surprising as there are no words in common between the English and Portuguese GAD-7s.
 
 {{< image src="images/blog/Model-1-1536x1303.png" alt="model 1" >}}
 
@@ -117,7 +117,7 @@ I then tried the large spaCy model, using the English version for both [language
 
 The state-of-the-art in [natural language processing](https://naturallanguageprocessing.com/) is currently transformer models. Like the word vector approaches above, transformers convert sentences into vector representations, allowing us to use geometrical similarity and distance measures to quantify semantic similarity.
 
-I used the software package HuggingFace with the multilingual [Sentence-BERT model](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2), which is an [implementation](https://harmonydata.ac.uk/harmony-going-forward-5-things-implementation-science-has-taught-us-to-focus-on) of BERT that is designed to generate semantically meaningful sentence embeddings which can be compared using cosine similarity.
+I used the software package HuggingFace with the multilingual [Sentence-BERT model](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2), which is an [implementation](/harmony-going-forward-5-things-implementation-science-has-taught-us-to-focus-on) of BERT that is designed to generate semantically meaningful sentence embeddings which can be compared using cosine similarity.
 
 {{< image src="images/blog/Model-50Adistiluse-base-multilingual-cased-v2-1536x1355.png" alt="Model 50 Adistiluse base multilingual cased" >}}
 
@@ -205,7 +205,7 @@ It is clear that it is possible to adapt an algorithm such as Tf\*Idf similarity
 
 I have not attempted to validate the last model’s ability to recognise antonyms. If you [try Harmony in the web interface](https://harmonydata.ac.uk/app/), you will see that [items](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study-in-psychology) which are predicted to be opposite senses (_child fights frequently_ vs _child rarely fights_) are tagged with red lines. Since the existing harmonisation tool does not contain this information, I was unable to validate antonym recognition. Further work is needed in this area.
 
-Future work could involve training a natural language processing algorithm on the existing harmonisation tools, in order to reproduce their performance. An interesting future direction would be to train Harmony to reproduce the patterns found in factor analysis, which are derived from numerical [survey](/combining-multiple-survey-sources-best-practices) data.
+Future work could involve training a natural language processing algorithm on the existing harmonisation tools, in order to reproduce their performance. An interesting future direction would be to train Harmony to reproduce the patterns found in factor analysis, which are derived from numerical [survey](/combining-multiple-survey-sources-best-practices/) data.
 
 ## References
 

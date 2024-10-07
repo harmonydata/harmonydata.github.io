@@ -3,6 +3,11 @@ title: "Harmony at Lifecourse seminar"
 categories: ["data"]
 image: "/images/lifecourse.jpg"
 date: 2024-05-15
+
+
+aliases:
+  - "/harmony-at-lifecourse-seminar/"
+url: "/ai-in-mental-health/harmony-at-lifecourse-seminar/"
 ---
 
 ## Harmony at Lifecourse seminar

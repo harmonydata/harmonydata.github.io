@@ -4,6 +4,11 @@ description: Discover strategies to harmonise survey data, using tools like Harm
 date: 2024-05-27
 categories: ["data"]
 image: "/images/11- Finding matching and common items in questionnaires and surveys.svg"
+
+
+aliases:
+  - "/how-to-find-matching-and-common-items-in-questionnaires-and-surveys/"
+url: "/data-harmonisation/find-matching-and-common-items-in-questionnaires-and-surveys/"
 ---
 
 When researchers take on the task of analysing data from surveys and questionnaires, they often encounter a significant obstacle: finding matching or common items across different sources. This challenge is due to the many different ways questions are asked or formatted. This makes it tough to compare and merge data effectively.

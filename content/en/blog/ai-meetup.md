@@ -3,6 +3,10 @@ title: "Upcoming Tech Talk at AICamp meetup"
 categories: ["data"]
 image: "/images/aimeetup-londonb.png"
 date: 2024-03-22
+
+aliases:
+  - "/upcoming-tech-talk-at-aicamp-meetup/"
+url: "/psychology-ai-tool/aicamp-meetup/"
 ---
 
 ## Upcoming Tech Talk: at the AICamp AI Meetup (London): AI, Generative AI, LLMs
@@ -11,7 +15,7 @@ date: 2024-03-22
 
 {{< youtube MpZLl9gTEIw >}}
 
-We're pleased to announce that **Harmony** will be showcased at the upcoming **AICamp AI Meetup in London** on **27 March**.
+We're pleased to announce that the [AI tool](/psychology-ai-tool/) **Harmony** will be showcased at the upcoming **AICamp AI Meetup in London** on **27 March**.
 
 You are invited to AICamp's monthly in-person AI meetup in London. Join us for deep dive tech talks on AI, GenAI, LLMs and machine learning, food/drink, networking with speakers and fellow developers
 

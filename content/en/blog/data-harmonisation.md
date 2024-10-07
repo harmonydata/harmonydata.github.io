@@ -114,7 +114,7 @@ Let's explore this need further in various sectors:
 
 7. **Supply Chain Management**: In global supply chains, harmonising data related to inventory levels, supplier performance, and logistics is crucial for efficiency. Differing data standards across countries and companies can lead to inefficiencies and disruptions.
 
-8. **Education and Comparative Studies**: For educational research and international comparisons of educational systems, data harmonisation helps in understanding the effectiveness of different educational approaches and in making cross-country comparisons.
+8. **Education and Comparative Studies**: For educational research and international comparisons of educational systems, data harmonisation [helps in understanding the effectiveness of different educational approaches and in making cross-country comparisons](/data-harmonisation/data-harmonisation-in-education/).
 
 9. **Telecommunications**: Telecom companies use data harmonisation to integrate customer data, usage patterns, and network data from various sources. This helps in improving network efficiency, customer service, and in developing new services.
 
@@ -136,7 +136,7 @@ Tools like Harmony, designed specifically for the [retrospective harmonisation o
 Companies like EPAM and TIBCO highlight the strategic importance of data harmonisation. They emphasize how it can provide a competitive edge by ensuring data consistency across an organization, improving decision-making, and streamlining operations.
 
 **Future and Role in AI and Machine Learning**
-The future of data harmonisation is closely intertwined with advancements in AI and machine learning. These technologies have the potential to automate the harmonisation process, making it more efficient and accurate. AI can assist in identifying patterns, inconsistencies, and correlations in large datasets, while machine learning algorithms can learn from data to improve the harmonisation process over time, adapting to changes in data structures and formats.
+The future of data harmonisation is closely intertwined with advancements in AI and machine learning. These technologies have the potential to automate the harmonisation process, making it more efficient and accurate. AI can assist in identifying patterns, [inconsistencies](/data-harmonisation/harmonising-questionnaire-data-consistency/), and correlations in large datasets, while machine learning algorithms can learn from data to improve the harmonisation process over time, adapting to changes in data structures and formats.
 
 In summary, data harmonisation is a critical and practical process in various industries, enhancing data quality, decision-making, and operational efficiency. The evolution of this field, particularly with the integration of AI and machine learning, holds significant promise for even more streamlined and effective data management in the future.
 

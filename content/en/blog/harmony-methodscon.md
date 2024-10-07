@@ -3,6 +3,11 @@ title: "Harmony at MethodsCon: Futures in Manchester"
 categories:  ["psychology"]
 image: "/images/pexels-szymon-shields-1503561-7847361.jpg"
 date: 2024-09-06
+
+
+aliases:
+  - "/harmony-at-methodscon-futures-in-manchester/"
+url: "/ai-in-mental-health/harmony-at-methodscon-futures/"
 ---
 
 ## MethodsCon in Manchester

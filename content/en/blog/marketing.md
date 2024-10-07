@@ -7,6 +7,8 @@ image: /images/blog/marketing.jpg
 aliases:
   - "/blog/marketing/"
   - "/marketing/"
+  - "/the-importance-of-marketing-for-open-science/"
+url: "/psychology-ai-tool/marketing-for-open-science/"
 ---
 
 
@@ -24,7 +26,7 @@ In addition to these specific benefits, marketing can also help to:
 
 Overall, marketing is an essential part of any research project on the scale of Harmony. We don't have corporate sponsorship and we're not funded by a university department. By effectively communicating the project's value and potential, marketing can help to achieve the project's goals and make a real impact on the world.
 
-In order to raise awareness of Harmony, we have taken the following marketing initiatives:
+In order to raise awareness of [the tool](/psychology-ai-tool/), we have taken the following marketing initiatives:
 
 * We have created a website to share information about the project, its goals, and its progress.
 * We are publishing articles and blog posts about Harmony.

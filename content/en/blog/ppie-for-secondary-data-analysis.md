@@ -4,6 +4,10 @@ description: "Harmony was able to reconstruct the matches of the questionnaire h
 date: 2022-11-09
 categories: ["psychology"]
 image: /images/blog/joanna-kosinska-1_CMoFsPfso-unsplash-1536x1025.jpg
+
+aliases:
+  - "/ppie-for-secondary-data-analysis/"
+url: "/ai-in-mental-health/ppie-for-secondary-data-analysis/"
 ---
 
 **New Discoveries** **for Patient and Public Involvement**

@@ -15,7 +15,7 @@ Alcohol misuse is a public health concern globally, putting strain on medical sy
 
 ## Understanding Alcohol Use Datasets
 
-Utilising Harmony Discovery, researchers can discover comprehensive and insightful datasets by topic. These datasets offer a detailed look into different aspects of alcohol misuse, such as instances of alcohol demand, correlation with alcohol use disorder severity, effect of reward valuation and attentional bias on alcohol consumption, and firsthand interviews with women in early sobriety.
+Utilising Harmony Discovery, researchers can [discover comprehensive and insightful datasets](/discover-data/) by topic. These datasets offer a detailed look into different aspects of alcohol misuse, such as instances of alcohol demand, correlation with alcohol use disorder severity, effect of reward valuation and attentional bias on alcohol consumption, and firsthand interviews with women in early sobriety.
 
 Here are a few examples of available datasets:
 

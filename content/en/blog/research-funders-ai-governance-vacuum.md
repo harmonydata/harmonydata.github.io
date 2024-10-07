@@ -4,7 +4,10 @@ categories:
   - "ai-in-research"
 image: "/images/pexels-goumbik-590022.jpg"
 date: 2024-10-02
-url: "/psychology/research-funders-ai-governance"
+
+aliases:
+  - "/psychology/research-funders-ai-governance"
+url: "/ai-in-mental-health/research-funders-ai-governance/"
 ---
 
 ## How are research funders reacting to the AI governance vacuum?

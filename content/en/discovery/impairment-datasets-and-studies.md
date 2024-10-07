@@ -9,11 +9,7 @@ url: "/discover-data/impairment-datasets-and-studies"
 
 * [Find Impairment datasets and longitudinal studies on the Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/?content=search&query=Topic:impairment)
 
----
-title: Discover Impairment Datasets with Harmony Discovery
-author: [Your Name]
-date: [Today's Date]
----
+## Discover Impairment Datasets with Harmony Discovery
 
 Harmony Discovery is an innovative tool designed for social science researchers to discover datasets related to specific topics such as Impairment. It is a platform that connects to various data sources including the UKLLC, Closer, the Catalogue of Mental Health Measures, HDR UK, and ADR UK. 
 
@@ -23,7 +19,12 @@ Harmony Discovery employs large language models to match variable names and ques
 
 An example of a few datasets available on Impairment include:
 
-**Dataset 3967**: A longitudinal study of children with developmental disorders of arithmetical ability, the project provides insights into the disproportionate difficulty in the acquisition of arithmetical facts and tables among children of normal intelligence with no known medical history of relevance.
+* **Dataset 3967**: A longitudinal study of children with developmental disorders of arithmetical ability, the project provides insights into the disproportionate difficulty in the acquisition of arithmetical facts and tables among children of normal intelligence with no known medical history of relevance.
+
+* **Dataset 2264**: This dataset provides a comprehensive perspective on the psychological and social difficulties faced by teenagers with congenital cerebral palsy or spina bifida with hydrocephalus. It aims at understanding the factors associated with their adjustment and assesses the adequacy of available services.
+
+* **Dataset 1989**: If you're investigating more general data on disability, this Disability Supplemental Questions Dataset offers a wealth of information.
+
 
 ## What data sources does Harmony Discovery connect to?
 
@@ -40,12 +41,6 @@ An example of a few datasets available on Impairment include:
 {{< card heading="Try Harmony" copy="Compare instruments with Harmony" url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}
-
-
-
-**Dataset 2264**: This dataset provides a comprehensive perspective on the psychological and social difficulties faced by teenagers with congenital cerebral palsy or spina bifida with hydrocephalus. It aims at understanding the factors associated with their adjustment and assesses the adequacy of available services.
-
-**Dataset 1989**: If you're investigating more general data on disability, this Disability Supplemental Questions Dataset offers a wealth of information.
 
 Through Harmony Discovery, locating, understanding, and leveraging data for studies related to Impairment has never been easier or more efficient. Take advantage of this powerful research tool to dive deeper into your studies and uncover new insights.
 

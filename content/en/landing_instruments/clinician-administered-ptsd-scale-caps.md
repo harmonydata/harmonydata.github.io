@@ -40,7 +40,7 @@ Overall, Harmony's abilities in terms of validation and harmonisation can greatl
 
 
 
-* [SDQ vs Beck Anxiety Inventory](/sdq-vs-beck-anxiety-inventory)
+* [SDQ vs Beck Anxiety Inventory](/compare-harmonise-instruments/sdq-vs-beck-anxiety-inventory)
 * [Validation and Harmonisation of Perceived Stress Scale (PSS)](/harmonisation-validation/perceived-stress-scale-pss)
 * [Harmony: A Free AI Tool for Item-Wise Harmonisation](/item-harmonisation/harmony-a-free-ai-tool-for-item-wise-harmonisation)
 * [Harmonisation and validation of instruments](/harmonisation-validation/)

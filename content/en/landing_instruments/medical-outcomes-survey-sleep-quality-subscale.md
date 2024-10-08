@@ -35,6 +35,6 @@ By harmonising the MOS-SQS with other instruments, researchers can ensure that t
 
 
 * [Harmony: A Free AI Tool to Merge Longitudinal Studies](/item-harmonisation/harmony-a-free-ai-tool-to-merge-longitudinal-studies)
-* [SDQ vs Beck Anxiety Inventory](/sdq-vs-beck-anxiety-inventory)
+* [SDQ vs Beck Anxiety Inventory](/compare-harmonise-instruments/sdq-vs-beck-anxiety-inventory)
 * [Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology)
 * [Harmonisation and validation of instruments](/harmonisation-validation/)

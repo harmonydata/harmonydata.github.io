@@ -15,7 +15,7 @@ Researchers often want to validate the PSS or harmonise it with other instrument
 
 * [Validation and Harmonisation of SIRS scale (Systemic Inflammatory Response Syndrome)](/harmonisation-validation/sirs-scale-systemic-inflammatory-response-syndrome)
 * [GHQ-12 vs SDQ](/compare-harmonise-instruments/ghq-12-vs-sdq/)
-* [SDQ vs Beck Anxiety Inventory](/sdq-vs-beck-anxiety-inventory)
+* [SDQ vs Beck Anxiety Inventory](/compare-harmonise-instruments/sdq-vs-beck-anxiety-inventory)
 
 Harmony's natural language processing and AI models can be used to compare the items in the PSS with those in other instruments, such as the Depression Anxiety Stress Scale (DASS) or the Hamilton Anxiety Rating Scale (HAM-A). By inputting the items into Harmony's web interface, researchers can receive a percentage match between each item, allowing them to make comparisons and establish crosswalks with other instruments.
 
@@ -37,6 +37,6 @@ In short, Harmony can help researchers to validate and harmonise the Perceived S
 
 
 * [Validation and Harmonisation of Visual Analog Scale (VAS)](/harmonisation-validation/visual-analog-scale-vas)
-* [SDQ vs Beck Anxiety Inventory](/sdq-vs-beck-anxiety-inventory)
+* [SDQ vs Beck Anxiety Inventory](/compare-harmonise-instruments/sdq-vs-beck-anxiety-inventory)
 * [Validation and Harmonisation of Clinician-Administered PTSD Scale (CAPS)](/harmonisation-validation/clinician-administered-ptsd-scale-caps)
 * [Harmonisation and validation of instruments](/harmonisation-validation/)

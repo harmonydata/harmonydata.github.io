@@ -41,7 +41,7 @@ Dr Moltrecht presented use-case examples using real world meta-data from [two UK
 
 ## 17 August 2023, Centre for Longitudinal Studies
 
-During [a recent free half-day event](/harmony-and-tidal-workshop/), attendees were introduced to two new digital tools for researchers working with [longitudinal data](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study/): Harmony and TIDAL.
+During [a recent free half-day event](/ai-in-mental-health/harmony-and-tidal-workshop), attendees were introduced to two new digital tools for researchers working with [longitudinal data](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study/): Harmony and TIDAL.
 
 Harmony is a tool that facilitates fast and easy harmonisation of questionnaires commonly used in [mental health research](/ai-in-mental-health/). It uses natural language processing to identify commonalities across items, which allows researchers to combine and compare data from multiple studies.
 

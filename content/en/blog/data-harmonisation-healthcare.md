@@ -64,7 +64,7 @@ The management of large volumes of disparate data is made possible through advan
 ### Adopting SDOH Standards to Advance Health Equity
 
 #### Social Determinants of Health (SDOH)
-The Social Determinants of Health (SDOH) refer to the conditions in which people are born, grow, live, work, and age, including factors like socioeconomic status, [education](/data-harmonisation-in-education), neighborhood and physical environment, employment, and social support networks, as well as access to healthcare. SDOH significantly impact health outcomes, with a growing body of evidence suggesting that they may account for a substantial part of health disparities and inequities observed across different populations.
+The Social Determinants of Health (SDOH) refer to the conditions in which people are born, grow, live, work, and age, including factors like socioeconomic status, [education](/data-harmonisation/data-harmonisation-in-education), neighborhood and physical environment, employment, and social support networks, as well as access to healthcare. SDOH significantly impact health outcomes, with a growing body of evidence suggesting that they may account for a substantial part of health disparities and inequities observed across different populations.
 
 
 #### ONC Gravity Project

@@ -64,11 +64,11 @@ Please ensure you have Tika 2.3.0 or later.
 
 If you don’t already have Python on your computer, we recommend to download it from [Anaconda](https://www.anaconda.com/download). Please ensure you have Python 3.9 or later.
 
-## 4. Download the Harmony [API](https://harmonydata.ac.uk/releasing-harmony-api)
+## 4. Download the Harmony [API](/open-source-for-social-science/harmony-api/)
 
 Visit the [API Github page](https://github.com/harmonydata/harmonyapi) and click Code -> Download ZIP. Unzip it on your computer.
 
-## 5. Download the machine learning [models](https://harmonydata.ac.uk/semantic-text-matching-with-deep-learning-transformer-models) and Python dependencies
+## 5. Download the machine learning [models](/nlp-semantic-text-matching/) and Python dependencies
 
 In the terminal or console, type
 

@@ -15,7 +15,7 @@ blocks:
   heading: "Harmonise questionnaire items with **Harmony**."
   subheading: Harmony is a tool for retrospective harmonisation of questionnaire items.
   copy: |-
-    Do you need to [compare questionnaire items across studies](/gad-7-vs-beck-anxiety-inventory/)? Do you want to find the best match for a set of items? Are there are different versions of the same questionnaire floating around and you want to make sure [how compatible they are](/harmonisation-validation/patient-health-questionnaire-9-phq-9/)? Are the questionnaires [written in different languages](/harmony-supports-over-8-languages/) that you would like to compare?
+    Do you need to [compare questionnaire items across studies](/compare-harmonise-instruments/gad-7-vs-beck-anxiety-inventory/)? Do you want to find the best match for a set of items? Are there are different versions of the same questionnaire floating around and you want to make sure [how compatible they are](/harmonisation-validation/patient-health-questionnaire-9-phq-9/)? Are the questionnaires [written in different languages](/psychology-ai-tool/harmony-many-languages/) that you would like to compare?
 
     The Harmony project is a data harmonisation project that uses [Natural Language Processing](https://fastdatascience.com/guide-natural-language-processing-nlp/) to help researchers make better use of existing data from different studies by supporting them with the harmonisation of various measures and items used in different studies. Harmony is a collaboration project between [Ulster University](https://ulster.ac.uk/), [University College London](https://ucl.ac.uk/), the [Universidade Federal de Santa Maria](https://www.ufsm.br/), and [Fast Data Science](http://fastdatascience.com/).  Harmony is funded by [Wellcome](https://wellcome.org/) as part of the [Wellcome Data Prize in Mental Health](https://wellcome.org/grant-funding/schemes/wellcome-mental-health-data-prize).
  
@@ -96,7 +96,7 @@ blocks:
   - text: R package on Github
     url: https://github.com/harmonydata/harmony_r
   - text: Documentation
-    url: /harmony-r-released/
+    url: /open-source-for-social-science/harmony-r-package/
   - text: Google Colab notebook
     url: "https://github.com/harmonydata/experiments/blob/main/Harmony_R_example.ipynb"
   - text: R markdown notebook for R Studio
@@ -189,7 +189,7 @@ blocks:
   copy: |
     Our tool, [Harmony](https://fastdatascience.com/harmony-wellcome-data-prize/), allows researchers to upload a set of mental health questionnaires in PDF or Excel format, such as the [GAD-7 anxiety questionnaire](https://adaa.org/sites/default/files/GAD-7_Anxiety-updated_0.pdf). It identifies which questions among questionnaires are identical, similar in meaning, or antonyms of each other, and generates a network graph. This allows researchers to harmonise datasets.
 
-    Uniquely, Harmony relies on [Transformer neural network architectures](https://deepai.org/machine-learning-glossary-and-terms/transformer-neural-network) and is not dependent on a dictionary approach or word list. This allows for [multilingual data harmonisation](/harmony-supports-over-8-languages/) (English and Portuguese are our languages of focus), and Harmony is able to correctly map the GAD-7 used in the UK to the [GAD-7 used in Brazil](https://pesquisa.bvsalud.org/portal/resource/pt/lil-788637), despite the Brazilian questionnaire being in Brazilian Portuguese.
+    Uniquely, Harmony relies on [Transformer neural network architectures](https://deepai.org/machine-learning-glossary-and-terms/transformer-neural-network) and is not dependent on a dictionary approach or word list. This allows for [multilingual data harmonisation](/psychology-ai-tool/harmony-many-languages/) (English and Portuguese are our languages of focus), and Harmony is able to correctly map the GAD-7 used in the UK to the [GAD-7 used in Brazil](https://pesquisa.bvsalud.org/portal/resource/pt/lil-788637), despite the Brazilian questionnaire being in Brazilian Portuguese.
 
     Using Harmony, our team was able to harmonise multilingual datasets and conduct groundbreaking research into social isolation and anxiety with NLP supplying a quantitative measure of the equivalence of the different mental health datasets.
 

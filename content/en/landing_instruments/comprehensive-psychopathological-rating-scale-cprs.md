@@ -30,7 +30,7 @@ This allows researchers to harmonise the CPRS with other instruments in longitud
 
 
 
-* [GAD-7 vs GHQ-12](/gad-7-vs-ghq-12)
+* [GAD-7 vs GHQ-12](/compare-harmonise-instruments/gad-7-vs-ghq-12/)
 * [Validation and Harmonisation of SF-36 health survey](/harmonisation-validation/sf-36-health-survey)
 * [Validation and Harmonisation of Quality of Life (QoL) EORTC QLQ-C30](/harmonisation-validation/quality-of-life-qol-eortc-qlq-c30)
 * [Harmonisation and validation of instruments](/harmonisation-validation/)

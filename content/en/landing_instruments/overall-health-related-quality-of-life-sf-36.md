@@ -35,6 +35,6 @@ Overall, Harmony streamlines and automates the process of validating and harmoni
 
 
 * [Validation and Harmonisation of Dermatology Life Quality Index (DLQI)](/harmonisation-validation/dermatology-life-quality-index-dlqi)
-* [GAD-7 vs SDQ](/gad-7-vs-sdq)
+* [GAD-7 vs SDQ](/compare-harmonise-instruments/gad-7-vs-sdq/)
 * [Validation and Harmonisation of Comprehensive Psychopathological Rating Scale (CPRS)](/harmonisation-validation/comprehensive-psychopathological-rating-scale-cprs)
 * [Harmonisation and validation of instruments](/harmonisation-validation/)

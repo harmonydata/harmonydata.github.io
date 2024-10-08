@@ -13,7 +13,7 @@ The PedsQL Multidimensional Fatigue Scale is a questionnaire used to measure fat
 
 Harmony can assist researchers in validating and harmonising the PedsQL Multidimensional Fatigue Scale with other instruments. Validation is the process of determining the degree to which an instrument accurately measures the construct it is intended to measure. By using Harmony, researchers can compare the items in the PedsQL Multidimensional Fatigue Scale with items in other instruments and establish their crosswalks, allowing for better understanding and comparison of results across different studies.
 
-* [GHQ-12 vs PHQ-9](/ghq-12-vs-phq-9)
+* [GHQ-12 vs PHQ-9](/compare-harmonise-instruments/ghq-12-vs-phq-9/)
 * [Validation and Harmonisation of Overall Health-related Quality of Life (SF-36)](/harmonisation-validation/overall-health-related-quality-of-life-sf-36)
 * [Validation and Harmonisation of Alcohol Urges Questionnaire (AUQ)](/harmonisation-validation/alcohol-urges-questionnaire-auq)
 
@@ -35,6 +35,6 @@ Overall, the use of Harmony can aid in the validation and harmonisation of the P
 
 
 * [Harmony: A Free AI Tool for Data Pooling](/item-harmonisation/harmony-a-free-ai-tool-for-data-pooling)
-* [GAD-7 vs SDQ](/gad-7-vs-sdq)
+* [GAD-7 vs SDQ](/compare-harmonise-instruments/gad-7-vs-sdq/)
 * [Validation and Harmonisation of Overall Health-related Quality of Life (SF-36)](/harmonisation-validation/overall-health-related-quality-of-life-sf-36)
 * [Harmonisation and validation of instruments](/harmonisation-validation/)

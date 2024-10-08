@@ -13,7 +13,7 @@ The Bristol Stool Scale is a medical tool designed to classify the form of human
 
 In order to fully utilize the Bristol Stool Scale and its potential for longitudinal studies, researchers may want to validate its effectiveness in measuring changes over time. This is where Harmony can be helpful.
 
-* [CES-D vs GAD-7](/ces-d-vs-gad-7)
+* [CES-D vs GAD-7](/compare-harmonise-instruments/ces-d-vs-gad-7/)
 * [Validation and Harmonisation of Insomnia Severity Index (ISI)](/harmonisation-validation/insomnia-severity-index-isi)
 * [Validation and Harmonisation of Quickley-Hein plaque index (PI)](/harmonisation-validation/quickley-hein-plaque-index-pi)
 
@@ -34,7 +34,7 @@ Overall, Harmony can provide a more efficient and reliable way for researchers t
 
 
 
-* [GAD-7 vs SDQ](/gad-7-vs-sdq)
+* [GAD-7 vs SDQ](/compare-harmonise-instruments/gad-7-vs-sdq/)
 * [Validation and Harmonisation of Overall Health-related Quality of Life (SF-36)](/harmonisation-validation/overall-health-related-quality-of-life-sf-36)
 * [Validation and Harmonisation of Hamilton depression rating scale](/harmonisation-validation/hamilton-depression-rating-scale)
 * [Harmonisation and validation of instruments](/harmonisation-validation/)

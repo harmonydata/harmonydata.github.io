@@ -19,7 +19,7 @@ Topic: **Harmony: a free online tool using LLMs for research in psychology and s
 
 Speaker: [Thomas Wood](https://freelancedatascientist.net/) ([Fast Data Science](https://fastdatascience.com/))
 
-Description: Thomas Wood will present our work on Harmony, harmonydata.ac.uk, which is a [free online tool](/psychology-ai-tool/) that uses generative AI and LLMs to help researchers compare items in questionnaires such as [GAD-7](/compare-harmonise-instruments/gad-7-vs-sdq/) (used to measure anxiety), even when they are [written in different languages](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/). Harmony is open source under [MIT License](https://github.com/harmonydata/harmony/blob/main/LICENSE) and is written in Python, and uses [HuggingFace Sentence Transformers](/measuring-the-performance-of-nlp-algorithms/) to find similarities between questionnaires.
+Description: Thomas Wood will present our work on Harmony, harmonydata.ac.uk, which is a [free online tool](/psychology-ai-tool/) that uses generative AI and LLMs to help researchers compare items in questionnaires such as [GAD-7](/compare-harmonise-instruments/gad-7-vs-sdq/) (used to measure anxiety), even when they are [written in different languages](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/). Harmony is open source under [MIT License](https://github.com/harmonydata/harmony/blob/main/LICENSE) and is written in Python, and uses [HuggingFace Sentence Transformers](/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/) to find similarities between questionnaires.
 
 [Harmony Discovery](/discovery/) will soon allow researchers to discover datasets using a [vector search](/nlp-semantic-text-matching/how-does-harmony-work/).
 
@@ -56,7 +56,7 @@ The AI|DL AI meetup is sponsored by [Daemon](https://www.dae.mn/).
 
 07:10pm - Thomas Wood, Director of [Fast Data Science](https://fastdatascience.com/) [Project Harmony: a free online tool using LLMs for research in psychology and social sciences](https://fastdatascience.com/ai-in-research/aidl-meetup/)
 
-[Thomas Wood](https://fastdatascience.com/team/) will present our work on Harmony (harmonydata.ac.uk), which is a [free online tool](/psychology-ai-tool/) that uses generative AI and LLMs to help researchers compare items in questionnaires such as [GAD-7](https://harmonydata.ac.uk/compare-harmonise-instruments/gad-7-vs-beck-anxiety-inventory/) (used to measure [anxiety](/discover-data/anxiety-datasets-and-studies/)), even when they are written in [different languages](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/). Harmony is [open source](/how-can-i-contribute-to-an-open-source-project/) under MIT License and is written in Python, and uses [HuggingFace Sentence Transformers](/measuring-the-performance-of-nlp-algorithms/) to find similarities between questionnaires. Harmony will soon allow researchers to discover datasets using a vector search.
+[Thomas Wood](https://fastdatascience.com/team/) will present our work on Harmony (harmonydata.ac.uk), which is a [free online tool](/psychology-ai-tool/) that uses generative AI and LLMs to help researchers compare items in questionnaires such as [GAD-7](https://harmonydata.ac.uk/compare-harmonise-instruments/gad-7-vs-beck-anxiety-inventory/) (used to measure [anxiety](/discover-data/anxiety-datasets-and-studies/)), even when they are written in [different languages](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/). Harmony is [open source](/open-source-for-social-science/) under MIT License and is written in Python, and uses [HuggingFace Sentence Transformers](/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/) to find similarities between questionnaires. Harmony will soon allow researchers to discover datasets using a vector search.
 
 07:50pm - Break
 
@@ -81,7 +81,7 @@ Our session will explore the transformative potential of Generative AI, focusing
 
 * 11 and 12 September 2024: [Harmony at MethodsCon Futures](/ai-in-mental-health/harmony-at-methodscon-futures/
 ) in Manchester
-* 2 July 2024: [Harmony: NLP and generative models for psychology research](/psychology-ai-tool/pydata-meetup/)  at Pydata London
-* 3 June 2024: [Harmony Hackathon](/hackathon/) at UCL
+* 2 July 2024: [Harmony: NLP and generative models for psychology research](/open-source-for-social-science/pydata-meetup/)  at Pydata London
+* 3 June 2024: [Harmony Hackathon](/open-source-for-social-science/hackathon/) at UCL
 * 5 May 2024: [Harmony: A global platform for harmonisation, translation and cooperation in mental health](/ai-in-mental-health/harmony-at-lifecourse-seminar/) at  Melbourne Children’s LifeCourse Initiative seminar series.
 * 27 March 2024: [Harmony at AI Camp](/psychology-ai-tool/aicamp-meetup/)

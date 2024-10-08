@@ -15,7 +15,7 @@ One challenge researchers face when using the AIMS2 is the need to compare and h
 
 * [Validation and Harmonisation of Arthritis Impact Measurement Scales-2 (AIMS2)](/harmonisation-validation/arthritis-impact-measurement-scales-2-aims2)
 * [Validation and Harmonisation of Positive and Negative Syndrome Scale (PANSS)](/harmonisation-validation/positive-and-negative-syndrome-scale-panss)
-* [GAD-7 vs GHQ-12](/gad-7-vs-ghq-12)
+* [GAD-7 vs GHQ-12](/compare-harmonise-instruments/gad-7-vs-ghq-12/)
 
 Harmony is a software developed specifically for psychologists and social scientists, and it provides a solution for this challenge. Using natural language processing and generative AI models, Harmony can compare instruments and provide a percentage match between each item in the AIMS2 and other instruments. This allows researchers to easily identify and validate the matching variables between the AIMS2 and other instruments.
 

@@ -14,7 +14,7 @@ Harmony is a software tool specifically designed for psychologists and social sc
 Traditionally, harmonisation has been a time-consuming and subjective task. It involves going through long PDFs of questionnaires and manually inputting the questions into Excel or other software. This process can be tedious and prone to human error.
 
 * [Validation and Harmonisation of Quigley-Hein, Turesky Modification Index for Dental Plaque ](/harmonisation-validation/quigley-hein-turesky-modification-index-for-dental-plaque)
-* [CES-D vs Beck Anxiety Inventory](/ces-d-vs-beck-anxiety-inventory)
+* [CES-D vs Beck Anxiety Inventory](/compare-harmonise-instruments/ces-d-vs-beck-anxiety-inventory/)
 * [Validation and Harmonisation of Patient Health Questionnaire-9 (PHQ-9)](/harmonisation-validation/patient-health-questionnaire-9-phq-9)
 
 Harmony uses advanced natural language processing and generative AI models to help researchers harmonise questionnaire items, even if they are in different languages. This allows researchers to make full use of cohort and longitudinal studies by making comparisons both within and across studies.
@@ -39,5 +39,5 @@ Overall, Harmony is a valuable tool for data pooling and promoting data sharing 
 
 
 * [Validation and Harmonisation of Patient-reported Outcome Measure Information System (PROMIS) Anxiety subscale](/harmonisation-validation/patient-reported-outcome-measure-information-system-promis-anxiety-subscale)
-* [CES-D vs Beck Anxiety Inventory](/ces-d-vs-beck-anxiety-inventory)
+* [CES-D vs Beck Anxiety Inventory](/compare-harmonise-instruments/ces-d-vs-beck-anxiety-inventory/)
 * [Validation and Harmonisation of Physical Activity Scale for the Elderly (PASE)](/harmonisation-validation/physical-activity-scale-for-the-elderly-pase)

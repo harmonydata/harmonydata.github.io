@@ -44,7 +44,7 @@ Harmonisation methods in data science and healthcare research aim to standardize
 ### Ensuring Reliable Data for Algorithms
 
 #### Quality Over Quantity
-In the realm of data harmonisation, the emphasis on quality over quantity cannot be overstated. Accurate and reliable data is paramount for developing algorithms that are truly effective and can lead to meaningful insights and outcomes. The focus should be on ensuring that each data point collected and integrated into larger datasets meets a high standard of quality, as this will significantly impact the [performance](/measuring-the-performance-of-nlp-algorithms) of machine learning models and AI algorithms. Poor-quality data can lead to inaccurate predictions, biased outcomes, and ultimately, decisions that may not be in the best interest of patients or research objectives.
+In the realm of data harmonisation, the emphasis on quality over quantity cannot be overstated. Accurate and reliable data is paramount for developing algorithms that are truly effective and can lead to meaningful insights and outcomes. The focus should be on ensuring that each data point collected and integrated into larger datasets meets a high standard of quality, as this will significantly impact the [performance](/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/) of machine learning models and AI algorithms. Poor-quality data can lead to inaccurate predictions, biased outcomes, and ultimately, decisions that may not be in the best interest of patients or research objectives.
 
 
 #### Role of Machine Learning and AI
@@ -68,7 +68,7 @@ The Social Determinants of Health (SDOH) refer to the conditions in which people
 
 
 #### ONC Gravity Project
-The Office of the National Coordinator for Health Information Technology (ONC) Gravity Project is an initiative focused on developing consensus-driven standards for documenting, coding, and exchanging SDOH data within health records. By incorporating SDOH data into EHRs, the project aims to improve health outcomes by enabling healthcare providers to consider and address the broader social and environmental factors affecting their patients' health. The standards developed by the Gravity Project are expected to facilitate more holistic approaches to patient care and [contribute](/contributing-to-harmony) to advancing health equity by identifying and addressing the root causes of health disparities.
+The Office of the National Coordinator for Health Information Technology (ONC) Gravity Project is an initiative focused on developing consensus-driven standards for documenting, coding, and exchanging SDOH data within health records. By incorporating SDOH data into EHRs, the project aims to improve health outcomes by enabling healthcare providers to consider and address the broader social and environmental factors affecting their patients' health. The standards developed by the Gravity Project are expected to facilitate more holistic approaches to patient care and [contribute](/open-source-for-social-science/contributing-to-harmony-nlp-project/) to advancing health equity by identifying and addressing the root causes of health disparities.
 
 
 ---

@@ -15,7 +15,7 @@ The tool utilizes natural language processing (NLP) and generative AI models to 
 
 * [Validation and Harmonisation of Loe & Silness Gingival Index](/harmonisation-validation/loe-silness-gingival-index)
 * [Validation and Harmonisation of Alcohol Urges Questionnaire (AUQ)](/harmonisation-validation/alcohol-urges-questionnaire-auq)
-* [CES-D vs SDQ](/ces-d-vs-sdq)
+* [CES-D vs SDQ](/compare-harmonise-instruments/ces-d-vs-sdq/)
 
 One of the major benefits of using Harmony is that it allows for easy comparison of instruments in longitudinal studies. By repeating the same analysis across multiple studies, researchers can determine if the results are consistent or if they vary due to changing social conditions. This is important in order to make full use of cohort and longitudinal studies.
 
@@ -38,4 +38,4 @@ To use Harmony, simply visit their website at https://harmonydata.ac.uk/app and 
 
 * [Validation and Harmonisation of Hospital Anxiety and Depression Scale (HADS)](/harmonisation-validation/hospital-anxiety-and-depression-scale-hads)
 * [Validation and Harmonisation of Clinical Global Impression of Change (CGIC)](/harmonisation-validation/clinical-global-impression-of-change-cgic)
-* [GHQ-12 vs SDQ](/ghq-12-vs-sdq)
+* [GHQ-12 vs SDQ](/compare-harmonise-instruments/ghq-12-vs-sdq/)

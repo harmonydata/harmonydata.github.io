@@ -13,7 +13,7 @@ The Client Satisfaction Questionnaire (CSQ) is a measure used in psychology and 
 
 Harmony, a software developed for psychologists and social scientists, can help researchers validate and harmonise the CSQ with other instruments. 
 
-* [GHQ-12 vs SDQ](/ghq-12-vs-sdq)
+* [GHQ-12 vs SDQ](/compare-harmonise-instruments/ghq-12-vs-sdq/)
 * [Validation and Harmonisation of Pittsburgh Sleep Quality Index (PSQI)](/harmonisation-validation/pittsburgh-sleep-quality-index-psqi)
 * [Harmony: A Free AI Tool for Longitudinal Study](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study)
 

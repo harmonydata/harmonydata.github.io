@@ -28,8 +28,8 @@ Additionally, Harmony can help validate the NASA TLX Survey Index Scores by prov
 
 
 * [Validation and Harmonisation of AIM (Acceptability of Intervention Measure) score](/harmonisation-validation/aim-acceptability-of-intervention-measure-score)
-* [SDQ vs PHQ-9](/sdq-vs-phq-9)
-* [GAD-7 vs SDQ](/gad-7-vs-sdq)
+* [SDQ vs PHQ-9](/compare-harmonise-instruments/sdq-vs-phq-9/)
+* [GAD-7 vs SDQ](/compare-harmonise-instruments/gad-7-vs-sdq/)
 
 * {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of NASA TLX Survey Index Scores " title=" Validation and Harmonisation of NASA TLX Survey Index Scores " >}}
 

@@ -30,7 +30,7 @@ Overall, Harmony can aid in the process of validating and harmonising the Quigle
 
 
 
-* [GAD-7 vs Beck Anxiety Inventory](/gad-7-vs-beck-anxiety-inventory)
+* [GAD-7 vs Beck Anxiety Inventory](/compare-harmonise-instruments/gad-7-vs-beck-anxiety-inventory/)
 * [Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology)
 * [Validation and Harmonisation of Loe & Silness Gingival Index](/harmonisation-validation/loe-silness-gingival-index)
 * [Harmonisation and validation of instruments](/harmonisation-validation/)

@@ -6,7 +6,7 @@ title: Developer guide
 
 The preferred workflow for contributing to Harmony’s repository is to fork the [main repository](https://github.com/harmonydata/harmony/) on GitHub, clone, and develop on a new branch.
 
-Please read our general guide about [contributing to Harmony](/contributing-to-harmony/). 
+Please read our general guide about [contributing to Harmony](/open-source-for-social-science/contributing-to-harmony-nlp-project/). 
 
 We have three main repositories on Github under the `harmonydata` organisation:
 

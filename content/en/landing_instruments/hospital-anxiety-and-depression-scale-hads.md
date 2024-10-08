@@ -36,5 +36,5 @@ Overall, by using Harmony, researchers can easily compare the HADS with other in
 
 * [Validation and Harmonisation of Medical Outcomes Survey Sleep Quality Subscale](/harmonisation-validation/medical-outcomes-survey-sleep-quality-subscale)
 * [Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology)
-* [SDQ vs PHQ-9](/sdq-vs-phq-9)
+* [SDQ vs PHQ-9](/compare-harmonise-instruments/sdq-vs-phq-9/)
 * [Harmonisation and validation of instruments](/harmonisation-validation/)

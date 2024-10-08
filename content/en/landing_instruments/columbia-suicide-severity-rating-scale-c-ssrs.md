@@ -14,7 +14,7 @@ The Columbia-Suicide Severity Rating Scale (C-SSRS) is a semi-structured intervi
 Validation is an important aspect of instrument development and use. It refers to the degree to which an instrument measures what it is intended to measure. Researchers may want to validate the C-SSRS in order to determine if it accurately captures the construct of interest.
 
 * [Validation and Harmonisation of Young Mania Rating Scale (YMRS)](/harmonisation-validation/young-mania-rating-scale-ymrs)
-* [CES-D vs Beck Anxiety Inventory](/ces-d-vs-beck-anxiety-inventory)
+* [CES-D vs Beck Anxiety Inventory](/compare-harmonise-instruments/ces-d-vs-beck-anxiety-inventory/)
 * [Validation and Harmonisation of Oswestry Disability Index (ODI)](/harmonisation-validation/oswestry-disability-index-odi)
 
 Harmony, a software developed for psychologists, can assist researchers in the validation and harmonisation of the C-SSRS with other instruments. By using natural language processing and generative AI models, Harmony can compare items in the C-SSRS with those in other instruments and provide a percentage match. This can help researchers identify common variables and establish crosswalks between the C-SSRS and other instruments.

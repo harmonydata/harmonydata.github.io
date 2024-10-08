@@ -34,4 +34,4 @@ One of the unique features of Harmony is its ability to compare items in multipl
 
 * [Validation and Harmonisation of Comprehensive Psychopathological Rating Scale (CPRS)](/harmonisation-validation/comprehensive-psychopathological-rating-scale-cprs)
 * [Validation and Harmonisation of Pittsburgh Sleep Quality Index](/harmonisation-validation/pittsburgh-sleep-quality-index)
-* [GAD-7 vs SDQ](/gad-7-vs-sdq)
+* [GAD-7 vs SDQ](/compare-harmonise-instruments/gad-7-vs-sdq/)

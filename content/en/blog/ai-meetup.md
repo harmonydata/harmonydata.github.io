@@ -29,7 +29,7 @@ Date: **27 March 2024**
 
 {{< image src="/images/20240327-thomas-wood-ai-camp-harmony.jpg" alt="Thomas Wood presenting Harmony at AI Camp on 27 March 2024" title="Thomas Wood presenting Harmony at AI Camp on 27 March 2024" >}}
 
-Abstract: In this talk, Thomas will discuss [AI for social sciences research](/item-harmonisation/harmony-a-free-ai-tool-for-cross-cohort-research/) and how to build a research tool with NLP and AI with [open source tool Harmony](/how-can-i-contribute-to-an-open-source-project/), funded by [Wellcome Trust](https://wellcome.org) with [Social Finance](https://www.socialfinance.org.uk/) and developed with [Ulster University](https://ulster.ac.uk), [UCL](https://ucl.ac.uk) and [Universidade Federal de Santa Maria in Brazil](https://ufsm.br).
+Abstract: In this talk, Thomas will discuss [AI for social sciences research](/item-harmonisation/harmony-a-free-ai-tool-for-cross-cohort-research/) and how to build a research tool with NLP and AI with [open source tool Harmony](/open-source-for-social-science/), funded by [Wellcome Trust](https://wellcome.org) with [Social Finance](https://www.socialfinance.org.uk/) and developed with [Ulster University](https://ulster.ac.uk), [UCL](https://ucl.ac.uk) and [Universidade Federal de Santa Maria in Brazil](https://ufsm.br).
 
 {{< card heading="Attend" copy="Sign up on AICamp website" url="https://www.aicamp.ai/event/eventdetails/W2024032710" >}}
 
@@ -67,6 +67,6 @@ This follows on from the talk on Harmony given by Bettina Moltrecht, PhD last we
 * 8 October 2024: [Harmony: a free online tool using LLMs for research in psychology and social sciences](/psychology-ai-tool/aidl-meetup/)  at AI|DL London
 * 11 and 12 September 2024: [Harmony at MethodsCon Futures](/ai-in-mental-health/harmony-at-methodscon-futures/
 ) in Manchester
-* 2 July 2024: [Harmony: NLP and generative models for psychology research](/psychology-ai-tool/pydata-meetup/)  at Pydata London
-* 3 June 2024: [Harmony Hackathon](/hackathon/) at UCL
+* 2 July 2024: [Harmony: NLP and generative models for psychology research](/open-source-for-social-science/pydata-meetup/)  at Pydata London
+* 3 June 2024: [Harmony Hackathon](/open-source-for-social-science/hackathon/) at UCL
 * 5 May 2024: [Harmony: A global platform for harmonisation, translation and cooperation in mental health](/ai-in-mental-health/harmony-at-lifecourse-seminar/) at  Melbourne Children’s LifeCourse Initiative seminar series.

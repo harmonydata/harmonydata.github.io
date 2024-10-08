@@ -13,8 +13,8 @@ Harmony is a revolutionary software developed specifically for psychologists and
 
 What is harmonisation, you might ask? It refers to the process of matching items from different questionnaires, such as determining if "I often feel anxious" in one questionnaire is equivalent to "Feeling nervous, anxious or afraid" in another questionnaire. This task is often time-consuming and subject to human error, making it a tedious and daunting task for researchers.
 
-* [CES-D vs GAD-7](/ces-d-vs-gad-7)
-* [CES-D vs PHQ-9](/ces-d-vs-phq-9)
+* [CES-D vs GAD-7](/compare-harmonise-instruments/ces-d-vs-gad-7/)
+* [CES-D vs PHQ-9](/compare-harmonise-instruments/ces-d-vs-phq-9/)
 * [Validation and Harmonisation of Quigley-Hein, Turesky Modification Index for Dental Plaque ](/harmonisation-validation/quigley-hein-turesky-modification-index-for-dental-plaque)
 
 Harmony utilizes cutting-edge natural language processing and generative AI models to help researchers harmonise questionnaire items, even if they are in different languages. This means that with Harmony, researchers can easily compare instruments from different studies and languages, allowing for greater cross-cohort research.

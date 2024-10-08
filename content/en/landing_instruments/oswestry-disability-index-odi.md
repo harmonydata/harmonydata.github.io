@@ -13,7 +13,7 @@ The Oswestry Disability Index (ODI) is a widely used questionnaire for measuring
 
 Validating the ODI is important in order to ensure its reliability and accuracy in measuring the change in pain and function. This is where Harmony can be helpful for researchers.
 
-* [PHQ-9 vs Beck Anxiety Inventory](/phq-9-vs-beck-anxiety-inventory)
+* [PHQ-9 vs Beck Anxiety Inventory](/compare-harmonise-instruments/phq-9-vs-beck-anxiety-inventory/)
 * [Validation and Harmonisation of Bristol Stool Scale](/harmonisation-validation/bristol-stool-scale)
 * [Validation and Harmonisation of Medical Outcomes Survey Sleep Quality Subscale](/harmonisation-validation/medical-outcomes-survey-sleep-quality-subscale)
 

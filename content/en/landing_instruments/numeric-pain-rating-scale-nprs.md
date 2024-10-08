@@ -14,8 +14,8 @@ The Numeric Pain Rating Scale (NPRS) is a commonly used instrument in the field 
 When using the NPRS, researchers may want to validate its effectiveness in measuring changes in pain over time. This is known as validity. However, comparing the results of the NPRS to other measures can be time-consuming and tedious.
 
 * [Validation and Harmonisation of AIM (Acceptability of Intervention Measure) score](/harmonisation-validation/aim-acceptability-of-intervention-measure-score)
-* [SDQ vs PHQ-9](/sdq-vs-phq-9)
-* [GAD-7 vs SDQ](/gad-7-vs-sdq)
+* [SDQ vs PHQ-9](/compare-harmonise-instruments/sdq-vs-phq-9/)
+* [GAD-7 vs SDQ](/compare-harmonise-instruments/gad-7-vs-sdq/)
 
 This is where Harmony can help. Using natural language processing and AI, Harmony can quickly and accurately compare the NPRS to other instruments and establish crosswalks between them. This allows researchers to easily harmonise the NPRS with other measures, saving them time and effort.
 

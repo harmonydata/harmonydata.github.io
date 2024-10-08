@@ -15,7 +15,7 @@ Harmony, as a tool for harmonisation, can assist researchers in validating the C
 
 * [Validation and Harmonisation of Columbia-Suicide Severity Rating Scale (C-SSRS)](/harmonisation-validation/columbia-suicide-severity-rating-scale-c-ssrs)
 * [Validation and Harmonisation of Clinician-Administered PTSD Scale (CAPS)](/harmonisation-validation/clinician-administered-ptsd-scale-caps)
-* [CES-D vs SDQ](/ces-d-vs-sdq)
+* [CES-D vs SDQ](/compare-harmonise-instruments/ces-d-vs-sdq/)
 
 1. Database of Instruments: Harmony has a database of instruments where researchers can select the CLUE and other instruments they want to compare. This makes it easier for researchers to find and select the relevant instruments for their study.
 

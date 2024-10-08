@@ -63,13 +63,13 @@ You can try finding [projects on Kaggle](/open-source-for-social-science/kaggle/
 
 ## How can I contribute to Harmony?
 
-Read our [guide to contributing to Harmony](/contributing-to-harmony/).
+Read our [guide to contributing to Harmony](/open-source-for-social-science/contributing-to-harmony-nlp-project/).
 
 Harmony is a powerful [data harmonisation tool](/data-harmonisation/) which uses [natural language processing](https://naturallanguageprocessing.com/) (NLP) to [bridge the gap between diverse research studies](/ai-in-mental-health/ppie-for-secondary-data-analysis/), automatically comparing and grouping similar items across datasets.  Here are a few ways you can get involved in the project:
 
 ### 1. Get coding
 
-Harmony's back end is built in Python and the front end is in React. There is also an [R library](/harmony-r-notebook-r-markdown-example/). Whether you're a seasoned developer or a coding newbie, there's a place for you. You can:
+Harmony's back end is built in Python and the front end is in React. There is also an [R library](/open-source-for-social-science/harmony-r-notebook-r-markdown-example/). Whether you're a seasoned developer or a coding newbie, there's a place for you. You can:
 
 * [Browse open issues and pull requests](https://github.com/harmonydata/harmony/issues) and find a challenge that sparks your interest and contribute your unique skills.
 * **Help maintain the existing code:** [Fix bugs](/open-source-for-social-science/harmony-update-new-features-and-bug-fixes/), improve documentation, and suggest optimisations.

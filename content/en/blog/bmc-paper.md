@@ -23,13 +23,13 @@ We are pleased to announce the publication of a paper validating Harmony on real
 
 ## Summary of the Harmony real-world validation study
 
-Our study aimed to evaluate the effectiveness of Natural Language Processing (NLP) in [harmonising mental health questionnaires](/ces-d-vs-gad-7/) for cross-study research in areas such as [mental health](/ai-in-mental-health/).
+Our study aimed to evaluate the effectiveness of Natural Language Processing (NLP) in [harmonising mental health questionnaires](/compare-harmonise-instruments/ces-d-vs-gad-7/) for cross-study research in areas such as [mental health](/ai-in-mental-health/).
 
-By comparing the semantic similarity of questionnaire items using NLP (the [Sentence-BERT transformer model](/measuring-the-performance-of-nlp-algorithms/)) with their actual correlation in a sample population, we found a moderate relationship (*r* = .48, *p* < .001) between the two measures. This suggests that NLP can accurately identify similar questions across different questionnaires. 
+By comparing the semantic similarity of questionnaire items using NLP (the [Sentence-BERT transformer model](/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/)) with their actual correlation in a sample population, we found a moderate relationship (*r* = .48, *p* < .001) between the two measures. This suggests that NLP can accurately identify similar questions across different questionnaires. 
 
 While the NLP model showed promise in uncovering underlying patterns in the data, it required manual intervention to determine which relationships were truly relevant. 
 
-Our study showed that NLP can be a useful tool to match [similar questions from different questionnaires](/data-harmonisation/find-matching-and-common-items-in-questionnaires-and-surveys/), but it's not perfect and should be used with caution.
+Our study showed that NLP can be a useful tool to match [similar questions from different questionnaires](/item-harmonisation/find-matching-and-common-items-in-questionnaires-and-surveys/), but it's not perfect and should be used with caution.
 
 ## Citing the BMC validation paper
 

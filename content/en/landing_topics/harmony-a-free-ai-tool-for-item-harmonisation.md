@@ -15,7 +15,7 @@ One of the key features of Harmony is its ability to match items from various qu
 
 * [Validation and Harmonisation of Insomnia Severity Index (ISI)](/harmonisation-validation/insomnia-severity-index-isi)
 * [Validation and Harmonisation of Montgomery Asberg Depression Rating Scale (MADRS)](/harmonisation-validation/montgomery-asberg-depression-rating-scale-madrs)
-* [GHQ-12 vs PHQ-9](/ghq-12-vs-phq-9)
+* [GHQ-12 vs PHQ-9](/compare-harmonise-instruments/ghq-12-vs-phq-9/)
 
 In addition to the built-in database of instruments, Harmony also allows researchers to upload their own instruments in PDF form through its user-friendly web interface at https://harmonydata.ac.uk/app. This gives users the flexibility to use their preferred instruments and seamlessly integrate them into their study.
 

@@ -38,5 +38,5 @@ In summary, Harmony can assist researchers in both validating and harmonising th
 
 * [Validation and Harmonisation of Hamilton depression rating scale](/harmonisation-validation/hamilton-depression-rating-scale)
 * [Validation and Harmonisation of PROMIS-29 v2.0 questionnaire](/harmonisation-validation/promis-29-v2-0-questionnaire)
-* [PHQ-9 vs Beck Anxiety Inventory](/phq-9-vs-beck-anxiety-inventory)
+* [PHQ-9 vs Beck Anxiety Inventory](/compare-harmonise-instruments/phq-9-vs-beck-anxiety-inventory/)
 * [Harmonisation and validation of instruments](/harmonisation-validation/)

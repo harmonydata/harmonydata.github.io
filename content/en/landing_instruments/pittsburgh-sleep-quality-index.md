@@ -13,7 +13,7 @@ The Pittsburgh Sleep Quality Index (PSQI) is a widely used questionnaire measure
 
 Harmony can be a useful tool for researchers who are looking to validate the PSQI or compare it with other sleep quality instruments. Through its advanced natural language processing algorithms, Harmony can identify and compare similar items between the PSQI and other instruments, allowing researchers to establish crosswalks and determine the degree of similarity or differences between them. 
 
-* [GHQ-12 vs SDQ](/ghq-12-vs-sdq)
+* [GHQ-12 vs SDQ](/compare-harmonise-instruments/ghq-12-vs-sdq/)
 * [Validation and Harmonisation of Patient Global Impression of Change (PGIC)](/harmonisation-validation/patient-global-impression-of-change-pgic)
 * [Validation and Harmonisation of SIRS scale (Systemic Inflammatory Response Syndrome)](/harmonisation-validation/sirs-scale-systemic-inflammatory-response-syndrome)
 

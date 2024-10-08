@@ -13,7 +13,7 @@ The Patient-reported Outcome Measure Information System (PROMIS) Anxiety subscal
 
 Harmony can assist researchers in validating the PROMIS Anxiety subscale by comparing it with other well-established instruments for anxiety, such as the Generalized Anxiety Disorder-7 (GAD-7) and the Patient Health Questionnaire-9 (PHQ-9). By using Harmony's natural language processing and AI models, researchers can compare the items in the PROMIS Anxiety subscale with those in the GAD-7 and PHQ-9 to determine their level of similarity and validity.
 
-* [CES-D vs SDQ](/ces-d-vs-sdq)
+* [CES-D vs SDQ](/compare-harmonise-instruments/ces-d-vs-sdq/)
 * [Validation and Harmonisation of Loe & Silness Gingival Index](/harmonisation-validation/loe-silness-gingival-index)
 * [Validation and Harmonisation of Patient-reported Outcome Measure Information System (PROMIS) Anxiety subscale](/harmonisation-validation/patient-reported-outcome-measure-information-system-promis-anxiety-subscale)
 
@@ -32,7 +32,7 @@ By using Harmony, researchers can save time and resources in the process of vali
 
 
 
-* [CES-D vs GHQ-12](/ces-d-vs-ghq-12)
+* [CES-D vs GHQ-12](/compare-harmonise-instruments/ces-d-vs-ghq-12/)
 * [Validation and Harmonisation of Beck Depression Inventory-II (BDI-II)](/harmonisation-validation/beck-depression-inventory-ii-bdi-ii)
 * [Validation and Harmonisation of Penn Alcohol Craving Scale (PACS)](/harmonisation-validation/penn-alcohol-craving-scale-pacs)
 * [Harmonisation and validation of instruments](/harmonisation-validation/)

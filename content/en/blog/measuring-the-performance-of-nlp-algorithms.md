@@ -11,7 +11,7 @@ aliases:
 url: "/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/"
 ---
 
-_Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: childhood **84%**, adulthood **80%**. Harmony was able to match the questions of the English and Portuguese [GAD-7](https://adaa.org/sites/default/files/GAD-7_Anxiety-updated_0.pdf) instruments with AUC **100%** and the Portuguese [CBCL](https://www.apa.org/depression-guideline/child-behavior-checklist.pdf) and [SDQ](/ces-d-vs-sdq) with AUC **89%**. Harmony was also evaluated using a variety of transformer models including MentalBERT, a publicly available pretrained language model for the mental [healthcare](https://fastdatascience.com/the-use-of-ai-in-healthcare) domain._
+_Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: childhood **84%**, adulthood **80%**. Harmony was able to match the questions of the English and Portuguese [GAD-7](https://adaa.org/sites/default/files/GAD-7_Anxiety-updated_0.pdf) instruments with AUC **100%** and the Portuguese [CBCL](https://www.apa.org/depression-guideline/child-behavior-checklist.pdf) and [SDQ](/compare-harmonise-instruments/ces-d-vs-sdq/) with AUC **89%**. Harmony was also evaluated using a variety of transformer models including MentalBERT, a publicly available pretrained language model for the mental [healthcare](https://fastdatascience.com/the-use-of-ai-in-healthcare) domain._
 
 The content of this blog post has been written up as a [preprint for publication on OSF](https://osf.io/9x5ej).
 
@@ -39,9 +39,9 @@ The existing tool by McElroy et al has a section for adult mental health questio
 
 ### Can Harmony match text in different languages?
 
-In order to test Harmony’s multilingual capabilities, I also added the seven questions of the [GAD-7](/gad-7-vs-ghq-12) in English and Portuguese. If Harmony was able to correctly match all seven questions, this shows how Harmony can handle multilingual text.
+In order to test Harmony’s multilingual capabilities, I also added the seven questions of the [GAD-7](/compare-harmonise-instruments/gad-7-vs-ghq-12/) in English and Portuguese. If Harmony was able to correctly match all seven questions, this shows how Harmony can handle multilingual text.
 
-Finally, I included a similar Portuguese-only harmonisation tool listing commonalities between the [SDQ](/ghq-12-vs-sdq) (Strengths and Difficulties Questionnaire) and CBCL (The Child Behavior Checklist) compiled by Hoffmann et al to validate the Portuguese monolingual performance.
+Finally, I included a similar Portuguese-only harmonisation tool listing commonalities between the [SDQ](/compare-harmonise-instruments/ghq-12-vs-sdq/) (Strengths and Difficulties Questionnaire) and CBCL (The Child Behavior Checklist) compiled by Hoffmann et al to validate the Portuguese monolingual performance.
 
 ### Overview of the validation dataset
 
@@ -51,8 +51,8 @@ The [validation](/harmonisation-validation/positive-and-negative-syndrome-scale-
 | -------------------------------- | --------------------- | ------------------------------------------ |
 | Childhood McElroy et al          | 47                    | 23                                         |
 | Adulthood McElroy et al          | 28                    | 16                                         |
-| [GAD-7](/ces-d-vs-gad-7) English vs Portuguese      | 2                     | 7                                          |
-| BHRCS [SDQ](/sdq-vs-phq-9)/CBCL (Portuguese only) | 2                     | 73                                         |
+| [GAD-7](/compare-harmonise-instruments/ces-d-vs-gad-7/) English vs Portuguese      | 2                     | 7                                          |
+| BHRCS [SDQ](/compare-harmonise-instruments/sdq-vs-phq-9/)/CBCL (Portuguese only) | 2                     | 73                                         |
 
 Breakdown of my validation dataset
 
@@ -60,11 +60,11 @@ Breakdown of my validation dataset
 
 Since Harmony’s task can be seen as a binary classification (each pair of questions should be matched or should not be matched), one metric to measure Harmony’s performance is the Receiver Operating Characteristic curve (ROC) and the Area Under the Curve (AUC).
 
-For example, for the [GAD-7](/gad-7-vs-sdq) English vs Portuguese dataset contains 7×7 = 49 potential matches. 7 of these are positives (Q1 in the Portuguese [GAD-7](/gad-7-vs-phq-9) is equivalent to Q1 in the English), while 42 are negatives (any cross-pairing of questions).
+For example, for the [GAD-7](/compare-harmonise-instruments/gad-7-vs-sdq/) English vs Portuguese dataset contains 7×7 = 49 potential matches. 7 of these are positives (Q1 in the Portuguese [GAD-7](/compare-harmonise-instruments/gad-7-vs-phq-9/) is equivalent to Q1 in the English), while 42 are negatives (any cross-pairing of questions).
 
 ## Comparing versions of Harmony
 
-In the process of developing Harmony, it was not immediately apparent which technology should be used. Before trying cutting-edge technology such as neural networks, it was necessary to establish a baseline for performance using a simpler tool such as a bag-of-words model (see my [earlier blog post](/how-does-harmony-work/) for an explanation of the technologies explored in this post).
+In the process of developing Harmony, it was not immediately apparent which technology should be used. Before trying cutting-edge technology such as neural networks, it was necessary to establish a baseline for performance using a simpler tool such as a bag-of-words model (see my [earlier blog post](/nlp-semantic-text-matching/how-does-harmony-work/) for an explanation of the technologies explored in this post).
 
 I tested the following candidate models:
 
@@ -108,7 +108,7 @@ Overall, the smallest spaCy English and Portuguese models performed worse than t
 
 This is to be expected, as we would not expect the English and Portuguese word vectors to be at all equivalent.
 
-I then tried the large spaCy model, using the English version for both [languages](/harmony-supports-over-8-languages). This performed marginally better.
+I then tried the large spaCy model, using the English version for both [languages](/psychology-ai-tool/harmony-many-languages/). This performed marginally better.
 
 {{< image src="images/blog/Model-4-1536x1303.png" alt="Model 4" >}}
 
@@ -117,7 +117,7 @@ I then tried the large spaCy model, using the English version for both [language
 
 The state-of-the-art in [natural language processing](https://naturallanguageprocessing.com/) is currently transformer models. Like the word vector approaches above, transformers convert sentences into vector representations, allowing us to use geometrical similarity and distance measures to quantify semantic similarity.
 
-I used the software package HuggingFace with the multilingual [Sentence-BERT model](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2), which is an [implementation](/harmony-going-forward-5-things-implementation-science-has-taught-us-to-focus-on) of BERT that is designed to generate semantically meaningful sentence embeddings which can be compared using cosine similarity.
+I used the software package HuggingFace with the multilingual [Sentence-BERT model](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2), which is an [implementation](/ai-in-mental-health/harmony-going-forward/) of BERT that is designed to generate semantically meaningful sentence embeddings which can be compared using cosine similarity.
 
 {{< image src="images/blog/Model-50Adistiluse-base-multilingual-cased-v2-1536x1355.png" alt="Model 50 Adistiluse base multilingual cased" >}}
 
@@ -205,7 +205,7 @@ It is clear that it is possible to adapt an algorithm such as Tf\*Idf similarity
 
 I have not attempted to validate the last model’s ability to recognise antonyms. If you [try Harmony in the web interface](https://harmonydata.ac.uk/app/), you will see that [items](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study-in-psychology) which are predicted to be opposite senses (_child fights frequently_ vs _child rarely fights_) are tagged with red lines. Since the existing harmonisation tool does not contain this information, I was unable to validate antonym recognition. Further work is needed in this area.
 
-Future work could involve training a natural language processing algorithm on the existing harmonisation tools, in order to reproduce their performance. An interesting future direction would be to train Harmony to reproduce the patterns found in factor analysis, which are derived from numerical [survey](/combining-multiple-survey-sources-best-practices/) data.
+Future work could involve training a natural language processing algorithm on the existing harmonisation tools, in order to reproduce their performance. An interesting future direction would be to train Harmony to reproduce the patterns found in factor analysis, which are derived from numerical [survey](/data-harmonisation/combine-multiple-survey-sources-best-practices/) data.
 
 ## References
 

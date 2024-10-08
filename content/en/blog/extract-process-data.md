@@ -21,7 +21,7 @@ Let's go through these strategies together. Get ready to turn challenges into ch
 
 ## Data Extraction
 
-Pulling [data from questionnaires](/data-harmonisation/find-matching-and-common-items-in-questionnaires-and-surveys/) is an important step in transforming the gathered responses into actionable insights. This involves handling both structured and unstructured data.
+Pulling [data from questionnaires](/item-harmonisation/find-matching-and-common-items-in-questionnaires-and-surveys/) is an important step in transforming the gathered responses into actionable insights. This involves handling both structured and unstructured data.
 
 ### Structured vs unstructured data
 

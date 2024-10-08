@@ -15,7 +15,7 @@ With the help of Harmony, researchers can validate the PACS and compare it with 
 
 * [Validation and Harmonisation of Patient-reported Outcome Measure Information System (PROMIS) Anxiety subscale](/harmonisation-validation/patient-reported-outcome-measure-information-system-promis-anxiety-subscale)
 * [Validation and Harmonisation of Clinician Administered PTSD Scale (CAPS)](/harmonisation-validation/clinician-administered-ptsd-scale-caps)
-* [CES-D vs GHQ-12](/ces-d-vs-ghq-12)
+* [CES-D vs GHQ-12](/compare-harmonise-instruments/ces-d-vs-ghq-12/)
 
 Harmony's natural language processing and AI models can also identify any discrepancies or overlaps between the PACS and other instruments. This can help researchers to refine and improve the PACS, and potentially create a more effective measurement tool for assessing alcohol craving.
 

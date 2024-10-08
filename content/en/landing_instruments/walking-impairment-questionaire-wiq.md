@@ -13,9 +13,9 @@ The Walking Impairment Questionnaire (WIQ) is a disease-specific instrument used
 
 Harmony can play a crucial role in the validation and harmonisation of the WIQ with other instruments. As mentioned before, validation is the process of determining the degree to which an instrument accurately measures what it is intended to measure. In the case of the WIQ, this means assessing whether it accurately measures walking ability in patients with PAD and/or intermittent claudication.
 
-* [CES-D vs GAD-7](/ces-d-vs-gad-7)
+* [CES-D vs GAD-7](/compare-harmonise-instruments/ces-d-vs-gad-7/)
 * [Validation and Harmonisation of Berg Balance Scale](/harmonisation-validation/berg-balance-scale)
-* [GAD-7 vs PHQ-9](/gad-7-vs-phq-9)
+* [GAD-7 vs PHQ-9](/compare-harmonise-instruments/gad-7-vs-phq-9/)
 
 Harmony can help with this by comparing the items in the WIQ with items in other instruments commonly used to measure walking ability, such as the 6-minute walk test or the Timed Up and Go test. By using its large language models, Harmony can identify the level of match between the WIQ items and the items in these other instruments. This can provide valuable information on the validity of the WIQ and its ability to accurately measure walking ability.
 
@@ -35,6 +35,6 @@ In summary, Harmony can aid researchers in the validation and harmonisation of t
 
 
 * [Validation and Harmonisation of Hospital Anxiety and Depression Scale (HADS)](/harmonisation-validation/hospital-anxiety-and-depression-scale-hads)
-* [GAD-7 vs PHQ-9](/gad-7-vs-phq-9)
+* [GAD-7 vs PHQ-9](/compare-harmonise-instruments/gad-7-vs-phq-9/)
 * [Validation and Harmonisation of Patient Health Questionnaire-9 (PHQ-9)](/harmonisation-validation/patient-health-questionnaire-9-phq-9)
 * [Harmonisation and validation of instruments](/harmonisation-validation/)

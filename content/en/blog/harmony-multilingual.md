@@ -42,7 +42,7 @@ Harmony is easy to use and accessible online. You can upload your own questionna
 
 By supporting [multiple languages](https://fastdatascience.com/multilingual-natural-language-processing/), Harmony can also help you reach a wider audience and collaborate with researchers from different countries and cultures. Harmony is constantly being updated and improved to provide you with the best service possible. 
 
-If you are interested in using Harmony or learning more about it, please visit [the Harmony website](https://harmonydata.ac.uk) or [contact us](/contact). We would love to hear from you and [get your feedback](/psychology-ai-tool/what-features-would-you-like-to-see-in-harmony/) on our [tool](/psychology-ai-tool/). 
+If you are interested in using Harmony or learning more about it, please visit [the Harmony website](https://harmonydata.ac.uk) or [contact us](/contact). We would love to hear from you and [get your feedback](/open-source-for-social-science/what-features-would-you-like-to-see-in-harmony/) on our [tool](/psychology-ai-tool/). 
 
 {{< image src="images/reiwa.svg" alt="Reiwa in Japanese" title="Reiwa in Japanese" >}}
 

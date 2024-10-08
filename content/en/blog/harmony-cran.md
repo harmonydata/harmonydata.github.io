@@ -14,7 +14,7 @@ url: "/open-source-for-social-science/harmony-cran/"
 
 We are excited to announce that Harmony, an [open source](/open-source-for-social-science/) Natural Language Processing tool for data harmonisation, is now available on the Comprehensive R Archive Network [CRAN](https://cran.r-project.org/)!
 
-Previously, [Harmony R](/harmony-r-released/) could be installed using [devtools](https://www.r-project.org/nosvn/pandoc/devtools.html).
+Previously, [Harmony R](/open-source-for-social-science/harmony-r-package/) could be installed using [devtools](https://www.r-project.org/nosvn/pandoc/devtools.html).
 
 Harmony can be used to compare questionnaire items across studies, find the best match for a set of items, and identify different versions of the same questionnaire. Harmony is a collaboration project between [Ulster University](https://ulster.ac.uk), [University College London](https://ucl.ac.uk), the [Universidade Federal de Santa Maria](https://ufsm.br), and [Fast Data Science](https://fastdatascience.com/harmony-wellcome-data-prize/). It has been funded by Wellcome as part of the [Wellcome Data Prize](https://wellcome.org/what-we-do/data-science-and-health-trustworthy-data-science/wellcome-data-prizes) in [Mental Health](/ai-in-mental-health/), as well as UKRI.
 

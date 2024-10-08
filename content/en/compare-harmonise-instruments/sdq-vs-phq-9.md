@@ -58,5 +58,5 @@ Start your journey with Harmony today at https://harmonydata.ac.uk/app. Let Harm
 * [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
 * [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)
 * [Validation and Harmonisation of Sheehan Disability Scale (SDS)](/harmonisation-validation/sheehan-disability-scale-sds)
-* [GAD-7 vs SDQ](/gad-7-vs-sdq)
+* [GAD-7 vs SDQ](/compare-harmonise-instruments/gad-7-vs-sdq/)
 * [Validation and Harmonisation of AIM (Acceptability of Intervention Measure) score](/harmonisation-validation/aim-acceptability-of-intervention-measure-score)

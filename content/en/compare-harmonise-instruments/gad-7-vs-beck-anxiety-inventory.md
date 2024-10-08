@@ -49,7 +49,7 @@ However, accurately comparing these two instruments can be intricate, subjective
 
 
 
-Harmony is a groundbreaking software developed for those in psychology and social science fields. This unique tool makes use of natural language processing and generative AI models to efficiently and effectively [harmonise and compare questionnaire items](/data-harmonisation/find-matching-and-common-items-in-questionnaires-and-surveys/). The comparison process becomes even more complex when the questionnaires are in [different languages](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/), but with Harmony, this is no longer an issue.
+Harmony is a groundbreaking software developed for those in psychology and social science fields. This unique tool makes use of natural language processing and generative AI models to efficiently and effectively [harmonise and compare questionnaire items](/item-harmonisation/find-matching-and-common-items-in-questionnaires-and-surveys/). The comparison process becomes even more complex when the questionnaires are in [different languages](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/), but with Harmony, this is no longer an issue.
 
 Let's think about the comparison of GAD-7 vs Beck Anxiety Inventory. GAD-7, a seven-item instrument, assesses the severity of generalised anxiety disorder (GAD) based on the individual's symptoms over the past two weeks. On the other hand, the Beck Anxiety Inventory is a 21-question self-report inventory measuring common somatic and cognitive symptoms of anxiety over the past week.
 
@@ -68,9 +68,9 @@ No more sifting through long PDFs of questionnaires or manually entering questio
 * [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)
 * [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
 * [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)
-* [GAD-7 vs GHQ-12](/gad-7-vs-ghq-12)
+* [GAD-7 vs GHQ-12](/compare-harmonise-instruments/gad-7-vs-ghq-12/)
 * [Validation and Harmonisation of Beck Depression Inventory-II (BDI-II)](/harmonisation-validation/beck-depression-inventory-ii-bdi-ii)
-* [PHQ-9 vs Beck Anxiety Inventory](/phq-9-vs-beck-anxiety-inventory)
+* [PHQ-9 vs Beck Anxiety Inventory](/compare-harmonise-instruments/phq-9-vs-beck-anxiety-inventory/)
 
 * [Download Beck Anxiety Inventory in PDF form](https://res.cloudinary.com/dpmykpsih/image/upload/great-plains-health-site-358/media/1087/anxiety.pdf)
 

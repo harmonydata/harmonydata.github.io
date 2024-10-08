@@ -13,7 +13,7 @@ Harmony is a powerful software designed specifically for psychologists and socia
 
 One of the key features of Harmony is its natural language processing and generative AI models, which are used to compare items in different questionnaires. This can be especially helpful when working with studies in different languages, as Harmony can automatically match similar items and give a percentage match for each one. This ensures consistency and accuracy in comparison across studies.
 
-* [GAD-7 vs Beck Anxiety Inventory](/gad-7-vs-beck-anxiety-inventory)
+* [GAD-7 vs Beck Anxiety Inventory](/compare-harmonise-instruments/gad-7-vs-beck-anxiety-inventory/)
 * [Harmony: A Free AI Tool for Data Pooling](/item-harmonisation/harmony-a-free-ai-tool-for-data-pooling)
 * [Validation and Harmonisation of Beck Depression Inventory-II (BDI-II)](/harmonisation-validation/beck-depression-inventory-ii-bdi-ii)
 

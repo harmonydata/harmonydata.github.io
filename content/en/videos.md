@@ -20,7 +20,7 @@ Key points from the video
 * The tool parses questionnaire items from PDFs and allows psychologists to export the data as Excel.
 * Key areas needing help:
     * **PDF processing:** Extracting text from PDFs is currently challenging.
-    * See Kaggle competition for PDF data extraction: [https://harmonydata.ac.uk/kaggle](https://harmonydata.ac.uk/kaggle)
+    * See [Kaggle competition for PDF data extraction](/open-source-for-social-science/kaggle/)
 * Ways to contribute:
     * Fork the code on GitHub (3 repositories: library, API, front-end).
     * Add a new feature (e.g., GPT support).
@@ -30,8 +30,8 @@ Key points from the video
     * Website: harmonydata.ac.uk
     * GitHub: [https://github.com/harmonydata/harmony](https://github.com/harmonydata/harmony)
     * Discord: [https://discord.gg/harmonydata](https://discord.gg/harmonydata)
-    * Ideas list: [https://harmonydata.ac.uk/ideas](https://harmonydata.ac.uk/ideas)
-    * Kaggle competition: [https://harmonydata.ac.uk/kaggle](https://harmonydata.ac.uk/kaggle)
+    * [Ideas list](/ideas/)
+    * [Kaggle competition for PDF data extraction](/open-source-for-social-science/kaggle/)
 
 * The video includes a demonstration of the tool and the contribution process.
 * The team welcomes any ideas and contributions from the community.
@@ -40,7 +40,7 @@ Key points from the video
 
 {{< youtube hFqg6T_BqZc >}}
 
-[Click here to download an example notebook in R markdown](/harmony-r-notebook-r-markdown-example/).
+[Click here to download an example notebook in R markdown](/open-source-for-social-science/harmony-r-notebook-r-markdown-example/).
 
 * Launch a web browser and go to the CRAN website.
 
@@ -138,7 +138,7 @@ Here are some of the key features of Harmony:
 
 **Summary**
 
-This video is about how to install and use Harmony, a tool for [harmonising](https://harmonydata.ac.uk/back-to-the-future-retrospectively-harmonising-questionnaire-data) and comparing questionnaires and instruments. The video starts by explaining what Harmony is and how it can be used. Then, the video walks through the steps of installing Harmony, including installing Python, Anaconda, Tika, and Java. Once Harmony is installed, the video shows how to use it to match questionnaires. The video also shows how to download an instrument from a PDF and how to work with a [multilingual](https://fastdatascience.com/multilingual-natural-language-processing/) model.
+This video is about how to install and use Harmony, a tool for [harmonising](/data-harmonisation/back-to-the-future-retrospectively-harmonising-questionnaire-data/) and comparing questionnaires and instruments. The video starts by explaining what Harmony is and how it can be used. Then, the video walks through the steps of installing Harmony, including installing Python, Anaconda, Tika, and Java. Once Harmony is installed, the video shows how to use it to match questionnaires. The video also shows how to download an instrument from a PDF and how to work with a [multilingual](https://fastdatascience.com/multilingual-natural-language-processing/) model.
 
 Here are some of the key points from the video:
 
@@ -155,7 +155,7 @@ Here are some of the specific steps that are shown in the video:
 * Installing Tika and Java.
 * Downloading Harmony.
 * Loading example instruments.
-* [Matching](https://harmonydata.ac.uk/semantic-text-matching-with-deep-learning-transformer-models) questionnaires.
+* [Matching](/nlp-semantic-text-matching/) questionnaires.
 * Downloading an instrument from a PDF.
 * Working with a multilingual model.
   

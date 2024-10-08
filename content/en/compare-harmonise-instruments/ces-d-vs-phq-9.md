@@ -56,7 +56,7 @@ It provides a percentage match between each item, helping researchers harmonise 
 * [Harmonisation of alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
 * [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)
 * [Validation and Harmonisation of Montgomery Asberg Depression Rating Scale](/harmonisation-validation/montgomery-asberg-depression-rating-scale)
-* [GAD-7 vs Beck Anxiety Inventory](/gad-7-vs-beck-anxiety-inventory)
+* [GAD-7 vs Beck Anxiety Inventory](/compare-harmonise-instruments/gad-7-vs-beck-anxiety-inventory/)
 * [Validation and Harmonisation of Insomnia Severity Index (ISI)](/harmonisation-validation/insomnia-severity-index-isi)
 
 

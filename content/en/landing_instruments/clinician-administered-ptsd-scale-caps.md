@@ -14,7 +14,7 @@ The Clinician Administered PTSD Scale (CAPS) is a structured clinical interview 
 Harmony can assist researchers in two important ways when it comes to the CAPS: validation and harmonisation.
 
 * [Validation and Harmonisation of Penn Alcohol Craving Scale (PACS)](/harmonisation-validation/penn-alcohol-craving-scale-pacs)
-* [GAD-7 vs PHQ-9](/gad-7-vs-phq-9)
+* [GAD-7 vs PHQ-9](/compare-harmonise-instruments/gad-7-vs-phq-9/)
 * [Validation and Harmonisation of Quickley-Hein plaque index (PI)](/harmonisation-validation/quickley-hein-plaque-index-pi)
 
 ## Validation

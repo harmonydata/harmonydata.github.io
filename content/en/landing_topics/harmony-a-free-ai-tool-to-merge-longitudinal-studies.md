@@ -14,7 +14,7 @@ Harmony is a powerful software tool designed for psychologists and social scient
 Often, longitudinal studies require the comparison of instrument items, such as in the case of GAD-7 and PHQ-9. However, this process can be time-consuming and tedious, especially when working with large PDF files. With Harmony, researchers can quickly compare and match items from different questionnaires, even in different languages.
 
 * [Validation and Harmonisation of Visual Analog Scale (VAS)](/harmonisation-validation/visual-analog-scale-vas)
-* [PHQ-9 vs Beck Anxiety Inventory](/phq-9-vs-beck-anxiety-inventory)
+* [PHQ-9 vs Beck Anxiety Inventory](/compare-harmonise-instruments/phq-9-vs-beck-anxiety-inventory/)
 * [Validation and Harmonisation of Hamilton depression rating scale](/harmonisation-validation/hamilton-depression-rating-scale)
 
 One of the main benefits of using Harmony is its ability to make comparisons both within and across studies, which can provide valuable insights for researchers. By utilizing large language models, Harmony can give a percentage match between each item in a questionnaire, helping researchers identify any discrepancies or consistencies between studies.
@@ -35,5 +35,5 @@ In addition to saving time and effort, Harmony also eliminates subjectivity in t
 
 
 * [Validation and Harmonisation of Contact Lens User Experience (CLUE)](/harmonisation-validation/contact-lens-user-experience-clue)
-* [GHQ-12 vs SDQ](/ghq-12-vs-sdq)
-* [GHQ-12 vs Beck Anxiety Inventory](/ghq-12-vs-beck-anxiety-inventory)
+* [GHQ-12 vs SDQ](/compare-harmonise-instruments/ghq-12-vs-sdq/)
+* [GHQ-12 vs Beck Anxiety Inventory](/compare-harmonise-instruments/ghq-12-vs-beck-anxiety-inventory/)

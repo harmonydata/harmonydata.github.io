@@ -13,8 +13,8 @@ The Montgomery Asberg Depression Rating Scale (MADRS) is a 10-item diagnostic qu
 
 Harmony can help researchers harmonise the MADRS with other instruments by using natural language processing and AI models to compare the items in the MADRS with items in other questionnaires. This can give a percentage match between each item, allowing researchers to identify which variables in the MADRS correspond to variables in other instruments. This can be useful for establishing crosswalks and for validating the MADRS against other measures.
 
-* [GAD-7 vs Beck Anxiety Inventory](/gad-7-vs-beck-anxiety-inventory)
-* [GHQ-12 vs PHQ-9](/ghq-12-vs-phq-9)
+* [GAD-7 vs Beck Anxiety Inventory](/compare-harmonise-instruments/gad-7-vs-beck-anxiety-inventory/)
+* [GHQ-12 vs PHQ-9](/compare-harmonise-instruments/ghq-12-vs-phq-9/)
 * [Harmony: A Free AI Tool to Merge Cohort Studies](/item-harmonisation/harmony-a-free-ai-tool-to-merge-cohort-studies)
 
 By using Harmony, researchers can easily compare the MADRS with other instruments, even if they are in different languages, saving time and reducing subjectivity in the harmonisation process. This allows for more efficient use of cohort and longitudinal studies, allowing for comparisons within and across different studies. This can help researchers gain a better understanding of the consistency and validity of the MADRS and other instruments for measuring depression.
@@ -30,7 +30,7 @@ By using Harmony, researchers can easily compare the MADRS with other instrument
 
 
 
-* [CES-D vs GAD-7](/ces-d-vs-gad-7)
+* [CES-D vs GAD-7](/compare-harmonise-instruments/ces-d-vs-gad-7/)
 * [Validation and Harmonisation of AIM (Acceptability of Intervention Measure) score](/harmonisation-validation/aim-acceptability-of-intervention-measure-score)
 * [Validation and Harmonisation of Contact Lens User Experience (CLUE)](/harmonisation-validation/contact-lens-user-experience-clue)
 * [Harmonisation and validation of instruments](/harmonisation-validation/)

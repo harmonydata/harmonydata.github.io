@@ -36,5 +36,5 @@ Overall, Harmony can be a valuable tool for researchers looking to validate the 
 
 * [Validation and Harmonisation of Perceived Stress Scale (PSS)](/harmonisation-validation/perceived-stress-scale-pss)
 * [Validation and Harmonisation of Clinician Administered PTSD Scale (CAPS)](/harmonisation-validation/clinician-administered-ptsd-scale-caps)
-* [CES-D vs GAD-7](/ces-d-vs-gad-7)
+* [CES-D vs GAD-7](/compare-harmonise-instruments/ces-d-vs-gad-7/)
 * [Harmonisation and validation of instruments](/harmonisation-validation/)

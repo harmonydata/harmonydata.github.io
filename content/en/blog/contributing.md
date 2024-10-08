@@ -23,7 +23,7 @@ Are you a scientist, researcher, data wrangler, or language maestro? Harmony nee
 
 ## Getting started
 
-Participating in an open source project can be very rewarding. Read more about it [here](/how-can-i-contribute-to-an-open-source-project/)!
+Participating in an open source project can be very rewarding. Read more about it [here](/open-source-for-social-science/)!
 
 Please familiarise yourself with Git. You can [fork Harmony](https://github.com/harmonydata/harmony/fork) and [make a pull request](https://github.com/harmonydata/harmony/pulls) any time! We're glad to have your contribution.
 
@@ -34,7 +34,7 @@ _Video of our orientation session on how to contribute to Harmony._
 
 ## Issues and bug reports
 
-First, [do a quick search](https://github.com/issues?q=+is%3Aissue+user%3Aharmonydata) to see if the issue has already been reported. If so, it's often better to just leave a comment on an existing issue, rather than creating a new one. Old issues also often include helpful tips and solutions to common problems. You should also check the [troubleshooting guide](https://harmonydata.ac.uk/troubleshooting-harmony/) to see if your problem is already listed there.
+First, [do a quick search](https://github.com/issues?q=+is%3Aissue+user%3Aharmonydata) to see if the issue has already been reported. If so, it's often better to just leave a comment on an existing issue, rather than creating a new one. Old issues also often include helpful tips and solutions to common problems. You should also check the [troubleshooting guide](/open-source-for-social-science/troubleshooting-harmony/) to see if your problem is already listed there.
 
 If you're looking for help with your code, consider posting a question on the [GitHub Discussions board](https://github.com/orgs/harmonydata/discussions). Please
 understand that we won't be able to provide individual support via email. We
@@ -63,13 +63,13 @@ There are lots of ways you can contribute to Harmony! You can work on code, impr
 
 In particular, the [PDF extraction](/data-harmonisation/extract-process-data-from-questionnaires/) (converting PDFs to structured questionnaire items) is very hard and we have a separate Github repo with examples here: https://github.com/harmonydata/pdf-questionnaire-extraction
 
-We are planning on running a [hackathon](/hackathon) focused on this aspect of the tool.
+We are planning on running a [hackathon](/open-source-for-social-science/hackathon/) focused on this aspect of the tool.
 
 Also, other initiatives that could be really useful include:
 
 * Better handling of active vs passive voice in questionnaire items
 * Allowing Harmony to [switch LLMs](/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/)
-* Integration with other websites and tools (such as [via Harmony API](/releasing-harmony-api/), [discovering datasets from other sources](/discovery/), and [integrations allowing other tools to send instruments and data to Harmony](/integrating-with-harmony/).
+* Integration with other websites and tools (such as [via Harmony API](/open-source-for-social-science/harmony-api/), [discovering datasets from other sources](/discovery/), and [integrations allowing other tools to send instruments and data to Harmony](/integrating-with-harmony/).
 * An h-score: a similarity measure between instruments
 
 We started to make a new repo with training data to improve the PDF data processing. This repo has manually annotated training data:
@@ -80,7 +80,7 @@ One issue that would be really helpful would be, to handle active and passive vo
 
 Maybe a small task is easier to start with. Can you see any obvious bugs that you'd like to pick up?
 
-We’ve been looking at integrations with other data repositories. One way forward is to make an npm package other sites can install that makes it easy for them to send data over to the app. Or possibly just to interact with [Harmony's API](/releasing-harmony-api/) directly.
+We’ve been looking at integrations with other data repositories. One way forward is to make an npm package other sites can install that makes it easy for them to send data over to the app. Or possibly just to interact with [Harmony's API](/open-source-for-social-science/harmony-api/) directly.
 
 ## Raising issues and the issue tracker
 

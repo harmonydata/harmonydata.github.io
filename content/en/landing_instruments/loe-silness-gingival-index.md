@@ -15,7 +15,7 @@ Harmony can aid researchers in validating and harmonising the Loe & Silness Ging
 
 * [Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology)
 * [Validation and Harmonisation of AIM (Acceptability of Intervention Measure) score](/harmonisation-validation/aim-acceptability-of-intervention-measure-score)
-* [GHQ-12 vs Beck Anxiety Inventory](/ghq-12-vs-beck-anxiety-inventory)
+* [GHQ-12 vs Beck Anxiety Inventory](/compare-harmonise-instruments/ghq-12-vs-beck-anxiety-inventory/)
 
 Using Harmony's natural language processing and AI models, researchers can quickly and accurately compare the Loe & Silness Gingival Index with other instruments in multiple languages. This not only saves time and resources, but also helps ensure consistency and accuracy in the measurement of the construct being studied.
 

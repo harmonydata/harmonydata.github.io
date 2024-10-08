@@ -28,7 +28,7 @@ During the session, we'll cover:
 
 * Introduction to Harmony
 * Overview of Current Projects
-* [How to Get Involved](/contributing-to-harmony/)
+* [How to Get Involved](/open-source-for-social-science/contributing-to-harmony-nlp-project/)
 * Q&A Session
 
 It's an opportunity to connect with fellow community members, ask questions, and learn more about [open source in the social sciences](/open-source-for-social-science/) how you can contribute to our vibrant community.

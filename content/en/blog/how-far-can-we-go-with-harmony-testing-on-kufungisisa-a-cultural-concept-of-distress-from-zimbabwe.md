@@ -50,16 +50,16 @@ Shona (_chiShona_) is spoken in Zimbabwe and belongs to the Bantu language famil
 
 In Shona, derived verbs can be created from simple verbs by attaching suffixes to the verb stem.
 
-I tried using Harmony to see how it would harmonise “kufungisisa” (thinking too much) to a Western instrument such as [GHQ-12](/gad-7-vs-ghq-12).
+I tried using Harmony to see how it would harmonise “kufungisisa” (thinking too much) to a Western instrument such as [GHQ-12](/compare-harmonise-instruments/gad-7-vs-ghq-12/).
 
-Although English is the best-resource language for [natural language processing](https://naturallanguageprocessing.com/), [multilingual NLP techniques](https://fastdatascience.com/multilingual-natural-language-processing/) are catching up even for lower-resourced [languages](/harmony-supports-over-8-languages). There exist some [NLP](https://fastdatascience.com/portfolio/nlp-consultant/) [models](https://harmonydata.ac.uk/semantic-text-matching-with-deep-learning-transformer-models) for Shona. I used the sentence [transformer](https://harmonydata.ac.uk/how-does-harmony-work) model `Davlan/xlm-roberta-base-finetuned-shona` which is a modification of ROBERTA trained on Shona texts[7]. I plugged one into Harmony and tried to match the [Shona symptom questionnaire for the detection of depression and anxiety](https://depts.washington.edu/edgh/zw/hit/web/project-resources/shona_symptom_questionnaire.pdf), which is used in Zimbabwe[6].
+Although English is the best-resource language for [natural language processing](https://naturallanguageprocessing.com/), [multilingual NLP techniques](https://fastdatascience.com/multilingual-natural-language-processing/) are catching up even for lower-resourced [languages](/psychology-ai-tool/harmony-many-languages/). There exist some [NLP](https://fastdatascience.com/portfolio/nlp-consultant/) [models](https://harmonydata.ac.uk/semantic-text-matching-with-deep-learning-transformer-models) for Shona. I used the sentence [transformer](https://harmonydata.ac.uk/how-does-harmony-work) model `Davlan/xlm-roberta-base-finetuned-shona` which is a modification of ROBERTA trained on Shona texts[7]. I plugged one into Harmony and tried to match the [Shona symptom questionnaire for the detection of depression and anxiety](https://depts.washington.edu/edgh/zw/hit/web/project-resources/shona_symptom_questionnaire.pdf), which is used in Zimbabwe[6].
 
 {{< image src="images/blog/Screenshot-from-2023-07-13-12-34-30.png" alt="img" >}}
 
 
 Above: the text of the Shona symptom questionnaire for the detection of depression and anxiety.
 
-A problem I encountered was that the [transformer model](/nlp-semantic-text-matching/) didn’t work for both Shona and English (it’s not multilingual, like Harmony’s default transformer model). I Google translated [GHQ-12](/ghq-12-vs-beck-anxiety-inventory) into Shona as a temporary measure.
+A problem I encountered was that the [transformer model](/nlp-semantic-text-matching/) didn’t work for both Shona and English (it’s not multilingual, like Harmony’s default transformer model). I Google translated [GHQ-12](/compare-harmonise-instruments/ghq-12-vs-beck-anxiety-inventory/) into Shona as a temporary measure.
 
 Also, the transformer model did not operate as a sentence transformer, but rather as a token-level transformer, so my sentence vectors were made by averaging token vectors across an input.
 

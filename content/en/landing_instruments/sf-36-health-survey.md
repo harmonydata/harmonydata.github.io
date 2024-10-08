@@ -35,6 +35,6 @@ Overall, Harmony can greatly benefit researchers in the validation and harmonisa
 
 
 * [Validation and Harmonisation of Beck Depression Inventory-II (BDI-II)](/harmonisation-validation/beck-depression-inventory-ii-bdi-ii)
-* [CES-D vs PHQ-9](/ces-d-vs-phq-9)
+* [CES-D vs PHQ-9](/compare-harmonise-instruments/ces-d-vs-phq-9/)
 * [Validation and Harmonisation of Montgomery-Asberg Depression Rating Scale (MADRS)](/harmonisation-validation/montgomery-asberg-depression-rating-scale-madrs)
 * [Harmonisation and validation of instruments](/harmonisation-validation/)

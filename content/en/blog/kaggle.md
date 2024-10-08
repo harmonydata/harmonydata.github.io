@@ -7,6 +7,7 @@ image: "/images/kaggle.jpg"
 aliases:
   - "/kaggle/"
   - "/psychology-ai-tool/kaggle/"
+  - "/harmony-on-kaggle/"
 url: "/open-source-for-social-science/kaggle/"
 ---
 

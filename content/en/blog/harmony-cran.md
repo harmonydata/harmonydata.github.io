@@ -8,6 +8,7 @@ image: "https://raw.githubusercontent.com/harmonydata/.github/main/profile/harmo
 aliases:
   - "/blog/harmony-cran/"
   - "/harmony-cran/"
+  - "/harmony-natural-language-processing-tool-for-item-harmonisation-is-now-on-cran/"
 url: "/open-source-for-social-science/harmony-cran/"
 ---
 

@@ -8,6 +8,7 @@ image: /images/blog/sustainability.png
 aliases:
   - "/blog/sustainability/"
   - "/sustainability/"
+  - "/making-harmony-sustainable-long-term/"
 url: "/open-source-for-social-science/sustainability/"
 ---
 

@@ -8,6 +8,7 @@ image: "/images/21- Data harmonisation for marketing purposes - the strategies f
 
 aliases:
   - "/data-harmonisation-in-marketing/"
+  - "/data-harmonisation-for-marketing-success-strategies-and-insights/"
 url: "/data-harmonisation/data-harmonisation-for-marketing-success-strategies-and-insights/"
 ---
 

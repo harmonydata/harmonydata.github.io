@@ -7,6 +7,7 @@ categories: ["data"]
 image: "/images/05- What is truly harmonised data - the practical overview.svg"
 aliases:
   - "/what-is-truly-harmonised-data-a-practical-overview/"
+  - "/what-is-truly-harmonized-data-a-practical-overview/"
 url: "/data-harmonisation/what-is-truly-harmonised-data/"
 ---
 

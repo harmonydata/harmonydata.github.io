@@ -9,6 +9,8 @@ aliases: "/blog/back-to-the-future-retrospectively-harmonising-questionnaire-dat
 
 
 aliases:
+  - "/blog/back-to-the-future-retrospectively-harmonizing-questionnaire-data"
+  - "/back-to-the-future-retrospectively-harmonizing-questionnaire-data/"
   - "/blog/back-to-the-future-retrospectively-harmonising-questionnaire-data"
   - "/back-to-the-future-retrospectively-harmonising-questionnaire-data/"
 url: "/data-harmonisation/back-to-the-future-retrospectively-harmonising-questionnaire-data/"

@@ -3,7 +3,10 @@ title: "Harmony Hackathon on 3 June"
 date: 2024-04-22
 categories: ["development"]
 image: "/images/Hackathon Banner.png"
-url: "/hackathon"
+
+aliases:
+  - "/hackathon/"
+url: "/open-source-for-social-science/hackathon/"
 ---
 
 ## The Harmony Hackathon
@@ -88,3 +91,6 @@ What you have achieved; key outputs; next steps
 {{< youtube Okk8tUMDr6g >}}
 
 *Video tutorial on how to install Harmony Python library*
+
+
+Harmony is an [open source tool for social science research](/open-source-for-social-science/).

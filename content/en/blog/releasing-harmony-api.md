@@ -4,11 +4,15 @@ description: Semantic text matching is a task in natural language processing inv
 date: 2023-06-07
 categories: ["development"]
 image: /images/blog/harmony_api.png
-aliases: "/blog/releasing-harmony-api/"
+
+aliases:
+  - "/releasing-harmony-api/"
+  - "/blog/releasing-harmony-api/"
+url: "/open-source-for-social-science/harmony-api/"
 ---
 
 
-We are pleased to announce that the Harmony REST API is now released. The source code is at https://github.com/harmonydata/harmonyapi and the API reference PDF can be seen at https://github.com/harmonydata/harmonyapi/blob/main/docs/API_reference.pdf.
+We are pleased to announce that the Harmony REST API is now released. The source code (open source under [MIT License](/open-source-for-social-science/)) is at https://github.com/harmonydata/harmonyapi and the API reference PDF can be seen at https://github.com/harmonydata/harmonyapi/blob/main/docs/API_reference.pdf.
 
 Meanwhile, you can install and run Harmony [Python](https://www.python.org/) library with
 

@@ -6,6 +6,10 @@ author: "Vidhya Sudani"
 categories: ["data"]
 image: "/images/12- Combining multiple survey sorces - the best practices list.svg"
 
+
+aliases:
+  - "/combining-multiple-survey-sources-best-practices/"
+url: "/data-harmonisation/combine-multiple-survey-sources-best-practices/"
 ---
 
 
@@ -126,7 +130,7 @@ Leveraging advanced data integration techniques, such as data fusion and machine
 
 {{< image src="/images/Addressing Challenges.webp" alt="Addressing Challenges" title="Addressing Challenges" >}}
 
-Combining survey sources is fraught with challenges, from differing data quality to incompatible response scales. Addressing these issues head-on is key to successful data harmonisation.
+Combining survey sources is fraught with challenges, from differing data quality to incompatible response scales. Addressing these issues head-on is key to [successful data harmonisation](/data-harmonisation/).
 
 ## Best Practice 7: Quality Control
 

@@ -4,12 +4,16 @@ description: How we can make sure the Harmony project survives after the Wellcom
 date: 2023-11-01
 categories: ["psychology"]
 image: /images/blog/sustainability.png
-aliases: ["/blog/sustainability"]
+
+aliases:
+  - "/blog/sustainability/"
+  - "/sustainability/"
+url: "/open-source-for-social-science/sustainability/"
 ---
 
 Longevity is a tricky topic in software development.
 
-We've been thinking about how we can make sure that Harmony continues to operate for a long time in the future, since Harmony is intended as a public good for researchers to use with no strings attached.
+We've been thinking about how we can make sure that Harmony continues to operate for a long time in the future, since Harmony is intended as a public good for researchers to use with no strings attached (an [open source tool for social science](/open-source-for-social-science/)).
 
 # Sustainability assessment
 

@@ -6,7 +6,8 @@ image: "/images/kaggle.jpg"
 
 aliases:
   - "/kaggle/"
-url: "/psychology-ai-tool/kaggle/"
+  - "/psychology-ai-tool/kaggle/"
+url: "/open-source-for-social-science/kaggle/"
 ---
 
 ## Harmony launches on Kaggle!
@@ -15,7 +16,7 @@ We are proud to have launched our first competition on Kaggle!
 
 The primary challenge of this competition is to develop an [AI tool](/psychology-ai-tool/) or method that can accurately extract questionnaire questions from documents, primarily PDFs.
 
-This competition offers a unique opportunity for participants to contribute to the field of natural language processing and document analysis while developing solutions that have real-world applications. We encourage participants to think creatively, leverage available resources, and push the boundaries of current technologies.
+This competition offers a unique opportunity for participants to contribute to the field of natural language processing and document analysis as well as [open source for social science](/open-source-for-social-science/) while developing solutions that have real-world applications. We encourage participants to think creatively, leverage available resources, and push the boundaries of current technologies.
 
 {{< grid columns="2" >}}
   {{< card heading="Try Kaggle" copy="Try your hand at our competition" url="https://www.kaggle.com/competitions/harmony-pdf-and-word-questionnaires-extract" >}}

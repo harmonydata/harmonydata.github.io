@@ -23,7 +23,9 @@ Let's go through these strategies together. Get ready to turn challenges into ch
 
 Pulling [data from questionnaires](/data-harmonisation/find-matching-and-common-items-in-questionnaires-and-surveys/) is an important step in transforming the gathered responses into actionable insights. This involves handling both structured and unstructured data.
 
-What’s the difference, you ask? Structured data is the kind that fits neatly into categories, such as the choices selected in a multiple-choice question. On the flip side, unstructured data includes the free-text responses where participants express their thoughts in their own words.
+### Structured vs unstructured data
+
+Structured data is the kind that fits neatly into categories, such as the choices selected in a multiple-choice question. On the flip side, unstructured data includes the free-text responses where participants express their thoughts in their own words.
 
 Data can be collected in several ways – these ways each reflect the unique methods by which questionnaires are shared and completed. For instance, paper forms are a classic approach that requires participants to mark their answers physically. These responses then need to be manually keyed into a digital system for analysis – a process that might take a bit of elbow grease but is key for some research types.
 
@@ -59,7 +61,7 @@ Why bother with all this? Well, just like you wouldn't want to base your decisio
 
 Seems like a lot of work? A customised method can greatly ease and improve the process. This is where we want to tell you about our favourite (and very own) tool: Harmony.
 
-Harmony revolutionises the way we approach the complex task of harmonising questionnaire data. With its advanced Natural Language Processing (NLP) at the core, Harmony offers a tailored solution that excels in interpreting, comparing, and integrating data across languages and formats, making it invaluable for international research and projects with diverse data sources.
+Harmony revolutionises the way we approach the complex task of [harmonising questionnaire data](/data-harmonisation/). With its advanced Natural Language Processing (NLP) at the core, Harmony offers a tailored solution that excels in interpreting, comparing, and integrating data across languages and formats, making it invaluable for international research and projects with diverse data sources.
 
 ### Main features of Harmony
 

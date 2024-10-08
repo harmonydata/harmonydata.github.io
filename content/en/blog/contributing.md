@@ -4,6 +4,11 @@ description: Want to help develop Harmony?
 date: 2023-12-22
 categories: ["development"]
 image: /images/join-open-source-project.png
+
+
+aliases:
+  - "/contributing-to-harmony/"
+url: "/open-source-for-social-science/contributing-to-harmony-nlp-project/"
 ---
 
 ## Contribute to the Harmony open source NLP project

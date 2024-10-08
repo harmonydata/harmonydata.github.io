@@ -33,4 +33,6 @@ As AI technology [continues to advance](/ai-in-mental-health/harmony-going-forwa
 
 * [Harmony at Lifecourse seminar](/ai-in-mental-health/harmony-at-lifecourse-seminar/) - on 15 May 2024, Eoin McElroy and Bettina Moltrecht gave a seminar Harmony: A global platform for harmonisation, translation and cooperation in mental health research for the Melbourne Children’s LifeCourse Initiative seminar series.
 * [Harmony at Methodscon Futures](/ai-in-mental-health/harmony-at-methodscon-futures/) - on  11 and 12 September 2024, Bettina Moltrecht and Thomas Wood presented Harmony at Methodscon Futures in Manchester
+* [Harmony and TIDAL workshop](/ai-in-mental-health/harmony-and-tidal-workshop/) - a collaboration with another team on the Wellcome Trust Data Prize for Mental Health
+* See other [news coverage](/ai-in-mental-health/news-coverage/). 
 

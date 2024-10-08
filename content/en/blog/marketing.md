@@ -8,11 +8,12 @@ aliases:
   - "/blog/marketing/"
   - "/marketing/"
   - "/the-importance-of-marketing-for-open-science/"
-url: "/psychology-ai-tool/marketing-for-open-science/"
+  - "/psychology-ai-tool/marketing-for-open-science/"
+url: "/open-source-for-social-science/marketing-for-open-science/"
 ---
 
 
-Marketing is important for an open science [NLP](https://fastdatascience.com/portfolio/nlp-consultant/) [project](https://fastdatascience.com/starting-a-data-science-project) such as Harmony for several reasons:
+Marketing is important for an [open science](/open-source-for-social-science/) [NLP](https://fastdatascience.com/portfolio/nlp-consultant/) [project](https://fastdatascience.com/starting-a-data-science-project) such as Harmony for several reasons:
 
 * To raise awareness of the project and its goals. Research [projects](https://harmonydata.ac.uk/projects-partners) are often complex and technical, so it's important to communicate their value and potential to a wide audience. Marketing can help to do this by creating clear and concise messaging, and by promoting the project through channels that reach the target audience. 
 * To attract contributors and collaborators. Open science projects rely on the participation of a community of contributors and collaborators. Marketing can help to attract these individuals by highlighting the project's benefits, and by providing easy ways to get involved.
@@ -37,7 +38,7 @@ In future, we plan to:
 * Present at conferences and [workshops](https://harmonydata.ac.uk/harmony-tidal-workshop). This is a great way to connect with potential contributors and collaborators.
 * Attend hackathons and other events. This is a great way to connect with potential contributors and collaborators.
 
-We hope to raise awareness, attract contributors, build support, and enable Harmony to prosper and develop further in the long term.
+We hope to attract contributors, build support, and enable Harmony to prosper and develop further in the long term.
 
 # Harmony's marketing and branding
 

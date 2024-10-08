@@ -4,6 +4,11 @@ description: Any news coverage about Harmony
 date: 2024-02-21
 categories: ["harmony"]
 image: "/images/world.png"
+
+
+aliases:
+  - "/news-coverage/"
+url: "/ai-in-mental-health/news-coverage/"
 ---
 
 ## 21 Feb 2024, University College London
@@ -38,7 +43,7 @@ Dr Moltrecht presented use-case examples using real world meta-data from [two UK
 
 During [a recent free half-day event](/harmony-and-tidal-workshop/), attendees were introduced to two new digital tools for researchers working with [longitudinal data](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study/): Harmony and TIDAL.
 
-Harmony is a tool that facilitates fast and easy harmonisation of questionnaires commonly used in mental health research. It uses natural language processing to identify commonalities across items, which allows researchers to combine and compare data from multiple studies.
+Harmony is a tool that facilitates fast and easy harmonisation of questionnaires commonly used in [mental health research](/ai-in-mental-health/). It uses natural language processing to identify commonalities across items, which allows researchers to combine and compare data from multiple studies.
 
 TIDAL is a user-friendly tool that supports experienced and less experienced researchers with the analyses of longitudinal data, such as trajectory modelling.
 

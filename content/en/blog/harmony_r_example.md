@@ -4,12 +4,16 @@ description: R notebook demo of Harmony
 date: 2023-10-01
 categories: ["development"]
 image: "/images/r_studio_screenshot.png"
+
+aliases:
+  - "/harmony-r-notebook-r-markdown-example/"
+url: "/open-source-for-social-science/harmony-r-notebook-r-markdown-example/"
 ---
 
 
-This notebook shows how you can use Harmony to find the similarity matrix between two questionnaires: the CBCL and GOASSESS.
+This notebook shows how you can use Harmony to find the similarity matrix between two questionnaires: the [Child Behavior Checklist (CBCL)](/compare-harmonise-instruments/phq-9-vs-cbcl/) and GOASSESS.
 
-The Harmony project is a data harmonisation project that uses [Natural Language Processing](https://fastdatascience.com/guide-natural-language-processing-nlp/) to help researchers make better use of existing data from different studies by supporting them with the harmonisation of various measures and items used in different studies.
+The Harmony project is an [open source](/open-source-for-social-science/) [data harmonisation](/data-harmonisation/) project that uses [Natural Language Processing](https://fastdatascience.com/guide-natural-language-processing-nlp/) to help researchers make better use of existing data from different studies by supporting them with the harmonisation of various measures and items used in different studies.
 
 Harmony was developed as a collaboration between [Ulster University](https://ulster.ac.uk/), [University College London](https://ucl.ac.uk/), the [Universidade Federal de Santa Maria](https://www.ufsm.br/), and [Fast Data Science](http://fastdatascience.com/).  Harmony is funded by [Wellcome](https://wellcome.org/) as part of the [Wellcome Data Prize in Mental Health](https://wellcome.org/grant-funding/schemes/wellcome-mental-health-data-prize).
 

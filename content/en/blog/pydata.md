@@ -6,7 +6,8 @@ image: "/images/thomas-wood-pydata.jpg"
 
 aliases:
   - "/pydata/"
-url: "/psychology-ai-tool/pydata-meetup/"
+  - "/psychology-ai-tool/pydata-meetup/"
+url: "/open-source-for-social-science/pydata-meetup/"
 ---
 
 ## Harmony at PyData London - 86th Meetup

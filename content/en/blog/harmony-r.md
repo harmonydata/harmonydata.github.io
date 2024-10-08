@@ -4,9 +4,13 @@ description: You can run Harmony in R
 date: 2023-08-21
 categories: ["development"]
 image: /images/r.png
+
+aliases:
+  - "/harmony-r-released/"
+url: "/open-source-for-social-science/harmony-r-package/"
 ---
 
-We have developed the R package for Harmony. To get started, you need R installed on your system.
+We have developed the R package for Harmony and [open sourced](/open-source-for-social-science/) it. To get started, you need R installed on your system.
 
 [Click here](https://colab.research.google.com/github/harmonydata/experiments/blob/main/Harmony_R_example.ipynb) to try an example in Google Colab.
 

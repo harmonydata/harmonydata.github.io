@@ -3,6 +3,10 @@ title: Harmony Orientation Session
 date: 2024-02-09
 categories: ["harmony"]
 image: /images/discord2.jpg
+
+aliases:
+  - "/harmony-orientation-session/"
+url: "/open-source-for-social-science/harmony-orientation-session/"
 ---
 
 _Here's the link to join our Discord, where you can find the event: [https://discord.gg/harmonydata](https://discord.gg/harmonydata)!_
@@ -27,7 +31,7 @@ During the session, we'll cover:
 * [How to Get Involved](/contributing-to-harmony/)
 * Q&A Session
 
-It's an opportunity to connect with fellow community members, ask questions, and learn more about how you can contribute to our vibrant community.
+It's an opportunity to connect with fellow community members, ask questions, and learn more about [open source in the social sciences](/open-source-for-social-science/) how you can contribute to our vibrant community.
 
 🚨 Share the event on social media and react on Discord to let us know you're coming. We can't wait to meet you!
 

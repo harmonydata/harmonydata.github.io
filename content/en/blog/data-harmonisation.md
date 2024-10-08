@@ -87,7 +87,7 @@ In summary, data harmonisation brings about significant improvements in the qual
 
 7. **Diverse Data Sources**: Integrating data from diverse sources adds complexity due to varying formats, standards, and quality. Each source may have its unique characteristics and challenges that need to be addressed in the harmonisation process.
 
-8. **Data Quality Concerns**: Ensuring the accuracy, consistency, and reliability of the harmonised data is crucial. This involves identifying and correcting errors in the data, which can be a significant hurdle, especially when dealing with large volumes of data from multiple sources.
+8. **Data Quality Concerns**: Ensuring the accuracy, consistency, and reliability of the harmonised data is crucial. This involves identifying and correcting errors in the data, which can be a significant hurdle, especially when dealing with [large volumes of data from multiple sources](/data-harmonisation/combine-multiple-survey-sources-best-practices/).
 
 Each of these challenges represents a significant aspect of the data harmonisation process, requiring careful planning, skilled resources, and often sophisticated technological solutions to overcome.
 
@@ -118,10 +118,11 @@ Let's explore this need further in various sectors:
 
 9. **Telecommunications**: Telecom companies use data harmonisation to integrate customer data, usage patterns, and network data from various sources. This helps in improving network efficiency, customer service, and in developing new services.
 
-These examples demonstrate the vast applicability and critical importance of data harmonisation in extracting meaningful insights, making informed decisions, and enhancing operational efficiency across different sectors.
+These examples demonstrate the vast applicability and critical importance of data harmonisation in [extracting meaningful insights](/data-harmonisation/extract-process-data-from-questionnaires/), making informed decisions, and enhancing operational efficiency across different sectors.
 
 
 ## Data Harmonisation in Practice
+
 Data harmonisation is not a theoretical concept but a practical necessity across various sectors. For instance, in healthcare, harmonising patient data from different hospitals leads to better patient care and research outcomes. In [marketing](/data-harmonisation/data-harmonisation-for-marketing-success-strategies-and-insights/), it helps in understanding consumer behavior by integrating data from diverse sources.
 
 **[Harmony: A Specialised Tool for Data Harmonisation](https://harmonydata.ac.uk/)**

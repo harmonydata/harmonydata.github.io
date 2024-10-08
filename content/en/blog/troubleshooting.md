@@ -4,6 +4,10 @@ description: How to fix problems in Harmony
 date: 2023-12-07
 categories: ["harmony"]
 image: /images/troubleshooting.png
+
+aliases:
+  - "/troubleshooting-harmony/"
+url: "/open-source-for-social-science/troubleshooting-harmony/"
 ---
 
 # Troubleshooting Harmony
@@ -25,6 +29,6 @@ Harmony supports:
 * CSV
 * PDF - however if you are having problems parsing PDFs please try another format.
 
-Finally, feel free to [raise an issue](https://github.com/harmonydata/harmony/issues) to let us know that your PDF isn't being parsed. Please also share the PDF in question.
+Finally, feel free to [raise an issue](https://github.com/harmonydata/harmony/issues) to let us know that your PDF isn't being parsed. Please also share the PDF in question. Harmony is an [open source tool for social sciences research](/open-source-for-social-science/).
 
 

@@ -7,10 +7,12 @@ image: /images/blog/how_can_harmony_help_you.png
 
 aliases:
   - "/what-features-would-you-like-to-see-in-harmony/"
-url: "/psychology-ai-tool/what-features-would-you-like-to-see-in-harmony/"
+  - "/psychology-ai-tool/what-features-would-you-like-to-see-in-harmony/"
+url: "/open-source-for-social-science/what-features-would-you-like-to-see-in-harmony/"
 ---
 
-Please fill out this form to give feedback on [Harmony](/psychology-ai-tool/).
+Please fill out this form to give feedback on [Harmony](/psychology-ai-tool/), an [open source tool for social science](/open-source-for-social-science/).
+
 
 {{< htmlcode >}}
 

@@ -4,11 +4,15 @@ description: Semantic text matching is a task in natural language processing inv
 date: 2023-09-06
 categories: ["development"]
 image: "https://raw.githubusercontent.com/harmonydata/.github/main/profile/harmony_cran.gif"
-aliases: "/blog/harmony-cran"
+
+aliases:
+  - "/blog/harmony-cran/"
+  - "/harmony-cran/"
+url: "/open-source-for-social-science/harmony-cran/"
 ---
 
 
-We are excited to announce that Harmony, a Natural Language Processing tool for data harmonisation, is now available on the Comprehensive R Archive Network [CRAN](https://cran.r-project.org/)!
+We are excited to announce that Harmony, an [open source](/open-source-for-social-science/) Natural Language Processing tool for data harmonisation, is now available on the Comprehensive R Archive Network [CRAN](https://cran.r-project.org/)!
 
 Previously, [Harmony R](/harmony-r-released/) could be installed using [devtools](https://www.r-project.org/nosvn/pandoc/devtools.html).
 

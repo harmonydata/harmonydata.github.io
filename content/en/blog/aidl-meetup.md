@@ -85,3 +85,4 @@ Our session will explore the transformative potential of Generative AI, focusing
 * 3 June 2024: [Harmony Hackathon](/open-source-for-social-science/hackathon/) at UCL
 * 5 May 2024: [Harmony: A global platform for harmonisation, translation and cooperation in mental health](/ai-in-mental-health/harmony-at-lifecourse-seminar/) at  Melbourne Children’s LifeCourse Initiative seminar series.
 * 27 March 2024: [Harmony at AI Camp](/psychology-ai-tool/aicamp-meetup/)
+* 17 August 2023: [Harmony and TIDAL workshop](/ai-in-mental-health/harmony-and-tidal-workshop)

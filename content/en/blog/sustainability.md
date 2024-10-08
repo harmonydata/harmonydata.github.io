@@ -13,7 +13,7 @@ url: "/open-source-for-social-science/sustainability/"
 
 Longevity is a tricky topic in software development.
 
-We've been thinking about how we can make sure that Harmony continues to operate for a long time in the future, since Harmony is intended as a public good for researchers to use with no strings attached (an [open source tool for social science](/open-source-for-social-science/)).
+We've been thinking about how we can make sure that Harmony continues to operate for a [long time in the future](/ai-in-mental-health/harmony-going-forward/), since Harmony is intended as a public good for researchers to use with no strings attached (an [open source tool for social science](/open-source-for-social-science/)).
 
 # Sustainability assessment
 
@@ -197,7 +197,7 @@ _Question 13.3: Do you provide success stories on your website?_
 
 A great way of showing off your software is to write case studies about the people who've used it and how they've used it. This helps potential users learn about the software but, more to the point, is a great advert for your software. If you can show happy users benefiting from your software, you are likely to gain more users.
 
-_Question 13.8: If your software is developed as an open source project (and, not just a project developing open source software), do you have a governance model?_
+_Question 13.8: If your software is developed as an open source project (and, not just a project developing open source software), do you have a [governance model](/ai-in-mental-health/research-funders-ai-governance)?_
 
 A governance model sets out how a, open source project is run. It describes the roles within the project and its community and the responsibilities associated with each role; how the project supports its community; what contributions can be made to the project, how they are made, any conditions the contributions must conform to, who retains copyright of the contributions and the process followed by the project in accepting the contribution; and, the decision-making process in within the project.
 

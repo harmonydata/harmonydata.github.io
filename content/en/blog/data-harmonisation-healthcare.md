@@ -44,7 +44,7 @@ Harmonisation methods in data science and healthcare research aim to standardize
 ### Ensuring Reliable Data for Algorithms
 
 #### Quality Over Quantity
-In the realm of data harmonisation, the emphasis on quality over quantity cannot be overstated. Accurate and reliable data is paramount for developing algorithms that are truly effective and can lead to meaningful insights and outcomes. The focus should be on ensuring that each data point collected and integrated into larger datasets meets a high standard of quality, as this will significantly impact the [performance](/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/) of machine learning models and AI algorithms. Poor-quality data can lead to inaccurate predictions, biased outcomes, and ultimately, decisions that may not be in the best interest of patients or research objectives.
+In the realm of data harmonisation, the emphasis on quality over quantity cannot be overstated. Accurate and reliable data is paramount for developing algorithms that are truly effective and can lead to meaningful insights and outcomes. The focus should be on ensuring that each data point collected and integrated into larger datasets meets a high standard of quality, as this will significantly impact the [performance](/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/) of machine learning models and [AI algorithms and tools](/psychology-ai-tool/). Poor-quality data can lead to inaccurate predictions, biased outcomes, and ultimately, decisions that may not be in the best interest of patients or research objectives.
 
 
 #### Role of Machine Learning and AI

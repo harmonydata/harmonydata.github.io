@@ -116,7 +116,7 @@ To bridge the gap between perception and reality, businesses need to:
 Begin by conducting a comprehensive assessment of your current data landscape. Identify disparate datasets, sources of data silos, and potential inconsistencies. This assessment serves as the foundation for developing a robust harmonisation strategy.
 
 - **Establishing Data Governance Policies**
-Implementing clear data governance policies is imperative for sustaining harmonised data. Define data ownership, establish quality standards, and enforce protocols for data handling and integration.
+Implementing clear [data governance policies](/ai-in-mental-health/research-funders-ai-governance) is imperative for sustaining harmonised data. Define data ownership, establish quality standards, and enforce protocols for data handling and integration.
 
 - **Utilizing Advanced Data Integration Tools**
 Investing in advanced data integration tools streamlines the harmonisation process. These tools automate data workflows, enhance interoperability, and provide real-time monitoring capabilities, ensuring continuous data harmony.

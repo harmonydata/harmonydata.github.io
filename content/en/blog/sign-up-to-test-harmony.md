@@ -6,4 +6,4 @@ categories: ["harmony"]
 image: /images/blog/Social-media-posts_LinkedIn_06.png
 ---
 
-We are running [workshops](https://harmonydata.ac.uk/harmony-tidal-workshop) to test Harmony – see the [signup link here](https://ulster.onlinesurveys.ac.uk/harmony-online-eoi).
+We are running [workshops](https://harmonydata.ac.uk/harmony-tidal-workshop) to test Harmony so that we can plan [future development](/ai-in-mental-health/harmony-going-forward/) – see the [signup link here](https://ulster.onlinesurveys.ac.uk/harmony-online-eoi).

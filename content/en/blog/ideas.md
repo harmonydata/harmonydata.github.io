@@ -284,3 +284,5 @@ These are proposals in the mailing lists and Discord which have not been publish
 * More Kaggle competitions
 
 List prepared in collaboration with [Piyush Raj](https://github.com/0x48piraj).
+
+See also: [Harmony going forward: 5 key things Implementation Science has taught us to focus on](/ai-in-mental-health/harmony-going-forward/)

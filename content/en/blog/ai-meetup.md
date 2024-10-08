@@ -70,3 +70,4 @@ This follows on from the talk on Harmony given by Bettina Moltrecht, PhD last we
 * 2 July 2024: [Harmony: NLP and generative models for psychology research](/open-source-for-social-science/pydata-meetup/)  at Pydata London
 * 3 June 2024: [Harmony Hackathon](/open-source-for-social-science/hackathon/) at UCL
 * 5 May 2024: [Harmony: A global platform for harmonisation, translation and cooperation in mental health](/ai-in-mental-health/harmony-at-lifecourse-seminar/) at  Melbourne Children’s LifeCourse Initiative seminar series.
+* 17 August 2023: [Harmony and TIDAL workshop](/ai-in-mental-health/harmony-and-tidal-workshop)

@@ -27,3 +27,8 @@ The Harmony team has taken steps to ensure the long term viability and sustainab
 
 We have regularly presented the Harmony project at events such as [AI|DL London](/psychology-ai-tool/aidl-meetup/), [MethodsCon Futures in Manchester](/ai-in-mental-health/harmony-at-methodscon-futures/
 ), [Hackathon in UCL](/open-source-for-social-science/hackathon/), [Melbourne Children’s LifeCourse Initiative seminar series](/ai-in-mental-health/harmony-at-lifecourse-seminar/), and [AI Camp](/psychology-ai-tool/aicamp-meetup/).
+
+## Other news coverage
+
+* [See news coverage of the Harmony project on other websites](/ai-in-mental-health/news-coverage)
+* [Radio postcast about the Wellcome Data Prize](/ai-in-mental-health/radio-podcast-about-wellcome-data-prize)

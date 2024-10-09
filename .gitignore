@@ -9,3 +9,6 @@ resources
 
 # Local Hugo build
 .hugo_build.lock
+
+public
+public/*

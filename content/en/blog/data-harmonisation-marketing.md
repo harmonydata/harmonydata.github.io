@@ -50,7 +50,7 @@ So, Data harmonisation is not merely a technical endeavor; it is a strategic imp
 
 #### Defining Standard Data Models
 
-The cornerstone of effective data harmonisation is the creation of standard data models. These models provide a blueprint for organizing various types of data, such as customer information, transaction records, and engagement metrics, into a uniform format. By establishing these standards, businesses ensure that data collected from diverse sources can be seamlessly integrated, enabling a comprehensive view of marketing operations and customer interactions.
+The cornerstone of effective data harmonisation is the creation of standard data models. These models provide a blueprint for organizing various types of data, such as customer information, transaction records, and engagement metrics, into a uniform format. By establishing these standards, [businesses](/data-harmonisation/10-data-harmonisation-examples-that-move-businesses-and-organisations-forward) ensure that data collected from diverse sources can be seamlessly integrated, enabling a comprehensive view of marketing operations and customer interactions.
 
 #### Implementing Data Governance
 
@@ -140,7 +140,7 @@ The path to achieving successful data harmonisation is both strategic and system
    Conduct training sessions to upskill your marketing and data teams in handling and analysing harmonised data. Encourage a culture of data-driven decision-making by empowering employees to leverage data insights in their roles.
 
 5. **Continuous Monitoring and Evaluation:**
-   Data harmonisation is not a set-and-forget process. Regularly monitor the quality of your data, the effectiveness of your data integration tools, and the outcomes of your marketing campaigns. Evaluate the performance of your data harmonisation efforts against predefined metrics and KPIs, and be prepared to make adjustments as needed.
+   Data harmonisation is not a set-and-forget process. Regularly monitor the quality of your data, the effectiveness of your data integration [tools](/data-harmonisation/data-harmonisation-tools-frameworks), and the outcomes of your marketing campaigns. Evaluate the performance of your data harmonisation efforts against predefined metrics and KPIs, and be prepared to make adjustments as needed.
 
 6. **Adapting to Change:**
    Stay responsive to new technologies, emerging data sources, and evolving market trends. Update your data harmonisation strategies and technologies as necessary to maintain their effectiveness and ensure they continue to meet the organization's needs.

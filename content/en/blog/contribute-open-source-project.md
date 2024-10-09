@@ -30,7 +30,7 @@ You can try finding [projects on Kaggle](/open-source-for-social-science/kaggle/
 **2. Find your niche:**
 
 - Choose a project that aligns with your passions and expertise. This engagement will fuel your motivation and make the learning curve more enjoyable.
-- Explore projects you already use and appreciate, or discover new ones that pique your curiosity. 
+- Explore projects you already use and appreciate, or [discover](/discover-data) new ones that pique your curiosity. 
 
 **3. Embrace the learning curve:**
 

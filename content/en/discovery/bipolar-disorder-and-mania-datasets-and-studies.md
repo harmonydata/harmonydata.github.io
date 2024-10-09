@@ -11,7 +11,7 @@ url: "/discover-data/bipolar-disorder-and-mania-datasets-and-studies"
 
 ## Discover Bipolar Disorder and Mania Datasets Using Harmony Discovery
 
-As the healthcare industry tackles a myriad of complex mental health issues, the need for accurate and comprehensive data is undeniably crucial. Bipolar disorder and Mania, two of the most elusive mental health conditions, require in-depth research to gain valuable insights that can guide effective therapeutic strategies. If you are a researcher in this field, 'Harmony Discovery' might just be your go-to tool. Brought to you by UKLLC, HDRC UK, ADR UK, and Closer, Harmony assists you in exploring disparate data sources to pinpoint datasets about Bipolar Disorder and Mania. 
+As the healthcare industry tackles a myriad of complex mental health issues, the need for accurate and comprehensive data is undeniably crucial. [Bipolar](/discover-data/bipolar-and-mania-datasets-and-studies) disorder and Mania, two of the most elusive mental health conditions, require in-depth research to gain valuable insights that can guide effective therapeutic strategies. If you are a researcher in this field, 'Harmony Discovery' might just be your go-to tool. Brought to you by UKLLC, HDRC UK, ADR UK, and Closer, Harmony assists you in exploring disparate data sources to pinpoint datasets about Bipolar Disorder and Mania. 
 
 Harmony is your telescope to navigate the deep space of data. It leverages large language models to match questionnaire items and variable names to the search terms, generating a curated list of applicable datasets. 
 

@@ -129,11 +129,11 @@ Let us be the ones to help you turn your data into insights and your insights in
 - Master Data Harmonisation
 - Data Harmonisation
 - What is Master Data Management
-- Data Harmonisation Tools
+- Data Harmonisation [Tools](/data-harmonisation/data-harmonisation-tools-frameworks)
 - Data Harmonisation in MDM
 - Strategies to grow your business
-- Data Harmonisation Techniques
+- Data Harmonisation [Techniques](/data-harmonisation/data-harmonisation-steps-techniques-best-practices)
 - Data Harmonisation Process
-- Data Harmonisation in Mental Health Research
+- Data Harmonisation in [Mental](/discover-data/mental-illness-datasets-and-studies) Health Research
 - Harmonised Master Data for Business
 

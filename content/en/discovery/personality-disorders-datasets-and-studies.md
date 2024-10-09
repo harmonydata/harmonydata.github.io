@@ -21,7 +21,7 @@ Connected to an array of esteemed data sources like the UKLLC, Closer, the Catal
 
 ## Finding Personality Disorders datasets
 
-Whether you're studying Borderline Personality Disorder, Narcissistic Personality Disorder, or any other specific condition, Harmony allows you to delve into a vast repository of data.
+Whether you're studying [Borderline](/discover-data/borderline-personality-disorder-bpd-datasets-and-studies) Personality Disorder, Narcissistic Personality Disorder, or any other specific condition, Harmony allows you to delve into a vast repository of data.
 
 You can explore datasets like the Socio-Psychiatric Survey on Distribution and Aetiology of Psychiatric Disorder, the Parenting experience borderline personality disorder traits study, and the Improving Access to Psychological Therapies Data Set, among others.
 

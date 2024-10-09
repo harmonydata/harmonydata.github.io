@@ -28,7 +28,7 @@ It will then provide you with a complete list of possible matches and suggestion
 
 Since Harmony supports multiple languages, it can help you reach a much wider audience during your research, where you can better collaborate with researchers across multiple cultures and countries. Since Harmony’s database is constantly being updated in real time and improved consistently to provide researchers with the most in-depth and easy-to-access services possible, it is an active development project where you can contribute however you can.
 
-Harmony is an open source code academic project and non-profit software package which allows psychologists and researchers conducting mental health surveys to improve and aid their research by comparing trends in, say, ADHD, anxiety, or depression, across cultures or time. As a volunteer, you can join the project and help us develop it better, or even if you don’t wish to contribute for now, you can use it extensively (completely free of cost) to carry out your own research and cite it in publications.
+Harmony is an open source code academic project and non-profit software package which allows psychologists and researchers conducting mental health surveys to improve and aid their research by comparing trends in, say, [ADHD](/discover-data/adhd-datasets-and-studies), anxiety, or depression, across cultures or time. As a volunteer, you can join the project and help us develop it better, or even if you don’t wish to contribute for now, you can use it extensively (completely free of cost) to carry out your own research and cite it in publications.
 
 ## How does Data Harmonisation work?
 
@@ -94,7 +94,7 @@ Harmony does away with all of these barriers and then some.
 
 ## Some great examples of Harmonised Data Practices over the years
 
-We now understand that harmonised data refers to the efforts made to combine data from multiple sources, providing users with a very comparable and transparent view of data across different studies and even cultures as well as regions.
+We now understand that [harmonised](/data-harmonisation/what-is-truly-harmonised-data) data refers to the efforts made to combine data from multiple sources, providing users with a very comparable and transparent view of data across different studies and even cultures as well as regions.
 
 The process is now becoming more significant, especially in the field of sociology, demography and mental health research – unsurprisingly, the needs revolving around data harmonisation are growing very rapidly because the sheer volume of data and the need to readily share it is always in high demand.
 
@@ -183,6 +183,6 @@ By using Harmony, you can safely eliminate such challenges while also adding the
 
 There are no two ways about it: data harmonisation is the future of business management success. It is the ultimate tool to support efficient data processing which ensures that businesses are making smart, fruitful, and profitable decisions from day one.
 
-In the years ahead, harmonised data will be central to an organisation’s success and a prerequisite to ensure continued business efficiency and overall success.
+In the years ahead, harmonised data will be central to an organisation’s [success](/data-harmonisation/data-harmonisation-for-marketing-success-strategies-and-insights) and a prerequisite to ensure continued business efficiency and overall success.
 
 Start your journey with Harmony today to stay ahead of the competitive curve and extract the desired insights quickly from your surveys and/or questionnaires.

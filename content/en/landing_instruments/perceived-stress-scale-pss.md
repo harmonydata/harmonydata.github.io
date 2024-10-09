@@ -11,7 +11,7 @@ The Perceived Stress Scale (PSS) is a commonly used instrument in psychology to 
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Perceived Stress Scale (PSS) " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-Researchers often want to validate the PSS or harmonise it with other instruments to establish its reliability and make comparisons across studies. This is where Harmony can be a useful tool.
+Researchers often want to validate the [PSS](/compare-harmonise-instruments/ces-d-vs-pss-10) or harmonise it with other instruments to establish its reliability and make comparisons across studies. This is where Harmony can be a useful tool.
 
 * [Validation and Harmonisation of SIRS scale (Systemic Inflammatory Response Syndrome)](/harmonisation-validation/sirs-scale-systemic-inflammatory-response-syndrome)
 * [GHQ-12 vs SDQ](/compare-harmonise-instruments/ghq-12-vs-sdq/)

@@ -17,7 +17,7 @@ Marketing is important for an [open science](/open-source-for-social-science/) [
 
 * To raise awareness of the project and its goals. Research [projects](https://harmonydata.ac.uk/projects-partners) are often complex and technical, so it's important to communicate their value and potential to a wide audience. Marketing can help to do this by creating clear and concise messaging, and by promoting the project through channels that reach the target audience. 
 * To attract contributors and collaborators. Open science projects rely on the participation of a community of contributors and collaborators. Marketing can help to attract these individuals by highlighting the project's benefits, and by providing easy ways to get involved.
-* To build support for the project. Harmony was initially funded by Wellcome, but for a finite time. Marketing can help to build support for the project by demonstrating its value, and by generating positive buzz.
+* To build support for the project. Harmony was initially funded by [Wellcome](/ai-in-mental-health/radio-podcast-about-wellcome-data-prize), but for a finite time. Marketing can help to build support for the project by demonstrating its value, and by generating positive buzz.
 
 In addition to these specific benefits, marketing can also help to:
 

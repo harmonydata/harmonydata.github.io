@@ -6,7 +6,7 @@ url: /harmonisation-validation/clinical-global-impression-of-change-cgic
 
 ## Validation and Harmonisation of Clinical Global Impression of Change (CGIC)
 
-The Clinical Global Impression of Change (CGIC) is a tool used in psychiatric research to assess the overall change in a patient's condition over a specific period of time. It is usually rated on a 7-point scale, ranging from 1 (Very Much Improved) to 7 (Very Much Worse).
+The Clinical [Global Impression](/harmonisation-validation/patient-global-impression-of-change-pgic) of Change (CGIC) is a tool used in psychiatric research to assess the overall change in a patient's condition over a specific period of time. It is usually rated on a 7-point scale, ranging from 1 (Very Much Improved) to 7 (Very Much Worse).
 
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Clinical Global Impression of Change (CGIC) " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}

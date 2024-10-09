@@ -34,7 +34,7 @@ Before tabulating your data, it's crucial to understand the types of questions i
 - **Open-ended questions**: These solicit a free-form response from participants, providing qualitative data.
 
 
-Survey data comes from questionnaires designed to gather information from specific groups of people about their opinions, behaviors, or characteristics. This data can be qualitative (non-numerical, text-based answers) or quantitative (numerical, measurable answers).
+Survey data comes from [questionnaires](/data-harmonisation/extract-process-data-from-questionnaires) designed to gather information from specific groups of people about their opinions, behaviors, or characteristics. This data can be qualitative (non-numerical, text-based answers) or quantitative (numerical, measurable answers).
 
 
 ---
@@ -145,7 +145,7 @@ Now, let's proceed with preparing the data for tabulation based on the sample me
 
 - Check for errors, inconsistencies, and missing values in each column.
 - Ensure responses fall within the expected range (e.g., age within reasonable limits).
-- Correct any typos or formatting issues.
+- Correct any typos or [formatting](/open-source-for-social-science/formatting-help) issues.
 
 #### Coding Open-ended Responses:
 
@@ -408,7 +408,7 @@ Hear are some key insights and recommendation of our servey:
 
 ### Recommendations
 
-- Encourage interventions and initiatives aimed at improving mental health quality, such as promoting access to mental health services and resources, implementing workplace wellness programs, and fostering supportive social environments.
+- Encourage interventions and initiatives aimed at improving [mental health](/ai-in-mental-health) quality, such as promoting access to mental health services and resources, implementing workplace wellness programs, and fostering supportive social environments.
 - Develop targeted strategies for different age groups to enhance overall well-being, recognizing the potential impact of age-related factors on mental health and well-being outcomes.
 
 
@@ -463,7 +463,7 @@ Using the provided data, create frequency distribution tables for each question 
 
 |                   | Mathematics | Science | English | History | Other | Total |
 |-------------------|-------------|---------|---------|---------|-------|-------|
-| Gender            |             |         |         |         |       |       |
+| [Gender](/discover-data/gender-dysphoria-datasets-and-studies)            |             |         |         |         |       |       |
 | Male              | 20          | 15      | 10      | 5       | 5     | 45    |
 | Female            | 10          | 10      | 10      | 10      | 15    | 55    |
 | Other             | 0           | 0       | 0       | 0       | 5     | 5     |

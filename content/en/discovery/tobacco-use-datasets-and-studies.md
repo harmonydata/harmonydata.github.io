@@ -15,7 +15,7 @@ Exploring the origins, prevalence, and effects of tobacco use has occupied signi
 
 Harmony Discovery is a highly innovative tool designed with the fundamental task of helping social science researchers find datasets relevant to their subject of interest. Notably, this tool is instrumental for researchers who are particularly interested in longitudinal studies, like those of tobacco use.
 
-A few examples include the '1647 Surveys on Smoking, 6-11 July, 1976', '1649 Surveys on Smoking, 20-25 July, 1976', and the '1646 Surveys on Smoking, 11-17 June, 1976'. Each of these datasets is exemplary of how meticulous record-keeping and repeated observations allow researchers to undertake deep analyses at an individual level.
+A few examples include the '1647 Surveys on [Smoking](/discover-data/smoking-datasets-and-studies), 6-11 July, 1976', '1649 Surveys on Smoking, 20-25 July, 1976', and the '1646 Surveys on Smoking, 11-17 June, 1976'. Each of these datasets is exemplary of how meticulous record-keeping and repeated observations allow researchers to undertake deep analyses at an individual level.
 
 ## How Does Harmony Work?
 

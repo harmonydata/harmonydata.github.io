@@ -228,7 +228,7 @@ Data harmonisation is a multifaceted process that requires the application of va
 
 Data harmonisation is not a one-time task but an ongoing process that requires continuous attention and refinement.it is a dynamic and complex process, but by following these steps, techniques, and best practices, organisations can significantly improve their data management capabilities. 
 
-Remember, the key to successful data harmonisation lies in meticulous planning, continuous improvement, and adherence to best practices. By investing time and resources into harmonising data, organisations can unlock valuable insights, enhance decision-making, and achieve strategic objectives more effectively.
+Remember, the key to successful data harmonisation lies in meticulous planning, continuous improvement, and adherence to best practices. By investing time and resources into harmonising data, [organisations](/data-harmonisation/10-data-harmonisation-examples-that-move-businesses-and-organisations-forward) can unlock valuable insights, enhance decision-making, and achieve strategic objectives more effectively.
 
 
 ## Further Reading

@@ -90,7 +90,7 @@ Integrate Harmony with prominent repositories like the UK Data Archive, UKLLC, a
 
 ### Develop a Study Search Endpoint for Harmony API
 
-This project proposal aims to enhance the functionality of the Harmony project by implementing a new endpoint called "search" in Harmony's API. This endpoint will enable third-party users, such as the UK Longitudinal Life Course Studies Consortium (UKLLC), to search for studies based on specific criteria. By integrating advanced search capabilities into Harmony's API, users will be able to query the database and retrieve relevant studies efficiently.
+This project proposal aims to enhance the functionality of the Harmony project by implementing a new endpoint called "search" in Harmony's [API](/open-source-for-social-science/harmony-api). This endpoint will enable third-party users, such as the UK Longitudinal Life Course Studies Consortium (UKLLC), to search for studies based on specific criteria. By integrating advanced search capabilities into Harmony's API, users will be able to query the database and retrieve relevant studies efficiently.
 
 * Harmony adds a new endpoint called `search` to Harmony's API which would allow third parties such as UKLLC to search for studies. This is basically a URL that would probably look something like https://api.harmonydata.ac.uk/search and which would allow Harmony to receive a text and find variables in UKLLC's database that are similar to it. The existing endpoints are [here](https://api.harmonydata.ac.uk/docs).
 
@@ -211,7 +211,7 @@ This project aims to leverage the Harmony project, a tool designed for retrospec
 
 - Well-designed Kaggle competitions addressing various aspects of questionnaire item harmonisation.
 
-- Curated datasets representing diverse questionnaire items for use in competitions.
+- Curated datasets representing diverse [questionnaire](/data-harmonisation/tabulate-questionnaire-survey-result-data) items for use in competitions.
 
 - Clear documentation outlining competition objectives, guidelines, and evaluation criteria.
 
@@ -281,7 +281,7 @@ These are proposals in the mailing lists and Discord which have not been publish
 
 * Training webinars
 * Hackathon
-* More Kaggle competitions
+* More [Kaggle](/open-source-for-social-science/kaggle) competitions
 
 List prepared in collaboration with [Piyush Raj](https://github.com/0x48piraj).
 

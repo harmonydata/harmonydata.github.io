@@ -15,7 +15,7 @@ In today's digital era, vast amounts of data are collected and stored. For resea
 
 ## What Is Gambling Disorder?
 
-Gambling Disorder, otherwise known as pathological gambling, is a significant public health concern. Researchers interested in this area conduct studies to understand the factors influencing the onset, progression, and treatment of the disorder. Key to their research is access to rich, relevant datasets. 
+[Gambling](/discover-data/gambling-datasets-and-studies) Disorder, otherwise known as pathological gambling, is a significant public health concern. Researchers interested in this area conduct studies to understand the factors influencing the onset, progression, and treatment of the disorder. Key to their research is access to rich, relevant datasets. 
 
 ## Explore Datasets with Harmony Discovery
 

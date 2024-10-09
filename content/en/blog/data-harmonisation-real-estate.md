@@ -104,7 +104,7 @@ According to Erik Wallin from the RealEstateCore Consortium and Gabriel Fierro f
 
 After making the public preview release in August 2022, both standards continue to be utilised as standalone projects, each one being managed by their designated consortium. At a glance, the combination of the two standards broadly covers:
 
-- Business administration systems, e.g. Sustainability reporting, ERP, CAFM, etc.
+- Business administration systems, e.g. [Sustainability](/open-source-for-social-science/sustainability) reporting, ERP, CAFM, etc.
 - Blueprints, such as DWG or building information modelling
 - IoT devices like indoor climate and People counting
 - Building management systems, e.g. Elevator, Access Control, HVAC, etc.

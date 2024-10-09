@@ -19,7 +19,7 @@ The FACT-Head and Neck (FACT-HN) subscale is a supplement to the FACT-G that foc
 
 To validate the FACT-G with FACT-HN subscale, researchers may want to compare it with other instruments that measure similar constructs. This is where Harmony can be useful.
 
-Harmony uses natural language processing and AI models to compare questionnaire items and provide a percentage match between each item in different instruments, even if they are in different languages. This can help researchers identify which items in the FACT-G with FACT-HN subscale match with items in other instruments, allowing for cross-validation and harmonisation between different instruments.
+Harmony uses natural language processing and AI models to compare questionnaire items and provide a percentage match between each [item](/item-harmonisation) in different instruments, even if they are in different languages. This can help researchers identify which items in the FACT-G with FACT-HN subscale match with items in other instruments, allowing for cross-validation and harmonisation between different instruments.
 
 Harmony's database also includes a variety of instruments, so researchers can easily select instruments and compare them to the FACT-G with FACT-HN subscale. They can also upload their own instruments in PDF form for comparison.
 

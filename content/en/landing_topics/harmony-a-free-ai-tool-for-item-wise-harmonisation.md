@@ -19,7 +19,7 @@ By using Harmony, researchers can easily compare instruments in longitudinal stu
 
 The tool's web interface, available at https://harmonydata.ac.uk/app, allows users to select instruments from a database or simply drag and drop their own instruments in PDF format. Harmony then uses large language models to compare items and provides a percentage match between each item.
 
-One of the unique features of Harmony is its ability to compare items in multiple languages, which is especially useful in international studies. Overall, Harmony is a valuable resource for psychologists and social scientists looking to efficiently and accurately harmonise questionnaire items for their research. 
+One of the unique [features](/open-source-for-social-science/what-features-would-you-like-to-see-in-harmony) of Harmony is its ability to compare items in multiple languages, which is especially useful in international studies. Overall, Harmony is a valuable resource for psychologists and social scientists looking to efficiently and accurately harmonise questionnaire items for their research. 
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Harmony: A Free AI Tool for Item-Wise Harmonisation " title=" Harmony: A Free AI Tool for Item-Wise Harmonisation " >}}

@@ -11,7 +11,7 @@ The Montgomery Asberg Depression Rating Scale (MADRS) is a commonly used tool in
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Montgomery Asberg Depression Rating Scale " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-One of the challenges in research is to compare and combine data from multiple studies and instruments. This is where the Harmony software can be of help. Harmony utilizes natural language processing and generative AI models to compare items in instruments such as the MADRS with other depression assessment tools, such as the Beck Depression Inventory (BDI) or the Hamilton Rating Scale for Depression (HAM-D). 
+One of the challenges in [research](/item-harmonisation/harmony-a-free-ai-tool-for-cross-cohort-research) is to compare and combine data from multiple studies and instruments. This is where the Harmony software can be of help. Harmony utilizes natural language processing and generative AI models to compare items in instruments such as the MADRS with other depression assessment tools, such as the Beck Depression Inventory (BDI) or the Hamilton Rating Scale for Depression (HAM-D). 
 
 * [Validation and Harmonisation of Clinician-Administered PTSD Scale (CAPS)](/harmonisation-validation/clinician-administered-ptsd-scale-caps)
 * [Validation and Harmonisation of Arthritis Impact Measurement Scales-2 (AIMS2)](/harmonisation-validation/arthritis-impact-measurement-scales-2-aims2)

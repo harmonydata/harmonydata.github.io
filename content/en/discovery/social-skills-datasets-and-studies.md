@@ -37,7 +37,7 @@ Moreover, Harmony Discovery isn't limited to cross-sectional studies. Researcher
 
 The Harmony is connected to a range of valuable data sources, such as the [UKLLC](https://explore.ukllc.ac.uk), [Closer](https://www.closer.ac.uk/), the [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/), [HDR UK](https://www.hdruk.ac.uk/), and [ADR UK](https://www.adruk.org/). These partnerships offer an enriched repository of datasets that can foster insightful research in social skills.
 
-In conclusion, Harmony Discovery, with its intelligent search capabilities and extensive data repositories, stands as a vital tool for researchers in the quest to understand social skills better. It propels critical research forward by ensuring that researchers can effortlessly access, navigate, and analyse the rich, varied datasets they need. Exploring social skills has never been easier, thanks to Harmony Discovery.
+In conclusion, Harmony Discovery, with its intelligent search capabilities and extensive data repositories, stands as a vital tool for researchers in the quest to understand social skills better. It propels critical research [forward](/ai-in-mental-health/harmony-going-forward) by ensuring that researchers can effortlessly access, navigate, and analyse the rich, varied datasets they need. Exploring social skills has never been easier, thanks to Harmony Discovery.
 
 ## See also
 

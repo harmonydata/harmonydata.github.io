@@ -6,7 +6,7 @@ url: /harmonisation-validation/arthritis-impact-measurement-scales-2-aims2
 
 ## Validation and Harmonisation of Arthritis Impact Measurement Scales-2 (AIMS2)
 
-The Arthritis Impact Measurement Scales-2 (AIMS2) is a widely used instrument for assessing pain in individuals with arthritis. It consists of five items that assess typical pain, pain severity, and pain during specific times of the day, using a 5-point Likert scale ("all days" to "no days"). The possible range of scores is 0-10, with higher scores indicating more severe pain.
+The Arthritis Impact Measurement Scales-2 (AIMS2) is a widely used instrument for assessing [pain](/harmonisation-validation/numeric-pain-rating-scale-nprs) in individuals with arthritis. It consists of five items that assess typical pain, pain severity, and pain during specific times of the day, using a 5-point Likert scale ("all days" to "no days"). The possible range of scores is 0-10, with higher scores indicating more severe pain.
 
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Arthritis Impact Measurement Scales-2 (AIMS2) " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}

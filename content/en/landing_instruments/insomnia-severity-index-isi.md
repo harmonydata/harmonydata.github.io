@@ -17,7 +17,7 @@ One challenge that researchers face when using the ISI is harmonising it with ot
 * [GHQ-12 vs SDQ](/compare-harmonise-instruments/ghq-12-vs-sdq/)
 * [Validation and Harmonisation of PROMIS depression subscale](/harmonisation-validation/promis-depression-subscale)
 
-This is where Harmony can be a valuable tool for psychologists. By using large language models, Harmony is able to compare items in the ISI with items in other instruments and provide a percentage match between them. This not only saves researchers time but also ensures a more objective and consistent approach to harmonising instruments.
+This is where Harmony can be a valuable tool for psychologists. By using large language models, Harmony is able to compare items in the ISI with items in other [instruments](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology) and provide a percentage match between them. This not only saves researchers time but also ensures a more objective and consistent approach to harmonising instruments.
 
 Additionally, Harmony's database includes a wide range of instruments from various languages, making it easier for researchers to select and compare items from different instruments. Researchers can also upload their own instruments in PDF form to be harmonised by Harmony's web interface.
 

@@ -141,12 +141,12 @@ Start harmonising today and turn your data into powerful knowledge. Let's make d
 
 - data harmonisation
 - data harmonisation tool
-- harmonise your questionnaire data
+- harmonise your [questionnaire](/data-harmonisation/tabulate-questionnaire-survey-result-data) data
 - tool for harmonising questionnaires
 - multilingual data harmonisation
 - harmonising data
 - harmonising questionnaires
 - data harmonisation techniques
 - data harmonisation process
-- data harmonisation steps
+- data harmonisation [steps](/data-harmonisation/data-harmonisation-steps-techniques-best-practices)
 

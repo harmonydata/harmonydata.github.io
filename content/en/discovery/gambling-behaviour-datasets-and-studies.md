@@ -11,7 +11,7 @@ url: "/discover-data/gambling-behaviour-datasets-and-studies"
 
 ## Discover Gambling Behaviour datasets with Harmony Discovery
 
-Gambling, while a common recreational activity, can sometimes intensify into a compulsive problem, leading to significant negative effects on individuals and society. Researchers and policy makers continuously grapple with understanding and defining effective interventions for problem gambling. To do this, they need access to quality datasets on gambling behaviour, and that is where the Harmony Discovery tool becomes a game-changer.
+[Gambling](/discover-data/gambling-datasets-and-studies), while a common recreational activity, can sometimes intensify into a compulsive problem, leading to significant negative effects on individuals and society. Researchers and policy makers continuously grapple with understanding and defining effective interventions for problem gambling. To do this, they need access to quality datasets on gambling behaviour, and that is where the Harmony Discovery tool becomes a game-changer.
 
 Harmony Discovery is a powerful data discovery engine specifically developed to help researchers discover rich and layered datasets in the realm of social sciences, including that of gambling behaviour. With Harmony, researchers can access datasets sourced from prominent repositories, such as UKLLC, Closer, the Catalogue of Mental Health Measures, HDR UK, and ADR UK, among others. 
 

@@ -30,9 +30,9 @@ Let’s continue with a practical example:
 
 ## Data harmonisation for education in surveys
 
-Surveys and questionnaires are a time-tested data source because they are a standardised form of acquiring the necessary data. This leads to a highly structured and uniform questionnaire which can be presented as a standardised interview.
+Surveys and [questionnaires](/data-harmonisation/extract-process-data-from-questionnaires) are a time-tested data source because they are a standardised form of acquiring the necessary data. This leads to a highly structured and uniform questionnaire which can be presented as a standardised interview.
 
-However, some processes and data are either difficult to standardise or cannot be standardised through survey operations, questionnaires or standardised interview administration. What’s actually needed is further standardisation, which can be achieved via data processing.
+However, some processes and data are either difficult to standardise or cannot be standardised through survey operations, questionnaires or standardised interview administration. What’s actually needed is further [standardisation](/data-harmonisation/data-standardisation-vs-harmonisation), which can be achieved via data processing.
 
 Efforts focused on standardising inputs and outputs in comparative surveys are called ‘harmonisation’. The measurement of educational attainment within cross-national surveys, for instance, requires data harmonisation procedures with robust data processing practices at the core. Since the majority of educational systems and their respective qualifications can differ drastically across countries, where the names of educational qualifications can often not be reliably translated across different languages, similar terms are used to indicate the different levels of education.
 

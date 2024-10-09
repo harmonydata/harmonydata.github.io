@@ -19,7 +19,7 @@ Harmony Discovery is an advanced tool developed primarily for researchers in the
 
 ## Source Integration
 
-Harmony boasts a comprehensive and expansive reach, sourcing data from various platforms such as the UKLLC, Closer, the Catalogue of Mental Health Measures, HDR UK, and ADR UK. By pooling resources from these multiple sources, Harmony grants researchers access to a vast pool of valuable information.
+Harmony boasts a comprehensive and expansive reach, sourcing data from various platforms such as the UKLLC, Closer, the Catalogue of Mental Health Measures, HDR UK, and ADR UK. By [pooling](/item-harmonisation/harmony-a-free-ai-tool-for-data-pooling) resources from these multiple sources, Harmony grants researchers access to a vast pool of valuable information.
 
 ## User-friendly Functionality
 

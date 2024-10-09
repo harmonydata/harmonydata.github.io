@@ -140,11 +140,11 @@ If you want to learn more or have a specific question, our website has lots of r
 **Keywords:**
 
 - Data harmonisation
-- data harmonisation tools
-- data harmonisation techniques
+- data harmonisation [tools](/data-harmonisation/data-harmonisation-tools-frameworks)
+- data harmonisation [techniques](/data-harmonisation/data-harmonisation-steps-techniques-best-practices)
 - data harmonisation process
-- harmonised data
-- harmonising questionnaire data
+- [harmonised](/data-harmonisation/what-is-truly-harmonised-data) data
+- [harmonising questionnaire data](/data-harmonisation/harmonising-questionnaire-data-consistency)
 - harmonising data
 - harmonising survey data
 - Categorization Technique

@@ -25,7 +25,7 @@ When I prepared the PPIE session for my colleagues, I tried to find examples in 
 
 1. **Developing your [project](https://fastdatascience.com/starting-a-data-science-project), proposal, and research question**
 
-There are a lot of great opportunities to involve members of the public or experts by experience in the early stages of your research. You can share your proposal idea with them and get valuable feedback on it, or if you are brave enough and have sufficient time you can invite experts-by-experience to be your co-researchers. 
+There are a lot of great opportunities to involve members of the public or experts by experience in the early stages of your [research](/ai-in-mental-health/research-funders-ai-governance). You can share your proposal idea with them and get valuable feedback on it, or if you are brave enough and have sufficient time you can invite experts-by-experience to be your co-researchers. 
 
 Let’s assume you as a researcher are interested in finding out which factors put young people at [risk](https://fastdatascience.com/how-can-we-assess-the-risk-of-a-clinical-trial-using-ai) of developing anxiety and depression. Your existing (hopefully large) dataset has many different variables that represent different risk factors, such as “bullying”, “deprivation”, “loss of a family member”, “parental conflict” or “low academic attainment”. My first step would be to translate these topics or items into something a young person can understand better, for instance: “parental conflict” = “parents that fight a lot and have arguments” or “low academic attainment” = “a student who keeps failing exams or keeps getting bad grades”. 
 

@@ -23,7 +23,7 @@ One of the key advantages of using Harmony is its ability to compare items in mu
 
 By using Harmony, psychologists can easily compare instruments in longitudinal studies and analyse the consistency of results across different studies. This helps in understanding the impact of changing social conditions on psychological factors over time.
 
-Overall, Harmony is a valuable tool for psychologists and social scientists, providing an efficient and accurate solution for harmonising questionnaire items in cross-cultural and longitudinal studies. And the best part? It's completely free to use. So why spend hours manually harmonising questionnaires when Harmony can do it for you? Give it a try and see the difference it can make in your research.
+Overall, Harmony is a valuable tool for psychologists and social scientists, providing an efficient and accurate solution for harmonising questionnaire items in cross-[cultural](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe) and longitudinal studies. And the best part? It's completely free to use. So why spend hours manually harmonising questionnaires when Harmony can do it for you? Give it a try and see the difference it can make in your research.
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Harmony: A Free AI Tool for Longitudinal Study In Psychology " title=" Harmony: A Free AI Tool for Longitudinal Study In Psychology " >}}

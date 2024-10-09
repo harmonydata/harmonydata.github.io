@@ -25,7 +25,7 @@ On Thursday, August 17th, 2023, the Harmony and [TIDAL](https://github.com/Ameli
 The aim of the workshop was to give participants hands-on experience with Harmony and TIDAL, and to demonstrate how they can be used to answer research questions about mental health, covering the following topics.
 
 * How to use Harmony to harmonise questionnaires and create comparable measures of mental health symptoms.
-* How to use TIDAL to explore trajectories of mental health problems over time.
+* How to use TIDAL to explore trajectories of mental health [problems](/discover-data/emotional-problems-datasets-and-studies) over time.
 
 The participants were given the opportunity to practice using Harmony and TIDAL on a simulated dataset. They also had the chance to ask questions and get help from the Harmony and TIDAL teams.
 
@@ -62,6 +62,6 @@ If you are interested in learning more about Harmony, please check out some of o
 
 TIDAL stands for Tool to Implement Developmental Analyses of Longitudinal Data. TIDAL is designed to facilitate work trajectories and remove barriers to implementing [longitudinal research](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study/) to researchers without specialist statistical backgrounds, enabling them to address questions like:
 
-* How mental health is changing over specific periods of time.
+* How [mental](/discover-data/mental-illness-datasets-and-studies) health is changing over specific periods of time.
 * When mental health is improving or worsening at the fastest rate (points of acceleration).
 * How variable mental health responses are over time within individuals (stability).

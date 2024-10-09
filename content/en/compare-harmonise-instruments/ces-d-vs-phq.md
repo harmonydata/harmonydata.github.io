@@ -35,7 +35,7 @@ Both CES-D and PHQ are widely used instruments in examining depressive symptoms.
 
 
 
-For instance, CES-D tends to focus on affective components of depressive symptoms whereas PHQ includes elements of anhedonia and suicidal thoughts, presenting a comprehensive view of depressive experience. This necessitates a careful CES-D vs PHQ comparison to ensure these differences are taken into account in research analysis. As such, researchers often find themselves bogged down in spreadsheets and PDF documents, trying to make meaningful comparisons.
+For instance, CES-D tends to focus on affective components of depressive symptoms whereas PHQ includes elements of [anhedonia](/discover-data/anhedonia-datasets-and-studies) and suicidal thoughts, presenting a comprehensive view of depressive experience. This necessitates a careful CES-D vs PHQ comparison to ensure these differences are taken into account in research analysis. As such, researchers often find themselves bogged down in spreadsheets and PDF documents, trying to make meaningful comparisons.
 
 
 

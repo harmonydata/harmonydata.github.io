@@ -52,7 +52,7 @@ So how can we maximise the uptake and implementation of Harmony to give it a lon
 
 
 
-We wish all remaining Wellcome Mental Health Data Prize teams a great start into the next stage. We are beyond excited.
+We wish all remaining [Wellcome](/ai-in-mental-health/radio-podcast-about-wellcome-data-prize) Mental Health Data Prize teams a great start into the next stage. We are beyond excited.
 
 {{< image src="images/blog/kelsey-knight-SFRw5GChoLA-unsplash-1-1536x1024.jpg" alt="kelsey knight" >}}
 ------

@@ -30,7 +30,7 @@ Please familiarise yourself with Git. You can [fork Harmony](https://github.com/
 
 {{< youtube WAWRgCHSV5I >}}
 
-_Video of our orientation session on how to contribute to Harmony._
+_Video of our [orientation session](/open-source-for-social-science/harmony-orientation-session) on how to contribute to Harmony._
 
 ## Issues and bug reports
 

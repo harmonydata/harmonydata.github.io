@@ -11,7 +11,7 @@ url: "/discover-data/schizotypal-personality-disorder-datasets-and-studies"
 
 ## Discover Schizotypal Personality Disorder Datasets with Harmony Discovery
 
-Schizotypal Personality Disorder (SPD) is a mental health condition characterized by odd behaviors, beliefs, thoughts, and difficulty in social situations. In-depth research into this disorder is critical to understanding its nuances and impacts on those affected. With a multitude of datasets available, navigating and finding the relevant ones can pose a challenge for researchers. 
+Schizotypal [Personality Disorder](/discover-data/schizoid-personality-disorder-datasets-and-studies) (SPD) is a mental health condition characterized by odd behaviors, beliefs, thoughts, and difficulty in social situations. In-depth research into this disorder is critical to understanding its nuances and impacts on those affected. With a multitude of datasets available, navigating and finding the relevant ones can pose a challenge for researchers. 
 
 This is where Harmony Discovery, a powerful and sophisticated tool, comes into play, revolutionizing the way you can discover datasets about Schizotypal Personality Disorder.
 

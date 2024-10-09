@@ -132,7 +132,7 @@ By deploying a computational method – which includes acquiring datasets like s
 
 Similarly, feature-wise harmonisation will reduce the bias of extracted features – GLCM and convex hull area of a region of interest, for example. It’s typically performed on extracted feature matrixes, thus, eliminating the cohort variances by fusing the extracted features.
 
-Both sample-wise and feature-wise data harmonisation in healthcare can reduce the underlying variances and, therefore, noticeably improve the performance and effectiveness of analysis.
+Both sample-wise and feature-wise data harmonisation in [healthcare](/data-harmonisation/data-harmonisation-in-healthcare) can reduce the underlying variances and, therefore, noticeably improve the performance and effectiveness of analysis.
 
 For decades, computational data harmonisation has been proposed for digital healthcare research studies. However, until and unless data harmonisation is performed effectively, bridging the basic science research models and data fusion models into a multicentre, multimodal, and multiscanner medical practice as well as clinical trials – can be very challenging.
 
@@ -190,6 +190,6 @@ Using a multi-model data platform along another one with semantic AI capabilitie
 
 You will likely come across many similar ‘day-to-day’ examples like these as adoption of data harmonisation in the public sector continues to increase.
 
-In closing, data harmonisation for the public sector is something which can drastically boost organisational efficiencies by streamlining data processing and management. It helps to reduce the risk of errors by a broad margin and also the length of time needed to derive insights to make informed business decisions.
+In closing, data harmonisation for the public sector is something which can drastically boost organisational efficiencies by streamlining data processing and management. It helps to reduce the risk of errors by a broad margin and also the length of time needed to derive [insights](/data-harmonisation/data-harmonisation-for-marketing-success-strategies-and-insights) to make informed business decisions.
 
 The Harmony app can help you overcome all kinds of data harmonisation (public sector) challenges, helping you embrace best practices to achieve your end goal in a far more efficient and cost-effective way.

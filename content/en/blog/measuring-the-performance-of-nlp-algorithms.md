@@ -35,7 +35,7 @@ A screenshot of the harmonisation tool by McElroy et al (2020). You can download
 
 Since Harmony’s purpose is to automate, or at least facilitate, the production of harmonisation tools such as this, an easy way to validate Harmony’s output is to give Harmony this data and check that Harmony produces something similar to the existing tool.
 
-The existing tool by McElroy et al has a section for adult mental health questionnaires, and another section for child questionnaires. I decided to treat these two as separate [validation](/harmonisation-validation/clinical-global-impression-of-change-cgic) datasets.
+The existing tool by McElroy et al has a section for adult mental health questionnaires, and another section for child questionnaires. I decided to treat these two as separate validation datasets.
 
 ### Can Harmony match text in different languages?
 

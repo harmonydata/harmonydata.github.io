@@ -11,7 +11,7 @@ url: "/discover-data/histrionic-personality-disorder-datasets-and-studies"
 
 ## Discover Histrionic Personality Disorder Datasets Using Harmony Discovery
 
-Psychiatry and psychology are fields that are heavily reliant on data, and finding valuable, accurate, and comprehensive datasets can be an arduous task. This is particularly the case when investigating specific and less-studied mental health disorders such as Histrionic Personality Disorder (HPD). Thankfully, tools like Harmony Discovery simplify this process by connecting researchers to databases across different data sources.
+[Psychiatry](/ai-in-mental-health/bmc-psychiatry-paper) and psychology are fields that are heavily reliant on data, and finding valuable, accurate, and comprehensive datasets can be an arduous task. This is particularly the case when investigating specific and less-studied mental health disorders such as Histrionic Personality Disorder (HPD). Thankfully, tools like Harmony Discovery simplify this process by connecting researchers to databases across different data sources.
 
 ## What is Harmony Discovery?
 

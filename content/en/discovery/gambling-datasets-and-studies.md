@@ -11,7 +11,7 @@ url: "/discover-data/gambling-datasets-and-studies"
 
 ## Discover Gambling Datasets with Harmony Discovery
 
-In the field of social sciences, the study of gambling is essential to understanding its effects, risks, and societal particulars. Access to accurate and diverse datasets on gambling is crucial for carrying out high-quality research in this area. This is where **Harmony Discovery** plays an integral role. 
+In the field of social sciences, the study of [gambling](/discover-data/gambling-disorder-datasets-and-studies) is essential to understanding its effects, risks, and societal particulars. Access to accurate and diverse datasets on gambling is crucial for carrying out high-quality research in this area. This is where **Harmony Discovery** plays an integral role. 
 
 ## What is Harmony Discovery?
 

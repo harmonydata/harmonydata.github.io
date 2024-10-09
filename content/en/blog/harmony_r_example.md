@@ -29,7 +29,7 @@ Alternatively, you can also run this notebook in Google Colab, or [download as J
 
 {{< youtube hFqg6T_BqZc >}}
 
-_Installation of Harmony R package on Windows 10._
+_Installation of Harmony [R package](/open-source-for-social-science/harmony-r-package) on Windows 10._
 
 When you've [downloaded the .Rmd file](/harmony_r_example.Rmd), you can open it in [R Studio](https://posit.co/download/rstudio-desktop/). You can execute any chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
 

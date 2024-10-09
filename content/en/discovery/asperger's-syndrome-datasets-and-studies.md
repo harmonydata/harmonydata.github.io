@@ -57,7 +57,7 @@ Harmony leverages sizeable language models to match questionnaire items and vari
 
 When it comes to exploring datasets on Asperger's Syndrome, Harmony Discovery stands as an invaluable tool. With longitudinal data from various substantial sources, paired with advanced language models, researchers can enhance their studies on Asperger's Syndrome.
 
-So whether you're looking to investigate conversational alignment in children with autism, grasp the world of savants, or comprehend how adults with autism far as eyewitnesses, Harmony paves the way, making your data discovery journey seamless.
+So whether you're looking to investigate conversational alignment in children with [autism](/discover-data/autism-datasets-and-studies), grasp the world of savants, or comprehend how adults with autism far as eyewitnesses, Harmony paves the way, making your data discovery journey seamless.
 
 ---
 

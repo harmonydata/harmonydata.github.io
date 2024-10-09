@@ -11,7 +11,7 @@ Harmony is a powerful software designed specifically for psychologists and socia
 {{< card heading="Try Harmony" copy=" Harmony: A Free AI Tool for Longitudinal Study " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-One of the key features of Harmony is its natural language processing and generative AI models, which are used to compare items in different questionnaires. This can be especially helpful when working with studies in different languages, as Harmony can automatically match similar items and give a percentage match for each one. This ensures consistency and accuracy in comparison across studies.
+One of the key [features](/open-source-for-social-science/what-features-would-you-like-to-see-in-harmony) of Harmony is its natural language processing and generative AI models, which are used to compare items in different questionnaires. This can be especially helpful when working with studies in different languages, as Harmony can automatically match similar items and give a percentage match for each one. This ensures consistency and accuracy in comparison across studies.
 
 * [GAD-7 vs Beck Anxiety Inventory](/compare-harmonise-instruments/gad-7-vs-beck-anxiety-inventory/)
 * [Harmony: A Free AI Tool for Data Pooling](/item-harmonisation/harmony-a-free-ai-tool-for-data-pooling)

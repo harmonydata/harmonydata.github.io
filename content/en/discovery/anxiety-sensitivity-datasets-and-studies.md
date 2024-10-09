@@ -44,10 +44,10 @@ Here are some examples of Anxiety Sensitivity datasets that can be found through
   This dataset delves into chronic worrying, a characteristic of most anxiety-based mental health issues.
 
 - **Do attentional and interpretive biases interact or work independently in vulnerability to emotional stress?** ([851126](https://reshare.ukdataservice.ac.uk/851126)):
-  The dataset explores the role of thought processes in anxiety, depression, and elation.
+  The dataset explores the role of thought processes in anxiety, [depression](/harmonisation-validation/hospital-anxiety-and-depression-scale-hads), and elation.
 
 - **The role of physiological arousal and intergroup anxiety in prejudice** ([850413](https://reshare.ukdataservice.ac.uk/850413)):
-  This dataset investigates how prejudice links to emotional reactions and particularly to intergroup anxiety.
+  This dataset investigates how prejudice links to [emotional](/discover-data/emotional-problems-datasets-and-studies) reactions and particularly to intergroup anxiety.
 
 ## Make the Most of Longitudinal Studies
 

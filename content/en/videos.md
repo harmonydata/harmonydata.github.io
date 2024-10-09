@@ -42,7 +42,7 @@ Key points from the video
 
 [Click here to download an example notebook in R markdown](/open-source-for-social-science/harmony-r-notebook-r-markdown-example/).
 
-* Launch a web browser and go to the CRAN website.
+* Launch a web browser and go to the [CRAN](/open-source-for-social-science/harmony-cran) website.
 
 * Find the download link for R for Windows.
 * Download the R installer file and open it.
@@ -126,7 +126,7 @@ The video concludes by showing how to export the harmonised data from Harmony.
 
 Here are some of the key features of Harmony:
 
-* It can harmonise questionnaires in PDF or Excel format.
+* It can harmonise [questionnaires](/data-harmonisation/harmonising-questionnaire-data-consistency) in PDF or Excel format.
 * It can match questions from different questionnaires based on their meaning, not just their exact wording.
 * It allows the user to adjust the match threshold percentage to control how strict or lenient the question match is.
 * It can export the harmonised data in a variety of formats, including Excel, CSV, and JSON.
@@ -145,7 +145,7 @@ Here are some of the key points from the video:
 * Harmony is a Python library that can be used to harmonise and compare questionnaires and instruments.
 * Harmony can be used to match questionnaires across different languages.
 * Harmony can be used to extract instrument texts from PDFs.
-* Harmony works with multilingual documents - in fact, it supports over eight languages!
+* Harmony works with multilingual documents - in fact, it supports over eight [languages](/psychology-ai-tool/harmony-many-languages)!
 
 The video is a good introduction to Harmony and how it can be used. The video is clear and easy to follow, and it provides a good overview of the features of Harmony.
 

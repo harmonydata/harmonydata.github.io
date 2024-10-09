@@ -17,7 +17,7 @@ Traditionally, harmonisation has been a time-consuming and subjective task. It i
 * [CES-D vs Beck Anxiety Inventory](/compare-harmonise-instruments/ces-d-vs-beck-anxiety-inventory/)
 * [Validation and Harmonisation of Patient Health Questionnaire-9 (PHQ-9)](/harmonisation-validation/patient-health-questionnaire-9-phq-9)
 
-Harmony uses advanced natural language processing and generative AI models to help researchers harmonise questionnaire items, even if they are in different languages. This allows researchers to make full use of cohort and longitudinal studies by making comparisons both within and across studies.
+Harmony uses advanced natural language processing and generative AI models to help researchers harmonise questionnaire items, even if they are in different languages. This allows researchers to make full use of [cohort](/item-harmonisation/harmony-a-free-ai-tool-to-combine-cohort-studies) and longitudinal studies by making comparisons both within and across studies.
 
 By repeating the same longitudinal analysis across a number of studies, researchers can test the consistency of results or identify potential variations in response to changing social conditions.
 

@@ -143,11 +143,11 @@ While both processes aim to make data from different sources work together, data
 
 ### **How do you extract data from a questionnaire and collect data from a survey questionnaire?**
 
-Extracting and collecting data from a questionnaire involves designing the survey to capture the necessary information, distributing it to your target audience through methods like online platforms, paper forms, or interviews, and then gathering the responses. Digital tools can help automate the collection and initial sorting of data, especially for structured questions. For open-ended responses, qualitative analysis might be needed to understand the insights fully.
+Extracting and collecting data from a questionnaire involves designing the [survey](/data-harmonisation/combine-multiple-survey-sources-best-practices) to capture the necessary information, distributing it to your target audience through methods like online platforms, paper forms, or interviews, and then gathering the responses. Digital tools can help automate the collection and initial sorting of data, especially for structured questions. For open-ended responses, qualitative analysis might be needed to understand the insights fully.
 
 ### **How do you process a questionnaire and survey data?**
 
-Processing a questionnaire starts with cleaning the data to remove any errors or irrelevant answers. Then, you categorise responses, especially for open-ended questions, to identify common themes or patterns. For quantitative data, statistical analysis can reveal trends and relationships. The entire process involves preparing the data for analysis, analysing it to draw conclusions, and then reporting the findings in an understandable way. This allows you to transform raw data into meaningful insights.
+Processing a [questionnaire](/data-harmonisation/harmonising-questionnaire-data-consistency) starts with cleaning the data to remove any errors or irrelevant answers. Then, you categorise responses, especially for open-ended questions, to identify common themes or patterns. For quantitative data, statistical analysis can reveal trends and relationships. The entire process involves preparing the data for analysis, analysing it to draw conclusions, and then reporting the findings in an understandable way. This allows you to transform raw data into meaningful insights.
 
 **Meta Title:** Maximising Data Insights with Harmony: The Future of Questionnaire Analysis
 
@@ -155,6 +155,6 @@ Processing a questionnaire starts with cleaning the data to remove any errors or
 
 - Data harmonisation
 - Data extraction
-- Data standardisation vs harmonisation
+- Data [standardisation](/data-harmonisation/data-standardisation-vs-harmonisation) vs harmonisation
 - Data harmonisation examples
 - Mastering data management

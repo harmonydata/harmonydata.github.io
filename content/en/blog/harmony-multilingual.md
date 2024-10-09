@@ -30,9 +30,9 @@ Harmony is a data harmonisation [project](https://fastdatascience.com/starting-a
 
 Harmony can help you with the following tasks: 
 
-• Find the best match for a set of items from a pool of existing questionnaires 
+• [Find](/item-harmonisation/find-matching-and-common-items-in-questionnaires-and-surveys) the best match for a set of items from a pool of existing questionnaires 
 
-• Compare the compatibility of different versions of the same questionnaire 
+• Compare the compatibility of different versions of the same [questionnaire](/data-harmonisation/harmonising-questionnaire-data-consistency) 
 
 • Translate questionnaire items from one language to another 
 

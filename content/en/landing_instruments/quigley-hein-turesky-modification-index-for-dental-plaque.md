@@ -11,7 +11,7 @@ The Quigley-Hein, Turesky Modification Index for Dental Plaque is a standardized
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Quigley-Hein, Turesky Modification Index for Dental Plaque  " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-Harmony, a software developed for psychologists, can assist in the harmonisation of this index with other instruments. Using natural language processing and generative AI models, Harmony can compare the items in the Quigley-Hein, Turesky Modification Index to items in other instruments and give a percentage match for each item. This can help researchers identify which variables in the index correspond to variables in other instruments, allowing for the validation and crosswalking of the index. 
+Harmony, a software developed for psychologists, can assist in the harmonisation of this index with other instruments. Using natural language processing and generative AI models, Harmony can compare the items in the Quigley-Hein, Turesky Modification Index to items in other instruments and give a percentage match for each [item](/item-harmonisation/harmony-a-free-ai-tool-for-item-harmonisation). This can help researchers identify which variables in the index correspond to variables in other instruments, allowing for the validation and crosswalking of the index. 
 
 * [Validation and Harmonisation of Pittsburgh Sleep Quality Index (PSQI)](/harmonisation-validation/pittsburgh-sleep-quality-index-psqi)
 * [Validation and Harmonisation of Numeric Pain Rating Scale (NPRS)](/harmonisation-validation/numeric-pain-rating-scale-nprs)

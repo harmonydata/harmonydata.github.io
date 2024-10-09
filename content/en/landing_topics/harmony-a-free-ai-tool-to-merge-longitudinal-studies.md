@@ -21,7 +21,7 @@ One of the main benefits of using Harmony is its ability to make comparisons bot
 
 Users can access Harmony through its web interface at https://harmonydata.ac.uk/app. They can either select instruments from the database provided by Harmony, or upload their own instrument in PDF form. Harmony's AI capabilities allow for a seamless comparison process, making it easier for researchers to conduct longitudinal analyses.
 
-In addition to saving time and effort, Harmony also eliminates subjectivity in the harmonisation process. Its use of AI models ensures that the comparisons are objective and accurate, providing researchers with reliable data for their studies. As a free tool, Harmony aims to help researchers make the most out of cohort and longitudinal studies by providing a comprehensive and efficient harmonisation solution.
+In addition to saving time and effort, Harmony also eliminates subjectivity in the harmonisation process. Its use of AI models ensures that the comparisons are objective and accurate, providing researchers with reliable data for their studies. As a free tool, Harmony aims to help researchers make the most out of [cohort](/item-harmonisation/harmony-a-free-ai-tool-to-combine-cohort-studies) and longitudinal studies by providing a comprehensive and efficient harmonisation solution.
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Harmony: A Free AI Tool to Merge Longitudinal Studies " title=" Harmony: A Free AI Tool to Merge Longitudinal Studies " >}}

@@ -125,7 +125,7 @@ The underlying quality of the research system plays a pivotal role in overall R&
 Your quality system should include the following vital components at a minimum:
 
 - Effective management & governance
-- Research management & governance
+- [Research](/ai-in-mental-health/research-funders-ai-governance) management & governance
 - Method & assay qualification
 - Materials, reagents & sample management
 - Facility, equipment & computerised system management
@@ -176,7 +176,7 @@ Choosing the appropriate analytical methods and algorithms is actually a vital p
 
 Research in the pharmaceutical sector encompasses a broad range of experiment techniques, data types, and platforms, so investigators and researchers are always working with highly diverse data sources. This means that they must contend with the heterogeneous datasets being generating from multiple sources, including in-house data and public repositories.
 
-The harmonisation of these diverse datasets requires consolidating differences in data structures and formats as well as semantics, making it challenging to carry out the data integration and standardisation process.
+The harmonisation of these diverse datasets requires consolidating differences in data structures and formats as well as semantics, making it challenging to carry out the data integration and [standardisation](/data-harmonisation/data-standardisation-vs-harmonisation) process.
 
 ### Data formats & standards inconsistencies
 

@@ -272,7 +272,7 @@ Moreover, the efficiency gains from streamlined data processes can reduce health
 ---
 ## Conclusion
 
-Data harmonisation in healthcare is a complex but essential process for integrating public and private health records. By standardizing data across different sources, healthcare providers and researchers can improve patient care, enhance research capabilities, and support effective public health interventions. While challenges exist, the strategic implementation of data harmonisation, along with collaboration among stakeholders, can lead to significant advancements in healthcare information management and utilization.
+Data harmonisation in healthcare is a complex but essential process for integrating [public](/data-harmonisation/data-harmonisation-in-public-sector) and private health records. By standardizing data across different sources, healthcare providers and researchers can improve patient care, enhance research capabilities, and support effective public health interventions. While challenges exist, the strategic implementation of data harmonisation, along with collaboration among stakeholders, can lead to significant advancements in healthcare information management and utilization.
 The future of healthcare lies in leveraging technology to make sense of vast amounts of data. As we look ahead, the role of data harmonisation in realizing the potential of predictive analytics, personalized medicine, and equitable healthcare cannot be understated. With ongoing advances in AI and ML, coupled with thoughtful policy and regulation changes, the harmonisation of health data stands as a cornerstone of future healthcare innovations.
 
 
@@ -291,6 +291,6 @@ This exploration into data harmonisation in healthcare highlights the intricate 
 
 ---
 
-This blog synthesizes information from comprehensive sources on the topic of data harmonisation in healthcare. For detailed insights and methodologies, refer to the original articles on Nature and BMC Medical Informatics and Decision Making.
+This blog synthesizes information from comprehensive sources on the topic of data harmonisation in healthcare. For detailed insights and methodologies, refer to the original articles on Nature and [BMC](/ai-in-mental-health/bmc-psychiatry-paper) Medical Informatics and Decision Making.
 
 

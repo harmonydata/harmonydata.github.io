@@ -23,7 +23,7 @@ Embedded within Harmony Discovery is a large language model that impeccably matc
 
 A query on DPD is likely to reveal troves of interconnected datasets. For instance, a 1975-1976 Socio-Psychiatric Survey on Distribution and Aetiology of Psychiatric Disorder in Lewis and North Uist is available. This series center on the role psycho-social factors play in triggering psychiatric disorders, with emphasis on life-events, difficulties, and depression. 
 
-Similarly, you can find data from 2018-2019, offering parent and practitioner perspectives on the experience of parents exhibiting traits of borderline personality disorders. This dataset provides nuanced understanding of the parenting experience of affected individuals and the kind of support they require. 
+Similarly, you can find data from 2018-2019, offering parent and practitioner perspectives on the experience of parents exhibiting traits of [borderline](/discover-data/borderline-personality-disorder-bpd-datasets-and-studies) personality disorders. This dataset provides nuanced understanding of the parenting experience of affected individuals and the kind of support they require. 
 
 Harmony Discovery also provides datasets like the Improving Access to Psychological Therapies Data Set dataset—a longitudinal study offering repeated observations of the same subjects, allowing for analysis of change at an individual level.
 

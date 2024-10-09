@@ -61,7 +61,7 @@ Ideas of the problems that we will be solving are [here](https://harmonydata.ac.
 
 {{< youtube 1xp3Uh6dptg >}}
 
-*Video tutorial on how to install Harmony front end and API*
+*Video tutorial on how to install Harmony front end and [API](/open-source-for-social-science/harmony-api)*
 
 ## On the day:
 

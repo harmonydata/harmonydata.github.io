@@ -21,7 +21,7 @@ Connected to a diverse selection of data sources, Harmony interfaces with the UK
 
 Harmony employs large language models to match variable names and questionnaire items, effectively tailoring database searches to a researcher's specifications with uncanny precision. This means that when researchers are looking for datasets about psychopathy, they'll receive information that matches their request as closely as possible.
 
-One of the data sets that researchers can find on Harmony Discovery related to psychopathy includes the National Audit of Psychosis. This survey is an audit on Early Intervention in Psychosis (EIP) services and covers a range of data from patient experiences survey to case note audits and organizational survey data on the administration of EIP services.
+One of the data sets that researchers can find on Harmony Discovery related to psychopathy includes the National Audit of [Psychosis](/discover-data/schizophrenia-and-psychosis-datasets-and-studies). This survey is an audit on Early Intervention in Psychosis (EIP) services and covers a range of data from patient experiences survey to case note audits and organizational survey data on the administration of EIP services.
 
 With this kind of rich data, researchers can explore patient-level details, treatment plans, and organizational aspects of psychopathy treatment, providing a comprehensive view for in-depth interpreting and analysis.
 

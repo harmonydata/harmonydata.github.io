@@ -38,7 +38,7 @@ devtools::install_github("harmonydata/harmony_r")
 
 ## Parsing a raw file into an Instrument
 
-Let's import Harmony and harmonise an instrument.
+Let's import Harmony and [harmonise](/compare-harmonise-instruments) an instrument.
 
 If you want to read in a raw (unstructured) PDF or Excel file, you can
 do this via a POST request to the REST API. This will convert the file
@@ -53,7 +53,7 @@ names(instrument[[1]])
 #>  [9] "metadata"        "language"        "questions"
 ```
 
-You can also input a url containing the questionnaire.
+You can also input a url containing the [questionnaire](/data-harmonisation/tabulate-questionnaire-survey-result-data).
 
 ``` r
 instrument_2 = load_instruments_from_file("https://medfam.umontreal.ca/wp-content/uploads/sites/16/GAD-7-fran%C3%A7ais.pdf") 

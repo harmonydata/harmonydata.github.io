@@ -6,7 +6,7 @@ url: /harmonisation-validation/quickley-hein-plaque-index-pi
 
 ## Validation and Harmonisation of Quickley-Hein plaque index (PI)
 
-The Quickley-Hein plaque index (PI) is a tool used by dentists to measure the amount of plaque on a patient's teeth. It is determined by visually inspecting the buccal and lingual surfaces of each tooth and scoring them on a scale from 0 to 5, with higher scores indicating a greater amount of plaque. 
+The Quickley-[Hein plaque index](/harmonisation-validation/quigley-hein-turesky-modification-index-for-dental-plaque) (PI) is a tool used by dentists to measure the amount of plaque on a patient's teeth. It is determined by visually inspecting the buccal and lingual surfaces of each tooth and scoring them on a scale from 0 to 5, with higher scores indicating a greater amount of plaque. 
 
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Quickley-Hein plaque index (PI) " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}

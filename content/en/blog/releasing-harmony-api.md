@@ -131,7 +131,7 @@ docker compose up
 
 # Harmony FastAPI API [implementation](https://harmonydata.ac.uk/harmony-going-forward-5-things-implementation-science-has-taught-us-to-focus-on)
 
-If you are not running with Docker, you can run the individual components of the Harmony API separately.
+If you are not [running](/open-source-for-social-science/running-harmony-in-your-browser-with-no-internet-connection) with Docker, you can run the individual components of the Harmony API separately.
 
 Architecture of the Harmony implementation on Azure with FastAPI:
 
@@ -635,7 +635,7 @@ query string Search term
 parameters {
 Parameters on how to match
 framework string DEFAULT:huggingface
-The framework to use for matching
+The framework to use for [matching](/nlp-semantic-text-matching)
 model string DEFAULT:sentence-transformers/paraphrase-multilingual-MiniLM-L12-v
 Model
 }

@@ -20,7 +20,7 @@ Harmony can assist researchers in two important ways when it comes to the CAPS: 
 ## Validation
 Validation is the process of assessing the degree to which an instrument measures what it intends to measure. In other words, it determines if the CAPS is accurately capturing the construct of PTSD.
 
-Using Harmony's large language models, researchers can compare the items and scoring of the CAPS with other well-validated measures of PTSD, such as the Impact of Event Scale (IES) or the PTSD Checklist for DSM-5 (PCL-5). By comparing the items and scores, researchers can determine if the CAPS is accurately measuring the same concept as these other measures, thus providing evidence for its validity.
+Using Harmony's large language models, researchers can compare the items and scoring of the CAPS with other well-validated measures of [PTSD](/discover-data/ptsd-datasets-and-studies), such as the Impact of Event Scale (IES) or the PTSD Checklist for DSM-5 (PCL-5). By comparing the items and scores, researchers can determine if the CAPS is accurately measuring the same concept as these other measures, thus providing evidence for its validity.
 
 ## Harmonisation
 Harmonisation refers to the process of standardizing and aligning items from different instruments. Researchers may want to harmonise the CAPS with other measures in order to compare results across studies and populations.

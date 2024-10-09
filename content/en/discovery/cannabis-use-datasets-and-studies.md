@@ -15,7 +15,7 @@ Harmony Discovery is an essential tool for researchers in social sciences who se
 
 Information about Cannabis Use – its impact, patterns, and consequences – isn’t limited to a particular stratum. Wide-ranging data sources like the UKLLC [here](https://explore.ukllc.ac.uk), Closer, the Catalogue of Mental Health Measures available [here](https://www.cataloguementalhealth.ac.uk/), HDR UK available at [here](https://www.hdruk.ac.uk/) and ADR UK at [here](https://www.adruk.org/) connect to Harmony, offering a range of data sets. 
 
-Highly specific data sets, like '5029 Indirect Harm and Positive Consequences Associated with Cannabis Use, 2001-2003' and the survey on smoking in June and July 1976, provide researchers with a broad spectrum of data about the different facets associated with Cannabis Use. 
+Highly specific data sets, like '5029 Indirect Harm and Positive Consequences Associated with Cannabis Use, 2001-2003' and the survey on [smoking](/discover-data/smoking-datasets-and-studies) in June and July 1976, provide researchers with a broad spectrum of data about the different facets associated with Cannabis Use. 
 
 The '5029 Indirect Harm and Positive Consequences Associated with Cannabis Use' project, for instance, offer insights on the patterns and consequences of cannabis use in relation to work, academic performance, driving habits, and sexual behavior. It highlights situations where users may be at risk of indirect harm from their drug use. Furthermore, the project evaluates the impacts, whether positive or negative, of cannabis use on the quality of life. 
 

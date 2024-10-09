@@ -21,7 +21,7 @@ Moreover, Harmony's database contains a variety of instruments, including other 
 
 Furthermore, by using Harmony, researchers can easily compare items in multiple languages. This can be particularly useful for international studies, where different instruments may be used in different languages. Harmony's language processing abilities can identify corresponding items in different languages, allowing for easier harmonisation and comparison across studies.
 
-Overall, Harmony can be a valuable tool for researchers looking to validate the HDRS or harmonise it with other instruments in order to make cross-study comparisons and gain a deeper understanding of depression severity. Its efficient and objective approach can save time and increase accuracy in the harmonisation process, ultimately aiding in the advancement of research in this field. 
+Overall, Harmony can be a valuable tool for researchers looking to validate the HDRS or harmonise it with other instruments in order to make cross-[study](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study) comparisons and gain a deeper understanding of depression severity. Its efficient and objective approach can save time and increase accuracy in the harmonisation process, ultimately aiding in the advancement of research in this field. 
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Hamilton depression rating scale " title=" Validation and Harmonisation of Hamilton depression rating scale " >}}

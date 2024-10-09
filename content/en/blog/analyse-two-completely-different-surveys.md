@@ -73,7 +73,7 @@ When analysing survey data, it's important to:
 - **Understand the Demographics of Your Respondents:** Understanding the who behind the answers — such as their age, where they live, and what interests them — can enrich your analysis. This knowledge helps pinpoint if observed trends apply to specific demographic groups.
 - **Measure the General Mood:** What's the overall vibe from your respondents towards your subject or brand? Identifying whether the sentiment is mostly positive, negative, or neutral offers a quick snapshot of their attitudes.
 
-Questionnaire data analysis of a single survey is a bit like a puzzle. Each response, whether a number or a word, is a piece of the bigger picture. With careful analysis, you can reveal insights that can lead you to make informed decisions, enhance strategies, and improve your understanding of your audience.
+[Questionnaire](/data-harmonisation/tabulate-questionnaire-survey-result-data) data analysis of a single survey is a bit like a puzzle. Each response, whether a number or a word, is a piece of the bigger picture. With careful analysis, you can reveal insights that can lead you to make informed decisions, enhance strategies, and improve your understanding of your audience.
 
 ## **Comparing Results from Two Different Surveys**
 

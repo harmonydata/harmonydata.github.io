@@ -64,7 +64,7 @@ Dr. Maurício Scopel Hoffmann, a professor at the Department of Neuropsychiatry 
 
 To use Harmony, researchers simply drag and drop mental health questionnaire spreadsheets and PDFs into the tool. The platform will then estimate similar questions so that the researcher can export the result in Excel format or as an image and share it with colleagues.
 
-The project was funded by the Wellcome Trust, a British philanthropic institution that supports research.
+The project was funded by the [Wellcome](/ai-in-mental-health/radio-podcast-about-wellcome-data-prize) Trust, a British philanthropic institution that supports research.
 
 [Read more on Tech4Health's website (in Portuguese)](https://www.t4h.com.br/noticias/destaques/professor-da-ufsm-participa-da-criacao-de-plataforma-on-line-para-pesquisadores-em-saude-mental/)
 

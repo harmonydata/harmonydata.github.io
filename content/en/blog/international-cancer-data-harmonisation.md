@@ -22,7 +22,7 @@ This is where international data harmonisation for cancer comes in.
 
 Any process pertaining to the harmonisation of data begins with careful organisation. This may be as simple as standardising names in a table so that every single source of data uses the same terms. Or, it may see the setting up of data “fields”, allowing each piece of information in a new data source to be easily merged with existing data.
 
-However, harmonising data can get increasingly complex as we try to consolidate information from multiple sources, such as the information stored in a public or private healthcare business’s cancer research database. These storehouses of data lend clinicians, researchers and other medical professionals the opportunity to blend findings which may be as diverse as genetics and histology, and match them with data from demographics and epidemiology, for example.
+However, harmonising data can get increasingly complex as we try to consolidate information from multiple sources, such as the information stored in a public or private [healthcare](/data-harmonisation/data-harmonisation-in-healthcare) business’s cancer research database. These storehouses of data lend clinicians, researchers and other medical professionals the opportunity to blend findings which may be as diverse as genetics and histology, and match them with data from demographics and epidemiology, for example.
 
 Visualise this scenario if you will:
 
@@ -88,7 +88,7 @@ The ACC incorporated this exact approach in its initial harmonisation project, w
 
 After all participants have unanimously agreed to the overarching goals of the project within the scope of the harmonised data set, they focus on the kinds of data which must be harmonised to answer questions of interest.
 
-In GECCO, for instance, investigators required a wide range of epidemiologic data to utilise with genome-wide association study data, in order to investigate interactions. These included data on tobacco and alcohol use, hormone use, use of NSAIDs (non-steroidal anti-inflammatory drugs), and dietary exposures – all categories of data that were well-established risk factors for colorectal cancer.
+In GECCO, for instance, investigators required a wide range of epidemiologic data to utilise with genome-wide association study data, in order to investigate interactions. These included data on [tobacco](/discover-data/tobacco-use-datasets-and-studies) and alcohol use, hormone use, use of NSAIDs (non-steroidal anti-inflammatory drugs), and dietary exposures – all categories of data that were well-established risk factors for colorectal cancer.
 
 Similarly, PROSPR started off with conceptualised models of the screening process for cervical, breast, and colon cancer, where they identified elements of the process which may be utilised for future analyses – like patient demographic characteristics, time since last screening, and disease risk factors.
 

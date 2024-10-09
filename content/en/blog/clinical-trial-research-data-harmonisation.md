@@ -46,7 +46,7 @@ Clinical data harmonisation plays a pivotal role in advancing clinical research 
 4. **Enhancing Research Reproducibility:**
    - Reproducibility is a cornerstone of scientific inquiry, and harmonised data sets the stage for more reproducible research. A clear and standardised framework for data analysis, achieved through harmonisation, enables researchers to replicate studies with confidence. Reproducible research is critical for validating study findings, building a robust scientific knowledge base, and instilling confidence in the broader scientific community.
 
-In essence, the importance of clinical data harmonisation lies in its ability to create a unified and standardised approach to data management in clinical trials. This not only streamlines collaboration and ensures the reliability of research outcomes but also contributes to the overall advancement of medical knowledge and the improvement of patient care. As the healthcare landscape continues to evolve, the adoption of harmonisation principles becomes increasingly crucial for researchers, institutions, and stakeholders committed to driving progress in clinical research.
+In essence, the importance of clinical data harmonisation lies in its ability to create a unified and standardised approach to data management in clinical trials. This not only streamlines collaboration and ensures the reliability of research outcomes but also contributes to the overall advancement of medical knowledge and the improvement of patient care. As the [healthcare](/data-harmonisation/data-harmonisation-in-healthcare) landscape continues to evolve, the adoption of harmonisation principles becomes increasingly crucial for researchers, institutions, and stakeholders committed to driving progress in clinical research.
 
 
 ## The Significance of Data Harmonisation in Clinical Research
@@ -119,7 +119,7 @@ While the benefits of data harmonisation are clear, the process is not without i
    - Achieving seamless interoperability between different health information systems is a persistent challenge. Ensuring that harmonised data can be effectively exchanged and integrated with various systems is crucial for facilitating collaborative research efforts.
 
 8. **Resource Intensiveness:**
-   - The process of data harmonisation demands significant time, expertise, and resources. Institutions and research teams may face constraints in terms of personnel, budget, and infrastructure, impacting the scalability and sustainability of harmonisation initiatives.
+   - The process of data harmonisation demands significant time, expertise, and resources. Institutions and research teams may face constraints in terms of personnel, budget, and infrastructure, impacting the scalability and [sustainability](/open-source-for-social-science/sustainability) of harmonisation initiatives.
 
 9. **Stakeholder Collaboration and Engagement:**
    - Successful data harmonisation requires collaboration among various stakeholders, including researchers, clinicians, regulatory bodies, and patients. Ensuring active engagement and communication among these diverse groups is vital but can be logistically challenging.

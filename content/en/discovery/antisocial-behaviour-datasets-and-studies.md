@@ -19,7 +19,7 @@ Harmony Discovery is a discovery tool designed for researchers in the social sci
 
 Harmony utilises large language models to match questionnaire items and variable names. It excels at connecting researchers with a plethora of data sources like [UKLLC](https://explore.ukllc.ac.uk), [Closer](https://www.closer.ac.uk/), the [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/), [HDR UK](https://www.hdruk.ac.uk/) and [ADR UK](https://www.adruk.org/). 
 
-For example, let's say you're interested in antisocial behaviour. Harmony will scour datasets across these sources and return options that align with your search. Each dataset includes a description of the data, its source, and a link to the dataset for easy access. You can conveniently jump straight to the data you need, bypassing the need to sift through irrelevant datasets.
+For example, let's say you're interested in [antisocial](/discover-data/antisocial-personality-disorder-aspd-datasets-and-studies) behaviour. Harmony will scour datasets across these sources and return options that align with your search. Each dataset includes a description of the data, its source, and a link to the dataset for easy access. You can conveniently jump straight to the data you need, bypassing the need to sift through irrelevant datasets.
 
 ## Unpacking Antisocial Behaviour Datasets
 

@@ -17,7 +17,7 @@ What is harmonisation, you might ask? It refers to the process of matching items
 * [CES-D vs PHQ-9](/compare-harmonise-instruments/ces-d-vs-phq-9/)
 * [Validation and Harmonisation of Quigley-Hein, Turesky Modification Index for Dental Plaque ](/harmonisation-validation/quigley-hein-turesky-modification-index-for-dental-plaque)
 
-Harmony utilizes cutting-edge natural language processing and generative AI models to help researchers harmonise questionnaire items, even if they are in different languages. This means that with Harmony, researchers can easily compare instruments from different studies and languages, allowing for greater cross-cohort research.
+Harmony utilizes cutting-edge natural language processing and generative AI models to help researchers harmonise questionnaire items, even if they are in different languages. This means that with Harmony, researchers can easily compare instruments from different studies and languages, allowing for greater cross-[cohort](/item-harmonisation/harmony-a-free-ai-tool-to-merge-cohort-studies) research.
 
 The benefits of using Harmony are numerous. It saves time and reduces subjectivity, making the harmonisation process more efficient and accurate. This is especially important for longitudinal studies, where researchers need to compare results over time. Harmony can also provide a percentage match between items, giving researchers a better understanding of the similarities and differences between instruments.
 

@@ -153,7 +153,7 @@ Addressing these challenges and embracing opportunities for innovation will be c
 
 Data harmonisation is a cornerstone of modern biopharmaceutical research and development, enabling organizations to unlock the full potential of their data assets. By adopting standardized processes, leveraging emerging technologies, and fostering collaboration across the industry, biopharma organizations can overcome the challenges of data heterogeneity and fragmentation, accelerating the pace of discovery and innovation in drug development. As we continue to push the boundaries of scientific knowledge and technology, the harmonisation of data will remain essential for driving breakthroughs in biopharma and improving patient outcomes.
 
-In summary, data harmonisation in biopharma is not just a technical challenge; it is a strategic imperative that requires collaboration, innovation, and a commitment to excellence in data management and analysis. Through concerted efforts and investment in data harmonisation initiatives, the biopharma industry can realize its full potential in advancing scientific knowledge, improving healthcare outcomes, and ultimately transforming the lives of patients around the world.
+In summary, data harmonisation in biopharma is not just a technical challenge; it is a strategic imperative that requires collaboration, innovation, and a commitment to excellence in data management and analysis. Through concerted efforts and investment in data harmonisation initiatives, the biopharma industry can realize its full potential in advancing scientific knowledge, improving [healthcare](/data-harmonisation/data-harmonisation-in-healthcare) outcomes, and ultimately transforming the lives of patients around the world.
 
 
 

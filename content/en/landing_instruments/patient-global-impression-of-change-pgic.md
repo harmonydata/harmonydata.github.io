@@ -6,7 +6,7 @@ url: /harmonisation-validation/patient-global-impression-of-change-pgic
 
 ## Validation and Harmonisation of Patient Global Impression of Change (PGIC)
 
-The Patient Global Impression of Change (PGIC) is a participant-rated instrument used to measure the overall change in a participant's status over the course of a study. It is often used in clinical trials and longitudinal studies to assess the effectiveness of treatments, interventions, or changes in social conditions.
+The Patient Global Impression of Change (PGIC) is a participant-rated instrument used to measure the overall change in a participant's status over the course of a study. It is often used in [clinical trials](https://clinicaltrialrisk.org/) and longitudinal studies to assess the effectiveness of treatments, interventions, or changes in social conditions.
 
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Patient Global Impression of Change (PGIC) " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}

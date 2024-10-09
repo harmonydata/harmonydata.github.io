@@ -134,7 +134,7 @@ Similarly, feature-wise harmonisation will reduce the bias of extracted features
 
 Both sample-wise and feature-wise data harmonisation in [healthcare](/data-harmonisation/data-harmonisation-in-healthcare) can reduce the underlying variances and, therefore, noticeably improve the performance and effectiveness of analysis.
 
-For decades, computational data harmonisation has been proposed for digital healthcare research studies. However, until and unless data harmonisation is performed effectively, bridging the basic science research models and data fusion models into a multicentre, multimodal, and multiscanner medical practice as well as clinical trials – can be very challenging.
+For decades, computational data harmonisation has been proposed for digital healthcare research studies. However, until and unless data harmonisation is performed effectively, bridging the basic science research models and data fusion models into a multicentre, multimodal, and multiscanner medical practice as well as [clinical trials](https://clinicaltrialrisk.org/clinical-trial-informativeness/) – can be very challenging.
 
 This [research paper](https://www.sciencedirect.com/science/article/pii/S156625352200015X) recommends the CHECDHA criteria to help researchers conduct data harmonisation studies in a standardised format, thus, advancing academic reproducibility and development.
 

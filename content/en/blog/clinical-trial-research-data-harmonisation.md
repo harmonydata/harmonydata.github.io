@@ -27,7 +27,7 @@ Clinical trials and research data harmonisation principles are indispensable for
 
 ## Understanding Clinical Data Harmonisation
 
-Clinical data harmonisation entails the process of integrating, standardizing, and reconciling data collected from disparate sources to facilitate seamless interoperability and analysis. In the context of clinical trials, harmonisation aims to mitigate the challenges associated with data heterogeneity, variability, and inconsistency, thereby enhancing the reliability and reproducibility of research findings. By establishing common data elements (CDEs), terminologies, and protocols, harmonisation fosters a cohesive framework for aggregating, comparing, and synthesizing clinical data across multiple studies and domains.
+Clinical data harmonisation entails the process of integrating, standardizing, and reconciling data collected from disparate sources to facilitate seamless interoperability and analysis. In the context of [clinical trials](https://clinicaltrialrisk.org/clinical-trial-informativeness/), harmonisation aims to mitigate the challenges associated with data heterogeneity, variability, and inconsistency, thereby enhancing the reliability and reproducibility of research findings. By establishing common data elements (CDEs), terminologies, and protocols, harmonisation fosters a cohesive framework for aggregating, comparing, and synthesizing clinical data across multiple studies and domains.
 
 ## Importance of Clinical Data Harmonisation
 {{< image src="/images/Importance of Clinical Data Harmonisation.webp" alt="Importance of Clinical Data Harmonisation" title="Importance of Clinical Data Harmonisation" >}}

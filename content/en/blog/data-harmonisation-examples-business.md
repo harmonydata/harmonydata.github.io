@@ -81,7 +81,7 @@ Harmonising data across cultures sheds light on the fabric of society. This coul
 
 ### **8. Accelerating Drug Development**
 
-Data harmonisation in clinical trials is able to speed up medication's journey to those in need. It can lead to medical breakthroughs and save many lives. Imagine the future of healthcare, where waiting years for vital treatments becomes a part of the past.
+Data harmonisation in [clinical trials](https://clinicaltrialrisk.org/nlp-in-pharma/) is able to speed up medication's journey to those in need. It can lead to medical breakthroughs and save many lives. Imagine the future of healthcare, where waiting years for vital treatments becomes a part of the past.
 
 ### **9. Improving Supply Chains**
 

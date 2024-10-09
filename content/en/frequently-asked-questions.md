@@ -71,15 +71,15 @@ McElroy, E., Moltrecht, B., Scopel Hoffmann, M., Wood, T. A., & Ploubidis, G. (2
 
 ## Does Harmony store my data?
 
-If you upload a questionnaire or instrument, Harmony does not store or save it. You can read more on our [Privacy Policy page](https://harmonydata.ac.uk/privacy-policy/).
+If you upload a questionnaire or instrument, Harmony does not store or save it. You can read more on our [Privacy Policy page](/privacy-policy/).
 
 ## How does Harmony work?
 
-Harmony passes the [text](https://harmonydata.ac.uk/semantic-text-matching-with-deep-learning-transformer-models) of each questionnaire item through a [neural network](https://fastdatascience.com/how-similar-are-neural-networks-to-our-brains) called Sentence-[BERT](https://en.wikipedia.org/wiki/BERT_%28language_model%29), in order to convert it into a vector. The [similarity](https://fastdatascience.com/finding-similar-documents-nlp) of two texts is then measured as the similarity between their vectors. Two identical texts have a similarity of 100% while two completely different texts have a similarity of 0%. You can read more in this [technical blog post](https://harmonydata.ac.uk/how-does-harmony-work/) and you can even download and run Harmony’s [source code](https://github.com/harmonydata/harmony).
+Harmony passes the [text](/nlp-semantic-text-matching/) of each questionnaire item through a [neural network](https://fastdatascience.com/how-similar-are-neural-networks-to-our-brains) called Sentence-[BERT](https://en.wikipedia.org/wiki/BERT_%28language_model%29), in order to convert it into a vector. The [similarity](https://fastdatascience.com/finding-similar-documents-nlp) of two texts is then measured as the similarity between their vectors. Two identical texts have a similarity of 100% while two completely different texts have a similarity of 0%. You can read more in this [technical blog post](https://harmonydata.ac.uk/how-does-harmony-work/) and you can even download and run Harmony’s [source code](https://github.com/harmonydata/harmony).
 
 ## How reliable is Harmony?
 
-Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: childhood **84%**, adulthood **80%**. Harmony was able to match the questions of the English and Portuguese [GAD-7](https://adaa.org/sites/default/files/GAD-7_Anxiety-updated_0.pdf) instruments with AUC **100%** and the Portuguese [CBCL](https://www.apa.org/depression-guideline/child-behavior-checklist.pdf) and SDQ with AUC **89%**. You can read more in [this blog post](https://harmonydata.ac.uk/measuring-the-performance-of-nlp-algorithms/).
+Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: childhood **84%**, adulthood **80%**. Harmony was able to match the questions of the English and Portuguese [GAD-7](https://adaa.org/sites/default/files/GAD-7_Anxiety-updated_0.pdf) instruments with AUC **100%** and the Portuguese [CBCL](https://www.apa.org/depression-guideline/child-behavior-checklist.pdf) and SDQ with AUC **89%**. You can read more in [this blog post](/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/).
 
 ## What do the numbers mean?
 
@@ -97,9 +97,11 @@ Items were matched on content using the online tool [Harmony](https://harmonydat
 
 If you imagine as a human, trying to match items in a questionnaire, you might decide that “I feel depressed” and “I feel sad” are similar. If you had to place them on the surface of a sphere, you might place them close to each other. Whereas different concepts might be far from each other.
 
-We can represent [any concept](https://harmonydata.ac.uk/how-far-can-we-go-with-harmony-testing-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe) as a vector of length 1, pointing to the surface of a sphere. Concepts that are similar have vectors close together. The cosine score of two vectors that are close together is close to 1.
+We can represent [any concept](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/) as a vector of length 1, pointing to the surface of a sphere. Concepts that are similar have vectors close together. The cosine score of two vectors that are close together is close to 1.
 
 {{< image src="images/sphere.svg" alt="sphere" >}}
+
+*You can try playing with a large language model in your browser [in this blog post](https://fastdatascience.com/natural-language-processing/semantic-similarity-with-sentence-embeddings/). Input two sentences and you can see the vector values and the cosine similarity.*
 
 ## Who made Harmony?
 
@@ -107,11 +109,11 @@ The [Python](https://www.python.org/) code of Harmony was written by [Thomas Woo
 
 ## Does Harmony comply with FAIR data principles?
 
-We have developed Harmony as an open-source and open science initiative, paying attention to the [FAIR Guiding Principles for scientific data management and stewardship](https://www.go-fair.org/fair-principles/) (**F**indability, **A**ccessibility, **I**nteroperability, and **R**euse of digital assets). You can read more on our [FAIR data page](https://harmonydata.ac.uk/fair-data/).
+We have developed Harmony as an open-source and open science initiative, paying attention to the [FAIR Guiding Principles for scientific data management and stewardship](https://www.go-fair.org/fair-principles/) (**F**indability, **A**ccessibility, **I**nteroperability, and **R**euse of digital assets). You can read more on our [FAIR data page](/fair-data/).
 
 ## What do other researchers say about Harmony?
 
-We recently did a user-testing at [UCL](https://ucl.ac.uk)’s Centre for Longitudinal Studies with psychology researchers from several universities. After the session, one postdoctoral researcher said:
+We recently did a user-testing at [UCL](https://ucl.ac.uk)’s [Centre for Longitudinal Studies (CLS)](https://cls.ucl.ac.uk/) with psychology researchers from several universities. After the session, one postdoctoral researcher said:
 
 {{< image src="images/quote.png" alt="quote" >}}
 

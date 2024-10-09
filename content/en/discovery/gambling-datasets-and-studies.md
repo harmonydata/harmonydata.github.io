@@ -40,19 +40,6 @@ For researchers interested in the domain of gambling, Harmony Discovery provides
 {{< youtube cEZppTBj1NI >}}
 
 
-
-For instance:
-
-1. [Gambling-related brain responses in social and problem gamblers](https://reshare.ukdataservice.ac.uk/850229) - This dataset provides insights into cognitive biases in problem gamblers which lead to overestimation of winning chances.
-
-2. [Gambling and Households: New Gambling Directive at Mass Observation Archive](https://reshare.ukdataservice.ac.uk/850851) - This dataset, created in collaboration with Mass Observation Archive, Sussex University, provides qualitative data on gambling and family life in the UK.
-
-3. [Gaming and Betting Study: Survey of Loyalty Card Customers, Waves 1 and 2, 2014-2016](https://reshare.ukdataservice.ac.uk/8191) - Commissioned by GambleAware (previously Responsible Gambling Trust), this dataset looks into user data of machines in bookmakers to identify harmful and non-harmful patterns of play.
-
-These datasets open up a world of research possibilities, providing valuable insights into the socio-cultural, psychological, and behavioural aspects of gambling.
-
-Through Harmony Discovery, unlocking these valuable troves of data becomes more comfortable and efficient, powering next-generation research that can lead to better understanding and strategic interventions in the field of gambling.
-
 ## See also
 
 * [Cannabis Use datasets and studies](/discover-data/cannabis-use-datasets-and-studies)

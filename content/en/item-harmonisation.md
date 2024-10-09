@@ -17,7 +17,7 @@ Researchers in psychology and social sciences frequently face a challenge: [comp
 
 However, traditional item harmonisation can be a nightmare. As the study by Hoffmann et al (2024)  highlights,  it often involves  **tedious manual work**: sifting through lengthy PDFs and painstakingly transferring questions into spreadsheets. This is not only time-consuming but also prone to subjectivity depending on the researcher. 
 
-Harmony is a free online tool that leverages the power of  [natural language processing (NLP)](/semantic-text-matching-with-deep-learning-transformer-models/measuring-the-performance-of-nlp-algorithms/) and  [generative AI models](/semantic-text-matching-with-deep-learning-transformer-models/) to streamline item harmonisation. 
+Harmony is a free online tool that leverages the power of  [natural language processing (NLP)](/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/) and  [generative AI models](/nlp-semantic-text-matching/) to streamline item harmonisation. 
 
 
 {{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}

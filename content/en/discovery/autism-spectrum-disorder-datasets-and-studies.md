@@ -15,7 +15,7 @@ In the field of social sciences and mental health research, grounding study on c
 
 ## Harmony Discovery: Tailored for Social Sciences Research
 
-Harmony Discovery connects with multiple data sources including the [UKLLC](https://explore.ukllc.ac.uk), Closer, the Catalogue of Mental Health Measures (https://www.cataloguementalhealth.ac.uk/), [HDR UK](https://www.hdruk.ac.uk/) and [ADR UK](https://www.adruk.org/), to present researchers with datasets about longitudinal studies pertaining to various topics, including ASD. With the help of large language models, Harmony matches questionnaire items and variable names, ensuring that the shortlisted datasets align closely with the topic of research. 
+Harmony Discovery connects with multiple data sources including the [UKLLC](https://explore.ukllc.ac.uk), Closer, the [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/), [HDR UK](https://www.hdruk.ac.uk/) and [ADR UK](https://www.adruk.org/), to present researchers with datasets about longitudinal studies pertaining to various topics, including ASD. With the help of large language models, Harmony matches questionnaire items and variable names, ensuring that the shortlisted datasets align closely with the topic of research. 
 
 ## Exploring ASD Datasets
 

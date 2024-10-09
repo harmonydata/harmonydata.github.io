@@ -77,7 +77,7 @@ _Question 4.6: If your software can be used as a library, package or service by 
 
 If your software includes support for [Application Programming Interfaces (API)](https://en.wikipedia.org/wiki/Application_programming_interface), whether these be functions, data types, or classes offered by a library or a collection of REST (https://en.wikipedia.org/wiki/Representational_state_transfer) endpoints or web services, then these need to be documented if you want them to be used. Code examples alone may not provide enough information on how someone can use your API in their own code.
 
-From structured comments in the code, generating complete, structured API documentation can be done automatically with, for example, JavaDoc (http://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html) (for Java), Doxygen (http://www.stack.nl/~dimitri/doxygen/) (for C, C++ , Fortran or Python), Sphinx (http://sphinx-doc.org/) (for Python). Certain REST frameworks, such as Django (http://www.django-rest-framework.org/), also support auto-generation of API documentation.
+From structured comments in the code, generating complete, structured API documentation can be done automatically with, for example, JavaDoc (http://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html) (for Java), Doxygen (http://www.stack.nl/~dimitri/doxygen/) (for C, C++ , Fortran or Python), Sphinx (http://sphinx-doc.org/) (for Python). Certain REST frameworks, such as [Django](http://www.django-rest-framework.org/) also support auto-generation of API documentation.
 
 _Question 4.8: Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?_ A release history allows users to see how your software has evolved. It can provide them with a way to see how active you are in developing and maintaining your software, in terms of new features provided and bugs fixed. Software that is seen to be regularly fixed, updated and extended can be more appealing than software that seems to have stagnated.
 
@@ -103,11 +103,11 @@ It's best if the support e-mail address is clearly labelled as such e.g.
 
 myproject-support@myplace.ac.uk. This makes it easy for users to identify the e-mail address on your website or within your documentation, and it helps you to separate your support queries from all of your other e-mail. However, a personal e-mail address is better than nothing if you don't have the means to provide a dedicated support address.
 
-See our guide on Supporting open source software (http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
+See our guide on [Supporting open source software](http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
 
 _Question 5.4: Are e-mails to your support e-mail address received by more than one person?_ It's easy to forget about an e-mail, especially one that's asking difficult questions, so your e-mails to your support e-mails address should always be received by more than one person. One person should still have the primary responsibility of handling users' e-mails, but others can step up to handle e-mails if necessary, so that a user's query will be acknowledged even if one of you is on holiday, ill or otherwise indisposed.
 
-See our guide on Supporting open source software (http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
+See our guide on [Supporting open source software](http://software.ac.uk/resources/guides/supporting-open-source-software). Its advice applies to supporting closed source software too.
 
 _Question 5.5: Does your project have a ticketing system to manage bug reports and feature requests?_
 
@@ -176,7 +176,7 @@ See our guides on [How continuous integration can help you regularly test and re
 
 _Question 12.4: Are your test results publicly visible?_
 
-Publishing test results from frequently run tests (e.g. nightly build and test runs) can give your users reassurance about how, and how much, your software is tested. You can automatically publish test runs to your project website, or, alternatively, have test run results mailed to a developer's mailing list, or a mailing list dedicated to the test results. For example, see the [test results](http://build.mygrid.org.uk/ci/), for the [Taverna](http://www.taverna.org.uk/) workflow management system which uses [Jenkins](https://jenkins-ci.org) to build and test their code, and publish its results.
+Publishing test results from frequently run tests (e.g. nightly build and test runs) can give your users reassurance about how, and how much, your software is tested. You can automatically publish test runs to your project website, or, alternatively, have test run results mailed to a developer's mailing list, or a mailing list dedicated to the test results. For example, see the test results for the Taverna workflow management system which uses [Jenkins](https://jenkins-ci.org) to build and test their code, and publish its results.
 
 Question 12.5: Are all manually-run tests documented?
 
@@ -208,7 +208,7 @@ Though they are designed for open source projects, many of their concerns are re
 
 _Question 14.2: Do you have a contributions policy?_
 
-A contributions policy provides information to users on what they can contribute (e.g. bug fixes, enhancements, documentation updates, tutorials), how they can contribute it (e.g. via e-mail, patch files, GitHub pull requests), any requirements they must satisfy (e.g. compliance to coding or style conventions, passing required tests, software licensing), and what happens to their contributions once they have submitted it (e.g. how it is reviewed and then integrated into your code, documentation or web site). It also tells users who owns the copyright on their contribution. For information on how to manage contributions, see OSS Watch's Contributor Licence Agreements (http://oss-watch.ac.uk/resources/cla).
+A contributions policy provides information to users on what they can contribute (e.g. bug fixes, enhancements, documentation updates, tutorials), how they can contribute it (e.g. via e-mail, patch files, GitHub pull requests), any requirements they must satisfy (e.g. compliance to coding or style conventions, passing required tests, software licensing), and what happens to their contributions once they have submitted it (e.g. how it is reviewed and then integrated into your code, documentation or web site). It also tells users who owns the copyright on their contribution. For information on how to manage contributions, see [OSS Watch's Contributor Licence Agreements](http://oss-watch.ac.uk/resources/cla).
 
 _Question 14.3: Is your contributions' policy publicly available?_
 
@@ -216,7 +216,7 @@ Users may not contribute if they do not know that they can contribute. Publishin
 
 For information on how to manage contributions, see [OSS Watch's Contributor Licence Agreements](http://oss-watch.ac.uk/resources/cla).
 
-_Question 14.4: Do contributors keep the copyright/IP of their contributions?_ Asking contributors to sign over their copyright and intellectual property to your project or organisation can put off users from contributing. It, in effect, asks them to give away ownership of something that may be novel and which may represent a key aspect of their research. Allowing contributors to keep their own copyright and intellectual property removes this barrier, thereby making contribution a more attractive option. It also contributes to promoting a community round your software – everyone sharing their outputs rather than handing them over to a select group. For information on how to manage contributions, see OSS Watch's Contributor Licence Agreements (http://oss-watch.ac.uk/resources/cla).
+_Question 14.4: Do contributors keep the copyright/IP of their contributions?_ Asking contributors to sign over their copyright and intellectual property to your project or organisation can put off users from contributing. It, in effect, asks them to give away ownership of something that may be novel and which may represent a key aspect of their research. Allowing contributors to keep their own copyright and intellectual property removes this barrier, thereby making contribution a more attractive option. It also contributes to promoting a community round your software – everyone sharing their outputs rather than handing them over to a select group. For information on how to manage contributions, see [OSS Watch's Contributor Licence Agreements](http://oss-watch.ac.uk/resources/cla).
 
 _Question 15.2: Does each of your source code files include a copyright statement?_ It's easy to distribute source code files, and this separates the code from any copyright statement that might be on your web site or in your documentation. To cover this eventuality, and remove any ambiguity about ownership, it's good practice to include a copyright statement with each of your source code files, as a comment, or, if the language permits it, as a string constant.
 

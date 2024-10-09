@@ -35,7 +35,7 @@ blocks:
     
   buttons:
   - text: Try Harmony Now!
-    url: "/app/"
+    url: "https://harmonydata.ac.uk/app"
     style: gradient
     size: large
   - text: Newsletter signup
@@ -59,7 +59,7 @@ blocks:
   youtube: CqAsrY74zNM
   button:
     text: Try Harmony App
-    url: "/app/"
+    url: "https://harmonydata.ac.uk/app"
     size: large
     style: secondary
 

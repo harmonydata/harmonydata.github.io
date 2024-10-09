@@ -44,7 +44,7 @@ An example of a few datasets available on Impairment include:
 
 Through Harmony Discovery, locating, understanding, and leveraging data for studies related to Impairment has never been easier or more efficient. Take advantage of this powerful research tool to dive deeper into your studies and uncover new insights.
 
-To start using Harmony Discovery for your research on Impairment, simply visit [Harmony Discovery](https://www.harmony.ac.uk), specify "Impairment" in the topic field and let the advanced AI-driven tool do its work!
+To start using Harmony Discovery for your research on Impairment, you will be able to visit Harmony Discovery, specify "Impairment" in the topic field and let the advanced AI-driven tool do its work!
 
 As a researcher, accessing the right data is crucial to understanding the scope and depth of the topic being studied. Harmony Discovery is paving the way for a more streamlined, efficient, and enlightening research process.
 

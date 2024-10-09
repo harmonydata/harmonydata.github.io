@@ -282,8 +282,8 @@ For further reading on data harmonisation and its impact on healthcare, [source1
 
 
 - Nature. "A General Primer for Data Harmonisation." [Source](https://www.nature.com/articles/sdata201828)
-- BMC Medical Informatics and Decision Making. "Definitions, components and processes of data harmonisation in healthcare: a scoping review." [Source](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1022-9)
-- HealthIT.gov. "Common Data Model Harmonisation." [Source](https://www.healthit.gov/topic/scientific-initiatives/common-data-model-harmonisation)
+- BMC Medical Informatics and Decision Making. "Definitions, components and processes of data harmonisation in healthcare: a scoping review." [Source](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-01218-7)
+- HealthIT.gov. "Common Data Model Harmonisation." [Source](https://www.healthit.gov/sites/default/files/page/2020-07/CDMH-Project-Summary.pdf)
 - NCBI. "Data Harmonisation and Standardization Efforts - Tools and Technologies for Registry Interoperability." [Source](https://www.ncbi.nlm.nih.gov/books/NBK493614/)
 
 This exploration into data harmonisation in healthcare highlights the intricate process and its significant impact on healthcare management and patient care. The concerted effort of all stakeholders in this domain is vital for achieving a more integrated, effective, and equitable healthcare system.

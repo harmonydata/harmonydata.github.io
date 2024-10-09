@@ -14,7 +14,7 @@ url: "/discover-data/anxiety-sensitivity-datasets-and-studies"
 
 In the realm of social sciences and mental health research, finding the right datasets can significantly streamline the research process. Key among this is the study of Anxiety Sensitivity, an area that has various implications for understanding and managing different anxiety-based mental health problems.
 
-[Harmony Discovery](https://www.harmony-archive.ac.uk/) is a valuable tool that aids in locating suitable datasets for this area of study. Leveraging large language models, Harmony matches questionnaire items and variable names corresponding to your research needs, making it easier and faster to find relevant datasets.
+Harmony Discovery is a valuable tool that aids in locating suitable datasets for this area of study. Leveraging large language models, Harmony matches questionnaire items and variable names corresponding to your research needs, making it easier and faster to find relevant datasets.
 
 ## Simplified Search for Anxiety Sensitivity Datasets
 

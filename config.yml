@@ -96,7 +96,7 @@ languages:
         parent: About
         weight: 20
       - name: Tools
-        url: /app/
+        url: 'https://harmonydata.ac.uk/app/'
         parent: About
         weight: 30
       - name: Fair data
@@ -110,7 +110,7 @@ languages:
 
       navbar_cta:
       - name: Try Harmony
-        url: "/app/"
+        url: "https://harmonydata.ac.uk/app/"
         pre: outline
 
       social:
@@ -206,7 +206,7 @@ languages:
       - name: Tools
         weight: 50
       - name: Harmony
-        url: "/app/"
+        url: "https://harmonydata.ac.uk/app/"
         parent: Tools
         weight: 10
 
@@ -255,7 +255,7 @@ languages:
 
       navbar_cta:
       - name: Use o Harmony
-        url: "/app/"
+        url: "https://harmonydata.ac.uk/app/"
         pre: outline
 
       social:
@@ -329,7 +329,7 @@ languages:
       - name: Tools
         weight: 50
       - name: Harmony
-        url: "/app/"
+        url: "https://harmonydata.ac.uk/app/"
         parent: Tools
         weight: 10
         

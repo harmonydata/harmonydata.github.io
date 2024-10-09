@@ -7,7 +7,7 @@ aliases:
 
 ## GAD-7 vs PSS-10: A Comparative Insight with Harmony
 
-A significant challenge for psychologists often comes down to harmonising different questionnaires such as [GAD-7](https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder/overview/) and [PSS-10](http://www.macses.ucsf.edu/research/psychosocial/pss10.php). This challenge begins with trying to match the individual items of these two different instruments that assess anxiety disorder and stress perception respectively. For some meta-analyses you might need to compare the GAD-7 vs the PSS-10.
+A significant challenge for psychologists often comes down to harmonising different questionnaires such as [GAD-7](https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder/overview/) and [PSS-10](https://www.corc.uk.net/outcome-experience-measures/perceived-stress-scale-pss-10/). This challenge begins with trying to match the individual items of these two different instruments that assess anxiety disorder and stress perception respectively. For some meta-analyses you might need to compare the GAD-7 vs the PSS-10.
 
 
 ## Compare the items in GAD-7 English and PSS-10

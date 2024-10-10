@@ -13,7 +13,6 @@ url: "/data-harmonisation/data-harmonisation-in-biopharma/"
 
 
 # Harmonising Data in Biopharma
-{{< image src="/images/Harmonising Data in Biopharma.webp" alt="Harmonising Data in Biopharma" title="Harmonising Data in Biopharma" >}}
 
 In the biopharmaceutical sector, the collection and analysis of data from diverse sources: [clinical trials](https://clinicaltrialrisk.org/), real-world evidence (RWE), patient registries, and more—are fundamental to drug development, regulatory approval, and post-market surveillance. However, data from these sources often vary in format, nomenclature, and measurement standards, making it challenging to aggregate and analyse them effectively. [Data harmonisation](/data-harmonisation/) addresses these challenges by standardising disparate data for seamless integration, analysis, and interpretation.
 

@@ -36,7 +36,7 @@ Harmony can match the items within the MAST and HAS tests in multiple languages 
 Given these capabilities, Harmony is poised to become an integral tool for psychologists, psychiatrists, and social scientists in their research journeys. By visiting Harmony's web interface, uploading questionnaires and entrusting the harmonisation process to Harmony, researchers can devote more time and effort to in-depth analysis and deriving meaningful conclusions. When comparing `MAST vs HAS`, or any other psychological tools, remember that Harmony turns complications into simplicity, detail into overview, and data into knowledge.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

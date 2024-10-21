@@ -8,7 +8,7 @@ Have you found a problem with Harmony?
 
 You can use the links on the Harmony homepage at harmonydata.ac.uk - you can see there are buttons titled *Raise NLP issue* and *Raise UI issue*, which take you to the process for logging issues in Github.
 
-{{< image src="images/blog/raise-issue.png" alt="Screenshot" >}}
+{{< image src="/images/blog/raise-issue.png" alt="Screenshot" >}}
 
 The issues remain in the issue trackers and can be assigned to people either under "Assignee" or in the comments:
 

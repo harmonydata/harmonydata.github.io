@@ -35,7 +35,7 @@ Through innovative use of artificial intelligence, Harmony streamlines the tedio
 
 Both CHAT and AQ-10 provide essential assessments in the field of autism research. Similarities and differences in the construct design of each questionnaire can add depth to the analysis of research findings. Thus, making use of Harmony’s ability for CHAT vs AQ-10 comparison is a step that can add significant value to your research. To leverage Harmony’s power, visit https://harmonydata.ac.uk/app to start comparing questionnaires today.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

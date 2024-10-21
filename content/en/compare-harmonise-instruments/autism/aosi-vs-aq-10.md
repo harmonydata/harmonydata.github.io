@@ -35,7 +35,7 @@ The software provides an innovative solution for "AOSI vs AQ-10" by turning the 
 In tackling the "AOSI vs AQ-10" comparison, Harmony proves to be an invaluable tool. Whether the researchers are handling their own instruments or leveraging Harmony's database, they'll find that this software saves time, minimizes subjectivity, and enables more accurate comparisons. Incorporating Harmony into the research process will undoubtedly elevate the understanding of relationships and insights from these tests.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

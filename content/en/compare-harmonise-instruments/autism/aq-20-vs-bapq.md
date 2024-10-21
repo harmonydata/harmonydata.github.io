@@ -35,7 +35,7 @@ Offering a user-friendly platform, Harmony makes comparing AQ-20 vs BAPQ seamles
 
 The use of this tool not only makes the process efficient, but also refines the research outcomes by reducing the subjectivity involved in the harmonisation process, creating a more robust, reliable, and globally applicable research methodology. For enhanced understanding and comparability of psychological studies, Harmony stands as an indispensable tool in the modern psychology research toolkit.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

@@ -21,7 +21,7 @@ So, if the [data is not harmonised](/data-harmonisation/) using the proper tools
 
 If you collected data using two questionnaires, such as GAD-7 and Becks Anxiety Inventory as in the below image, you would need to harmonise the datasets, by identifying correspondences between variables (the arrow in the image)
 
-{{< image src="images/GAD-7-vs-Becks.drawio-min.png" alt="dog" title="dog" >}}
+{{< image src="/images/GAD-7-vs-Becks.drawio-min.png" alt="dog" title="dog" >}}
 
 *Data harmonisation of GAD-7 and Becks Anxiety Inventory - this is what a data harmonisation tool such as Harmony would produce.*
 

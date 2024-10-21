@@ -40,7 +40,7 @@ Harmony utilizes advanced natural language processing and generative AI models t
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

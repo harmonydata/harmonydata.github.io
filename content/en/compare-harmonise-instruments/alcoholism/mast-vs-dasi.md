@@ -36,7 +36,7 @@ Taking advantage of Harmony's impressive features allows us to optimize our rese
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

@@ -19,7 +19,7 @@ Harmony uses techniques from the field of [natural language processing](https://
 
 ## Introduction to natural language processing: the Bag of Words
 
-{{< image src="images/blog/GAD-7-vs-Becks.drawio-min-1.png" alt="GAD-7-vs-Becks" >}}
+{{< image src="/images/blog/GAD-7-vs-Becks.drawio-min-1.png" alt="GAD-7-vs-Becks" >}}
 
 There are a number of approaches to quantify the [similarity](https://fastdatascience.com/finding-similar-documents-nlp) between strings of text. The simplest approach is known as the Bag-of-Words approach. This is *not* how Harmony currently works, but it is one of the first things we tried!
 
@@ -50,7 +50,7 @@ The obvious drawbacks of the Jaccard method are that
 - It won’t notice negation (*I was not happy* and *I was very happy* both equally match *you were happy*).
 - Most crucially, our remit for the Harmony [project](https://fastdatascience.com/starting-a-data-science-project) is that we want to harmonise data from different [languages](/psychology-ai-tool/harmony-many-languages/), such as Portuguese and English. Clearly the bag-of-words approach would not work when the texts are in different languages, unless you translated them first.
 
-{{< image src="images/blog/Jaccard-checklist.drawio-min-768x634.png" alt="Jaccard checklist" >}}
+{{< image src="/images/blog/Jaccard-checklist.drawio-min-768x634.png" alt="Jaccard checklist" >}}
 
 ## Vector spaces
 
@@ -58,19 +58,19 @@ The next approach that we tried was a vector space model.
 
 Vector space models allow us to represent words and concepts as numbers or points on a graph. For example, if *anxious* could be (2, 3), *worried* is (3, 4) and *relax* is (8, 2). The coordinates of each [concept](https://harmonydata.ac.uk/how-far-can-we-go-with-harmony-testing-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe) are themselves meaningless, but if we calculate the distance between them we would see that *anxious* and *worried* are closer to each other than either is to *relax*. 
 
-{{< image src="images/blog/Word-vectors.drawio-min-1536x836.png" alt="Word vectors" >}}
+{{< image src="/images/blog/Word-vectors.drawio-min-1536x836.png" alt="Word vectors" >}}
 
 It’s important to note that the values of the vectors are completely arbitrary. There’s no meaning at all to where a concept is assigned on the *x* or *y* axes, but there is meaning in the distances.
 
 Now we have a way to handle synonyms. This approach is called *word vector embeddings*
 
-{{< image src="images/blog/image.png" >}}
+{{< image src="/images/blog/image.png" >}}
 
 Some real word vector values for terms occurring in our data. Typically the vectors are large, potentially up to 500 dimensions.
 
 Word vector embeddings became popular in 2013 after the Czech computer scientist Tomáš Mikolov [proposed a way that an AI can generate vectors](https://arxiv.org/abs/1310.4546) for every word in the English language simply from a huge set of documents.
 
-{{< image src="images/blog/newplot-28-min.png" alt="newplot" >}}
+{{< image src="/images/blog/newplot-28-min.png" alt="newplot" >}}
 
 To visualise the word vectors, we can squash them down into two or three dimensions. This is a 2D visualisation of the terms in the table above. I used an algorithm called [t-SNE](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding) to squash them into a flat surface.
 
@@ -80,7 +80,7 @@ If you want to use word vector embeddings to find synonyms, you could calculate 
 
 With the Harmony data, I found that the vector space models did not correctly identify the relationship between *child bullies others* and *child is bullied by others* – which are clearly very different questions and should not be harmonised together.
 
-{{< image src="images/blog/Vector-checklist.drawio-min-768x633.png" alt="Vector checklist" >}}
+{{< image src="/images/blog/Vector-checklist.drawio-min-768x633.png" alt="Vector checklist" >}}
 
 ## Transformer models
 
@@ -94,7 +94,7 @@ Vector representations of the [GAD-7](/compare-harmonise-instruments/gad-7-vs-ph
 
 As an aside, transformers can also be used for machine translation (in fact Google Translate now uses transformers), and this attention enables a noun+adjective phrase to be translated to another language with the correct gender.
 
-{{< image src="images/blog/English-Portuguese-translations.drawio.png" alt="English Portuguese translations" >}}
+{{< image src="/images/blog/English-Portuguese-translations.drawio.png" alt="English Portuguese translations" >}}
 
 The word *red* could be translated in various different ways into Portuguese depending on the gender and the noun to be modified. Transformer models are adept at taking these clues into context and outputting the correct translation of a phrase.
 
@@ -104,7 +104,7 @@ GPT-2 converts the text of each question into a vector in 1600 dimensions.
 
 The distance between any two questions is measured according to the cosine similarity metric between the two vectors. Two questions which are similar in meaning, even if worded differently or in different languages, will have a high degree of similarity between their vector representations. Questions which are very different tend to be far apart in the vector space.
 
-{{< image src="images/blog/Transformer-checklist.drawio-min-768x633.png" alt="Transformer checklist" >}}
+{{< image src="/images/blog/Transformer-checklist.drawio-min-768x633.png" alt="Transformer checklist" >}}
 
 ## Converting to a network graph
 
@@ -114,7 +114,7 @@ We then find the closest matches and link them together in a graph.
 
 Because this approach is potentially error-prone, we have provided the facility for a user to edit the network graph and add and remove edges if they disagree with Harmony’s decisions.
 
-{{< image src="images/blog/image-2.png" >}}
+{{< image src="/images/blog/image-2.png" >}}
 
 The user has an option to add or remove edges from the graph.
 

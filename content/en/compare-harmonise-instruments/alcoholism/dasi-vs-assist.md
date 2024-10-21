@@ -38,7 +38,7 @@ Give the AI your instruments, and it provides a percentage match for each item, 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

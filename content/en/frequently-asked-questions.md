@@ -99,7 +99,7 @@ If you imagine as a human, trying to match items in a questionnaire, you might d
 
 We can represent [any concept](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/) as a vector of length 1, pointing to the surface of a sphere. Concepts that are similar have vectors close together. The cosine score of two vectors that are close together is close to 1.
 
-{{< image src="images/sphere.svg" alt="sphere" >}}
+{{< image src="/images/sphere.svg" alt="sphere" >}}
 
 *You can try playing with a large language model in your browser [in this blog post](https://fastdatascience.com/natural-language-processing/semantic-similarity-with-sentence-embeddings/). Input two sentences and you can see the vector values and the cosine similarity.*
 
@@ -115,5 +115,5 @@ We have developed Harmony as an open-source and open science initiative, paying 
 
 We recently did a user-testing at [UCL](https://ucl.ac.uk)’s [Centre for Longitudinal Studies (CLS)](https://cls.ucl.ac.uk/) with psychology researchers from several universities. After the session, one postdoctoral researcher said:
 
-{{< image src="images/quote.png" alt="quote" >}}
+{{< image src="/images/quote.png" alt="quote" >}}
 

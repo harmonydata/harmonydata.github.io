@@ -8,7 +8,7 @@ Os [ princípios FAIR ](https://www.go-fair.org/fair-principles/) são um conjun
 
 Os princípios FAIR foram publicados na *Nature* em 2016 para abordar as dificuldades na reprodução de pesquisas científicas. Organizações financiadoras, editoras e agências governamentais estão cada vez mais começando a exigir planos de gerenciamento de dados para dados gerados em pesquisas. Isso significa que, se você encontrar um artigo científico e quiser reproduzir o estudo, poderá reproduzir a pesquisa com o mínimo de atrito.
 
-{{< image src="images/fair.png" alt="Fair" >}}
+{{< image src="/images/fair.png" alt="Fair" >}}
 
 ## Como o Harmony está seguindo os princípios FAIR?
 

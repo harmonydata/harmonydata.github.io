@@ -35,7 +35,7 @@ Harmony, with its state-of-the-art technology and AI capabilities, can help you 
 The comparison between these two scales, AOSI and ADOS, is critical in understanding their functional differences and drawing robust conclusions from them. Therefore, if you are a researcher or psychologist dealing with AOSI and ADOS, it's highly suggested that you utilize Harmony. No more going through long PDFs manually! Just drag and drop your questionnaires, whether it's AOSI, ADOS, or any other questionnaires pertaining to autism studies, into Harmony's user-friendly interface.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

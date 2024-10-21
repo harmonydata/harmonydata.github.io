@@ -380,5 +380,5 @@ write.csv(df, "matches.csv")
 
 If you open the CSV generated, you can see the complete matrix. You can also open in Excel.
 
-{{< image src="images/csv_screenshot.png" alt="CSV screenshot" title="CSV screenshot" >}}
+{{< image src="/images/csv_screenshot.png" alt="CSV screenshot" title="CSV screenshot" >}}
 

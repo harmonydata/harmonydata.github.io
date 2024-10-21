@@ -30,7 +30,7 @@ Can we use Harmony to harmonise mental health instruments designed for different
 
 > Zvaita sei kuti chembere yorasika, bere rorutsa imvi? (How is it that the old woman is missing and the hyena is vomiting grey hairs?)
 
-{{< image src="images/blog/pexels-bigworldinalens-11307036-1024x682.jpg" alt="img" >}}
+{{< image src="/images/blog/pexels-bigworldinalens-11307036-1024x682.jpg" alt="img" >}}
 
 
 > Shona proverb (similar to English “there’s no smoke without fire”)
@@ -54,7 +54,7 @@ I tried using Harmony to see how it would harmonise “kufungisisa” (thinking 
 
 Although English is the best-resource language for [natural language processing](https://naturallanguageprocessing.com/), [multilingual NLP techniques](https://fastdatascience.com/multilingual-natural-language-processing/) are catching up even for lower-resourced [languages](/psychology-ai-tool/harmony-many-languages/). There exist some [NLP](https://fastdatascience.com/portfolio/nlp-consultant/) [models](https://harmonydata.ac.uk/semantic-text-matching-with-deep-learning-transformer-models) for Shona. I used the sentence [transformer](https://harmonydata.ac.uk/how-does-harmony-work) model `Davlan/xlm-roberta-base-finetuned-shona` which is a modification of ROBERTA trained on Shona texts[7]. I plugged one into Harmony and tried to match the [Shona symptom questionnaire for the detection of depression and anxiety](https://depts.washington.edu/edgh/zw/hit/web/project-resources/shona_symptom_questionnaire.pdf), which is used in Zimbabwe[6].
 
-{{< image src="images/blog/Screenshot-from-2023-07-13-12-34-30.png" alt="img" >}}
+{{< image src="/images/blog/Screenshot-from-2023-07-13-12-34-30.png" alt="img" >}}
 
 
 Above: the text of the Shona symptom questionnaire for the detection of depression and anxiety.
@@ -65,7 +65,7 @@ Also, the transformer model did not operate as a sentence transformer, but rathe
 
 My model’s output is below:
 
-{{< image src="images/blog/image-1-b.png" alt="img" >}}
+{{< image src="/images/blog/image-1-b.png" alt="img" >}}
 
 
 Harmony and the Shona transformer model matched the question about “kufungisisa” to GHQ-12 question 1 “been able to concentrate on whatever you’re doing?” which seems approximately OK. However, I would need a Shona native speaker to validate my results.

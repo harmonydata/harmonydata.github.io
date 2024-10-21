@@ -33,7 +33,7 @@ Harmony, a software developed specifically for psychologists, simplifies the har
 
 In using the Harmony software, researchers have the option to work with a variety of instruments available within the built-in database or simply drag and drop their own collection in PDF format. This 21st-century innovation enables you to compare items in DTC vs RAPI and even facilitates harmonisation across multiple languages. This is particularly beneficial when carrying out vital cross-cultural studies. Gain significant time savings and consistency with your DTC vs RAPI match by using Harmony for efficient questionnaire harmonisation.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

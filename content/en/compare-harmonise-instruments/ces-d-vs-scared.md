@@ -35,7 +35,7 @@ For psychologists looking to draw comparisons across instruments, we highly reco
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

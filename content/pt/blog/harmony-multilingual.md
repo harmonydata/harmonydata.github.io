@@ -10,11 +10,11 @@ Estamos felizes em compartilhar algumas novidades interessantes com você. o Har
 
 I evaluated Harmony's ability to match the GAD-7 in 11 languages to the English version. I found that Harmony was able to achieve >95% AUC for 7 of the 11 non-English languages. 
 
-{{< image src="images/multilingual_aucs.png" alt="Multilingual AUCs" title="Multilingual AUCs" >}}
+{{< image src="/images/multilingual_aucs.png" alt="Multilingual AUCs" title="Multilingual AUCs" >}}
 
 Você pode acompanhar meu trabalho [ no repositório `experiments` em nosso Github ](https://github.com/harmonydata/experiments/blob/main/README.md) .
 
-{{< image src="images/multilingual_gad.png" alt="Multilingual GAD-7" title="Multilingual GAD-7" >}}
+{{< image src="/images/multilingual_gad.png" alt="Multilingual GAD-7" title="Multilingual GAD-7" >}}
 
 ## Mais sobre o Harmony
 

@@ -35,7 +35,7 @@ The Beck Anxiety Inventory vs PSF comparison can be much easier, more accurate, 
 Sifting through lengthy PDFs and manually matching questions becomes a thing of the past. Harmony analyses the items from each questionnaire and offers a percentage match for each item, making it easier to determine the similarities. Why manually do when AI can assist in more reliable and efficient manner? Use Harmony to compare the Beck Anxiety Inventory vs PSF and derive insightful conclusions. With Harmony's intuitive web interface, you can easily select instruments from the provided database, or upload your questionnaire in PDF form. Plus, Harmony's powerful AI can handle comparisons in multiple languages.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

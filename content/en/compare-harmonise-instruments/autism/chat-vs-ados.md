@@ -34,7 +34,7 @@ But this challenge is made greatly simpler by using Harmony, a cutting-edge plat
 If you are a psychologist or researcher looking to perform a CHAT vs ADOS comparison, Harmony provides an efficient and straight-forward platform for this task. With the capability of accepting instruments in multiple languages, Harmony provides a user-friendly interface where researchers can freely explore the database of instruments or bring in their own. Simply visit https://harmonydata.ac.uk/app, and start your CHAT vs ADOS comparison today. Discover the impactful insights and potential discoveries that Harmony can bring to your research.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

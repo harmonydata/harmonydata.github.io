@@ -9,7 +9,7 @@ aliases:
 
 When it comes to measuring the severity of [anxiety](/discover-data/anxiety-datasets-and-studies/), there are a couple of standard tools often used by psychologists - the Generalised Anxiety Disorder Assessment (GAD-7) and the Beck Anxiety Inventory (BAI).
 
-{{< image src="images/GAD-7-vs-Becks.drawio-min.png" alt="dog" title="dog" >}}
+{{< image src="/images/GAD-7-vs-Becks.drawio-min.png" alt="dog" title="dog" >}}
 
 However, accurately comparing these two instruments can be intricate, subjective, and time-consuming - that's where Harmony comes in.
 

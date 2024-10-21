@@ -20,7 +20,7 @@ However, traditional item harmonisation can be a nightmare. As the study by Hoff
 Harmony is a free online tool that leverages the power of  [natural language processing (NLP)](/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/) and  [generative AI models](/nlp-semantic-text-matching/) to streamline item harmonisation. 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 {{< card heading="Harmonise items with Harmony" copy="Item harmonisation with Harmony" url="https://harmonydata.ac.uk/app" >}}
 

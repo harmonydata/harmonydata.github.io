@@ -34,7 +34,7 @@ However, deriving meaningful insights could be challenging due to the different 
 
 This lessens the sometimes subjective nature of harmonisation, leading to more robust and valid comparisons. Harmony enhances the process by allowing researchers to directly import instruments in PDF format, eliminating tedious manual work and reducing errors. CES-D vs RCADS has never been this effortless. Harmony steps beyond linguistic borders by comparing items across multiple languages. This feature is quite essential when considering scales like CES-D and RCADS that are used worldwide. It ensures that linguistic differences do not come in the way of valuable research and allows for a globally inclusive analysis. If you are a researcher planning to compare CES-D vs RCADS, Harmony is the go-to tool for an efficient and comprehensive harmonisation process.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

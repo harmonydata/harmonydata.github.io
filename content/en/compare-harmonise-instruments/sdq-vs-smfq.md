@@ -36,7 +36,7 @@ The SDQ vs SMFQ comparison doesn't have to be a tedious process anymore; with Ha
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

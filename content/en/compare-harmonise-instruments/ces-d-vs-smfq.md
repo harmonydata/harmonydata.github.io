@@ -41,7 +41,7 @@ Furthermore, Harmony boasts [multilingual support](/nlp-semantic-text-matching/h
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

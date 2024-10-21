@@ -20,7 +20,7 @@ I have had a fantastic past year, filled with a lot of learning, exciting new di
 
 When I prepared the PPIE session for my colleagues, I tried to find examples in the existing literature that could demonstrate how PPIE activities can shape and benefit research using secondary data (no references to share, sorry). The lack of hits in my search confirmed my impression of how little PPIE has been explored in my new, chosen research field. Hence, I decided to share a few ideas on how PPIE can shape your research if you are working primarily with secondary data. Please, note I am not *the* PPIE expert and I am still learning myself. The idea of this article is to open up the space and to get a wide collection of possible activities so that we can learn from each other and draw from this hopefully growing collection. I am sure many other people have some great things to add to this list of ideas below. If you do, please add them in the comments section.
 
-{{< image src="images/blog/jason-goodman-m2TU2gfqSeE-unsplash-ls-1-1536x1024.jpg" alt="Picture shows white wall with orange sticky notes. A person is in front of the wall and points at one of the notes" >}}
+{{< image src="/images/blog/jason-goodman-m2TU2gfqSeE-unsplash-ls-1-1536x1024.jpg" alt="Picture shows white wall with orange sticky notes. A person is in front of the wall and points at one of the notes" >}}
 
 
 1. **Developing your [project](https://fastdatascience.com/starting-a-data-science-project), proposal, and research question**
@@ -29,7 +29,7 @@ There are a lot of great opportunities to involve members of the public or exper
 
 Let’s assume you as a researcher are interested in finding out which factors put young people at [risk](https://fastdatascience.com/how-can-we-assess-the-risk-of-a-clinical-trial-using-ai) of developing anxiety and depression. Your existing (hopefully large) dataset has many different variables that represent different risk factors, such as “bullying”, “deprivation”, “loss of a family member”, “parental conflict” or “low academic attainment”. My first step would be to translate these topics or items into something a young person can understand better, for instance: “parental conflict” = “parents that fight a lot and have arguments” or “low academic attainment” = “a student who keeps failing exams or keeps getting bad grades”. 
 
-{{< image src="images/blog/mourizal-zativa-gNMVpAPe3PE-unsplash-1536x1024.jpg" alt="Images displays Lego bricks of different colours and shapes and size." >}}
+{{< image src="/images/blog/mourizal-zativa-gNMVpAPe3PE-unsplash-1536x1024.jpg" alt="Images displays Lego bricks of different colours and shapes and size." >}}
 
 
 After that you can organise a [workshop](https://harmonydata.ac.uk/harmony-tidal-workshop) with young people, your experience experts, where you will hand out your young-person-friendly variables like little building blocks. You can then ask the young people how each of these building blocks relate to how young people feel on a day-to-day basis. Is there anything that makes them feel sad, angry, happy? This type of discussion should already give some good insights as to whether you as a researcher understand those building blocks (variables) and their relationship to a young person’s mental health, the same way as the young people do. After that you could ask your young experts to join your team as a researcher and become your co-researcher. Together you can use these building blocks to prioritise risk factors (aka set research priorities for your project) which you can use to inform your research question and subsequent analysis, or sometimes even to create new research questions that you may not have thought of. If you don’t have enough time and want to make sure the final research question is in line with your general research interests, you can present the young experts with different drafts or versions of your research question and find out which of these they would find most interesting or relevant and why. 
@@ -38,7 +38,7 @@ After that you can organise a [workshop](https://harmonydata.ac.uk/harmony-tidal
 
 Involving experts by experience in your analysis and the interpretation of your findings can be very insightful. After you have run your analysis, try to write up the key findings in an accessible way (no regression coefficients or risk ratios – yes, it can be tempting). You can ask your young experts whether they think the findings sound sensible to them or if there might be a need to look at something else which you had not yet considered. In some cases, you may also find your results confusing, e.g., you may be wondering why certain items are cross-loading onto two factors, although all the literature suggests that they should clearly only load onto one. Your experience-experts might be able to give you insights that can’t be found in the literature, especially when the population or group you are researching is very different from you. 
 
-{{< image src="images/blog/suzi-kim-AdPvazshqDU-unsplash-ls-1536x1191.jpg" alt="Image shows photo taken from above, of a pavement. The pavement has an image painted on it where a tall person and a small person walk together." >}}
+{{< image src="/images/blog/suzi-kim-AdPvazshqDU-unsplash-ls-1536x1191.jpg" alt="Image shows photo taken from above, of a pavement. The pavement has an image painted on it where a tall person and a small person walk together." >}}
 
 
 1. **Write up & Dissemination**
@@ -49,6 +49,6 @@ PPIE can help make your research more accessible and visible to those who have t
 
 1 Disclaimer: I am a passionate emotion regulation researcher.
 
-{{< image src="images/blog/PPI-CLS-workshop-1536x1152.jpg" alt="PPI CLS workshop" >}}
+{{< image src="/images/blog/PPI-CLS-workshop-1536x1152.jpg" alt="PPI CLS workshop" >}}
 
 Some of my lovely colleagues at the Centre for Longitudinal Studies at UCL

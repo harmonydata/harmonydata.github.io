@@ -79,7 +79,7 @@ Se você se imaginar como um ser humano, tentando combinar os itens de um questi
 
 Podemos representar qualquer conceito como um vetor de comprimento 1, apontando para a superfície de uma esfera. Conceitos semelhantes têm vetores próximos. A pontuação do cosseno de dois vetores que estão próximos é próxima de 1.
 
-{{< image src="images/sphere.svg" alt="sphere" >}}
+{{< image src="/images/sphere.svg" alt="sphere" >}}
 
 ## Quem fez o Harmony ?
 
@@ -93,5 +93,5 @@ Desenvolvemos o Harmony como uma iniciativa de código aberto e ciência aberta,
 
 Recentemente, fizemos um teste de usuário no Centro de Estudos Longitudinais da UCL com pesquisadores de psicologia de várias universidades. Após a sessão, um pesquisador de pós-doutorado disse:
 
-{{< image src="images/quote.png" alt="quote" >}}
+{{< image src="/images/quote.png" alt="quote" >}}
 

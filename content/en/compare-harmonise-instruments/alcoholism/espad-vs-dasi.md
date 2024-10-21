@@ -36,7 +36,7 @@ Harmony not only helps to harmonise questionnaire items, it also allows for prec
 When dealing with ESPAD vs DASI, Harmony makes it possible to select instruments directly from their database, or upload your own instruments in PDF format via their user-friendly web interface. This allows researchers worldwide to make the most of cohort and longitudinal studies, testing results consistency across multiple studies, and observing changes in response to varying social conditions. Harmony simplifies large scale comparative studies such as ESPAD vs DASI, ultimately empowering the world of research.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

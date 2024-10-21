@@ -17,7 +17,7 @@ Como os pesquisadores podem harmonizar medidas tão complexas? Uma opção seria
 
 Uma abordagem alternativa é aplicar a harmonização retrospectiva no nível do item. Embora os questionários possam diferir consideravelmente no número e na natureza das perguntas feitas, muitas vezes há uma sobreposição considerável no nível semântico/conteúdo. Voltemos ao nosso exemplo anterior de depressão. Embora existam muitos questionários diferentes que podem ser usados para avaliar essa experiência, eles geralmente fazem os mesmos tipos de perguntas. Abaixo está um exemplo de sobreposição de conteúdo em duas das medidas mais comuns de sofrimento psicológico usadas em crianças, a Escala Revisada de Ansiedade e Depressão Infantil (RCADS) e o Questionário de Humor e Sentimentos (MFQ).
 
-{{< image src="images/blog/blog-pic-1.png" alt="img" >}}
+{{< image src="/images/blog/blog-pic-1.png" alt="img" >}}
 
 Ao identificar, recodificar e testar a equivalência de subconjuntos de itens de diferentes questionários (para obter diretrizes, consulte nosso relatório anterior), os pesquisadores podem derivar subescalas harmonizadas que são diretamente comparáveis entre os estudos. Nosso grupo já usou essa abordagem para estudar tendências em saúde mental em diferentes gerações (Gondek et al., 2021) e examinar como a privação socioeconômica afetou a saúde mental de adolescentes em diferentes coortes (McElroy et al., 2022).
 

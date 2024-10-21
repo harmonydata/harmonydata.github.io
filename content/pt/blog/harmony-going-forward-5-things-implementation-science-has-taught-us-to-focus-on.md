@@ -13,7 +13,7 @@ Ontem, a [ equipe Harmony ](https://harmonydata.ac.uk/team/) recebeu a maravilho
 
 A implementação bem-sucedida e a sustentabilidade de produtos digitais desenvolvidos por meio de financiamento de bolsas de pesquisa têm sido surpreendentemente baixas. Vimos isso especialmente no campo da saúde mental digital, onde milhares de aplicativos e plataformas foram desenvolvidos e apenas alguns poucos foram implementados e sustentados na natureza. A partir desta linha de [ pesquisa ](https://www.psychiatrist.com/jcp/psychiatry/implementing-digital-mental-health-interventions/#ref16) e [ meu próprio trabalho com colegas ](https://www.jmir.org/2022/11/e40347) Sei que inovação e eficácia por si só não são suficientes para garantir a adoção no mundo real.
 
-{{< image src="images/blog/noah-buscher-x8ZStukS2PM-unsplash-1536x880.jpg" alt=" noah buscher" >}}
+{{< image src="/images/blog/noah-buscher-x8ZStukS2PM-unsplash-1536x880.jpg" alt=" noah buscher" >}}
 
 Então, como podemos maximizar a aceitação e implementação do Harmony para dar a ele uma vida útil mais longa? Vou me basear no campo da ciência da implementação [ [i\ ]](https://harmonydata.ac.uk/harmony-going-forward-5-things-implementation-science-has-taught-us-to-focus-on/#_edn1) que fornece insights úteis e [ frameworks ](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-8-139#Abs1) em compartilhar algumas reflexões sobre como isso pode ser feito e o que nós e nossos colegas de equipe podemos querer focar nesta fase.
 
@@ -48,7 +48,7 @@ Então, como podemos maximizar a aceitação e implementação do Harmony para d
 
 Desejamos a todas as equipes remanescentes do Wellcome Mental Health Data Prize um ótimo começo para a próxima fase. Estamos muito animados.
 
-{{< image src="images/blog/kelsey-knight-SFRw5GChoLA-unsplash-1-1536x1024.jpg" alt="kelsey knight" >}}
+{{< image src="/images/blog/kelsey-knight-SFRw5GChoLA-unsplash-1-1536x1024.jpg" alt="kelsey knight" >}}
 ------
 
 [[i\]](https://harmonydata.ac.uk/harmony-going-forward-5-things-implementation-science-has-taught-us-to-focus-on/#_ednref1) defined as the study of methods to promote the systematic uptake of research findings and evidence-based practices

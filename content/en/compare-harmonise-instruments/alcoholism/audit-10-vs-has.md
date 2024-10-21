@@ -35,7 +35,7 @@ That's where Harmony steps in. Equipped with powerful natural language processin
 
 So, if you are a researcher grappling with the task of comparing AUDIT-10 vs HAS, consider using Harmony. Not only will you save your valuable time, but also bolster the reliability of the outcome through AI-powered alignment. Just upload your questionnaire in PDF form via Harmony's web interface and let the software do the heavy lifting for you. With Harmony, define your research parameters with more efficiency and precision than ever before.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

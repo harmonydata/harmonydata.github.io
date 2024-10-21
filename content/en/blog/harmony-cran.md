@@ -27,7 +27,7 @@ install.packages("harmonydata")
 
 We encourage you to try Harmony and let us know what you think! You can also follow us on Twitter @harmonydata for updates.
 
-{{< image src="images/cran.png" alt="cran" title="cran" >}}
+{{< image src="/images/cran.png" alt="cran" title="cran" >}}
 
 
 ## Are you excited to use Harmony to harmonise your instruments?

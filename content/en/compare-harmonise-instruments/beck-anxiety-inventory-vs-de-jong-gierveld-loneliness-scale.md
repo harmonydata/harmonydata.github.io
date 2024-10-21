@@ -27,7 +27,7 @@ The Beck Anxiety Inventory (BAI) is a major measurement tool of anxiety symptoms
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and De Jong Gierveld Loneliness Scale " url="https://harmonydata.ac.uk/app" >}}
 

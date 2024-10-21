@@ -35,7 +35,7 @@ The use of Harmony's language models ensures a vigorous yet precise comparison b
 
 In sum, the RAPI vs DASI match-up need no longer be a time-consuming process. Harmony, with its use of innovative AI and natural language processing, will expedite the comparison and make the process less subjective. Its availability in multiple languages and user-friendly interface on [https://harmonydata.ac.uk/app](https://harmonydata.ac.uk/app) only sweetens the deal. Harmony is the future of comparative psychology.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

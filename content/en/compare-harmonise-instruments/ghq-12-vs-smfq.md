@@ -38,7 +38,7 @@ Harmony has a user-friendly interface where researchers can either select the GH
 With Harmony’s assistance, researchers can reduce the potential biases and subjectivity intrinsic to manual harmonisation. In summary, making comparisons between GHQ 12 and SMFQ has never been easier or more efficient — thanks to Harmony. So, whether you are a psychologist wishing to cross-examine data across studies or a social scientist looking to examine social conditions, Harmony is the tool you're searching for.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

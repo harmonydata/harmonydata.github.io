@@ -23,7 +23,7 @@ Podemos usar o Harmony para harmonizar instrumentos de saúde mental projetados 
 
 > Zvaita sei kuti chembere yorasika, bere rorutsa imvi? (How is it that the old woman is missing and the hyena is vomiting grey hairs?)
 
-{{< image src="images/blog/pexels-bigworldinalens-11307036-1024x682.jpg" alt="img" >}}
+{{< image src="/images/blog/pexels-bigworldinalens-11307036-1024x682.jpg" alt="img" >}}
 
 
 > Shona proverb (similar to English “there’s no smoke without fire”)
@@ -47,7 +47,7 @@ Tentei usar o Harmony para ver como harmonizaria “kufungisisa” (pensar demai
 
 Embora o inglês seja o idioma com melhor recurso para processamento de linguagem natural, [ técnicas de PNL multilíngues ](https://fastdatascience.com/multilingual-natural-language-processing/) estão alcançando até mesmo para idiomas com menos recursos. Existem alguns modelos de PNL para Shona. Eu usei o modelo de transformador de sentença `Davlan/xlm-roberta-base-finetuned-shona` que é uma modificação do ROBERTA treinado em textos Shona [ 7 ]. I plugged one into o Harmony and tried to match the [Shona symptom questionnaire for the detection of depression and anxiety](https://depts.washington.edu/edgh/zw/hit/web/project-resources/shona_symptom_questionnaire.pdf) , que é usado no Zimbábue[6].
 
-{{< image src="images/blog/Screenshot-from-2023-07-13-12-34-30.png" alt="img" >}}
+{{< image src="/images/blog/Screenshot-from-2023-07-13-12-34-30.png" alt="img" >}}
 
 
 Acima: o texto do questionário de sintomas Shona para detecção de depressão e ansiedade.
@@ -58,7 +58,7 @@ Além disso, o modelo do transformador não operava como um transformador de sen
 
 A saída do meu modelo está abaixo:
 
-{{< image src="images/blog/image-1-b.png" alt="img" >}}
+{{< image src="/images/blog/image-1-b.png" alt="img" >}}
 
 
 O modelo do transformador Harmony e Shona combinou a pergunta sobre “kufungisisa” com a pergunta 1 do GHQ-12 “conseguiu se concentrar no que quer que esteja fazendo?” o que parece aproximadamente OK. No entanto, eu precisaria de um falante nativo de Shona para validar meus resultados.

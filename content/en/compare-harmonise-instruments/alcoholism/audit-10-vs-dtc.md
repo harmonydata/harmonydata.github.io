@@ -35,7 +35,7 @@ However, comparing different questionnaires, or harmonisation, can be a time-con
 Harmony utilizes large language models to calculate a percentage match between each item on the AUDIT-10 and DTC questionnaire, providing objective results and easing the burden on the researchers. The use of Harmony for AUDIT-10 vs DTC comparison and harmonisation not only saves valuable time but also enhances the effectiveness of cross-study and cohort analyses. Moreover, Harmony's capabilities are not limited by language barriers, and it allows for the comparison of instruments in multiple languages. So, for a seamless AUDIT-10 vs DTC comparison, use Harmony, and move a step closer to insightful research findings.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

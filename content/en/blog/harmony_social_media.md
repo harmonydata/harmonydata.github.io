@@ -10,11 +10,11 @@ Now you can share your harmonisations with your colleagues with a simple share l
 
 We've added Firebase authentication to Harmony. You can log in with Google, Github or Twitter, and then you can see all your previous harmonisation work.
 
-{{< image src="images/login.png" alt="login" title="login" >}}
+{{< image src="/images/login.png" alt="login" title="login" >}}
 
 You can even share your work with colleagues on LinkedIn, Twitter, or via URL.
 
-{{< image src="images/share_dialog.png" alt="LinkedIn" title="LinkedIn" >}}
+{{< image src="/images/share_dialog.png" alt="LinkedIn" title="LinkedIn" >}}
 
 You'll then be taken to the dialogue box in your chosen platform, where you can share your work as normal.
 

@@ -39,7 +39,7 @@ In the case of CES-D vs PSS-10, Harmony also offers the possibility of comparing
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

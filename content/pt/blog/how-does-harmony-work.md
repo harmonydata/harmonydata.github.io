@@ -13,7 +13,7 @@ O Harmony usa técnicas da área de [ processamento de linguagem natural ](https
 
 ## Introdução ao processamento de linguagem natural: o saco de palavras
 
-{{< image src="images/blog/GAD-7-vs-Becks.drawio-min-1.png" alt="GAD-7-vs-Becks" >}}
+{{< image src="/images/blog/GAD-7-vs-Becks.drawio-min-1.png" alt="GAD-7-vs-Becks" >}}
 
 Há uma série de abordagens para quantificar a semelhança entre strings de texto. A abordagem mais simples é conhecida como abordagem Bag-of-Words. *Não* é assim que o Harmony funciona atualmente, mas é uma das primeiras coisas que tentamos!
 
@@ -42,7 +42,7 @@ As desvantagens óbvias do método Jaccard são que
 - Não notará negação (*eu não estava feliz* e *eu estava muito feliz* ambos correspondem igualmente a *você estava feliz*).
 - Mais importante ainda, nossa missão para o projeto Harmony é que queremos harmonizar dados de diferentes idiomas, como português e inglês. Claramente, a abordagem do saco de palavras não funcionaria quando os textos estivessem em idiomas diferentes, a menos que você os traduzisse primeiro.
 
-{{< image src="images/blog/Jaccard-checklist.drawio-min-768x634.png" alt="Jaccard checklist" >}}
+{{< image src="/images/blog/Jaccard-checklist.drawio-min-768x634.png" alt="Jaccard checklist" >}}
 
 ## Espaços vetoriais
 
@@ -50,19 +50,19 @@ A próxima abordagem que tentamos foi um modelo de espaço vetorial.
 
 Os modelos de espaço vetorial nos permitem representar palavras e conceitos como números ou pontos em um gráfico. Por exemplo, se *ansioso* pode ser (2, 3), *preocupado* é (3, 4) e *relaxar* é (8, 2). As coordenadas de cada conceito não têm sentido, mas se calcularmos a distância entre eles, veremos que *ansioso* e *preocupado* estão mais próximos um do outro do que *relaxar*. 
 
-{{< image src="images/blog/Word-vectors.drawio-min-1536x836.png" alt="Word vectors" >}}
+{{< image src="/images/blog/Word-vectors.drawio-min-1536x836.png" alt="Word vectors" >}}
 
 É importante notar que os valores dos vetores são completamente arbitrários. Não há nenhum significado para onde um conceito é atribuído nos eixos *x* ou *y*, mas há significado nas distâncias.
 
 Agora temos uma maneira de lidar com sinônimos. Essa abordagem é chamada *embeddings de vetores de palavras*
 
-{{< image src="images/blog/image.png" >}}
+{{< image src="/images/blog/image.png" >}}
 
 Alguns valores vetoriais de palavras reais para termos que ocorrem em nossos dados. Normalmente, os vetores são grandes, potencialmente até 500 dimensões.
 
 A incorporação de vetores de palavras tornou-se popular em 2013, depois que o cientista da computação tcheco Tomáš Mikolov [ propôs uma maneira pela qual uma IA pode gerar vetores ](https://arxiv.org/abs/1310.4546) para cada palavra no idioma inglês simplesmente a partir de um conjunto enorme de documentos.
 
-{{< image src="images/blog/newplot-28-min.png" alt="newplot" >}}
+{{< image src="/images/blog/newplot-28-min.png" alt="newplot" >}}
 
 Para visualizar os vetores de palavras, podemos esmagá-los em duas ou três dimensões. Esta é uma visualização 2D dos termos na tabela acima. Usei um algoritmo chamado [ t-SNE ](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding) para esmagá-los em uma superfície plana.
 
@@ -72,7 +72,7 @@ Se você quiser usar incorporações de vetores de palavras para encontrar sinô
 
 Com os dados do Harmony , descobri que os modelos de espaço vetorial não identificaram corretamente a relação entre *criança intimida os outros* e *criança é intimidada pelos outros* – que são claramente questões muito diferentes e não devem ser harmonizadas juntas.
 
-{{< image src="images/blog/Vector-checklist.drawio-min-768x633.png" alt="Vector checklist" >}}
+{{< image src="/images/blog/Vector-checklist.drawio-min-768x633.png" alt="Vector checklist" >}}
 
 ## Modelos de transformadores
 
@@ -86,7 +86,7 @@ Representações vetoriais do GAD-7 e do Inventário de Ansiedade de Beck Calcul
 
 Como um aparte, os transformadores também podem ser usados para tradução automática (na verdade, o Google Tradutor agora usa transformadores), e essa atenção permite que uma frase substantivo+adjetivo seja traduzida para outro idioma com o gênero correto.
 
-{{< image src="images/blog/English-Portuguese-translations.drawio.png" alt="English Portuguese translations" >}}
+{{< image src="/images/blog/English-Portuguese-translations.drawio.png" alt="English Portuguese translations" >}}
 
 A palavra *vermelho* pode ser traduzida de várias maneiras diferentes para o português, dependendo do gênero e do substantivo a ser modificado. Os modelos de transformadores são hábeis em levar essas pistas ao contexto e produzir a tradução correta de uma frase.
 
@@ -96,7 +96,7 @@ GPT-2 converte o texto de cada pergunta em um vetor em 1600 dimensões.
 
 A distância entre quaisquer duas questões é medida de acordo com a métrica de similaridade de cosseno entre os dois vetores. Duas perguntas com significado semelhante, mesmo que redigidas de maneira diferente ou em idiomas diferentes, terão um alto grau de semelhança entre suas representações vetoriais. Questões muito diferentes tendem a estar distantes no espaço vetorial.
 
-{{< image src="images/blog/Transformer-checklist.drawio-min-768x633.png" alt="Transformer checklist" >}}
+{{< image src="/images/blog/Transformer-checklist.drawio-min-768x633.png" alt="Transformer checklist" >}}
 
 ## Convertendo para um gráfico de rede
 
@@ -106,7 +106,7 @@ Em seguida, encontramos as correspondências mais próximas e as vinculamos em u
 
 Como essa abordagem é potencialmente propensa a erros, fornecemos a facilidade para um usuário editar o gráfico de rede e adicionar e remover arestas se discordar das decisões do Harmony .
 
-{{< image src="images/blog/image-2.png" >}}
+{{< image src="/images/blog/image-2.png" >}}
 
 O usuário tem a opção de adicionar ou remover arestas do gráfico.
 

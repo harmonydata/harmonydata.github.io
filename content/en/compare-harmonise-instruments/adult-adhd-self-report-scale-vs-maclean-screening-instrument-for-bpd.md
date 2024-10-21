@@ -42,7 +42,7 @@ Utilizing advanced algorithms and natural language processing techniques, Harmon
 It can provide a percentage match between each item on both the scales, allowing researchers to have a clearer and more quantified understanding of commonalities. With Harmony, the task of comparing Adult ADHD Self-Report Scale vs MacLean Screening Instrument for BPD becomes streamlined and efficient. Harmony can handle instruments in different languages, expanding the horizons for cross-study comparisons. It offers a simple and interactive interface where users can either select from a database of instruments or upload their own in PDF form. When comparing Adult ADHD Self-Report Scale vs MacLean Screening Instrument for BPD, Harmony's AI-powered technology ensures thorough and accurate harmonisation. It has the potential to revolutionize essential research processes in psychology and social sciences.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 ## Other instruments which you can compare and harmonise with Harmony

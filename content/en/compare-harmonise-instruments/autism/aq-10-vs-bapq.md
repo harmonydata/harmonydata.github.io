@@ -34,7 +34,7 @@ Harmony uses complex large language models to provide a percentage match between
 
 Moreover, Harmony transcends traditional language barriers by providing item comparison in multiple languages. This makes AQ-10 vs BAPQ comparison, even in different languages, simple, quick, and highly precise. With Harmony, researchers don't need to manually sift through long PDFs of questionnaires. Harmony is indeed the perfect tool for psychologists wanting to streamline their research and achieve highly accurate results.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

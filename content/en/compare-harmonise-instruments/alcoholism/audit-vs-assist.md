@@ -37,7 +37,7 @@ This not only eliminates the manual labour involved but also reduces the chances
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

@@ -38,7 +38,7 @@ This comparison, termed harmonisation, is a vital process but can be extremely t
 
 This capability of Harmony does not restrict to comparing Beck Anxiety Inventory vs SCARED (adult) but can be extended to other instruments as well. With Harmony, you can either choose instruments from its database or upload your own PDF questionnaires to get comparison results. Harmony has a significant advantage that it can compare items in multiple languages, breaking the language barrier in research work. Therefore, if psychologists and social scientists need to compare Beck Anxiety Inventory vs SCARED (adult), Harmony should be their go-to solution. Visiting Harmony's web interface can start off the journey of easy, quick, and unbiased harmonisation, bringing a revolutionary change in the field of psychological research.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

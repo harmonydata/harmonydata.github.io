@@ -23,7 +23,7 @@ Eu usei uma ferramenta de harmonização existente desenvolvida por uma equipe d
 
 Esta ferramenta está disponível como um Excel e mostra uma variedade de instrumentos de diferentes lugares e épocas, e atribui as perguntas dentro deles a um conjunto definido de categorias.
 
-{{< image src="images/blog/image-1536x502.png" alt="img" >}}
+{{< image src="/images/blog/image-1536x502.png" alt="img" >}}
 
 Uma captura de tela da ferramenta de harmonização de McElroy et al (2020). Você pode baixar a ferramenta no formato Excel [ em nosso repositório Github ](https://github.com/harmonydata/harmony/tree/main/data) .
 
@@ -81,10 +81,10 @@ Para cada projeto de modelo, gerei uma curva ROC, calculei a AUC e também impri
 
 O modelo de linha de base, o Tf\*Idf, deu uma AUC de 71% e 67% nos conjuntos de dados da infância e da idade adulta, respectivamente. No inglês x português, obteve uma AUC de 49%, mostrando que não conseguiu realizar nenhuma correspondência. Isso não é surpreendente, pois não há palavras em comum entre os GAD-7s inglês e português.
 
-{{< image src="images/blog/Model-1-1536x1303.png" alt="model 1" >}}
+{{< image src="/images/blog/Model-1-1536x1303.png" alt="model 1" >}}
 
 
-{{< image src="images/blog/Model-2-1-1536x1254.png" alt="Model 2 1" >}}
+{{< image src="/images/blog/Model-2-1-1536x1254.png" alt="Model 2 1" >}}
 
 
 Com uma pesquisa de dicionário codificada manualmente para combinar palavras em inglês e português, o mesmo modelo foi capaz de pontuar 100% no conjunto de dados multilíngue GAD-7. (Arquivo CSV de dicionário disponível [ aqui ](https://github.com/harmonydata/harmony/blob/main/front_end/models/pt_en_map.csv) ).
@@ -97,14 +97,14 @@ A próxima etapa foi tentar uma abordagem de similaridade de vetores de palavras
 
 No geral, os menores modelos spaCy em inglês e português tiveram desempenho pior do que os modelos Tf\*Idf descritos acima. O desempenho do GAD-7 é essencialmente de 50% – o modelo não está realizando nenhuma classificação útil.
 
-{{< image src="images/blog/Model-3-1536x1275.png" alt="Model 3" >}}
+{{< image src="/images/blog/Model-3-1536x1275.png" alt="Model 3" >}}
 
 
 Isso é esperado, pois não esperaríamos que os vetores de palavras em inglês e português fossem equivalentes.
 
 Em seguida, experimentei o modelo spaCy grande, usando a versão em inglês para os dois idiomas. Isso teve um desempenho marginalmente melhor.
 
-{{< image src="images/blog/Model-4-1536x1303.png" alt="Model 4" >}}
+{{< image src="/images/blog/Model-4-1536x1303.png" alt="Model 4" >}}
 
 
 ### Passando para os transformadores
@@ -113,19 +113,19 @@ O que há de mais moderno em processamento de linguagem natural são os modelos 
 
 Usei o pacote de software HuggingFace com o [ modelo Sentence-BERT ](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2) , que é uma implementação do BERT projetada para gerar incorporações de sentenças semanticamente significativas que podem ser comparadas usando similaridade de cosseno.
 
-{{< image src="images/blog/Model-50Adistiluse-base-multilingual-cased-v2-1536x1355.png" alt="Model 50 Adistiluse base multilingual cased" >}}
+{{< image src="/images/blog/Model-50Adistiluse-base-multilingual-cased-v2-1536x1355.png" alt="Model 50 Adistiluse base multilingual cased" >}}
 
 
 Testei o Sentence-BERT com vários parâmetros de métricas diferentes, alternando entre a similaridade de cosseno e produto de ponto e adicionando uma etapa de pré-processamento manual dependente do idioma para identificar quando duas frases podem ser semelhantes no sentido oposto. Também tentei vários modelos de vetores de documentos diferentes disponíveis no hub HuggingFace.
 
 Consegui atingir 84% AUC nos questionários da infância, 80% AUC nos questionários da idade adulta e novamente 100% no GAD-7.
 
-{{< image src="images/blog/Model-8-1536x1042.png" alt="Model 8" >}}
+{{< image src="/images/blog/Model-8-1536x1042.png" alt="Model 8" >}}
 
 
 O modelo MentalBERT não teve um desempenho tão bom quanto os outros modelos transformadores de sentenças, apesar de ser específico de domínio. É claro que não esperaríamos que o MentalBERT tivesse um bom desempenho nos dois últimos conjuntos de dados, pois é apenas em inglês e não é multilíngue.
 
-{{< image src="images/blog/Model-10-1536x898.png" alt="Model 10" >}}
+{{< image src="/images/blog/Model-10-1536x898.png" alt="Model 10" >}}
 
 
 ### Uma prévia dos pares de perguntas que foram classificados erroneamente pelo Harmony
@@ -136,11 +136,11 @@ Se você olhar o código para as validações em [ Github ](https://github.com/h
 
 Por exemplo, o Modelo 7 marcou claramente pares de perguntas equivalentes em português/inglês com valores de similaridade mais altos
 
-{{< image src="images/blog/image-22.png" alt="img" >}}
+{{< image src="/images/blog/image-22.png" alt="img" >}}
 
 Os pares de perguntas marcados como mais semelhantes no conjunto de dados GAD-7 pelo Modelo 7 (transformador)
 
-{{< image src="images/blog/image-23.png" alt="img" >}}
+{{< image src="/images/blog/image-23.png" alt="img" >}}
 
 Os pares de perguntas marcados como menos semelhantes no conjunto de dados GAD-7 pelo Modelo 7 (transformador)
 
@@ -148,7 +148,7 @@ Os pares de perguntas marcados como menos semelhantes no conjunto de dados GAD-7
 
 Da mesma forma, aqui está uma impressão dos 10 principais falsos negativos do conjunto de dados Childhood (os pares de perguntas marcados como semelhantes na ferramenta McElroy et al, mas que foram perdidos pelo Harmony ):
 
-{{< image src="images/blog/image-24.png" alt="img" >}}
+{{< image src="/images/blog/image-24.png" alt="img" >}}
 
 Os 10 principais falsos negativos no conjunto de dados da Infância, classificados pelo Modelo 7 (transformador)
 
@@ -158,7 +158,7 @@ Podemos ver que alguns deles são textos em que o significado é realmente muito
 
 Vamos dar uma olhada nos falsos positivos – estes são pares de perguntas que McElroy et al categorizaram como diferentes, mas o Harmony pensou que eles são semelhantes.
 
-{{< image src="images/blog/image-25.png" alt="img" >}}
+{{< image src="/images/blog/image-25.png" alt="img" >}}
 
 Os 10 principais falsos positivos no conjunto de dados da Infância, classificados pelo Modelo 7 (transformador)
 

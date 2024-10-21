@@ -35,7 +35,7 @@ In psychology and social sciences, it is often necessary to compare different qu
 
 Also worth mentioning, *Harmony* comfortably handles questionnaires in various languages, making the 'AUDIT-10 vs ESPAD' comparison possible irrespective of the language used in your research. Simply dropping your questionnaire material into https://harmonydata.ac.uk/app, you can get started with your harmonising work. Using *Harmony* for comparing 'AUDIT-10 vs ESPAD' not only simplifies your research process but also provides a more objective analysis result, ultimately giving a boost to your research quality.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

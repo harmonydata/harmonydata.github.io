@@ -37,7 +37,7 @@ Harmony, a specially designed software for psychologists, uses natural language 
 Using Harmony to compare GHQ 12 vs MFQ does not only streamline the process but also helps in avoiding subjectivity. The software’s aptness to evaluate questionnaires even in different languages further makes it a go-to tool for international research investigations. Thus, using Harmony offers an efficient means to comprehend the parallels and diversities in GHQ 12 vs MFQ, thereby ultimately fostering a richer understanding of psychological distress and depression in children and adolescents.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

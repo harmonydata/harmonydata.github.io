@@ -18,11 +18,11 @@ We're happy to share some exciting news with you. Harmony now supports at least 
 
 I evaluated Harmony's ability to match the [GAD-7](https://adaa.org/sites/default/files/GAD-7_Anxiety-updated_0.pdf) in 11 languages to the English version. I found that Harmony was able to achieve >95% AUC for 7 of the 11 non-English languages. 
 
-{{< image src="images/multilingual_aucs.png" alt="Multilingual AUCs" title="Multilingual AUCs" >}}
+{{< image src="/images/multilingual_aucs.png" alt="Multilingual AUCs" title="Multilingual AUCs" >}}
 
 You can follow my working [in the `experiments` repo in our Github](https://github.com/harmonydata/experiments/blob/main/README.md).
 
-{{< image src="images/multilingual_gad.png" alt="Multilingual GAD-7" title="Multilingual GAD-7" >}}
+{{< image src="/images/multilingual_gad.png" alt="Multilingual GAD-7" title="Multilingual GAD-7" >}}
 
 ## More about Harmony
 
@@ -44,6 +44,6 @@ By supporting [multiple languages](https://fastdatascience.com/multilingual-natu
 
 If you are interested in using Harmony or learning more about it, please visit [the Harmony website](https://harmonydata.ac.uk) or [contact us](/contact). We would love to hear from you and [get your feedback](/open-source-for-social-science/what-features-would-you-like-to-see-in-harmony/) on our [tool](/psychology-ai-tool/). 
 
-{{< image src="images/reiwa.svg" alt="Reiwa in Japanese" title="Reiwa in Japanese" >}}
+{{< image src="/images/reiwa.svg" alt="Reiwa in Japanese" title="Reiwa in Japanese" >}}
 
 _The Japanese characters above are pronounced "reiwa" and mean "beautiful harmony". [Reiwa](https://en.wikipedia.org/wiki/Reiwa_era) is the name of the current era in the Japanese official calendar, corresponding to Emperor Naruhito's reign as 126th Emperor of Japan, which began in 2019. The second character, [和](https://en.wiktionary.org/wiki/%E5%92%8C), signifies "peaceful" or "harmonious" in both Chinese and Japanese. In Chinese it's pronounced "hé", and in Japanese, "wa", as well as many other pronunciations._

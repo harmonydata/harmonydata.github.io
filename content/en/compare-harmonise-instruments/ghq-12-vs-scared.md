@@ -34,7 +34,7 @@ Here's where Harmony, a software tool specifically developed for psychologists, 
 
 Comparing GHQ-12 vs SCARED no longer needs to be a laborious process when using Harmony. This software can give a percentage match between each item in GHQ 12 and SCARED (adult), allowing researchers to objectively compare these two distinct measurement tools. It allows users to either select questionnaires from its database or directly upload the PDFs into its web interface. Moreover, Harmony supports comparisons of items in multiple languages, making it an invaluable tool for international studies. In conclusion, the GHQ 12 vs SCARED (adult) comparison is made notably easier utilising Harmony.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 GHQ-12, being a popular tool for detecting psychological distress, and SCARED (adult), being equally significant, leaves researchers with the necessity for an objective approach in comparing these tools. Fortunately, Harmony provides the technology and accessibility to conduct such tasks in a significantly reduced timeframe, thereby streamlining research workflows and enhancing study results.
 

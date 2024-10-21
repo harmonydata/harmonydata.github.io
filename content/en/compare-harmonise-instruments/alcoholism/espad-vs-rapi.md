@@ -42,7 +42,7 @@ In the quest to derive meaningful insights from social science research, it's pa
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

@@ -40,7 +40,7 @@ For researchers working on CES-D vs GHQ-30 and similar studies, Harmony signific
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

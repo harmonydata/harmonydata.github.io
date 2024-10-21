@@ -36,7 +36,7 @@ The software presents a percentage match between the individual items in PHQ-9 a
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

@@ -41,7 +41,7 @@ With a massive language model to compare the instruments, it provides a percenta
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

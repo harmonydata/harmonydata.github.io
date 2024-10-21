@@ -33,7 +33,7 @@ Harmony offers more than just comparison; it's a valuable platform that allows s
 Another impressive feature about Harmony is its multi-language support, ensuring that DUDIT vs ESPAD is possible even across languages. This feature enhances the usability and universality of the tool, enabling it to cater to a more extensive range of researchers. Therefore, for your DUDIT vs ESPAD comparisons, Harmony undoubtedly offers a suitable, streamlined approach that improves not only the accuracy but also the efficiency of the process.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

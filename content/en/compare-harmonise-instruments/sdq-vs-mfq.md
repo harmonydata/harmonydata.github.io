@@ -37,7 +37,7 @@ The SDQ vs MFQ comparative process benefits greatly from Harmony’s unique abil
 
 SDQ vs MFQ comparison might sound like a complex procedure, but Harmony's natural language processing and generative AI models make it user-friendly. You can either select from Harmony's wide database or upload your custom instruments as PDFs, offering limitless possibilities in probing SDQ vs MFQ. Harmony is an exceptional tool for psychologists aiming to study and compare instruments like SDQ and MFQ efficiently. The advanced technology that Harmony uses provides a remarkable way to standardize and improve research methodology. So next time when you look into SDQ vs MFQ comparison, utilizing Harmony would make the analysis not just easy, but also more precise and reliable.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

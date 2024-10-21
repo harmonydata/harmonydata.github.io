@@ -36,7 +36,7 @@ If you're looking to directly compare 'AUDIT vs DASI', Harmony should be your go
 With a straightforward web interface, Harmony's database encompasses several instruments. For custom requirements, the tool allows users to drag and drop their own instruments in PDF format directly into the application. Whether you're looking to understand patterns in Alcohol Use Disorders through the AUDIT questionnaire or investigating drug usage and self-injury with DASI, a direct comparison using Harmony increases your efficiency and the accuracy of your results. If 'AUDIT vs DASI' is a comparison your research requires, Harmony makes the harmonisation process considerably more straightforward and less time-consuming while ensuring high accuracy in results.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

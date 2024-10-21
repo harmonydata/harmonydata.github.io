@@ -36,7 +36,7 @@ By leveraging natural language processing and generative AI models, Harmony can 
 Harmony facilitates swift recognition and correlation of these potentially disparate elements, thereby easing the AUDIT-10 vs RAPI comparison process. Suitably equipped with the Harmony tool, psychologists now find the comparison between AUDIT-10 vs RAPI not only to be feasible in different languages, but also significantly less time-consuming and more objective. This way, they can focus more on interpreting their research results and less on the tedious task of harmonising different research instruments. Visit https://harmonydata.ac.uk/app to experience this harmonic integration from the comfort of your own space.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

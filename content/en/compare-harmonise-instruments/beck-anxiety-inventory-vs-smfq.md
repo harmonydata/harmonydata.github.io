@@ -34,7 +34,7 @@ Harmony's robust database allows you to pick and compare instruments of your cho
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

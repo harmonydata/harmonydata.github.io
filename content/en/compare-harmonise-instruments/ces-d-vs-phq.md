@@ -43,7 +43,7 @@ For instance, CES-D tends to focus on affective components of depressive symptom
 
 Thankfully, psychologists now have a powerful resource in Harmony, a software developed specifically for the harmonisation of research instruments. Harmony employs generative artificial intelligence models and natural language processing, effectively eliminating the manual labour involved in the CES-D vs PHQ comparison. With this tool, researchers can simply select CES-D and PHQ from Harmony’s database or upload the PDF instruments. The software then gives a percentage match between each item in CES-D and PHQ, considerably simplifying and objectifying the comparison process. This innovative solution even extends comparison functionalities to multilingual contexts. Harmony's easy-to-use web interface is further aimed at streamlining the harmonisation process and promoting cross-study comparability.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 
 
 

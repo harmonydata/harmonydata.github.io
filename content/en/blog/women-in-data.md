@@ -28,6 +28,7 @@ On 22 November, we will present Harmony at Women In Data™️ London Chapter's 
 ## See also our past events
 
 * 22 November 2024: [Harmony at Women In Data™️ London Chapter](/open-source-for-social-science/women-in-data/)
+* 30 October 2024: [Onboarding webinar for DOXA AI competition](/doxa/)
 * 8 October 2024: [Harmony: a free online tool using LLMs for research in psychology and social sciences](/psychology-ai-tool/aidl-meetup/)  at AI|DL London
 * 11 and 12 September 2024: [Harmony at MethodsCon Futures](/ai-in-mental-health/harmony-at-methodscon-futures/
 ) in Manchester

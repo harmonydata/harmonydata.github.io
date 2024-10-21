@@ -27,7 +27,7 @@ We would like to improve Harmony with a *fine tuned* large language model. We ha
 
 
 
-We will have a livestreamed webinar to launch the competion on **Wednesday 30 October at 5pm UK time**.
+We will have a livestreamed webinar/onboarding session to launch the competion on **Wednesday 30 October at 5pm UK time**.
 
 
 ## Webinar joining instructions

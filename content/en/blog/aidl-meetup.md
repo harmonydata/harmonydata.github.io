@@ -84,6 +84,7 @@ Our session will explore the transformative potential of Generative AI, focusing
 ## See also our past events
 
 * 22 November 2024: [Harmony at Women In Data™️ London Chapter](/open-source-for-social-science/women-in-data/)
+* 30 October 2024: [Onboarding webinar for DOXA AI competition](/doxa/)
 * 11 and 12 September 2024: [Harmony at MethodsCon Futures](/ai-in-mental-health/harmony-at-methodscon-futures/
 ) in Manchester
 * 2 July 2024: [Harmony: NLP and generative models for psychology research](/open-source-for-social-science/pydata-meetup/)  at Pydata London

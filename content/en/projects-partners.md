@@ -43,7 +43,12 @@ blocks:
       url: https://www.ukri.org/councils/esrc/
     image: /images/ukri_esrc.png
     description: "ESRC is the UK’s largest funder of economic, social, behavioural and human data science."
-
+  - heading: Centre for Longitudinal Studies
+    button:
+      text: "Economic and Social Research Council"
+      url: https://cls.ucl.ac.uk/
+    image: /images/cls_logo_red.svg
+    description: "The UCL Centre for Longitudinal Studies is home to a unique series of UK national cohort studies, with studies following the lives of multiple generations of people. CLS conducts cutting-edge scientific research and generates policy evidence to improve lives."
   - heading: R package on CRAN
     description: |-
       [Omar Hassoun](https://www.linkedin.com/in/omar-hassoun-6a2730157/) has worked on the R package on CRAN.

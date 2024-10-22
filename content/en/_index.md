@@ -174,6 +174,9 @@ blocks:
   - alt: "UKRI ESRC"
     image: /images/ukri_esrc.png
     url: https://www.ukri.org/councils/esrc/
+  - alt: "CLS"
+    image: /images/cls_logo_red.svg
+    url: https://cls.ucl.ac.uk/
     
 - block: newsletter
   image: images/multilingual.jpg

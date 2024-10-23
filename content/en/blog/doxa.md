@@ -41,6 +41,18 @@ We will have a livestreamed webinar/onboarding session to launch the competion o
   * More phone numbers: https://tel.meet/yko-evnr-ppt?pin=7879899599026
 
 
+## What about data?
+
+We have gathered training data for you to use to fine tune your model, and there is unseen validation data which we will use to score the model.
+
+[More information is available on the DOXA AI page](https://doxaai.com/competition/harmony-matching).
+
+## How can I get started?
+
+First, [create an account on DOXA AI and enroll in the competition](https://doxaai.com/competition/harmony-matching) and download the code examples and training data.
+
+Hugging Face has an excellent [guide to fine tuning a large language model](https://huggingface.co/docs/transformers/en/training). We recommend using Hugging Face because we've already designed Harmony around the Hugging Face Python library, and it's the best known framework for running LLMs in Python.
+
 ## Prizes
 
 The prize for the winner of the competition is £500 in vouchers and the runner up will get £250 in vouchers.

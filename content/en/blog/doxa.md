@@ -2,7 +2,7 @@
 title: "Harmony online coding competition on DOXA AI"
 categories: 
   - "ai-in-research"
-image: "images/Matching Challenge Banner.png"
+image: "/images/Matching Challenge Banner.png"
 date: 2024-10-21
 url: "/doxa/"
 ---

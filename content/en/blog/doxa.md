@@ -9,12 +9,12 @@ url: "/doxa/"
 
 ## Harmony on DOXA AI: Train your own Large Language Model and win up to £500 in vouchers!
 
-We would like to improve Harmony's matching algorithm. Quite often, Harmony mistakenly thinks that sentences are similar when a psychologist would consider them dissimilar, or vice versa. We have evaluated Harmony's performance [in this blog post](/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/).
+We would like to improve Harmony's matching algorithm. Someties, Harmony mistakenly thinks that sentences are similar when a psychologist would consider them dissimilar, or vice versa. We have evaluated Harmony's performance [in this blog post](/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/).
 
 
 {{< image src="/images/harmony-vs-human.png" alt="Harmony vs Human" >}}
 
-*Harmony is often misaligned with human evaluators*
+*Harmony is sometimes misaligned with human evaluators*
 
 
 We would like to improve Harmony with a *fine tuned* large language model. We have teamed up with DOXA AI and made an online competition where you can improve on the off-the-shelf LLMs which we are currently using. You can win up to £500 in vouchers! [Click here to join the Harmony matching competition on DOXA AI](https://doxaai.com/competition/harmony-matching).

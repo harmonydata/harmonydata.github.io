@@ -1,6 +1,6 @@
 ---
 title: "What is data harmonisation - and why it matters in 2024"
-description: While this data can be a valuable asset, it often comes in different formats, structures, and standards, making it challenging to analyse, share, and extract meaningful insights. This is where the concept of **data harmonisation** comes into play. In this article, we will explore what data harmonisation is, why it is important, and how it can benefit organizations and society as a whole.
+description: While this data can be a valuable asset, it often comes in different formats, structures, and standards, making it challenging to analyse, share, and extract meaningful insights. This is where data harmonisation comes into play. In this article, we will explore what data harmonisation is, why it is important, and how it can benefit organisations and society as a whole.
 date: 2024-01-23
 categories: ["data"]
 image: "/images/02- What is data harmonisation - and why it matters in 2024.svg"
@@ -12,28 +12,62 @@ url: "/data-harmonisation/"
 
 # Data Harmonisation: Unifying Data for Deeper Insights
 
-## Introduction
-
-In today's data-driven world, the concept of "data harmonisation" has become increasingly important. With the explosion of data from various sources, it's essential to ensure that this information is consistent, accurate, and usable. But what exactly is data harmonisation? How does it work, and why is it so crucial in our modern landscape? This blog post will dive into the meaning, processes, and significance of data harmonisation.
-
 ## What is Data Harmonisation?
 
-Data harmonisation refers to the process of bringing together data from different sources and transforming it into a unified, coherent format. This process involves standardising disparate data formats, scales, and conventions to make the data compatible and comparable. The goal is to create a dataset where differences in format or scale do not obscure the underlying information.
+In today's data-driven world, **data harmonisation** has become increasingly important. With data coming from disparate sources, it's essential to ensure that this information is consistent, accurate, and usable. For example, in a large study in social sciences, such as a [longitudinal study](/longitudinal-studies/) or meta-analysis, it is common that a researcher may want to combine data from different studies.
+
+We can make data comparable by recoding variables from different studies, modifying them, or identifying which variables in one study match variables in another study. This is **data harmonisation**.
+
+Data harmonisation involves bringing together data from different sources and transforming it into a unified, coherent format. This process involves standardising disparate data formats, scales, and conventions to make the data compatible and comparable. The goal is to create a dataset where differences in format or scale do not obscure the underlying information.
+
 Essentially, it's about making different sets of data compatible with each other. This process is crucial in data management and analysis, particularly when dealing with large amounts of data from different sources.
-
-{{< image src="/images/Yp4hh63/2024-01-23-20-57-04-concept-of-Data-Harmonisation.png" alt="The concept of data harmonisation" title="The concept of data harmonisation" >}}
-
 
 ### The Need for Data Harmonisation
 
-Imagine trying to compare financial reports from different countries, each using its currency and accounting standards. Without harmonisation, the task is nearly impossible. Similarly, in scientific research, data from various studies [must be harmonised](/data-harmonisation/what-is-truly-harmonised-data/) to draw broader conclusions.Data harmonisation is not just a technical necessity but a strategic imperative across various fields. It enables better decision-making, more accurate analyses, and contributes to the advancement of knowledge and efficiency in multiple domains. The process of harmonising data, therefore, is a critical step in leveraging the full potential of the vast amounts of data generated in our modern world.
+There are many [cohort](/cohort-studies/) and [longitudinal](/longitudinal-studies/) studies available in the UK and around the world for researchers to use. However, researchers often need to draw comparisons between studies from different times and places, or studies conducted by different organisations. This may be in order to achieve the necessary sample size for statistical significance, or to determine whether results are consistent across studies or in different conditions.
+
+In social sciences, therefore, data harmonisation is often used by researchers conducting longitudinal or cohort studies, or international studies. It is frequently necessary to [harmonise data from several different studies](/data-harmonisation/what-is-truly-harmonised-data/) to draw broader conclusions. For example, how studies report topics such as anxiety, household income, or limb function can vary even within professionals within a very narrow and specialised field.
+
+Outside of science and research, data harmonisation is also needed in industry. For example, imagine trying to compare financial reports from different countries, each using its currency and accounting standards. The UK reports industries using the [Standard industrial classification of economic activities (SIC)](https://www.gov.uk/government/publications/standard-industrial-classification-of-economic-activities-sic) while other countries have their own standards. Without data harmonisation, it is very difficult to combine datasets using disparate schemas.
+
+Data harmonisation enables better decision-making, more accurate analyses, and contributes to the advancement of knowledge and efficiency in multiple domains. Data harmonisation is therefore a critical step in leveraging the full potential of datasets in research and industry.
+
+
+## An example of data harmonisation with Harmony
+
+Psychologists often measure phenomena such as anxiety and depression with instruments, such as the GAD-7 (given below).
+
+### Questions in GAD-7
+
+|   No. | GAD-7 English                                                                                                                                      |
+|------:|:---------------------------------------------------------------------------------------------------------------------------------------------------|
+|     1 | Feeling nervous, anxious, or on edge                                                                                                               |
+|     2 | Not being able to stop or control worrying                                                                                                         |
+|     3 | Worrying too much about different things                                                                                                           |
+|     4 | Trouble relaxing                                                                                                                                   |
+|     5 | Being so restless that it is hard to sit still                                                                                                     |
+|     6 | Becoming easily annoyed or irritable                                                                                                               |
+|     7 | Feeling afraid, as if something awful might happen                                                                                                 |
+|     8 | If you checked any problems, how difficult have they made it for you to do your work, take care of things at home, or get along with other people? |
+
+However, where multiple studies have been conducted using [different instruments](/harmonisation-validation/), such as the alternative Beck's Anxiety Inventory, things get a little complicated. For example, there is a manual process of matching question item 4 in the GAD-7 to question item 4 in Beck's, as illustrated below.
+
+{{< image src="/images/GAD-7-vs-Becks.drawio-min.png" alt="dog" title="dog" >}}
+
+We have developed Harmony, an AI-driven tool which uses large language models and natural language processing to help researchers with item and data harmonisation. Click on the link below to try Harmony on the [GAD-7 vs Beck's](/gad-7-vs-beck-anxiety-inventory/) example. (You can [read this blog post](/nlp-semantic-text-matching/how-does-harmony-work/) for a technical explanation of how Harmony works.)
+
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIkdBRC03IEVuZ2xpc2giLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJGZWVsaW5nIG5lcnZvdXMsIGFueGlvdXMsIG9yIG9uIGVkZ2UifSwgeyJxdWVzdGlvbl90ZXh0IjogIk5vdCBiZWluZyBhYmxlIHRvIHN0b3Agb3IgY29udHJvbCB3b3JyeWluZyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiV29ycnlpbmcgdG9vIG11Y2ggYWJvdXQgZGlmZmVyZW50IHRoaW5ncyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiVHJvdWJsZSByZWxheGluZyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiQmVpbmcgc28gcmVzdGxlc3MgdGhhdCBpdCBpcyBoYXJkIHRvIHNpdCBzdGlsbCJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiQmVjb21pbmcgZWFzaWx5IGFubm95ZWQgb3IgaXJyaXRhYmxlIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJGZWVsaW5nIGFmcmFpZCwgYXMgaWYgc29tZXRoaW5nIGF3ZnVsIG1pZ2h0IGhhcHBlbiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSWYgeW91IGNoZWNrZWQgYW55IHByb2JsZW1zLCBob3cgZGlmZmljdWx0IGhhdmUgdGhleSBtYWRlIGl0IGZvciB5b3UgdG8gZG8geW91ciB3b3JrLCB0YWtlIGNhcmUgb2YgdGhpbmdzIGF0IGhvbWUsIG9yIGdldCBhbG9uZyB3aXRoIG90aGVyIHBlb3BsZT8ifV19LCB7Imluc3RydW1lbnRfbmFtZSI6ICJVbnRpdGxlZCBpbnN0cnVtZW50IiwgInF1ZXN0aW9ucyI6IFt7InF1ZXN0aW9uX3RleHQiOiAiTnVtYm5lc3Mgb3IgdGluZ2xpbmcgIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJGZWVsaW5nIGhvdCAifSwgeyJxdWVzdGlvbl90ZXh0IjogIldvYmJsaW5lc3MgaW4gbGVncyAifSwgeyJxdWVzdGlvbl90ZXh0IjogIlVuYWJsZSB0byByZWxheCAifSwgeyJxdWVzdGlvbl90ZXh0IjogIkZlYXIgb2Ygd29yc3QgaGFwcGVuaW5nICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiRGl6enkgb3IgbGlnaHRoZWFkZWQgIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJIZWFydCBwb3VuZGluZyAvIHJhY2luZyAifSwgeyJxdWVzdGlvbl90ZXh0IjogIlVuc3RlYWR5ICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiVGVycmlmaWVkIG9yIGFmcmFpZCAifSwgeyJxdWVzdGlvbl90ZXh0IjogIk5lcnZvdXMgIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJGZWVsaW5nIG9mIGNob2tpbmcgIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJIYW5kcyB0cmVtYmxpbmcgIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJTaGFreSAvIHVuc3RlYWR5ICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiRmVhciBvZiBsb3NpbmcgY29udHJvbCAifSwgeyJxdWVzdGlvbl90ZXh0IjogIkRpZmZpY3VsdHkgaW4gYnJlYXRoaW5nICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiRmVhciBvZiBkeWluZyAifSwgeyJxdWVzdGlvbl90ZXh0IjogIlNjYXJlZCAifSwgeyJxdWVzdGlvbl90ZXh0IjogIkluZGlnZXN0aW9uICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiRmFpbnQgLyBsaWdodGhlYWRlZCAifSwgeyJxdWVzdGlvbl90ZXh0IjogIkZhY2UgZmx1c2hlZCAifSwgeyJxdWVzdGlvbl90ZXh0IjogIkhvdCAvIGNvbGQgc3dlYXRzIn1dfV0=" target="harmonyapp">Import GAD-7 and Beck Anxiety Inventory into Harmony and harmonise them</a> - find similarities between the two instruments using our AI platform
+
+{{< card heading="Try Harmony" copy="Compare GAD-7 and Beck Anxiety Inventory " url="https://harmonydata.ac.uk/app" >}}
+{{< youtube cEZppTBj1NI >}}
+
+
 
 
 ### Key Steps in Data Harmonisation
 
-![](https://i.ibb.co/gjGPhhg/2024-01-23-20-57-11data-transformation.png)
 
-1. **Data Identification and Collection**: This step involves identifying the relevant data sources and gathering data from them. It's crucial to understand the type, format, and structure of the data being collected. This may include data from internal systems, external sources, databases, spreadsheets, or even unstructured data like text files.
+1. **Data Discovery, Data Identification and Collection**: This step involves identifying the relevant data sources and gathering data from them. It's crucial to understand the type, format, and structure of the data being collected. This may include data from internal systems, external sources, databases, spreadsheets, or even unstructured data like text files.  [Harmony Discovery](/discover-data/) is planned to assist in the data discovery stage.
 
 2. **Data Cleaning and Preprocessing**: This involves cleansing the data to ensure its quality. Common tasks include correcting errors, handling missing values, removing duplicates, and addressing outliers. Preprocessing also involves standardizing data, like ensuring consistent naming conventions and formats.
 
@@ -47,10 +81,31 @@ Imagine trying to compare financial reports from different countries, each using
 
 Each of these steps is critical in the process of transforming diverse and disparate data sources into a cohesive, reliable, and valuable resource for analysis and decision-making.
 
+[CLOSER](https://closer.ac.uk/research-fund-2/data-harmonisation/) has provided a number of guides for data harmonisation as well as some harmonised datasets.
+
+## Harmony Discovery for data discovery
+
+We are currently working on [Harmony Discovery](/discover-data/), which will extend the functionality of Harmony to allow researchers to discover datasets using semantic matching from large language models. Harmony Discovery is currently connected via API to the following UK-based data catalogues:
+
+* [CLOSER](https://closer.ac.uk/)
+
+* [ADR UK](https://www.adruk.org/data-access/data-catalogue/)
+
+* [Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/)
+
+* [UKLLC](https://explore.ukllc.ac.uk)
+
+* [HDR UK](https://www.healthdatagateway.org/)
+
+
+{{< youtube 2Fj-oBRXDiI >}}
+
+*Video of Thomas Wood talking at [AI|DL](/psychology-ai-tool/aidl-meetup/) and demoing Harmony
+
 
 ## Benefits of Data Harmonisation
 
-{{< image src="/images/2024-01-23-21-09-22-benefits-of-data-harmonisation.png" alt="The benefits of data harmonisation" title="The benefits of data harmonisation" >}}
+
 
 1. **Improved Data Quality**: Data harmonisation enhances the accuracy, consistency, and reliability of data. By cleaning and standardizing data, it reduces errors and discrepancies, ensuring that the data is trustworthy and valuable for decision-making. This improved quality is essential for any data-driven process, as it forms the foundation for reliable insights and conclusions.
 
@@ -70,8 +125,6 @@ In summary, data harmonisation brings about significant improvements in the qual
 
 
 ## Challenges in Data Harmonisation
-
-{{< image src="/images/2024-01-23-19-21-18-common-challenges-in-data-harmonisation.png" alt="The common challenges in data harmonisation" title="The common challenges in data harmonisation" >}}
 
 1. **Complexity of Data Sources**: Data often comes in a myriad of formats and structures from different sources, such as databases, spreadsheets, or even unstructured formats like text files. Harmonising such varied data requires understanding and addressing these complexities, making the process challenging.
 
@@ -93,9 +146,6 @@ Each of these challenges represents a significant aspect of the data harmonisati
 
 
 ## Real-World Applications of Data Harmonisation
-
-
-{{< image src="/images/2024-01-23-21-15-53-applications-of-data-harmonisation.png" alt="Applications of data harmonisation" title="Applications of data harmonisation" >}}
 
 
 Let's explore this need further in various sectors:
@@ -128,7 +178,6 @@ Data harmonisation is not a theoretical concept but a practical necessity across
 **[Harmony: A Specialised Tool for Data Harmonisation](https://harmonydata.ac.uk/)**
 
 
-{{< youtube cEZppTBj1NI >}}
 
 
 Tools like Harmony, designed specifically for the [retrospective harmonisation of questionnaire items](/data-harmonisation/back-to-the-future-retrospectively-harmonising-questionnaire-data/), are invaluable in research and data analysis. They allow for the comparison and combination of data from different studies or time periods, which is crucial in fields like social sciences, healthcare, and market research.

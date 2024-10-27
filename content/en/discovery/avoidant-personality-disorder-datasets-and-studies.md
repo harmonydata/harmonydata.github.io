@@ -5,9 +5,21 @@ url: "/discover-data/avoidant-personality-disorder-datasets-and-studies"
 
 ## Avoidant Personality Disorder datasets and studies
 
-*The Harmony team is working on Harmony Discovery, which will allow social scientists to find datasets about Avoidant Personality Disorder across data platforms. Harmony Discovery is due in 2025 and will extend the functionality of Harmony.*
+*The Harmony team is working on [Harmony Discovery](https://harmonydiscovery.fastdatascience.com/), which will allow social scientists to find datasets about Avoidant Personality Disorder across data platforms. [Harmony Discovery](https://harmonydiscovery.fastdatascience.com/) is due in 2025 and will extend the functionality of Harmony.*
 
 * [Find Avoidant Personality Disorder datasets and longitudinal studies on the Catalogue of Mental Health Measures](https://www.cataloguementalhealth.ac.uk/?content=search&query=Topic:avoidant+personality+disorder)
+
+
+{{< card heading="Try Harmony Discovery" copy="Find Avoidant Personality Disorder datasets on Harmony Discovery Beta" url="https://harmonydiscovery.fastdatascience.com/" >}}
+
+{{< htmlcode >}}
+
+<iframe src="https://www.veed.io/embed/b8eb93ee-5cca-4b09-8b5d-34b614cb0f58" width="744" height="504" frameborder="0" title="Thomas Wood's Video - Oct 23, 2024" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+{{</ htmlcode >}}
+
+*Preview of Harmony Discovery*
+
 
 ## Discover Avoidant Personality Disorder Datasets with Harmony Discovery
 

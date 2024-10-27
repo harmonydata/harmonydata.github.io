@@ -2,6 +2,27 @@
 title: Frequently Asked Questions
 ---
 
+{{< htmlcode >}}
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "WebApplication",
+"name": "Harmony",
+"applicationCategory": "Research Tool",
+"url": "https://harmonydata.ac.uk/app",
+"publisher": "Ulster University",
+"producer": "Fast Data Science Ltd, Delosis",
+"maintainer": "Thomas Wood",
+"license": "https://github.com/harmonydata/harmony?tab=MIT-1-ov-file#readme",
+"keywords": "data harmonisation, item harmonisation, natural language processing",
+"isAccessibleForFree": true,
+"funder": "Wellcome Trust, ESRC",
+"dateCreated": "2023-05-02",
+"citation": "https://doi.org/10.1186/s12888-024-05954-2"
+}
+</script>
+{{< /htmlcode >}}
+
 ## What is harmonisation?
 
 Harmonisation means taking variables from [different studies](/item-harmonisation/harmony-a-free-ai-tool-to-merge-cohort-studies) and manipulating them to make them comparable.

@@ -2,8 +2,8 @@
 title: "Pharmaceutical and R&D Data Harmonisation: Tools, Standards, and Processes"
 categories: ["data"]
 image: "/images/19- Pharmaceutical and R&D data harmonisation - tools, standards, and processes.svg"
-date: 2024-06-19
-draft: true
+date: 2024-10-27
+url: "/data-harmonisation/pharma-r-and-d-data-harmonisation/"
 ---
 
 

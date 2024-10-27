@@ -1,9 +1,9 @@
 ---
 title: Data Harmonisation in Real Estate
-date: 2026-06-05
+date: 2024-10-27
 categories: ["data"]
 image: "/images/13- How to extract and process data from questionnaires.svg"
-draft: true
+url: "/data-harmonisation/data-harmonisation-in-real-estate/"
 ---
 
 # Overview

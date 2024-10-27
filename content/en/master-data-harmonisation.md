@@ -1,10 +1,10 @@
 ---
 title: "Master Data Harmonisation: Key to Business Value"
 description: "Explore how Master Data Harmonisation unlocks important business valu and enhances data integrity and decision-making efficiency."
-date: 2024-04-23
-draft: true
+date: 2024-10-27
 categories: ["data"]
 image: "/images/09- Master data harmonisation for business uses.svg"
+url: "/data-harmonisation/master-data-harmonisation/"
 ---
 
 # **Unlocking Business Value through Master Data Harmonisation**

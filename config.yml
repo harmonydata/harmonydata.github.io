@@ -202,7 +202,11 @@ languages:
         url: "/discover-data/depression-datasets-and-studies/"
         parent: Useful links
         weight: 70
-
+      - name: Cohort studies on anxiety
+        url: "/cohort-studies/anxiety/"
+        parent: Useful links
+        weight: 75
+        
       - name: Tools
         weight: 50
       - name: Harmony

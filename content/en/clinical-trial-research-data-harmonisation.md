@@ -1,11 +1,11 @@
 ---
 title: "Clinical trial and research data harmonisation principles"
 Discription: "Data harmonisation in clinical trials has emerged as a crucial practice to streamline processes, enhance collaboration, and extract meaningful insights. In this blog post, we will delve into the principles of clinical data harmonisation, exploring its significance in the realm of clinical research."
-date: 2024-05-13
+date: 2024-10-27
 author: "Vidhya Sudani"
 image: "/images/Clinical trial and research data harmonisation principles.webp"
 categories: ["data"]
-draft: true
+url: "/data-harmonisation/clinical-trial-research-data-harmonisation/"
 ---
 
 

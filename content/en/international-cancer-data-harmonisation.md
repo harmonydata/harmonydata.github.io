@@ -2,8 +2,8 @@
 title: "International cancer data harmonisation in 2024"
 categories: ["data"]
 image: "/images/18- International cancer data harmonisation - the state of 2024.svg"
-date: 2024-06-12
-draft: true
+date: 2024-10-27
+url: "/data-harmonisation/international-cancer-data-harmonisation/"
 ---
 
 International cancer data harmonisation – The state of 2024

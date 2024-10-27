@@ -5,20 +5,67 @@ title: Frequently Asked Questions
 {{< htmlcode >}}
 <script type="application/ld+json">
 {
-"@context": "https://schema.org",
-"@type": "WebApplication",
-"name": "Harmony",
-"applicationCategory": "Research Tool",
-"url": "https://harmonydata.ac.uk/app",
-"publisher": "Ulster University",
-"producer": "Fast Data Science Ltd, Delosis",
-"maintainer": "Thomas Wood",
-"license": "https://github.com/harmonydata/harmony?tab=MIT-1-ov-file#readme",
-"keywords": "data harmonisation, item harmonisation, natural language processing",
-"isAccessibleForFree": true,
-"funder": "Wellcome Trust, ESRC",
-"dateCreated": "2023-05-02",
-"citation": "https://doi.org/10.1186/s12888-024-05954-2"
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Harmony",
+  "applicationCategory": "Research Tool",
+  "url": "https://harmonydata.ac.uk/app",
+  "publisher": "Ulster University",
+  "producer": "Fast Data Science Ltd, Delosis",
+  "maintainer": "Thomas Wood",
+  "license": "https://github.com/harmonydata/harmony?tab=MIT-1-ov-file#readme",
+  "keywords": "data harmonisation, item harmonisation, natural language processing",
+  "isAccessibleForFree": true,
+  "funder": "Wellcome Trust, ESRC",
+  "dateCreated": "2023-05-02",
+  "citation": "https://doi.org/10.1186/s12888-024-05954-2",
+  "offers": {
+    "@type": "Offer",
+    "price": 0,
+    "priceCurrency": "USD"
+  },
+  "operatingSystem": "WINDOWS MAC LINUX",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 5,
+    "bestRating": 5,
+    "ratingCount": 3
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Matthew Doyle"
+      }
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Nathan Lutala"
+      }
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Kunru Song"
+      }
+    }
+  ]
 }
 </script>
 {{< /htmlcode >}}

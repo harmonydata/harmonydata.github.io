@@ -1,5 +1,5 @@
 ---
-title: "Harmony online coding competition on DOXA AI"
+title: "Competition to train a Large Language Model for Harmony on DOXA AI"
 categories: 
   - "ai-in-research"
 image: "/images/Matching Challenge Banner.png"
@@ -9,7 +9,10 @@ url: "/doxa/"
 
 ## Harmony on DOXA AI: Train your own Large Language Model and win up to £500 in vouchers!
 
-We would like to improve Harmony's matching algorithm. Someties, Harmony mistakenly thinks that sentences are similar when a psychologist would consider them dissimilar, or vice versa. We have evaluated Harmony's performance [in this blog post](/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/).
+*Join a competition to train a Large Language Model for mental health data. You don't need to have trained a Large Language Model before.*
+
+
+We would like to improve Harmony's matching algorithm. Sometimes, Harmony mistakenly thinks that sentences are similar when a psychologist would consider them dissimilar, or vice versa. We have evaluated Harmony's performance [in this blog post](/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/).
 
 
 {{< image src="/images/harmony-vs-human.png" alt="Harmony vs Human" >}}

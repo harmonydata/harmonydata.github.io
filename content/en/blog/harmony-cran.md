@@ -13,7 +13,7 @@ url: "/open-source-for-social-science/harmony-cran/"
 ---
 
 
-We are excited to announce that Harmony, an [open source](/open-source-for-social-science/) Natural Language Processing tool for data harmonisation, is now available on the Comprehensive R Archive Network [CRAN](https://cran.r-project.org/)!
+We are excited to announce that Harmony, an [open source](/open-source-for-social-science/) Natural Language Processing tool for data harmonisation, is now available on the Comprehensive R Archive Network [CRAN](https://cran.r-project.org/web/packages/harmonydata/index.html)!
 
 Previously, [Harmony R](/open-source-for-social-science/harmony-r-package/) could be installed using [devtools](https://devtools.r-lib.org/).
 

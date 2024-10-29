@@ -137,6 +137,24 @@ McElroy, E., Moltrecht, B., Scopel Hoffmann, M., Wood, T. A., & Ploubidis, G. (2
 }
 ```
 
+
+## How can I improve Harmony?
+
+There are a number of ways you can help to make this tool better for future users:
+
+* If you're doing research and found Harmony useful, please [cite us](/ai-in-mental-health/bmc-psychiatry-paper/)!
+* If you're a researcher trying to use the tool, and you encounter a problem, a bug, or a feature which you would like us to implement, please [raise an issue on Github](https://github.com/harmonydata/harmony) or [message us on Discord](https://discord.gg/harmonydata).
+  * If you are able to fix the issue, please feel free to do that. You can submit your code back to the project by [making a pull request](https://github.blog/developer-skills/github-education/beginners-guide-to-github-merging-a-pull-request) but if you don't know how to do that, don't worry! You can always send us your work on Discord or by email.
+* If you're a coder, feel free to contribute code to our repositories:
+   * [Python](https://github.com/harmonydata/harmony) - the main core library and the Python package which is on [Pypi](https://pypi.org/project/harmonydata/)
+   * [R](https://github.com/harmonydata/harmony_r) - the R port is on [CRAN](https://cran.r-project.org/web/packages/harmonydata/index.html) and it is slightly less mature than Python so we really appreciate if you can give the R package some TLC.
+   * [API](https://github.com/harmonydata/harmonyapi) - the Python API runs with Pydantic and Fast API and is running on an on-prem server enabling the web app to work
+   * [Web front end](https://github.com/harmonydata/app) - we welcome feedback and contributions on front end and UX issues
+* You can always [message in Discord](https://discord.gg/harmonydata) and let us know that you're interested in joining the project.
+* Please contribute to our [hackathons](/open-source-for-social-science/hackathon/) and [coding challenges](/doxa/) to help improve the tool
+* We appreciate coming to give talks at events such as [Women In Data™️](/open-source-for-social-science/women-in-data/), [AI|DL](/psychology-ai-tool/aidl-meetup/), [MethodsCon Futures](/ai-in-mental-health/harmony-at-methodscon-futures/), [Pydata](/open-source-for-social-science/pydata-meetup/), [Lifecourse](/ai-in-mental-health/harmony-at-lifecourse-seminar/), and [AI Camp](/psychology-ai-tool/aicamp-meetup/). If you run a similar meetup or community group we are willing to come and talk.
+* Please give feedback, no matter how informal. When we know how people are using the tool, this can help us improve it.
+
 ## Does Harmony store my data?
 
 If you upload a questionnaire or instrument, Harmony does not store or save it. You can read more on our [Privacy Policy page](/privacy-policy/).
@@ -153,6 +171,16 @@ Harmony was able to reconstruct the matches of the questionnaire harmonisation t
 
 The numbers are the cosine similarity of document vectors. The cosine similarity of two vectors can range from -1 to 1 based on the angle between the two vectors being compared. We have converted these to percentages. We have also used a preprocessing stage to convert positive sentences to negative and vice-versa (e.g. _I feel anxious_ → _I do not feel anxious_). If the match between two sentences improves once this preprocessing has been applied, then the items are assigned a negative similarity.
 
+## Which Large Language Model (LLM) does Harmony use?
+
+By default Harmony uses the HuggingFace model [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2). In the [web tool](/app) you have the option of switching LLMs to a few other providers including OpenAI.
+
+{{< image src="/images/harmony-switch-llm.png" alt="How to switch LLMs in Harmony's web UI" >}}
+
+*Above: How to switch LLMs in Harmony's web UI*
+
+However from the [Python library](https://github.com/harmonydata/harmony), you have the option of choosing any LLM you prefer, including options from Vertex, OpenAI, IBM, HuggingFace, or any of your preferred providers. For example, we have taken the Shona model from the Masakhane project and tested Harmony using a [Shona LLM](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/). The [README in Github](https://github.com/harmonydata/harmony/blob/main/README.md) gives some examples of how you can switch the LLM inside Harmony.
+
 ## Does Harmony give p-values?
 
 At this time Harmony does not give p-values. Harmony matches vectors using a cosine score and p-values are not applicable in this context.
@@ -160,6 +188,10 @@ At this time Harmony does not give p-values. Harmony matches vectors using a cos
 ## How should I report the numbers from Harmony in my paper?
 
 Items were matched on content using the online tool [Harmony](https://harmonydata.ac.uk/), which matches items by converting text to vectors using a transformer neural network ([Reimers & Gurevych, 2019](https://arxiv.org/abs/1908.10084)). Harmony produces a cosine score ranging from +/- 1, with values closer to 1 indicating a closer match.
+
+## What does it mean when Harmony outputs a negative similarity?
+
+Harmony is based mainly on a large language model but for detecting antonyms, we use a modification that is unique to Harmony. We detect negation words such as "not" and give the cosine match a negative polarity if it looks like sentences are antonyms. This is because LLMs tend to give cosine similarity values roughly between 0 and 1 but tend to give antonyms quite high similarity values, so we wanted to correct for that. There are negation rules for English, French and some other languages [in our Github](https://github.com/harmonydata/harmony/blob/main/src/harmony/matching/negator.py). The negation scripts were the result of the winning entries [from our last hackathon](https://harmonydata.ac.uk/open-source-for-social-science/hackathon/).
 
 ## How does Harmony compare to human harmonisation?
 
@@ -171,9 +203,19 @@ We can represent [any concept](/nlp-semantic-text-matching/harmony-on-kufungisis
 
 *You can try playing with a large language model in your browser [in this blog post](https://fastdatascience.com/natural-language-processing/semantic-similarity-with-sentence-embeddings/). Input two sentences and you can see the vector values and the cosine similarity.*
 
+If you want to understand our efforts to calibrate Harmony to human-generated harmonisation scores, please check our [validation study](/ai-in-mental-health/bmc-psychiatry-paper/).
+
 ## Who made Harmony?
 
 The [Python](https://www.python.org/) code of Harmony was written by [Thomas Wood](https://freelancedatascientist.net/) (Fast Data Science) in collaboration with Eoin McElroy, Bettina Moltrecht, George Ploubidis, and Mauricio Scopel Hoffman.
+
+## Where do the topics come from?
+
+The Harmony Python library by default uses topics from the [Mental Health Catalogue](https://www.cataloguementalhealth.ac.uk/) in the `topics_auto` field. We are hoping to allow you to configure this to use your own topic modelling.
+
+## Does Harmony handle response categories? (e.g. Likert scales, "very much so", etc)
+
+Harmony does not currently support response categories [but this is on our roadmap](https://github.com/harmonydata/harmony/issues/58). 
 
 ## Does Harmony comply with FAIR data principles?
 

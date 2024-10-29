@@ -20,6 +20,10 @@ We would like to expose the "between instrument matches" and the "negation" swit
 * https://github.com/harmonydata/harmony/issues/60: Allow user to turn on/off the "within instrument matches" behaviour
 * https://github.com/harmonydata/harmony/issues/59: Allow user to turn on/off the negation behaviour
 
+## Moderate issue in Python
+
+* https://github.com/harmonydata/harmony/issues/56 - users are having real problems processing large lists of items. So this would have to be batched to send to the LLM. The tricky part is, you will need to make the batch size configurable and choose a sensible default, and then expose it through the API, but also not allow a user to overload the API.
+
 ## Easy issues for R library
 
 * https://github.com/harmonydata/harmony_r/issues/4  Can we have a built in function to turn the matching scores into a crosswalk table (e.g. a table like the website produces) and output as a dataframe? 

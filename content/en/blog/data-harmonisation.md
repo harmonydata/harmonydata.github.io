@@ -20,7 +20,7 @@ We can make data comparable by recoding variables from different studies, modify
 
 Data harmonisation involves bringing together data from different sources and transforming it into a unified, coherent format. This process involves standardising disparate data formats, scales, and conventions to make the data compatible and comparable. The goal is to create a dataset where differences in format or scale do not obscure the underlying information.
 
-Essentially, it's about making different sets of data compatible with each other. This process is crucial in data management and analysis, particularly when dealing with large amounts of data from different sources.
+Data harmonisation makes different sets of data compatible with each other. This process is crucial in data management and analysis, particularly when dealing with large amounts of data from different sources.
 
 ### The Need for Data Harmonisation
 
@@ -28,14 +28,19 @@ There are many [cohort](/cohort-studies/) and [longitudinal](/longitudinal-studi
 
 In social sciences, therefore, data harmonisation is often used by researchers conducting longitudinal or cohort studies, or international studies. It is frequently necessary to [harmonise data from several different studies](/data-harmonisation/what-is-truly-harmonised-data/) to draw broader conclusions. For example, how studies report topics such as anxiety, household income, or limb function can vary even within professionals within a very narrow and specialised field.
 
+
+{{< image src="/images/data-harmonisation-instruments-screenshot.png" alt="A selection of some of the instruments and questionnaires used in clinical studies that could benefit from data harmonisation" title="A selection of some of the instruments and questionnaires used in clinical studies that could benefit from data harmonisation" >}}
+
+*Above: A selection of some of the instruments and questionnaires used in clinical studies. Any meta-analysis combining data that was gathered using different questionnaires would need to involve data harmonisation.*
+
 Outside of science and research, data harmonisation is also needed in industry. For example, imagine trying to compare financial reports from different countries, each using its currency and accounting standards. The UK reports industries using the [Standard industrial classification of economic activities (SIC)](https://www.gov.uk/government/publications/standard-industrial-classification-of-economic-activities-sic) while other countries have their own standards. Without data harmonisation, it is very difficult to combine datasets using disparate schemas.
 
 Data harmonisation enables better decision-making, more accurate analyses, and contributes to the advancement of knowledge and efficiency in multiple domains. Data harmonisation is therefore a critical step in leveraging the full potential of datasets in research and industry.
 
+## Examples of data harmonisation in research
 
-## An example of data harmonisation with Harmony
 
-Psychologists often measure phenomena such as anxiety and depression with instruments, such as the GAD-7 (given below).
+Psychologists often measure phenomena such as anxiety and depression with instruments, such as the GAD-7 (given below). This would be great if everyone used the same set of instruments, but unfortunately there are over 200 different instruments in use for anxiety.
 
 ### Questions in GAD-7
 
@@ -50,17 +55,35 @@ Psychologists often measure phenomena such as anxiety and depression with instru
 |     7 | Feeling afraid, as if something awful might happen                                                                                                 |
 |     8 | If you checked any problems, how difficult have they made it for you to do your work, take care of things at home, or get along with other people? |
 
-However, where multiple studies have been conducted using [different instruments](/harmonisation-validation/), such as the alternative Beck's Anxiety Inventory, things get a little complicated. For example, there is a manual process of matching question item 4 in the GAD-7 to question item 4 in Beck's, as illustrated below.
+Where multiple studies have been conducted using [different instruments](/harmonisation-validation/), such as the alternative Beck's Anxiety Inventory, and a researcher needs to combine data, either to achieve a big enough sample size for the necessary statistical power, or to draw conclusions across populations and timespans (e.g. a [longitudinal study](/longitudinal-studies/)), things get a little complicated. For example, there is a manual process of matching question item 4 in the GAD-7 to question item 4 in Beck's, as illustrated below.
 
-{{< image src="/images/GAD-7-vs-Becks.drawio-min.png" alt="dog" title="dog" >}}
+{{< image src="/images/GAD-7-vs-Becks.drawio-min.png" alt="Data harmonisation of GAD-7 vs Becks Anxiety Inventory" title="Data harmonisation of GAD-7 vs Becks Anxiety Inventory" >}}
 
-We have developed Harmony, an AI-driven tool which uses large language models and natural language processing to help researchers with item and data harmonisation. Click on the link below to try Harmony on the [GAD-7 vs Beck's](/gad-7-vs-beck-anxiety-inventory/) example. (You can [read this blog post](/nlp-semantic-text-matching/how-does-harmony-work/) for a technical explanation of how Harmony works.)
+
+### Manual data harmonisation
+
+The process of matching items between instruments, studies, or datasets such as GAD-7 and Becks is termed data harmonisation. Data harmonisation has been often done manually in the past in a harmonisation committee. A number of professionals in the field concerned come to an agreement on which items match between studies.
+
+For an example of manual harmonisation by committee, please refer to [Harmonisation and measurement properties of mental health measures in six British cohorts](https://www.closer.ac.uk/wp-content/uploads/210715-Harmonisation-measurement-properties-mental-health-measures-british-cohorts.pdf) by Eoin McElroy et al[1], one of the project leads of Harmony.
+
+
+{{< image src="/images/mcelroy_data_harmonisation_screenshot-min.png" alt="Manual harmonisation from Eoin McElroy et al" title="Manual harmonisation from Eoin McElroy et al" >}}
+
+*Above: a screenshot from the Excel spreadsheet from McElroy et al[1]*
+
+You can find a number of harmonisation efforts and cross-study harmonised datasets from organisations such as CLOSER on the [UK Data Service](https://beta.ukdataservice.ac.uk/datacatalogue/series/series?id=2000111). A data harmonisation workshop with five simulated datasets is also available at [GESIS Leibniz Institute for the Social Sciences](https://doi.org/10.7802/2717).
+
+
+
+### Data harmonisation with AI and large language models such as Harmony
+
+
+We have developed Harmony (https://harmonydata.ac.uk/app), an AI-driven tool which uses large language models and natural language processing to help researchers with item and data harmonisation. You can try Harmony on the [GAD-7 vs Beck's](/gad-7-vs-beck-anxiety-inventory/) example with the link below. (You can [read this blog post](/nlp-semantic-text-matching/how-does-harmony-work/) for a technical explanation of how Harmony works.)
 
 * <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIkdBRC03IEVuZ2xpc2giLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJGZWVsaW5nIG5lcnZvdXMsIGFueGlvdXMsIG9yIG9uIGVkZ2UifSwgeyJxdWVzdGlvbl90ZXh0IjogIk5vdCBiZWluZyBhYmxlIHRvIHN0b3Agb3IgY29udHJvbCB3b3JyeWluZyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiV29ycnlpbmcgdG9vIG11Y2ggYWJvdXQgZGlmZmVyZW50IHRoaW5ncyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiVHJvdWJsZSByZWxheGluZyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiQmVpbmcgc28gcmVzdGxlc3MgdGhhdCBpdCBpcyBoYXJkIHRvIHNpdCBzdGlsbCJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiQmVjb21pbmcgZWFzaWx5IGFubm95ZWQgb3IgaXJyaXRhYmxlIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJGZWVsaW5nIGFmcmFpZCwgYXMgaWYgc29tZXRoaW5nIGF3ZnVsIG1pZ2h0IGhhcHBlbiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSWYgeW91IGNoZWNrZWQgYW55IHByb2JsZW1zLCBob3cgZGlmZmljdWx0IGhhdmUgdGhleSBtYWRlIGl0IGZvciB5b3UgdG8gZG8geW91ciB3b3JrLCB0YWtlIGNhcmUgb2YgdGhpbmdzIGF0IGhvbWUsIG9yIGdldCBhbG9uZyB3aXRoIG90aGVyIHBlb3BsZT8ifV19LCB7Imluc3RydW1lbnRfbmFtZSI6ICJVbnRpdGxlZCBpbnN0cnVtZW50IiwgInF1ZXN0aW9ucyI6IFt7InF1ZXN0aW9uX3RleHQiOiAiTnVtYm5lc3Mgb3IgdGluZ2xpbmcgIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJGZWVsaW5nIGhvdCAifSwgeyJxdWVzdGlvbl90ZXh0IjogIldvYmJsaW5lc3MgaW4gbGVncyAifSwgeyJxdWVzdGlvbl90ZXh0IjogIlVuYWJsZSB0byByZWxheCAifSwgeyJxdWVzdGlvbl90ZXh0IjogIkZlYXIgb2Ygd29yc3QgaGFwcGVuaW5nICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiRGl6enkgb3IgbGlnaHRoZWFkZWQgIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJIZWFydCBwb3VuZGluZyAvIHJhY2luZyAifSwgeyJxdWVzdGlvbl90ZXh0IjogIlVuc3RlYWR5ICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiVGVycmlmaWVkIG9yIGFmcmFpZCAifSwgeyJxdWVzdGlvbl90ZXh0IjogIk5lcnZvdXMgIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJGZWVsaW5nIG9mIGNob2tpbmcgIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJIYW5kcyB0cmVtYmxpbmcgIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJTaGFreSAvIHVuc3RlYWR5ICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiRmVhciBvZiBsb3NpbmcgY29udHJvbCAifSwgeyJxdWVzdGlvbl90ZXh0IjogIkRpZmZpY3VsdHkgaW4gYnJlYXRoaW5nICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiRmVhciBvZiBkeWluZyAifSwgeyJxdWVzdGlvbl90ZXh0IjogIlNjYXJlZCAifSwgeyJxdWVzdGlvbl90ZXh0IjogIkluZGlnZXN0aW9uICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiRmFpbnQgLyBsaWdodGhlYWRlZCAifSwgeyJxdWVzdGlvbl90ZXh0IjogIkZhY2UgZmx1c2hlZCAifSwgeyJxdWVzdGlvbl90ZXh0IjogIkhvdCAvIGNvbGQgc3dlYXRzIn1dfV0=" target="harmonyapp">Import GAD-7 and Beck Anxiety Inventory into Harmony and harmonise them</a> - find similarities between the two instruments using our AI platform
 
 {{< card heading="Try Harmony" copy="Compare GAD-7 and Beck Anxiety Inventory " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
-
 
 
 
@@ -79,9 +102,7 @@ We have developed Harmony, an AI-driven tool which uses large language models an
 
 6. **Data Maintenance:** Data harmonisation is not a one-time task but an ongoing process. Data maintenance involves regularly updating the dataset with new data, ensuring that changes in source systems are reflected, and continuously managing the quality of the dataset. This step is crucial to ensure that the harmonised data remains current, relevant, and valuable over time.
 
-Each of these steps is critical in the process of transforming diverse and disparate data sources into a cohesive, reliable, and valuable resource for analysis and decision-making.
-
-[CLOSER](https://closer.ac.uk/research-fund-2/data-harmonisation/) has provided a number of guides for data harmonisation as well as some harmonised datasets.
+Each of these steps is critical in the process of transforming diverse and disparate data sources into a cohesive, reliable, and valuable resource for analysis and decision-making. [CLOSER](https://closer.ac.uk/research-fund-2/data-harmonisation/) has provided a number of guides for data harmonisation as well as some harmonised datasets.
 
 ## Harmony Discovery for data discovery
 
@@ -197,7 +218,13 @@ Data harmonisation is a critical process in today's data-centric world. It allow
 
 Data harmonisation is more than a technical process; it's a strategic imperative in today's data-driven world. With tools like Harmony and insights from various resources, organizations can navigate the complexities of data harmonisation to unlock the full potential of their data assets.
 
----
-
 Data harmonisation is more than just a technical process; it's a foundational element for unlocking the full potential of data in any field. By understanding and implementing data harmonisation, we pave the way for a more integrated, insightful, and efficient use of information in our increasingly data-driven world.
 
+
+## References
+
+1. McElroy, Eoin, et al. [Harmonisation and measurement properties of mental health measures in six British cohorts](https://www.closer.ac.uk/wp-content/uploads/210715-Harmonisation-measurement-properties-mental-health-measures-british-cohorts.pdf). UK: CLOSER (2020).
+
+2. Bechert, Insa, [COORDINATE Data Harmonisation Workshop 2](https://search.gesis.org/research_data/SDN-10.7802-2717?doi=10.7802/2717), https://doi.org/10.7802/2717
+
+3. Cheng, C., Messerschmidt, L., Bravo, I. et al. [A General Primer for Data Harmonization](https://www.nature.com/articles/s41597-024-02956-3). Sci Data 11, 152 (2024). https://doi.org/10.1038/s41597-024-02956-3

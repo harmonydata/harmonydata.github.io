@@ -15,6 +15,9 @@ url: "/doxa/"
 We would like to improve Harmony's matching algorithm. Sometimes, Harmony mistakenly thinks that sentences are similar when a psychologist would consider them dissimilar, or vice versa. We have evaluated Harmony's performance [in this blog post](/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/).
 
 
+
+
+
 {{< image src="/images/harmony-vs-human.png" alt="Harmony vs Human" >}}
 
 *Harmony is sometimes misaligned with human evaluators*
@@ -29,20 +32,12 @@ We would like to improve Harmony with a *fine tuned* large language model. We ha
 {{< /grid >}}
 
 
+## Webinar recording
 
-We will have a livestreamed webinar/onboarding session to launch the competion on **Wednesday 30 October at 5pm UK time**.
+We had a livestreamed webinar/onboarding session to launch the competion on **Wednesday 30 October at 5pm UK time**.
 
 
-## Webinar joining instructions
-
-* Harmony and DOXA AI
-* Wednesday, 30 October · 5:00 – 6:00pm
-* Time zone: Europe/London
-* Google Meet joining info
-  * Video call link: https://meet.google.com/yko-evnr-ppt
-  * Or dial: ‪(GB) +44 20 3956 3849‬ PIN: ‪886 573 117‬#
-  * More phone numbers: https://tel.meet/yko-evnr-ppt?pin=7879899599026
-
+{{< youtube mYm7ED59XhI >}}
 
 ## What about data?
 

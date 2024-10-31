@@ -171,6 +171,14 @@ Harmony was able to reconstruct the matches of the questionnaire harmonisation t
 
 The numbers are the cosine similarity of document vectors. The cosine similarity of two vectors can range from -1 to 1 based on the angle between the two vectors being compared. We have converted these to percentages. We have also used a preprocessing stage to convert positive sentences to negative and vice-versa (e.g. _I feel anxious_ → _I do not feel anxious_). If the match between two sentences improves once this preprocessing has been applied, then the items are assigned a negative similarity.
 
+## What threshold should I use for Harmony's similarity scores? What counts as a match for the purposes of harmonisation (i.e. generating a crosswalk table)?
+
+Harmony reports the cosine similarity score multiplied by +1 or -1 which is our correction for negation. The raw output of Harmony for *n* questionnaire items is an *n* × *n* matrix of similarity scores, with ones along the diagonal. Many researchers find this  You are free to choose your own threshold, and we have explored what how a threshold would relate to a correlation in our [validation study published in BMC Psychiatry](/ai-in-mental-health/bmc-psychiatry-paper/). Some users have reported that a threshold of **0.6** applied to the **absolute value of the similarity score from Harmony** works well for questionnaire items that are **in the same language**. Please note that for cross-language matches, Harmony's similarity score tends to be a little lower, so you may want to explore this and use a lower threshold if you know that your questionnaire items are in different languages.
+
+{{< image src="/images/harmony-crosswalks-from-data-harmonisation.png" alt="The relationship between the data harmonisation matrix and crosswalk table in Harmony" >}}
+
+*Above: The relationship between the data harmonisation matrix and crosswalk table in Harmony*
+
 ## Which Large Language Model (LLM) does Harmony use?
 
 By default Harmony uses the HuggingFace model [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2). In the [web tool](/app) you have the option of switching LLMs to a few other providers including OpenAI.

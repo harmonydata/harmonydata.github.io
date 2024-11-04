@@ -4,7 +4,7 @@ title: Developer guide
 
 If you're a researcher and you found Harmony useful for your research, please [cite us](/ai-in-mental-health/bmc-psychiatry-paper/). If you encounter a problem, a bug, or a feature which you would like us to implement, please [raise an issue on Github](https://github.com/harmonydata/harmony) or [message us on Discord](https://discord.gg/harmonydata).
 
-# Git and GitHub workflow
+## Git and GitHub workflow
 
 The preferred workflow for contributing to Harmony’s repository is to fork the [main repository](https://github.com/harmonydata/harmony/) on GitHub, clone, and develop on a new branch.
 
@@ -18,6 +18,21 @@ We have four main repositories on Github under the `harmonydata` organisation:
 * R: https://github.com/harmonydata/harmony_r - the R port is on [CRAN](https://cran.r-project.org/web/packages/harmonydata/index.html) and it is slightly less mature than Python so we really appreciate if you can give the R package some TLC.
 
 This contributor guide focuses on the Python library, but you could follow the same steps for the other repositories.
+
+## Testing what you've done
+
+After you've made a change, please run the unit tests in any part of the code base that your changes might have affected, either directly or indirectly, to see if anything is broken:
+
+* the Harmony module https://github.com/harmonydata/harmony/tree/main/tests
+
+*  the API  https://github.com/harmonydata/harmonyapi/tree/main/tests
+
+Please try and run the tool e.g. front end and back end to check if you can get the tool working still with your changes:
+
+* [Python on Windows installation video](https://www.youtube.com/watch?v=Okk8tUMDr6g) (only relevant if you were working on Python)
+* [Python on Linux (Ubuntu) installation video](https://www.youtube.com/watch?v=enWh0-4I0Sg) (only relevant if you were working on Python)
+* [R on Windows installation video](https://www.youtube.com/watch?v=hFqg6T_BqZc) (only relevant if you were working on R)
+
 
 ## Hackathons, coding challenges and events
 

@@ -80,6 +80,10 @@ blocks:
     url: http://github.com/harmonydata/harmony
   - text: Google Colab notebook
     url: https://colab.research.google.com/github/harmonydata/harmony/blob/main/Harmony_example_walkthrough.ipynb
+  - text: Windows installation video
+    url: https://www.youtube.com/watch?v=Okk8tUMDr6g
+  - text: Linux (Ubuntu) installation video
+    url: https://www.youtube.com/watch?v=enWh0-4I0Sg
   code: |
     ```vshell
     pip install harmonydata

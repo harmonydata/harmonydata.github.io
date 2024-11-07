@@ -116,7 +116,7 @@ A BibTeX entry for LaTeX users is
 @unpublished{harmony,
     AUTHOR = {Wood, T.A., McElroy, E., Moltrecht, B., Ploubidis, G.B., Scopel Hoffman, M.},
     TITLE  = {Harmony (Computer software), Version 1.0},
-    YEAR   = {2022},
+    YEAR   = {2024},
     Note   = {To appear},
     url = {https://harmonydata.ac.uk/app}
 }

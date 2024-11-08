@@ -2,7 +2,7 @@
 title: "Harmony Data Discovery"
 date: 2024-11-08
 categories: ["development"]
-image: "/images/Hackathon Banner.png"
+image: "/images/Discovery Banner.png"
 
 aliases:
   - "/discovery/"

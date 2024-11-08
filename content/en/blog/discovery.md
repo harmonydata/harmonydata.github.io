@@ -25,7 +25,7 @@ Researchers can struggle to find datasets and often need something specific, suc
 While the feature is still evolving, our main objective is to streamline the data analysis process, making visualisation and comparison for complex datasets easier. From early feedback, we’ve noted specific needs for adaptability and efficiency in data discovery and comparison, and we’re integrating these priorities into the design of the tool. 
 
 **Get Involved:**
-If you’re a researcher or data manager interested in participating in our co-design workshops, we’d love to hear from you! Get in touch with us via email, you can also sign up to our Discord server and newsletter and follow us on LinkedIn to stay connected with the latest updates and community discussions.
+If you’re a researcher or data manager interested in participating in our co-design workshops, we’d love to hear from you! Get in touch with us via [email](mailto:rachel.gomes@ucl.ac.uk), you can also sign up to our [Discord](https://discord.gg/harmonydata) server and newsletter and follow us on [LinkedIn](https://www.linkedin.com/company/harmonydata/) to stay connected with the latest updates and community discussions.
 
 
 Harmony is an [open source tool for social science research](/open-source-for-social-science/).

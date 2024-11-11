@@ -10,7 +10,7 @@ url: "/open-source-for-social-science/discovery/"
 ---
 
 ## New Feature in Development: Enhancing Harmony with User-Centred Discovery
-At Harmony, we’re working on a new feature aimed at making data exploration and analysis even more efficient and intuitive. To ensure this feature addresses real needs, we’re conducting co-design sessions with researchers, data-managers and other users, allowing us to develop a tool that solves real-life user requirements.
+At Harmony, we’re working on a new feature aimed at making data discovery and exploration - through the use of meta-data - even more efficient and intuitive To ensure this feature addresses real needs, we’re conducting co-design sessions with researchers, data-managers and other users, allowing us to develop a tool that solves real-life user requirements.
 
 
 **The Co-Design Approach:**
@@ -22,7 +22,7 @@ Researchers can struggle to find datasets and often need something specific, suc
 
 
 **Key Goals for the New Feature:**
-While the feature is still evolving, our main objective is to streamline the data analysis process, making visualisation and comparison for complex datasets easier. From early feedback, we’ve noted specific needs for adaptability and efficiency in data discovery and comparison, and we’re integrating these priorities into the design of the tool. 
+While the feature is still evolving, our main objective is to understand how researchers search and discover research data and how Harmony can support the decision making process especially when trying to compare meta-data of large or complex datasets. From early feedback, we’ve noted specific needs for adaptability and efficiency in data discovery and comparison, and we’re integrating these priorities into the design of the tool. 
 
 **Get Involved:**
 If you’re a researcher or data manager interested in participating in our co-design workshops, we’d love to hear from you! Get in touch with us via [email](mailto:rachel.gomes@ucl.ac.uk), you can also sign up to our [Discord](https://discord.gg/harmonydata) server and newsletter and follow us on [LinkedIn](https://www.linkedin.com/company/harmonydata/) to stay connected with the latest updates and community discussions.

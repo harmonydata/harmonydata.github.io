@@ -165,7 +165,7 @@ Harmony passes the [text](/nlp-semantic-text-matching/) of each questionnaire it
 
 ## How reliable is Harmony?
 
-Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: childhood **84%**, adulthood **80%**. Harmony was able to match the questions of the English and Portuguese [GAD-7](https://adaa.org/sites/default/files/GAD-7_Anxiety-updated_0.pdf) instruments with AUC **100%** and the Portuguese [CBCL](https://www.apa.org/depression-guideline/child-behavior-checklist.pdf) and SDQ with AUC **89%**. You can read more in [this blog post](/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/).
+Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: childhood **84%**, adulthood **80%**. Harmony was able to match the questions of the English and Portuguese [GAD-7](https://adaa.org/sites/default/files/GAD-7_Anxiety-updated_0.pdf) instruments with AUC **100%** and the Portuguese [CBCL](https://www.apa.org/depression-guideline/child-behavior-checklist.pdf) and SDQ with AUC **89%**. You can read more in [this blog post](/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/) and in our [validation study in BMC Psychiatry](/ai-in-mental-health/bmc-psychiatry-paper/).
 
 ## What do the numbers mean?
 
@@ -173,7 +173,9 @@ The numbers are the cosine similarity of document vectors. The cosine similarity
 
 ## What threshold should I use for Harmony's similarity scores? What counts as a match for the purposes of harmonisation (i.e. generating a crosswalk table)?
 
-Harmony reports the cosine similarity score multiplied by +1 or -1 which is our correction for negation. The raw output of Harmony for *n* questionnaire items is an *n* × *n* matrix of similarity scores, with ones along the diagonal. Many researchers find this  You are free to choose your own threshold, and we have explored what how a threshold would relate to a correlation in our [validation study published in BMC Psychiatry](/ai-in-mental-health/bmc-psychiatry-paper/). Some users have reported that a threshold of **0.6** applied to the **absolute value of the similarity score from Harmony** works well for questionnaire items that are **in the same language**. Please note that for cross-language matches, Harmony's similarity score tends to be a little lower, so you may want to explore this and use a lower threshold if you know that your questionnaire items are in different languages.
+Harmony reports the cosine similarity score multiplied by +1 or -1 which is our correction for negation. The raw output of Harmony for *n* questionnaire items is an *n* × *n* matrix of similarity scores, with ones along the diagonal. The similarity matrix is also symmetrical about the diagonal since if Item A is 69% similar to Item B, the Item B is naturally 69% similar to Item A.
+
+You are free to choose your own threshold, and we have explored what how a threshold would relate to a correlation in our [validation study published in BMC Psychiatry](/ai-in-mental-health/bmc-psychiatry-paper/). Some users have reported that a threshold of **0.6** applied to the **absolute value of the similarity score from Harmony** works well for questionnaire items that are **in the same language**. Please note that for cross-language matches, Harmony's similarity score tends to be a little lower, so you may want to explore this and use a lower threshold if you know that your questionnaire items are in different languages.
 
 {{< image src="/images/harmony-crosswalks-from-data-harmonisation.png" alt="The relationship between the data harmonisation matrix and crosswalk table in Harmony" >}}
 
@@ -181,17 +183,17 @@ Harmony reports the cosine similarity score multiplied by +1 or -1 which is our 
 
 ## Which Large Language Model (LLM) does Harmony use?
 
-By default Harmony uses the HuggingFace model [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2). In the [web tool](/app) you have the option of switching LLMs to a few other providers including OpenAI.
+By default, Harmony uses the HuggingFace model [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2). In the [web tool](/app) you have the option of switching LLMs to a few other providers including OpenAI.
 
 {{< image src="/images/harmony-switch-llm.png" alt="How to switch LLMs in Harmony's web UI" >}}
 
 *Above: How to switch LLMs in Harmony's web UI*
 
-However from the [Python library](https://github.com/harmonydata/harmony), you have the option of choosing any LLM you prefer, including options from Vertex, OpenAI, IBM, HuggingFace, or any of your preferred providers. For example, we have taken the Shona model from the Masakhane project and tested Harmony using a [Shona LLM](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/). The [README in Github](https://github.com/harmonydata/harmony/blob/main/README.md) gives some examples of how you can switch the LLM inside Harmony.
+Within the [Python library](https://github.com/harmonydata/harmony), you have the option of choosing any LLM you prefer, including options from Vertex, OpenAI, IBM, HuggingFace, or any of your preferred providers. For example, we have taken the Shona model from the Masakhane project and tested Harmony using a [Shona LLM](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/). The [README in Github](https://github.com/harmonydata/harmony/blob/main/README.md) gives some examples of how you can switch the LLM inside Harmony.
 
 ## Does Harmony give p-values?
 
-At this time Harmony does not give p-values. Harmony matches vectors using a cosine score and p-values are not applicable in this context.
+At this time Harmony does not give p-values. Harmony matches vectors using a cosine score and p-values are not applicable in this context, since no statistical test is taking place. 
 
 ## How should I report the numbers from Harmony in my paper?
 

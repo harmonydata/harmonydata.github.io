@@ -1,0 +1,26 @@
+---
+title: SDQ vs ERI
+url: "/compare-harmonise-instruments/sdq-vs-eri/"
+date: 2024-12-23
+---
+
+## SDQ vs ERI
+
+for Effective Harmonization In the ever-evolving field of psychological research, making comparisons between various instruments like SDQ (Strengths and Difficulties Questionnaire) and ERI (Effort-Reward Imbalance Questionnaire) is crucial. SDQ, a brief behavioural screening tool geared towards 2-17year olds, provides insightful data for researchers, clinicians, and educationalists. On the other hand, ERI assesses the effects of imbalances in workplace reward systems on health outcomes. While both SDQ and ERI serve unique purposes, comparing the elements of both can prove challenging. This is where 'SDQ vs ERI' becomes a prominent discussion point. Harmony, designed with advanced AI models, promises to simplify the harmonization process. It uses natural language processing to digitally read questionnaire items and aligns them with relevant counterparts, even across different languages. Navigating through 'SDQ vs ERI' using Harmony, you can assess the percentage match between each element, providing a deeper understanding of the correlation between the two. The user-friendly interface of Harmony allows you to integrate instruments from their database or upload your own in PDF format. So for those seeking to delve into comparisons like 'SDQ vs ERI', Harmony stands as a valuable tool in simplifying the process and promoting efficient research practices. It is a gamechanger in the process of harmonization and brings significant simplicity to the 'SDQ vs ERI' discussion. Leveraging Harmony's capabilities, psychologists and researchers can boost the quality of their studies and make more meaningful conclusions.
+
+## Compare the items in SDQ and ERI
+
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlN0cmVuZ3RocyBhbmQgRGlmZmljdWx0aWVzIFF1ZXN0aW9ubmFpcmUgKDUtaXRlbSkgKFNEUSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNeSBjaGlsZC4uLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiWW91ciBjaGlsZCBvZnRlbiBjb21wbGFpbnMgb2YgaGVhZGFjaGVzLCBzdG9tYWNoLWFjaGVzLi4uIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IHdvcnJpZXMsIGFuZCBvZnRlbiBzZWVtcyB3b3JyaWVkIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG9mdGVuIHVuaGFwcHksIGRvd25oZWFydGVkLCBvciB0ZWFyZnVsIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG5lcnZvdXMgb3IgY2xpbmd5IGluIG5ldyBzaXR1YXRpb25zIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IGZlYXJzLCBhbmQgaXMgZWFzaWx5IHNjYXJlZCJ9XX0sIHsiaW5zdHJ1bWVudF9uYW1lIjogIkVmZm9ydC1SZXdhcmQgSW1iYWxhbmNlIFF1ZXN0aW9ubmFpcmUgKDEgc2VsZWN0ZWQgaXRlbSkgKEVSSSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJJZiBJIHBvc3Rwb25lIHNvbWV0aGluZyB0aGF0IEkgd2FzIHN1cHBvc2VkIHRvIGRvIHRvZGF5IEknbGwgaGF2ZSB0cm91YmxlIHNsZWVwaW5nIGF0IG5pZ2h0In1dfV0=" target="harmonyapp">Import SDQ and ERI into Harmony and harmonise them</a> - find similarities between the two instruments using our AI platform
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlN0cmVuZ3RocyBhbmQgRGlmZmljdWx0aWVzIFF1ZXN0aW9ubmFpcmUgKDUtaXRlbSkgKFNEUSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNeSBjaGlsZC4uLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiWW91ciBjaGlsZCBvZnRlbiBjb21wbGFpbnMgb2YgaGVhZGFjaGVzLCBzdG9tYWNoLWFjaGVzLi4uIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IHdvcnJpZXMsIGFuZCBvZnRlbiBzZWVtcyB3b3JyaWVkIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG9mdGVuIHVuaGFwcHksIGRvd25oZWFydGVkLCBvciB0ZWFyZnVsIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG5lcnZvdXMgb3IgY2xpbmd5IGluIG5ldyBzaXR1YXRpb25zIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IGZlYXJzLCBhbmQgaXMgZWFzaWx5IHNjYXJlZCJ9XX0sIHsiaW5zdHJ1bWVudF9uYW1lIjogIkVmZm9ydC1SZXdhcmQgSW1iYWxhbmNlIFF1ZXN0aW9ubmFpcmUgKDEgc2VsZWN0ZWQgaXRlbSkgKEVSSSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJJZiBJIHBvc3Rwb25lIHNvbWV0aGluZyB0aGF0IEkgd2FzIHN1cHBvc2VkIHRvIGRvIHRvZGF5IEknbGwgaGF2ZSB0cm91YmxlIHNsZWVwaW5nIGF0IG5pZ2h0In1dfV0=" target="harmonyapp">Import just SDQ into Harmony</a> - compare SDQ with other instruments
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlN0cmVuZ3RocyBhbmQgRGlmZmljdWx0aWVzIFF1ZXN0aW9ubmFpcmUgKDUtaXRlbSkgKFNEUSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNeSBjaGlsZC4uLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiWW91ciBjaGlsZCBvZnRlbiBjb21wbGFpbnMgb2YgaGVhZGFjaGVzLCBzdG9tYWNoLWFjaGVzLi4uIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IHdvcnJpZXMsIGFuZCBvZnRlbiBzZWVtcyB3b3JyaWVkIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG9mdGVuIHVuaGFwcHksIGRvd25oZWFydGVkLCBvciB0ZWFyZnVsIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG5lcnZvdXMgb3IgY2xpbmd5IGluIG5ldyBzaXR1YXRpb25zIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IGZlYXJzLCBhbmQgaXMgZWFzaWx5IHNjYXJlZCJ9XX0sIHsiaW5zdHJ1bWVudF9uYW1lIjogIkVmZm9ydC1SZXdhcmQgSW1iYWxhbmNlIFF1ZXN0aW9ubmFpcmUgKDEgc2VsZWN0ZWQgaXRlbSkgKEVSSSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJJZiBJIHBvc3Rwb25lIHNvbWV0aGluZyB0aGF0IEkgd2FzIHN1cHBvc2VkIHRvIGRvIHRvZGF5IEknbGwgaGF2ZSB0cm91YmxlIHNsZWVwaW5nIGF0IG5pZ2h0In1dfV0=" target="harmonyapp">Import just ERI into Harmony</a> - compare ERI with other instruments
+
+
+
+{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+
+{{< card heading="Try Harmony" copy="Compare SDQ and ERI " url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+

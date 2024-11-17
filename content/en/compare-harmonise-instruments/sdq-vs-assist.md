@@ -1,0 +1,26 @@
+---
+title: SDQ vs ASSIST
+url: "/compare-harmonise-instruments/sdq-vs-assist/"
+date: 2024-11-18
+---
+
+## SDQ vs ASSIST
+
+SDQ vs ASSIST When it comes to behavioral analyses, psychologists often utilize well-constructed tools such as the Strengths and Difficulties Questionnaire (SDQ) and the Alcohol, Smoking, and Substance Involvement Screening Test (ASSIST). Traditional comparison between these two tools, also known as SDQ vs ASSIST, can be a laborious process. However, with advancements in technology, specifically in the domains of natural language processing and AI, resources such as Harmony makes this comparison not only feasible, but faster and accurate. Harmony's cutting-edge technology brings forth a new era of SDQ vs ASSIST comparison. Comparing SDQ versus ASSIST through Harmony illuminates the differential emphasis each instrument places on varied aspects of behavior, substance use, and emotional health. Harmony utilizes large language models to offer a percentage match between individual items of SDQ and ASSIST, thereby aiding researchers in the harmonization process. If the questionnaires are in different languages, there's no need to worry - Harmony is equipped to handle multilingual comparisons. Using Harmony for SDQ vs ASSIST comparison provides a multitude of benefits for researchers. This tool not only accelerates the harmonization process but also enables the replication of longitudinal analyses across a number of studies, thereby testing results' consistency across studies and identifying any changes in response to evolving social conditions. For psychologists and social scientists, Harmony is the way forward when comparing SDQ and ASSIST.
+
+## Compare the items in SDQ and ASSIST
+
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlN0cmVuZ3RocyBhbmQgRGlmZmljdWx0aWVzIFF1ZXN0aW9ubmFpcmUgKDUtaXRlbSkgKFNEUSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNeSBjaGlsZC4uLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiWW91ciBjaGlsZCBvZnRlbiBjb21wbGFpbnMgb2YgaGVhZGFjaGVzLCBzdG9tYWNoLWFjaGVzLi4uIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IHdvcnJpZXMsIGFuZCBvZnRlbiBzZWVtcyB3b3JyaWVkIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG9mdGVuIHVuaGFwcHksIGRvd25oZWFydGVkLCBvciB0ZWFyZnVsIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG5lcnZvdXMgb3IgY2xpbmd5IGluIG5ldyBzaXR1YXRpb25zIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IGZlYXJzLCBhbmQgaXMgZWFzaWx5IHNjYXJlZCJ9XX0sIHsiaW5zdHJ1bWVudF9uYW1lIjogIkFsY29ob2wsIFNtb2tpbmcsIGFuZCBTdWJzdGFuY2UgSW52b2x2ZW1lbnQgU2NyZWVuaW5nIFRlc3QgLSBTdWJzdGFuY2UgVXNlIChBU1NJU1QpIiwgInF1ZXN0aW9ucyI6IFt7InF1ZXN0aW9uX3RleHQiOiAiSGF2ZSB5b3UgZXZlciB1c2VkIGFueSBkcnVnIGJ5IGluamVjdGlvbj8ifV19XQ==" target="harmonyapp">Import SDQ and ASSIST into Harmony and harmonise them</a> - find similarities between the two instruments using our AI platform
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlN0cmVuZ3RocyBhbmQgRGlmZmljdWx0aWVzIFF1ZXN0aW9ubmFpcmUgKDUtaXRlbSkgKFNEUSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNeSBjaGlsZC4uLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiWW91ciBjaGlsZCBvZnRlbiBjb21wbGFpbnMgb2YgaGVhZGFjaGVzLCBzdG9tYWNoLWFjaGVzLi4uIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IHdvcnJpZXMsIGFuZCBvZnRlbiBzZWVtcyB3b3JyaWVkIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG9mdGVuIHVuaGFwcHksIGRvd25oZWFydGVkLCBvciB0ZWFyZnVsIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG5lcnZvdXMgb3IgY2xpbmd5IGluIG5ldyBzaXR1YXRpb25zIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IGZlYXJzLCBhbmQgaXMgZWFzaWx5IHNjYXJlZCJ9XX0sIHsiaW5zdHJ1bWVudF9uYW1lIjogIkFsY29ob2wsIFNtb2tpbmcsIGFuZCBTdWJzdGFuY2UgSW52b2x2ZW1lbnQgU2NyZWVuaW5nIFRlc3QgLSBTdWJzdGFuY2UgVXNlIChBU1NJU1QpIiwgInF1ZXN0aW9ucyI6IFt7InF1ZXN0aW9uX3RleHQiOiAiSGF2ZSB5b3UgZXZlciB1c2VkIGFueSBkcnVnIGJ5IGluamVjdGlvbj8ifV19XQ==" target="harmonyapp">Import just SDQ into Harmony</a> - compare SDQ with other instruments
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlN0cmVuZ3RocyBhbmQgRGlmZmljdWx0aWVzIFF1ZXN0aW9ubmFpcmUgKDUtaXRlbSkgKFNEUSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNeSBjaGlsZC4uLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiWW91ciBjaGlsZCBvZnRlbiBjb21wbGFpbnMgb2YgaGVhZGFjaGVzLCBzdG9tYWNoLWFjaGVzLi4uIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IHdvcnJpZXMsIGFuZCBvZnRlbiBzZWVtcyB3b3JyaWVkIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG9mdGVuIHVuaGFwcHksIGRvd25oZWFydGVkLCBvciB0ZWFyZnVsIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG5lcnZvdXMgb3IgY2xpbmd5IGluIG5ldyBzaXR1YXRpb25zIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IGZlYXJzLCBhbmQgaXMgZWFzaWx5IHNjYXJlZCJ9XX0sIHsiaW5zdHJ1bWVudF9uYW1lIjogIkFsY29ob2wsIFNtb2tpbmcsIGFuZCBTdWJzdGFuY2UgSW52b2x2ZW1lbnQgU2NyZWVuaW5nIFRlc3QgLSBTdWJzdGFuY2UgVXNlIChBU1NJU1QpIiwgInF1ZXN0aW9ucyI6IFt7InF1ZXN0aW9uX3RleHQiOiAiSGF2ZSB5b3UgZXZlciB1c2VkIGFueSBkcnVnIGJ5IGluamVjdGlvbj8ifV19XQ==" target="harmonyapp">Import just ASSIST into Harmony</a> - compare ASSIST with other instruments
+
+
+
+{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+
+{{< card heading="Try Harmony" copy="Compare SDQ and ASSIST " url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+

@@ -31,7 +31,7 @@ The Beck Anxiety Inventory, a self-report inventory of 21 items designed to meas
 ## You may also be interested in these harmonisations
 
 * [SDQ vs SCARED (adult)](/compare-harmonise-instruments/sdq-vs-scared)
-* [CES_D vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/ces-d-vs-de-jong-gierveld-loneliness-scale)
+* [CES-D vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/ces-d-vs-de-jong-gierveld-loneliness-scale)
 * [SDQ vs RCADS](/compare-harmonise-instruments/sdq-vs-rcads)
 
 

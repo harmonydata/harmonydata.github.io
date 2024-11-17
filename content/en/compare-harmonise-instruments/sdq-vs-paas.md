@@ -1,0 +1,26 @@
+---
+title: SDQ vs PAAS
+url: "/compare-harmonise-instruments/sdq-vs-paas/"
+date: 2025-01-12
+---
+
+## SDQ vs PAAS
+
+SDQ vs PAAS: A Revelation in Psychological Assessment Comparisons Comparing the Strengths and Difficulties Questionnaire (SDQ) and the Paternal Antenatal Attachment Scale (PAAS) can be an enduring task. Both instruments offer unique insights to psychosocial conditions and connections. However, doing a side-by-side comparison can be time-consuming, inefficient, and subjective in interpretation. That's where Harmony comes in. Harmony is an advanced tool powered by Natural Language Processing and generative AI models that assist researchers in this harmonisation process quickly and more effectively. Harmony facilitates efficient comparisons between SDQ and PAAS, making the process less daunting and more precise. SDQ vs PAAS doesn't have to be a laborious manual task anymore. By using Harmony, psychologists can simply drop their desired instruments onto Harmony's user-friendly web interface. Harmony utilizes large language models to provide a percentage compatibility between each item listed in both SDQ and PAAS. Moreover, Harmony's versatile capabilities expand beyond language barriers. It can proficiently manage comparisons between multiple languages. For SDQ vs PAAS, this is incredibly advantageous, enabling psychologists and researchers across the globe to carry out comparative studies without language constraints. Bring in the power of Harmony today to efficiently compare SDQ vs PAAS and open up a world of possibilities.
+
+## Compare the items in SDQ and PAAS
+
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlN0cmVuZ3RocyBhbmQgRGlmZmljdWx0aWVzIFF1ZXN0aW9ubmFpcmUgKDUtaXRlbSkgKFNEUSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNeSBjaGlsZC4uLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiWW91ciBjaGlsZCBvZnRlbiBjb21wbGFpbnMgb2YgaGVhZGFjaGVzLCBzdG9tYWNoLWFjaGVzLi4uIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IHdvcnJpZXMsIGFuZCBvZnRlbiBzZWVtcyB3b3JyaWVkIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG9mdGVuIHVuaGFwcHksIGRvd25oZWFydGVkLCBvciB0ZWFyZnVsIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG5lcnZvdXMgb3IgY2xpbmd5IGluIG5ldyBzaXR1YXRpb25zIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IGZlYXJzLCBhbmQgaXMgZWFzaWx5IHNjYXJlZCJ9XX0sIHsiaW5zdHJ1bWVudF9uYW1lIjogIlBhdGVybmFsIEFudGVuYXRhbCBBdHRhY2htZW50IFNjYWxlICgxLWl0ZW0gb25seSkgKFBBQVMpIiwgInF1ZXN0aW9ucyI6IFt7InF1ZXN0aW9uX3RleHQiOiAiT3ZlciB0aGUgcGFzdCB0d28gd2Vla3Mgd2hlbiBJIHRoaW5rIGFib3V0IHRoZSBkZXZlbG9waW5nIGJhYnkgSSBnZXQgZmVlbGluZ3Mgd2hpY2ggYXJlXHUyMDI2In1dfV0=" target="harmonyapp">Import SDQ and PAAS into Harmony and harmonise them</a> - find similarities between the two instruments using our AI platform
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlN0cmVuZ3RocyBhbmQgRGlmZmljdWx0aWVzIFF1ZXN0aW9ubmFpcmUgKDUtaXRlbSkgKFNEUSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNeSBjaGlsZC4uLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiWW91ciBjaGlsZCBvZnRlbiBjb21wbGFpbnMgb2YgaGVhZGFjaGVzLCBzdG9tYWNoLWFjaGVzLi4uIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IHdvcnJpZXMsIGFuZCBvZnRlbiBzZWVtcyB3b3JyaWVkIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG9mdGVuIHVuaGFwcHksIGRvd25oZWFydGVkLCBvciB0ZWFyZnVsIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG5lcnZvdXMgb3IgY2xpbmd5IGluIG5ldyBzaXR1YXRpb25zIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IGZlYXJzLCBhbmQgaXMgZWFzaWx5IHNjYXJlZCJ9XX0sIHsiaW5zdHJ1bWVudF9uYW1lIjogIlBhdGVybmFsIEFudGVuYXRhbCBBdHRhY2htZW50IFNjYWxlICgxLWl0ZW0gb25seSkgKFBBQVMpIiwgInF1ZXN0aW9ucyI6IFt7InF1ZXN0aW9uX3RleHQiOiAiT3ZlciB0aGUgcGFzdCB0d28gd2Vla3Mgd2hlbiBJIHRoaW5rIGFib3V0IHRoZSBkZXZlbG9waW5nIGJhYnkgSSBnZXQgZmVlbGluZ3Mgd2hpY2ggYXJlXHUyMDI2In1dfV0=" target="harmonyapp">Import just SDQ into Harmony</a> - compare SDQ with other instruments
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlN0cmVuZ3RocyBhbmQgRGlmZmljdWx0aWVzIFF1ZXN0aW9ubmFpcmUgKDUtaXRlbSkgKFNEUSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNeSBjaGlsZC4uLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiWW91ciBjaGlsZCBvZnRlbiBjb21wbGFpbnMgb2YgaGVhZGFjaGVzLCBzdG9tYWNoLWFjaGVzLi4uIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IHdvcnJpZXMsIGFuZCBvZnRlbiBzZWVtcyB3b3JyaWVkIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG9mdGVuIHVuaGFwcHksIGRvd25oZWFydGVkLCBvciB0ZWFyZnVsIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG5lcnZvdXMgb3IgY2xpbmd5IGluIG5ldyBzaXR1YXRpb25zIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IGZlYXJzLCBhbmQgaXMgZWFzaWx5IHNjYXJlZCJ9XX0sIHsiaW5zdHJ1bWVudF9uYW1lIjogIlBhdGVybmFsIEFudGVuYXRhbCBBdHRhY2htZW50IFNjYWxlICgxLWl0ZW0gb25seSkgKFBBQVMpIiwgInF1ZXN0aW9ucyI6IFt7InF1ZXN0aW9uX3RleHQiOiAiT3ZlciB0aGUgcGFzdCB0d28gd2Vla3Mgd2hlbiBJIHRoaW5rIGFib3V0IHRoZSBkZXZlbG9waW5nIGJhYnkgSSBnZXQgZmVlbGluZ3Mgd2hpY2ggYXJlXHUyMDI2In1dfV0=" target="harmonyapp">Import just PAAS into Harmony</a> - compare PAAS with other instruments
+
+
+
+{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+
+{{< card heading="Try Harmony" copy="Compare SDQ and PAAS " url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+

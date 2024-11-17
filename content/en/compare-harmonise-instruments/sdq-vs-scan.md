@@ -1,0 +1,26 @@
+---
+title: SDQ vs SCAN
+url: "/compare-harmonise-instruments/sdq-vs-scan/"
+date: 2024-11-29
+---
+
+## SDQ vs SCAN
+
+for Streamlined Comparisons In the field of psychology and social research, comparing different questionnaires for harmonisation is a crucial yet complex task. Particularly when comparing large questionnaires such as the Strength and Difficulties Questionnaire (SDQ) and Schedules for Clinical Assessment in Neuropsychiatry (SCAN), the process can consume a significant amount of time and resources. 'SDQ vs SCAN' is a common point of discussion, as the SDQ consists of behavioural queries for children, while SCAN covers over 1800 possible items for neuropsychiatric assessment. The innovative software tool Harmony, specifically designed to aid psychologists in questionnaire analysis, can seamlessly tackle this daunting 'SDQ vs SCAN' comparison. By integrating natural language processing and generative AI models, Harmony makes the harmonisation process efficient and objective. Users can either select instruments from Harmony's widespread database or directly upload their own questionnaires. Harmony's advanced algorithm then measures the percentage match between each item in the SDQ and SCAN, providing researchers with comprehensive comparison data. In conclusion, when dealing with 'SDQ vs SCAN', Harmony is an invaluable resource for researchers and psychologists worldwide. Its capacity to analyse multilingual content transcends language barriers, promoting a more integrated perspective. With Harmony, the tedious task of questionnaire harmonisation becomes a simplified and streamlined process, offering more time for researchers to interpret and apply their findings.
+
+## Compare the items in SDQ and SCAN
+
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlN0cmVuZ3RocyBhbmQgRGlmZmljdWx0aWVzIFF1ZXN0aW9ubmFpcmUgKDUtaXRlbSkgKFNEUSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNeSBjaGlsZC4uLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiWW91ciBjaGlsZCBvZnRlbiBjb21wbGFpbnMgb2YgaGVhZGFjaGVzLCBzdG9tYWNoLWFjaGVzLi4uIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IHdvcnJpZXMsIGFuZCBvZnRlbiBzZWVtcyB3b3JyaWVkIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG9mdGVuIHVuaGFwcHksIGRvd25oZWFydGVkLCBvciB0ZWFyZnVsIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG5lcnZvdXMgb3IgY2xpbmd5IGluIG5ldyBzaXR1YXRpb25zIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IGZlYXJzLCBhbmQgaXMgZWFzaWx5IHNjYXJlZCJ9XX0sIHsiaW5zdHJ1bWVudF9uYW1lIjogIlNjaGVkdWxlcyBmb3IgQ2xpbmljYWwgQXNzZXNzbWVudCBpbiBOZXVyb3BzeWNoaWF0cnkgKFNDQU4pIiwgInF1ZXN0aW9ucyI6IFt7InF1ZXN0aW9uX3RleHQiOiAiT3ZlciAxODAwIHBvc3NpYmxlIGl0ZW1zIn1dfV0=" target="harmonyapp">Import SDQ and SCAN into Harmony and harmonise them</a> - find similarities between the two instruments using our AI platform
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlN0cmVuZ3RocyBhbmQgRGlmZmljdWx0aWVzIFF1ZXN0aW9ubmFpcmUgKDUtaXRlbSkgKFNEUSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNeSBjaGlsZC4uLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiWW91ciBjaGlsZCBvZnRlbiBjb21wbGFpbnMgb2YgaGVhZGFjaGVzLCBzdG9tYWNoLWFjaGVzLi4uIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IHdvcnJpZXMsIGFuZCBvZnRlbiBzZWVtcyB3b3JyaWVkIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG9mdGVuIHVuaGFwcHksIGRvd25oZWFydGVkLCBvciB0ZWFyZnVsIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG5lcnZvdXMgb3IgY2xpbmd5IGluIG5ldyBzaXR1YXRpb25zIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IGZlYXJzLCBhbmQgaXMgZWFzaWx5IHNjYXJlZCJ9XX0sIHsiaW5zdHJ1bWVudF9uYW1lIjogIlNjaGVkdWxlcyBmb3IgQ2xpbmljYWwgQXNzZXNzbWVudCBpbiBOZXVyb3BzeWNoaWF0cnkgKFNDQU4pIiwgInF1ZXN0aW9ucyI6IFt7InF1ZXN0aW9uX3RleHQiOiAiT3ZlciAxODAwIHBvc3NpYmxlIGl0ZW1zIn1dfV0=" target="harmonyapp">Import just SDQ into Harmony</a> - compare SDQ with other instruments
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlN0cmVuZ3RocyBhbmQgRGlmZmljdWx0aWVzIFF1ZXN0aW9ubmFpcmUgKDUtaXRlbSkgKFNEUSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNeSBjaGlsZC4uLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiWW91ciBjaGlsZCBvZnRlbiBjb21wbGFpbnMgb2YgaGVhZGFjaGVzLCBzdG9tYWNoLWFjaGVzLi4uIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IHdvcnJpZXMsIGFuZCBvZnRlbiBzZWVtcyB3b3JyaWVkIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG9mdGVuIHVuaGFwcHksIGRvd25oZWFydGVkLCBvciB0ZWFyZnVsIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG5lcnZvdXMgb3IgY2xpbmd5IGluIG5ldyBzaXR1YXRpb25zIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IGZlYXJzLCBhbmQgaXMgZWFzaWx5IHNjYXJlZCJ9XX0sIHsiaW5zdHJ1bWVudF9uYW1lIjogIlNjaGVkdWxlcyBmb3IgQ2xpbmljYWwgQXNzZXNzbWVudCBpbiBOZXVyb3BzeWNoaWF0cnkgKFNDQU4pIiwgInF1ZXN0aW9ucyI6IFt7InF1ZXN0aW9uX3RleHQiOiAiT3ZlciAxODAwIHBvc3NpYmxlIGl0ZW1zIn1dfV0=" target="harmonyapp">Import just SCAN into Harmony</a> - compare SCAN with other instruments
+
+
+
+{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+
+{{< card heading="Try Harmony" copy="Compare SDQ and SCAN " url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+

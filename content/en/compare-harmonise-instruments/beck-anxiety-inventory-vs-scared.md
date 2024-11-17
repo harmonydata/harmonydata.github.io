@@ -22,7 +22,7 @@ Psychologists and social scientists often encounter scenarios where they need to
 
 * [DUDIT vs RAPI](/compare-harmonise-instruments/alcoholism/dudit-vs-rapi)
 * [GAD-7 vs RCADS](/compare-harmonise-instruments/gad-7-vs-rcads)
-* [CES_D vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/ces-d-vs-de-jong-gierveld-loneliness-scale)
+* [CES-D vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/ces-d-vs-de-jong-gierveld-loneliness-scale)
 
 
 

@@ -49,7 +49,7 @@ These instruments are often used in clinical settings, research studies, and for
 * [Beck Anxiety Inventory vs SMFQ](/compare-harmonise-instruments/beck-anxiety-inventory-vs-smfq)
 * [CES-D vs Beck Anxiety Inventory](/compare-harmonise-instruments/ces-d-vs-beck-anxiety-inventory)
 * [CES-D vs CBCL](/compare-harmonise-instruments/ces-d-vs-cbcl)
-* [CES_D vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/ces-d-vs-de-jong-gierveld-loneliness-scale)
+* [CES-D vs De Jong Gierveld Loneliness Scale](/compare-harmonise-instruments/ces-d-vs-de-jong-gierveld-loneliness-scale)
 * [CES-D vs GAD-7](/compare-harmonise-instruments/ces-d-vs-gad-7)
 * [CES-D vs GHQ 12](/compare-harmonise-instruments/ces-d-vs-ghq-12)
 * [CES-D vs GHQ-30](/compare-harmonise-instruments/ces-d-vs-ghq-30)

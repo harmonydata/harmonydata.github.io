@@ -1,0 +1,26 @@
+---
+title: SDQ vs CII
+url: "/compare-harmonise-instruments/sdq-vs-cii/"
+date: 2025-01-25
+---
+
+## SDQ vs CII
+
+Harmony, a cutting-edge tool developed specifically for psychologists and social scientists, offers an effective solution for comparing the Strengths and Difficulties Questionnaire (SDQ) and Coder Impression Inventory (CII). SDQ vs CII comparisons often involve a tedious harmonization process where researchers manually match items from each questionnaire. This can be time-consuming and quite subjective. However, Harmony streamlines this process utilizing advanced natural language processing and generative AI models, thus making the SDQ vs CII task more efficient and accurate. The requirements for comparing SDQ and CII changes when considering these questionnaires in different languages. But Harmony meets this challenge head-on, facilitating multi-language item comparison, whether the instruments are selected from Harmony's database or uploaded as PDFs through their user-friendly web interface. Consequently, regardless of language barriers, Harmony ensures seamless SDQ vs CII comparisons and helps researchers glean crucial insights about 2-17 year olds' behavior and the mother's mental health status. The innovation brought forth by Harmony signals an exciting shift in the landscape of social science and psychology research. So, take advantage of this useful tool for seamless, efficient, and accurate SDQ vs CII comparisons. By minimizing the tedium involved in the harmonization process, researchers can focus more on their analysis, ensuring vital insights borne out of SDQ vs CII comparisons are effectively harnessed.
+
+## Compare the items in SDQ and CII
+
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlN0cmVuZ3RocyBhbmQgRGlmZmljdWx0aWVzIFF1ZXN0aW9ubmFpcmUgKDUtaXRlbSkgKFNEUSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNeSBjaGlsZC4uLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiWW91ciBjaGlsZCBvZnRlbiBjb21wbGFpbnMgb2YgaGVhZGFjaGVzLCBzdG9tYWNoLWFjaGVzLi4uIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IHdvcnJpZXMsIGFuZCBvZnRlbiBzZWVtcyB3b3JyaWVkIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG9mdGVuIHVuaGFwcHksIGRvd25oZWFydGVkLCBvciB0ZWFyZnVsIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG5lcnZvdXMgb3IgY2xpbmd5IGluIG5ldyBzaXR1YXRpb25zIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IGZlYXJzLCBhbmQgaXMgZWFzaWx5IHNjYXJlZCJ9XX0sIHsiaW5zdHJ1bWVudF9uYW1lIjogIkNvZGVyIEltcHJlc3Npb24gSW52ZW50b3J5IChzZWxlY3RlZCBpdGVtcykgKENJSSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNb3RoZXIncyBzY2hpem90eXBhbCBwZXJzb25hbGl0eSJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiTW90aGVyIGRlcHJlc3NlZCJ9XX1d" target="harmonyapp">Import SDQ and CII into Harmony and harmonise them</a> - find similarities between the two instruments using our AI platform
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlN0cmVuZ3RocyBhbmQgRGlmZmljdWx0aWVzIFF1ZXN0aW9ubmFpcmUgKDUtaXRlbSkgKFNEUSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNeSBjaGlsZC4uLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiWW91ciBjaGlsZCBvZnRlbiBjb21wbGFpbnMgb2YgaGVhZGFjaGVzLCBzdG9tYWNoLWFjaGVzLi4uIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IHdvcnJpZXMsIGFuZCBvZnRlbiBzZWVtcyB3b3JyaWVkIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG9mdGVuIHVuaGFwcHksIGRvd25oZWFydGVkLCBvciB0ZWFyZnVsIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG5lcnZvdXMgb3IgY2xpbmd5IGluIG5ldyBzaXR1YXRpb25zIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IGZlYXJzLCBhbmQgaXMgZWFzaWx5IHNjYXJlZCJ9XX0sIHsiaW5zdHJ1bWVudF9uYW1lIjogIkNvZGVyIEltcHJlc3Npb24gSW52ZW50b3J5IChzZWxlY3RlZCBpdGVtcykgKENJSSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNb3RoZXIncyBzY2hpem90eXBhbCBwZXJzb25hbGl0eSJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiTW90aGVyIGRlcHJlc3NlZCJ9XX1d" target="harmonyapp">Import just SDQ into Harmony</a> - compare SDQ with other instruments
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlN0cmVuZ3RocyBhbmQgRGlmZmljdWx0aWVzIFF1ZXN0aW9ubmFpcmUgKDUtaXRlbSkgKFNEUSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNeSBjaGlsZC4uLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiWW91ciBjaGlsZCBvZnRlbiBjb21wbGFpbnMgb2YgaGVhZGFjaGVzLCBzdG9tYWNoLWFjaGVzLi4uIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IHdvcnJpZXMsIGFuZCBvZnRlbiBzZWVtcyB3b3JyaWVkIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG9mdGVuIHVuaGFwcHksIGRvd25oZWFydGVkLCBvciB0ZWFyZnVsIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG5lcnZvdXMgb3IgY2xpbmd5IGluIG5ldyBzaXR1YXRpb25zIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IGZlYXJzLCBhbmQgaXMgZWFzaWx5IHNjYXJlZCJ9XX0sIHsiaW5zdHJ1bWVudF9uYW1lIjogIkNvZGVyIEltcHJlc3Npb24gSW52ZW50b3J5IChzZWxlY3RlZCBpdGVtcykgKENJSSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNb3RoZXIncyBzY2hpem90eXBhbCBwZXJzb25hbGl0eSJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiTW90aGVyIGRlcHJlc3NlZCJ9XX1d" target="harmonyapp">Import just CII into Harmony</a> - compare CII with other instruments
+
+
+
+{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+
+{{< card heading="Try Harmony" copy="Compare SDQ and CII " url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+

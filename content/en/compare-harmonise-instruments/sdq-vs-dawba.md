@@ -1,0 +1,26 @@
+---
+title: SDQ vs DAWBA
+url: "/compare-harmonise-instruments/sdq-vs-dawba/"
+date: 2025-01-29
+---
+
+## SDQ vs DAWBA
+
+The domain of psychology presents an array of tests and assessments that serve to gauge varied aspects of human behavior, cognition, and emotion. The Strengths and Difficulties Questionnaire (SDQ) and the Development and Wellbeing Assessment (DAWBA) are two such tools that assist in evaluating child and adolescent behavioural issues. The act of comparing these instruments often termed as 'SDQ vs DAWBA', is a vital process that allows researchers and clinicians to identify similarities and ascertain divergent factors intrinsic to either tool. Harmony, a dedicated software solution, streamlines this contrasting process through its use of advanced natural language processing and AI technology. Harmony excels in comparing items from both SDQ and DAWBA, delivering insightful results that present a clear percentage match. The user can easily select the SDQ and DAWBA from Harmony's vast instrument database or upload these tools directly. This straightforward and intuitive interface enables efficient comparison across various versions and languages – a vital feature in the global study of behavioural assessments. In the case of SDQ vs DAWBA, Harmony can be instrumental in exploring the commonalities and differences in assessing behavioural issues, making it an invaluable tool for psychologists and researchers alike. When considering SDQ vs DAWBA, it's essential to get a transparent, detailed comparison that can provide meaningful insights. With Harmony, the comparative analysis between SDQ and DAWBA becomes considerably simplified, aiding in the comprehensive study of child and adolescent behaviour. Importantly, Harmony facilitates the option of adding personal versions of SDQ and DAWBA or selecting from its remarkable database. This remarkable platform not only saves valuable time but also ensures reliability and robust results in the relevant 'SDQ vs DAWBA' investigations.
+
+## Compare the items in SDQ and DAWBA
+
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlN0cmVuZ3RocyBhbmQgRGlmZmljdWx0aWVzIFF1ZXN0aW9ubmFpcmUgKDUtaXRlbSkgKFNEUSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNeSBjaGlsZC4uLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiWW91ciBjaGlsZCBvZnRlbiBjb21wbGFpbnMgb2YgaGVhZGFjaGVzLCBzdG9tYWNoLWFjaGVzLi4uIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IHdvcnJpZXMsIGFuZCBvZnRlbiBzZWVtcyB3b3JyaWVkIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG9mdGVuIHVuaGFwcHksIGRvd25oZWFydGVkLCBvciB0ZWFyZnVsIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG5lcnZvdXMgb3IgY2xpbmd5IGluIG5ldyBzaXR1YXRpb25zIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IGZlYXJzLCBhbmQgaXMgZWFzaWx5IHNjYXJlZCJ9XX0sIHsiaW5zdHJ1bWVudF9uYW1lIjogIkRldmVsb3BtZW50IGFuZCBXZWxsYmVpbmcgQXNzZXNzbWVudCAoREFXQkEpIiwgInF1ZXN0aW9ucyI6IFt7InF1ZXN0aW9uX3RleHQiOiAiTWFueSBpdGVtcyAtIHNlZSBmaWxlIn1dfV0=" target="harmonyapp">Import SDQ and DAWBA into Harmony and harmonise them</a> - find similarities between the two instruments using our AI platform
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlN0cmVuZ3RocyBhbmQgRGlmZmljdWx0aWVzIFF1ZXN0aW9ubmFpcmUgKDUtaXRlbSkgKFNEUSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNeSBjaGlsZC4uLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiWW91ciBjaGlsZCBvZnRlbiBjb21wbGFpbnMgb2YgaGVhZGFjaGVzLCBzdG9tYWNoLWFjaGVzLi4uIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IHdvcnJpZXMsIGFuZCBvZnRlbiBzZWVtcyB3b3JyaWVkIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG9mdGVuIHVuaGFwcHksIGRvd25oZWFydGVkLCBvciB0ZWFyZnVsIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG5lcnZvdXMgb3IgY2xpbmd5IGluIG5ldyBzaXR1YXRpb25zIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IGZlYXJzLCBhbmQgaXMgZWFzaWx5IHNjYXJlZCJ9XX0sIHsiaW5zdHJ1bWVudF9uYW1lIjogIkRldmVsb3BtZW50IGFuZCBXZWxsYmVpbmcgQXNzZXNzbWVudCAoREFXQkEpIiwgInF1ZXN0aW9ucyI6IFt7InF1ZXN0aW9uX3RleHQiOiAiTWFueSBpdGVtcyAtIHNlZSBmaWxlIn1dfV0=" target="harmonyapp">Import just SDQ into Harmony</a> - compare SDQ with other instruments
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlN0cmVuZ3RocyBhbmQgRGlmZmljdWx0aWVzIFF1ZXN0aW9ubmFpcmUgKDUtaXRlbSkgKFNEUSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNeSBjaGlsZC4uLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiWW91ciBjaGlsZCBvZnRlbiBjb21wbGFpbnMgb2YgaGVhZGFjaGVzLCBzdG9tYWNoLWFjaGVzLi4uIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IHdvcnJpZXMsIGFuZCBvZnRlbiBzZWVtcyB3b3JyaWVkIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG9mdGVuIHVuaGFwcHksIGRvd25oZWFydGVkLCBvciB0ZWFyZnVsIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG5lcnZvdXMgb3IgY2xpbmd5IGluIG5ldyBzaXR1YXRpb25zIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IGZlYXJzLCBhbmQgaXMgZWFzaWx5IHNjYXJlZCJ9XX0sIHsiaW5zdHJ1bWVudF9uYW1lIjogIkRldmVsb3BtZW50IGFuZCBXZWxsYmVpbmcgQXNzZXNzbWVudCAoREFXQkEpIiwgInF1ZXN0aW9ucyI6IFt7InF1ZXN0aW9uX3RleHQiOiAiTWFueSBpdGVtcyAtIHNlZSBmaWxlIn1dfV0=" target="harmonyapp">Import just DAWBA into Harmony</a> - compare DAWBA with other instruments
+
+
+
+{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+
+{{< card heading="Try Harmony" copy="Compare SDQ and DAWBA " url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+

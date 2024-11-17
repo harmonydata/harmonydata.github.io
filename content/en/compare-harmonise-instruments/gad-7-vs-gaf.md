@@ -1,0 +1,39 @@
+---
+title: GAD-7 vs GAF
+url: "/compare-harmonise-instruments/gad-7-vs-gaf/"
+date: 2025-01-16
+---
+
+## GAD-7 vs GAF
+
+Harmony is a software tool designed to make life easier for psychologists and researchers, facilitating the comparison of items in different questionnaires, for example between GAD-7 vs GAF, in an efficient and objective manner. Offering a modern solution to the time-consuming process of harmonisation, it uses advanced AI and natural language processing to compare questionnaire items across different instruments, even in different languages. One might wonder why this tool is essential for psychologists, and here the relevance of comparison between GAD-7 vs GAF comes in. Generalised Anxiety Disorder General Assessment (GAD-7) and Global Assessment of Function (GAF) are important questionnaires used for assessment in psychological research. However, comparing the items in these questionnaires traditionally involves laboriously going through lengthy documents, transferring the questions to Excel, and then comparing them manually. This is a tedious, subjective, and error-prone process. To make this process simpler and efficient, Harmony is the perfect tool for psychologists. Harmony provides a user-friendly interface where psychologists can select pre-entered instruments from the software's database, or insert their own custom instruments in PDF form. The tool then compares the items in detail and renders a percentage match between each item in the selected questionnaires, for instance, GAD-7 vs GAF. Thus, this efficient and impactful software is an indispensable resource for any psychologist or researcher aiming to conduct thorough, accurate questionnaire comparisons.
+
+## Compare the items in GAD-7 English and GAF
+
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIkdBRC03IEVuZ2xpc2giLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJGZWVsaW5nIG5lcnZvdXMsIGFueGlvdXMsIG9yIG9uIGVkZ2UifSwgeyJxdWVzdGlvbl90ZXh0IjogIk5vdCBiZWluZyBhYmxlIHRvIHN0b3Agb3IgY29udHJvbCB3b3JyeWluZyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiV29ycnlpbmcgdG9vIG11Y2ggYWJvdXQgZGlmZmVyZW50IHRoaW5ncyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiVHJvdWJsZSByZWxheGluZyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiQmVpbmcgc28gcmVzdGxlc3MgdGhhdCBpdCBpcyBoYXJkIHRvIHNpdCBzdGlsbCJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiQmVjb21pbmcgZWFzaWx5IGFubm95ZWQgb3IgaXJyaXRhYmxlIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJGZWVsaW5nIGFmcmFpZCwgYXMgaWYgc29tZXRoaW5nIGF3ZnVsIG1pZ2h0IGhhcHBlbiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSWYgeW91IGNoZWNrZWQgYW55IHByb2JsZW1zLCBob3cgZGlmZmljdWx0IGhhdmUgdGhleSBtYWRlIGl0IGZvciB5b3UgdG8gZG8geW91ciB3b3JrLCB0YWtlIGNhcmUgb2YgdGhpbmdzIGF0IGhvbWUsIG9yIGdldCBhbG9uZyB3aXRoIG90aGVyIHBlb3BsZT8ifV19LCB7Imluc3RydW1lbnRfbmFtZSI6ICJHbG9iYWwgQXNzZXNzbWVudCBvZiBGdW5jdGlvbiAoR0FGKSIsICJxdWVzdGlvbnMiOiBbeyJxdWVzdGlvbl90ZXh0IjogInRvIDEwMCBzY2FsZSB3aGVyZSAxLTEwIGluZGljYXRlcyBzZXZlcmUgaW1wYWlybWVudCBvciBwZXJzaXN0ZW50IGRhbmdlciBvZiBzZXZlcmVseSBoYXJtaW5nIHNlbGYgb3Igb3RoZXJzLCBhbmQgOTEtMTAwIGluZGljYXRlcyBubyBzeW1wdG9tcyBhbmQgc3VwZXJpb3IgZnVuY3Rpb25pbmcgaW4gYSB3aWRlIHJhbmdlIG9mIGFjdGl2aXRpZXMuIFNlZSBmaWxlIn1dfV0=" target="harmonyapp">Import GAD-7 and GAF into Harmony and harmonise them</a> - find similarities between the two instruments using our AI platform
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIkdBRC03IEVuZ2xpc2giLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJGZWVsaW5nIG5lcnZvdXMsIGFueGlvdXMsIG9yIG9uIGVkZ2UifSwgeyJxdWVzdGlvbl90ZXh0IjogIk5vdCBiZWluZyBhYmxlIHRvIHN0b3Agb3IgY29udHJvbCB3b3JyeWluZyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiV29ycnlpbmcgdG9vIG11Y2ggYWJvdXQgZGlmZmVyZW50IHRoaW5ncyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiVHJvdWJsZSByZWxheGluZyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiQmVpbmcgc28gcmVzdGxlc3MgdGhhdCBpdCBpcyBoYXJkIHRvIHNpdCBzdGlsbCJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiQmVjb21pbmcgZWFzaWx5IGFubm95ZWQgb3IgaXJyaXRhYmxlIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJGZWVsaW5nIGFmcmFpZCwgYXMgaWYgc29tZXRoaW5nIGF3ZnVsIG1pZ2h0IGhhcHBlbiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSWYgeW91IGNoZWNrZWQgYW55IHByb2JsZW1zLCBob3cgZGlmZmljdWx0IGhhdmUgdGhleSBtYWRlIGl0IGZvciB5b3UgdG8gZG8geW91ciB3b3JrLCB0YWtlIGNhcmUgb2YgdGhpbmdzIGF0IGhvbWUsIG9yIGdldCBhbG9uZyB3aXRoIG90aGVyIHBlb3BsZT8ifV19LCB7Imluc3RydW1lbnRfbmFtZSI6ICJHbG9iYWwgQXNzZXNzbWVudCBvZiBGdW5jdGlvbiAoR0FGKSIsICJxdWVzdGlvbnMiOiBbeyJxdWVzdGlvbl90ZXh0IjogInRvIDEwMCBzY2FsZSB3aGVyZSAxLTEwIGluZGljYXRlcyBzZXZlcmUgaW1wYWlybWVudCBvciBwZXJzaXN0ZW50IGRhbmdlciBvZiBzZXZlcmVseSBoYXJtaW5nIHNlbGYgb3Igb3RoZXJzLCBhbmQgOTEtMTAwIGluZGljYXRlcyBubyBzeW1wdG9tcyBhbmQgc3VwZXJpb3IgZnVuY3Rpb25pbmcgaW4gYSB3aWRlIHJhbmdlIG9mIGFjdGl2aXRpZXMuIFNlZSBmaWxlIn1dfV0=" target="harmonyapp">Import just GAD-7 into Harmony</a> - compare GAD-7 English with other instruments
+* <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIkdBRC03IEVuZ2xpc2giLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJGZWVsaW5nIG5lcnZvdXMsIGFueGlvdXMsIG9yIG9uIGVkZ2UifSwgeyJxdWVzdGlvbl90ZXh0IjogIk5vdCBiZWluZyBhYmxlIHRvIHN0b3Agb3IgY29udHJvbCB3b3JyeWluZyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiV29ycnlpbmcgdG9vIG11Y2ggYWJvdXQgZGlmZmVyZW50IHRoaW5ncyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiVHJvdWJsZSByZWxheGluZyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiQmVpbmcgc28gcmVzdGxlc3MgdGhhdCBpdCBpcyBoYXJkIHRvIHNpdCBzdGlsbCJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiQmVjb21pbmcgZWFzaWx5IGFubm95ZWQgb3IgaXJyaXRhYmxlIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJGZWVsaW5nIGFmcmFpZCwgYXMgaWYgc29tZXRoaW5nIGF3ZnVsIG1pZ2h0IGhhcHBlbiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSWYgeW91IGNoZWNrZWQgYW55IHByb2JsZW1zLCBob3cgZGlmZmljdWx0IGhhdmUgdGhleSBtYWRlIGl0IGZvciB5b3UgdG8gZG8geW91ciB3b3JrLCB0YWtlIGNhcmUgb2YgdGhpbmdzIGF0IGhvbWUsIG9yIGdldCBhbG9uZyB3aXRoIG90aGVyIHBlb3BsZT8ifV19LCB7Imluc3RydW1lbnRfbmFtZSI6ICJHbG9iYWwgQXNzZXNzbWVudCBvZiBGdW5jdGlvbiAoR0FGKSIsICJxdWVzdGlvbnMiOiBbeyJxdWVzdGlvbl90ZXh0IjogInRvIDEwMCBzY2FsZSB3aGVyZSAxLTEwIGluZGljYXRlcyBzZXZlcmUgaW1wYWlybWVudCBvciBwZXJzaXN0ZW50IGRhbmdlciBvZiBzZXZlcmVseSBoYXJtaW5nIHNlbGYgb3Igb3RoZXJzLCBhbmQgOTEtMTAwIGluZGljYXRlcyBubyBzeW1wdG9tcyBhbmQgc3VwZXJpb3IgZnVuY3Rpb25pbmcgaW4gYSB3aWRlIHJhbmdlIG9mIGFjdGl2aXRpZXMuIFNlZSBmaWxlIn1dfV0=" target="harmonyapp">Import just GAF into Harmony</a> - compare GAF with other instruments
+
+
+## Questions in GAD-7
+
+|   No. | GAD-7 English                                                                                                                                      |
+|------:|:---------------------------------------------------------------------------------------------------------------------------------------------------|
+|     1 | Feeling nervous, anxious, or on edge                                                                                                               |
+|     2 | Not being able to stop or control worrying                                                                                                         |
+|     3 | Worrying too much about different things                                                                                                           |
+|     4 | Trouble relaxing                                                                                                                                   |
+|     5 | Being so restless that it is hard to sit still                                                                                                     |
+|     6 | Becoming easily annoyed or irritable                                                                                                               |
+|     7 | Feeling afraid, as if something awful might happen                                                                                                 |
+|     8 | If you checked any problems, how difficult have they made it for you to do your work, take care of things at home, or get along with other people? |
+
+
+{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+
+{{< card heading="Try Harmony" copy="Compare GAD-7 and GAF " url="https://harmonydata.ac.uk/app" >}}
+
+{{< youtube cEZppTBj1NI >}}
+
+
+

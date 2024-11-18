@@ -33,7 +33,7 @@ This software matches items in the questionnaires effectively using natural lang
 {{< youtube cEZppTBj1NI >}}
 
 
-In conclusion, psychologists interested in examining GAD-7 vs PSS-10 should strongly consider utilizing Harmony. By facilitating comparison between each item in these two instruments, Harmony aids in producing comprehensive research outcomes for understanding anxiety disorders and stress perceptions better. Furthermore, it's not just limited to these two, you can load your chosen tool into Harmony's user-friendly web interface, making it a versatile addition to your research toolkit.
+In conclusion, psychologists interested in examining GAD-7 vs PSS-10 should strongly consider using Harmony. By facilitating comparison between each item in these two instruments, Harmony aids in producing comprehensive research outcomes for understanding anxiety disorders and stress perceptions better. Furthermore, it's not just limited to these two, you can load your chosen tool into Harmony's user-friendly web interface, making it a versatile addition to your research toolkit.
 
 
 ## Questions in GAD-7

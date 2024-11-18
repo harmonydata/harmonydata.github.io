@@ -25,7 +25,7 @@ Psychologists frequently encounter the challenge of correlating items from diffe
 * [RAPI vs DASI](/compare-harmonise-instruments/alcoholism/rapi-vs-dasi)
 
 
-Harmony, by employing advanced natural language processing and AI technology, simplifies and streamlines the procedure for psychologists. The comparison between SDQ vs PSS-10 becomes less subjective and more systematic when using Harmony. Harmony uses large language models to conduct a thorough comparison between questionnaires like the SDQ vs PSS-10 and provides a percentage match for each item. The SDQ, for example, is used for behavioral screening for individuals aged 2-17, while PSS-10 gauges stress perception within the past month.
+Harmony, by employing advanced natural language processing and AI technology, simplifies and streamlines the procedure for psychologists. The comparison between SDQ vs PSS-10 becomes less subjective and more systematic when using Harmony. Harmony uses large language models to conduct a thorough comparison between questionnaires like the SDQ vs PSS-10 and provides a percentage match for each item. The SDQ, for example, is used for behavioural screening for individuals aged 2-17, while PSS-10 gauges stress perception within the past month.
 
 
 

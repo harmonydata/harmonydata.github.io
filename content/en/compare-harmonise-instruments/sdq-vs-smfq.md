@@ -8,7 +8,7 @@ aliases:
 ## SDQ vs SMFQ: A Comparative Analysis Using Harmony Software
 
 
-When it comes to behavioral screening and mood assessment in children, two prominent tools stand out: The Strengths and Difficulties Questionnaire (SDQ) and the Short Mood & Feelings Questionnaire (SMFQ). Although each serves its purpose independently, a comprehensive analysis may require the comparison and harmonisation of results from both tools.
+When it comes to behavioural screening and mood assessment in children, two prominent tools stand out: The Strengths and Difficulties Questionnaire (SDQ) and the Short Mood & Feelings Questionnaire (SMFQ). Although each serves its purpose independently, a comprehensive analysis may require the comparison and harmonisation of results from both tools.
 
 ## Compare the items in SDQ and SMFQ
 

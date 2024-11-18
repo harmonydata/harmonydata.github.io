@@ -6,16 +6,16 @@ date: 2025-01-21
 
 ## Beck Anxiety Inventory vs ARI
 
-It is essential that psychologists accurately compare and harmonize different psychological questionnaires to draw a valid conclusion for their studies. One such vital comparison is the **Beck Anxiety Inventory vs ARI** (Affective Reactivity Index). These two measures cater to different aspects of mental health, namely anxiety and irritability. In the Beck Anxiety Inventory, for instance, issues like fear of the worst happening, heart pounding, feeling nervous etc. are addressed. Whereas, in ARI, elements such as easily getting annoyed or losing temperament are included.
+It is essential that psychologists accurately compare and harmonise different psychological questionnaires to draw a valid conclusion for their studies. One such vital comparison is the **Beck Anxiety Inventory vs ARI** (Affective Reactivity Index). These two measures cater to different aspects of mental health, namely anxiety and irritability. In the Beck Anxiety Inventory, for instance, issues like fear of the worst happening, heart pounding, feeling nervous etc. are addressed. Whereas, in ARI, elements such as easily getting annoyed or losing temperament are included.
 
 
 ## The Role of Harmony in Beck Anxiety Inventory vs ARI
 
-To compare these two instruments like **Beck Anxiety Inventory and ARI** effectively, Harmony, a smart tool developed for psychologists comes to the rescue. Harmony uses natural language processing and generative AI models which simplifies the process of harmonizing questionnaires, even when they are in different languages. Moreover, Harmony gives a percentage match between each item of the Beck Anxiety Inventory and ARI, making it easier for researchers to draw comparisons and conduct their studies.
+To compare these two instruments like **Beck Anxiety Inventory and ARI** effectively, Harmony, a smart tool developed for psychologists comes to the rescue. Harmony uses natural language processing and generative AI models which simplifies the process of harmonising questionnaires, even when they are in different languages. Moreover, Harmony gives a percentage match between each item of the Beck Anxiety Inventory and ARI, making it easier for researchers to draw comparisons and conduct their studies.
 
 ## Why Choose Harmony for Beck Anxiety Inventory vs ARI Comparison?
 
-If you are planning to compare **Beck Anxiety Inventory vs ARI**, Harmony is the best tool at your disposal. With Harmony, you have the ease of selecting instruments from its database or you can drag and drop your own instruments in PDF form into Harmony's web interface. Not just this, Harmony is designed to compare items in multiple languages, making it a global tool for psychological research. Make your research process seamless by using Harmony to harmonize your questionnaire items effectively.
+If you are planning to compare **Beck Anxiety Inventory vs ARI**, Harmony is the best tool at your disposal. With Harmony, you have the ease of selecting instruments from its database or you can drag and drop your own instruments in PDF form into Harmony's web interface. Not just this, Harmony is designed to compare items in multiple languages, making it a global tool for psychology research. Make your research process seamless by using Harmony to harmonise your questionnaire items effectively.
 
 ## Compare the items in Beck Anxiety Inventory and ARI
 

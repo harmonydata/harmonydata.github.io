@@ -7,7 +7,7 @@ aliases:
 
 ## PHQ-9 vs De Jong Gierveld Loneliness Scale
 
-The agenda of psychological research often encounters the need for comparison and harmonisation of different psychometric instruments. One of such example is comparison between PHQ-9, a widespread diagnostic instrument for mental disorders, and De Jong Gierveld Loneliness Scale, a widely-used tool for assessing loneliness. The **PHQ-9 vs De Jong Gierveld Loneliness Scale** comparison requires a time-consuming and subjective process, which might not be efficient for researchers. This is where Harmony software can offer significant assistance.
+The agenda of psychology research often encounters the need for comparison and harmonisation of different psychometric instruments. One of such example is comparison between PHQ-9, a widespread diagnostic instrument for mental disorders, and De Jong Gierveld Loneliness Scale, a widely-used tool for assessing loneliness. The **PHQ-9 vs De Jong Gierveld Loneliness Scale** comparison requires a time-consuming and subjective process, which might not be efficient for researchers. This is where Harmony software can offer significant assistance.
 
 {{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 

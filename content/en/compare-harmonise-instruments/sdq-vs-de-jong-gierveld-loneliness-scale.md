@@ -7,7 +7,7 @@ aliases:
 
 ## SDQ vs De Jong Gierveld Loneliness Scale
 
-Comparing different instruments used in psychological research can often seem like an overwhelming task due to their varying item structures and contexts. One such example includes the comparison between the Strengths and Difficulties Questionnaire (SDQ) and the De Jong Gierveld Loneliness Scale.
+Comparing different instruments used in psychology research can often seem like an overwhelming task due to their varying item structures and contexts. One such example includes the comparison between the Strengths and Difficulties Questionnaire (SDQ) and the De Jong Gierveld Loneliness Scale.
 
 
 {{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}

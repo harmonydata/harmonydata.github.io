@@ -9,7 +9,7 @@ aliases:
 
 ### A simplified comparison using Harmony
 
-In psychological research, comparing and contrasting different questionnaires is a common and essential practice. One such comparison is the PHQ-9 vs Beck Anxiety Inventory.
+In psychology research, comparing and contrasting different questionnaires is a common and essential practice. One such comparison is the PHQ-9 vs Beck Anxiety Inventory.
 
 Both are predominant instruments used to evaluate patients' mental health. So, how can we accurately map these two instruments and streamline our research? Enter Harmony - your ultimate tool for convenient harmonisation.
 

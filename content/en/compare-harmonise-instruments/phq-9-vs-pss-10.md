@@ -8,7 +8,7 @@ aliases:
 ## PHQ-9 vs PSS-10: A Comparative Study Using Harmony
 
 
-Comparing patient questionnaires is a vital aspect of psychological research, particularly when using tools like PHQ-9 and PSS-10 which measure facets of mental health and stress levels. However, the process of comparing these can be tedious and time-consuming. In situations like PHQ-9 vs PSS-10 comparisons, the Harmony software is the ideal tool to simplify and streamline the process, eliminating the struggle of manual harmonisation.
+Comparing patient questionnaires is a vital aspect of psychology research, particularly when using tools like PHQ-9 and PSS-10 which measure facets of mental health and stress levels. However, the process of comparing these can be tedious and time-consuming. In situations like PHQ-9 vs PSS-10 comparisons, the Harmony software is the ideal tool to simplify and streamline the process, eliminating the struggle of manual harmonisation.
 
 
 ## Compare the items in PHQ-9 and PSS-10

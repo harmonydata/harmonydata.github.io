@@ -32,7 +32,7 @@ This is where Harmony, a trailblazing software tool developed for psychologists,
 
 
 
-The software presents a percentage match between the individual items in PHQ-9 and CBCL, allowing a critical review of the similarities and differences between the instruments. The prolific use of Harmony in psychological research, especially in harmonising PHQ-9 vs CBCL, can significantly enhance the accuracy and speed of comparative studies. It supports multiple languages, adds to its versatility, and broadens its reach to a global research scenario. The software allows users to choose instruments from its database or lets them upload their own in a PDF format. Visit [Harmony's web interface](https://harmonydata.ac.uk/app) to experience its superior harmonisation features for PHQ-9 vs CBCL today.
+The software presents a percentage match between the individual items in PHQ-9 and CBCL, allowing a critical review of the similarities and differences between the instruments. The prolific use of Harmony in psychology research, especially in harmonising PHQ-9 vs CBCL, can significantly enhance the accuracy and speed of comparative studies. It supports multiple languages, adds to its versatility, and broadens its reach to a global research scenario. The software allows users to choose instruments from its database or lets them upload their own in a PDF format. Visit [Harmony's web interface](https://harmonydata.ac.uk/app) to experience its superior harmonisation features for PHQ-9 vs CBCL today.
 
 
 

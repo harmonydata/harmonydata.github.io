@@ -5,7 +5,7 @@ aliases:
   - "/sdq-vs-beck-anxiety-inventory"
 ---
 
-## Harmonising and comparing SDQ vs Beck Anxiety Inventory: harness the power of Harmony for advanced psychological research
+## Harmonising and comparing SDQ vs Beck Anxiety Inventory: harness the power of Harmony for advanced psychology research
 
 When we talk about powerful psychological assessment tools, the Strengths and Difficulties Questionnaire (SDQ) and the Beck Anxiety Inventory (BAI) are two instruments that spring readily to mind.
 
@@ -13,7 +13,7 @@ These tools have provided psychometric insights into the behavioural and emotion
 
 {{< image src="/images/GAD-7-vs-Becks.drawio-min.png" alt="dog" title="dog" >}}
 
-**Harmony** is a free tool that streamlines not just this SDQ vs Beck Anxiety Inventory challenge but all harmonisation processes in psychological research. Harmony is a software tool that leverages natural language processing and advanced AI models to help psychologists and social scientists harmonise different questionnaire items. 
+**Harmony** is a free tool that streamlines not just this SDQ vs Beck Anxiety Inventory challenge but all harmonisation processes in psychology research. Harmony is a software tool that leverages natural language processing and advanced AI models to help psychologists and social scientists harmonise different questionnaire items. 
 
 
 
@@ -46,7 +46,7 @@ While, the BAI on the other hand, is a 21-item self-reporting questionnaire desi
 * <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlN0cmVuZ3RocyBhbmQgRGlmZmljdWx0aWVzIFF1ZXN0aW9ubmFpcmUgKDUtaXRlbSkgKFNEUSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJNeSBjaGlsZC4uLiJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiWW91ciBjaGlsZCBvZnRlbiBjb21wbGFpbnMgb2YgaGVhZGFjaGVzLCBzdG9tYWNoLWFjaGVzLi4uIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IHdvcnJpZXMsIGFuZCBvZnRlbiBzZWVtcyB3b3JyaWVkIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG9mdGVuIHVuaGFwcHksIGRvd25oZWFydGVkLCBvciB0ZWFyZnVsIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGlzIG5lcnZvdXMgb3IgY2xpbmd5IGluIG5ldyBzaXR1YXRpb25zIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJZb3VyIGNoaWxkIGhhcyBtYW55IGZlYXJzLCBhbmQgaXMgZWFzaWx5IHNjYXJlZCJ9XX0sIHsiaW5zdHJ1bWVudF9uYW1lIjogIlVudGl0bGVkIGluc3RydW1lbnQiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJOdW1ibmVzcyBvciB0aW5nbGluZyAifSwgeyJxdWVzdGlvbl90ZXh0IjogIkZlZWxpbmcgaG90ICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiV29iYmxpbmVzcyBpbiBsZWdzICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiVW5hYmxlIHRvIHJlbGF4ICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiRmVhciBvZiB3b3JzdCBoYXBwZW5pbmcgIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJEaXp6eSBvciBsaWdodGhlYWRlZCAifSwgeyJxdWVzdGlvbl90ZXh0IjogIkhlYXJ0IHBvdW5kaW5nIC8gcmFjaW5nICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiVW5zdGVhZHkgIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJUZXJyaWZpZWQgb3IgYWZyYWlkICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiTmVydm91cyAifSwgeyJxdWVzdGlvbl90ZXh0IjogIkZlZWxpbmcgb2YgY2hva2luZyAifSwgeyJxdWVzdGlvbl90ZXh0IjogIkhhbmRzIHRyZW1ibGluZyAifSwgeyJxdWVzdGlvbl90ZXh0IjogIlNoYWt5IC8gdW5zdGVhZHkgIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJGZWFyIG9mIGxvc2luZyBjb250cm9sICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiRGlmZmljdWx0eSBpbiBicmVhdGhpbmcgIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJGZWFyIG9mIGR5aW5nICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiU2NhcmVkICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSW5kaWdlc3Rpb24gIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJGYWludCAvIGxpZ2h0aGVhZGVkICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiRmFjZSBmbHVzaGVkICJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiSG90IC8gY29sZCBzd2VhdHMifV19XQ==" target="harmonyapp">Import just Beck Anxiety Inventory into Harmony</a> - compare Beck Anxiety Inventory with other instruments
 
 
-Let's take the SDQ vs Beck Anxiety Inventory comparison as an instance. With Harmony, once the SDQ and BAI inventories have been uploaded and the software put to work, it will produce you a detailed comparison report with efficiency and preciseness that manual harmonisation cannot match. In conclusion, when researchers are faced with the SDQ vs Beck Anxiety Inventory challenge, or indeed, any questionnaire harmonising tasks, having Harmony in their arsenal could be a decisive advantage. Take the uncertainties out of questionnaire harmonisation. Try Harmony today and embrace the new normal in psychological research.
+Let's take the SDQ vs Beck Anxiety Inventory comparison as an instance. With Harmony, once the SDQ and BAI inventories have been uploaded and the software put to work, it will produce you a detailed comparison report with efficiency and preciseness that manual harmonisation cannot match. In conclusion, when researchers are faced with the SDQ vs Beck Anxiety Inventory challenge, or indeed, any questionnaire harmonising tasks, having Harmony in their arsenal could be a decisive advantage. Take the uncertainties out of questionnaire harmonisation. Try Harmony today and embrace the new normal in psychology research.
 
 
 

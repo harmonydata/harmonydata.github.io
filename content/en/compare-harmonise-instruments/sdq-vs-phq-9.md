@@ -20,7 +20,7 @@ As researchers and clinicians in psychology, we grapple with the complexities of
 
 
 
-But why does the conversation around SDQ vs PHQ-9 matter and how can Harmony help us understand it better? Get ready to dive into the world of psychological assessment as we explore SDQ vs PHQ-9 utilizing the ingenious software Harmony! Utilized worldwide, both SDQ and PHQ-9 are essential tools in the initial screening and continued monitoring of mental health in children and adults respectively. SDQ, designed for individuals aged 2-17, is a comprehensive behavioural screening questionnaire. Meanwhile, the PHQ-9 is a critical part of the larger PHQ suite, intended to diagnose and monitor depression severity.
+But why does the conversation around SDQ vs PHQ-9 matter and how can Harmony help us understand it better? Get ready to dive into the world of psychological assessment as we explore SDQ vs PHQ-9 using the ingenious software Harmony! Utilized worldwide, both SDQ and PHQ-9 are essential tools in the initial screening and continued monitoring of mental health in children and adults respectively. SDQ, designed for individuals aged 2-17, is a comprehensive behavioural screening questionnaire. Meanwhile, the PHQ-9 is a critical part of the larger PHQ suite, intended to diagnose and monitor depression severity.
 
 {{< card heading="Try Harmony" copy="Compare SDQ and PHQ-9 " url="https://harmonydata.ac.uk/app" >}}
 
@@ -46,7 +46,7 @@ The ease doesn't stop there; Harmony's platform allows you to select instruments
 
 
 
-Start your journey with Harmony today at https://harmonydata.ac.uk/app. Let Harmony streamline your SDQ vs PHQ-9 analysis, and experience the revolution in the world of psychological research!
+Start your journey with Harmony today at https://harmonydata.ac.uk/app. Let Harmony streamline your SDQ vs PHQ-9 analysis, and experience the revolution in the world of psychology research!
 
 
 

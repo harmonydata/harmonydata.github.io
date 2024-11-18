@@ -7,7 +7,7 @@ aliases:
 
 ## GAD-7 vs MFQ: Applying Harmony for Consistent Analysis
 
-Psychologists and researchers often encounter the challenge of harmonising questionnaires, like comparing `GAD-7 vs MFQ`, and interpreting their results. These inconsistencies often arise due to differences in language, translation, and the subjective nature of questions. Harmony, an advanced tool leveraging natural language processing and generative AI models, simplifies the process of harmonising these questionnaires. It effectively compares different instruments, including `GAD-7 vs MFQ`, and offers a percentage match between each item, adding a layer of consistency and efficiency to the research process.
+Psychologists and researchers often encounter the challenge of harmonising questionnaires, like comparing GAD-7 vs MFQ, and interpreting their results. These inconsistencies often arise due to differences in language, translation, and the subjective nature of questions. Harmony, an advanced tool leveraging natural language processing and generative AI models, simplifies the process of harmonising these questionnaires. It effectively compares different instruments, including GAD-7 vs MFQ, and offers a percentage match between each item, adding a layer of consistency and efficiency to the research process.
 
 ## Compare the items in GAD-7 English and MFQ
 
@@ -32,7 +32,7 @@ Consider an example where a psychologist needs to compare the GAD-7, a seven-ite
 
 
 
-The user-friendly interface of Harmony allows users to select instruments from a database or upload their own instruments in PDF format. The tool then uses advanced language models to compare and harmonise these instruments irrespective of their language. For research to be globally relevant, it is crucial to ensure that it is applicable across various studies and cohorts. In such cases, comparing `GAD-7 vs MFQ` becomes essential. Using Harmony, researchers not only save time in the harmonisation process but also ensure the precision of comparative analysis. By applying AI, Harmony facilitates standardized and consistent research, making it a powerful tool for psychologists and other social scientists.
+The user-friendly interface of Harmony allows users to select instruments from a database or upload their own instruments in PDF format. The tool then uses advanced language models to compare and harmonise these instruments irrespective of their language. For research to be globally relevant, it is crucial to ensure that it is applicable across various studies and cohorts. In such cases, comparing GAD-7 vs MFQ becomes essential. Using Harmony, researchers not only save time in the harmonisation process but also ensure the precision of comparative analysis. By applying AI, Harmony facilitates standardized and consistent research, making it a powerful tool for psychologists and other social scientists.
 
 
 ## Questions in GAD-7

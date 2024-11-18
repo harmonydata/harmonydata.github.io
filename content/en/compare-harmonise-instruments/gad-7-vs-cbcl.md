@@ -7,7 +7,7 @@ aliases:
 
 ## GAD-7 vs CBCL: A Comparative Analysis using Harmony
 
-The Generalised Anxiety Disorder Assessment (GAD-7) and Child Behaviour Checklist (CBCL) are vital tools used in psychology to assess respective levels of generalised anxiety disorder and child behavior issues. Each tool consists of a multitude of factors, requiring careful examination and a comparative analysis to fully understand the recurring behavioral patterns.
+The Generalised Anxiety Disorder Assessment (GAD-7) and Child Behaviour Checklist (CBCL) are vital tools used in psychology to assess respective levels of generalised anxiety disorder and child behaviour issues. Each tool consists of a multitude of factors, requiring careful examination and a comparative analysis to fully understand the recurring behavioural patterns.
 
 ## Compare the items in GAD-7 English and CBCL
 

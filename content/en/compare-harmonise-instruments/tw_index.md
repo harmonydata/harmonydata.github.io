@@ -107,15 +107,15 @@ These instruments are often used in clinical settings, research studies, and for
 
 The most commonly used instruments for assessing autism spectrum disorder (ASD) include:
 
-**ADOS (Autism Diagnostic Observation Schedule):** This is a semi-structured observation tool that assesses communication, social interaction, and play behaviors in individuals with suspected ASD. It is considered the gold standard for diagnosing ASD in young children.
+**ADOS (Autism Diagnostic Observation Schedule):** This is a semi-structured observation tool that assesses communication, social interaction, and play behaviours in individuals with suspected ASD. It is considered the gold standard for diagnosing ASD in young children.
 
-**ADI-R (Autism Diagnostic Interview-Revised):** This is a structured interview conducted with parents or caregivers to gather information about the individual's developmental history, social communication, and repetitive behaviors. It is often used in conjunction with the ADOS for diagnosis.
+**ADI-R (Autism Diagnostic Interview-Revised):** This is a structured interview conducted with parents or caregivers to gather information about the individual's developmental history, social communication, and repetitive behaviours. It is often used in conjunction with the ADOS for diagnosis.
 
 **AQ (Autism Quotient):** This is a self-report questionnaire that assesses autistic traits in adults. It is not a diagnostic tool but can be used as a screening measure.
 
 **CHAT (Checklist for Autism in Toddlers):** This is a screening tool for early identification of ASD in children aged 18-30 months.
 
-**BAPQ (Behavior Assessment for Preschoolers):** This is a standardized assessment tool for preschool-aged children that measures social skills, communication, and adaptive behaviors.
+**BAPQ (Behavior Assessment for Preschoolers):** This is a standardized assessment tool for preschool-aged children that measures social skills, communication, and adaptive behaviours.
 
 The choice of instrument depends on the age of the individual, the purpose of the assessment, and the specific needs of the clinician. Here are some comparisons which you can do with Harmony:
 
@@ -139,7 +139,7 @@ The choice of instrument depends on the age of the individual, the purpose of th
 
 The most commonly used instruments for assessing alcohol consumption and abuse include:
 
-**AUDIT-10 (Alcohol Use Disorders Identification Test):** A 10-item questionnaire that assesses alcohol consumption, dependence, and risk behaviors.
+**AUDIT-10 (Alcohol Use Disorders Identification Test):** A 10-item questionnaire that assesses alcohol consumption, dependence, and risk behaviours.
 
 **MAST (Michigan Alcoholism Screening Test):** A 24-item questionnaire that assesses alcohol dependence and abuse.
 

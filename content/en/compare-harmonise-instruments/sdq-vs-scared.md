@@ -8,7 +8,7 @@ aliases:
 ## SDQ vs SCARED (Adult): A Comparative Study Using Harmony
 
 
-Psychologists and social scientists often encounter difficulties in comparing different tools used in behavioral and psychological assessments. It can be challenging to combine data from different instruments such as the Strengths and Difficulties Questionnaire (SDQ) and the Screen for Child Anxiety Related Disorders (SCARED).
+Psychologists and social scientists often encounter difficulties in comparing different tools used in behavioural and psychological assessments. It can be challenging to combine data from different instruments such as the Strengths and Difficulties Questionnaire (SDQ) and the Screen for Child Anxiety Related Disorders (SCARED).
 
 
 {{< youtube cEZppTBj1NI >}}

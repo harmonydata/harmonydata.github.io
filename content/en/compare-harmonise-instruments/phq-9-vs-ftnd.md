@@ -6,7 +6,7 @@ date: 2024-11-17
 
 ## PHQ-9 vs FTND
 
- a sophisticated software developed for psychologists, assists in the harmonization of different questionnaire items, making it an essential tool in comparing the Patient Health Questionnaire-9 (PHQ-9) and the Fagerström Test for Nicotine Dependence (FTND). The PHQ-9 is an instrument that measures severity of depression, while FTND is used to assess the intensity of physical addiction to nicotine. Comparing these tools can give valuable insights into the link between depression and nicotine dependence, but the process can be arduous. As psychologists, it is crucial to facilitate your research by utilizing Harmony in evaluating the PHQ-9 vs FTND. Harmony employs natural language processing and generative AI models, and it can efficiently match items from these two different instruments. It allows the comparison of questionnaires not just in a single language, but in multiple languages, enabling a more comprehensive understanding of the PHQ-9 vs FTND. When assessing the PHQ-9 vs FTND, you'll find that navigating through the immense questionnaires and transferring them manually to Excel is daunting. This time-consuming and subjective task gets a much-needed revamp with Harmony. By choosing to use Harmony, you can easily drag and drop instruments directly into its interface, even in PDF form, or select from a vast database. If you're working on comparing PHQ-9 vs FTND, or any other instruments, Harmony is your go-to tool.
+Harmony a sophisticated software developed for psychologists, assists in the harmonisation of different questionnaire items, making it an essential tool in comparing the Patient Health Questionnaire-9 (PHQ-9) and the Fagerström Test for Nicotine Dependence (FTND). The PHQ-9 is an instrument that measures severity of depression, while FTND is used to assess the intensity of physical addiction to nicotine. Comparing these tools can give valuable insights into the link between depression and nicotine dependence, but the process can be arduous. 
 
 ## Compare the items in PHQ-9 and FTND
 
@@ -23,4 +23,4 @@ date: 2024-11-17
 {{< youtube cEZppTBj1NI >}}
 
 
-
+As psychologists, it is crucial to facilitate your research by using Harmony in evaluating the PHQ-9 vs FTND. Harmony employs natural language processing and generative AI models, and it can efficiently match items from these two different instruments. It allows the comparison of questionnaires not just in a single language, but in multiple languages, enabling a more comprehensive understanding of the PHQ-9 vs FTND. When assessing the PHQ-9 vs FTND, you'll find that navigating through the immense questionnaires and transferring them manually to Excel is daunting. This time-consuming and subjective task gets a much-needed revamp with Harmony. By choosing to use Harmony, you can easily drag and drop instruments directly into its interface, even in PDF form, or select from a vast database. 

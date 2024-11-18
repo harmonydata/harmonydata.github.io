@@ -7,7 +7,7 @@ aliases:
 
 ## SDQ vs RCADS: A Comparative Analysis Using Harmony
 
-Behavioural research often requires psychometric evaluations utilizing different instruments. Such is the case with Strengths and Difficulties Questionnaire (SDQ) and the Revised Children's Anxiety and Depression Scale (RCADS). Comparing the SDQ to the RCADS can offer essential insights into children's emotional and mental health. However, manually conducting such comparisons can be a daunting task.
+Behavioural research often requires psychometric evaluations using different instruments. Such is the case with Strengths and Difficulties Questionnaire (SDQ) and the Revised Children's Anxiety and Depression Scale (RCADS). Comparing the SDQ to the RCADS can offer essential insights into children's emotional and mental health. However, manually conducting such comparisons can be a daunting task.
 
 ## Compare the items in SDQ and RCADS
 
@@ -21,7 +21,7 @@ Behavioural research often requires psychometric evaluations utilizing different
 
 {{< youtube cEZppTBj1NI >}}
 
-Harmony, utilizing ground-breaking natural language processing and generative AI models, is specifically designed to help researchers harmonise and compare questionnaire items. In the case of SDQ vs RCADS, Harmony is utilised for a detailed comparison of the instruments.
+Harmony, using ground-breaking natural language processing and generative AI models, is specifically designed to help researchers harmonise and compare questionnaire items. In the case of SDQ vs RCADS, Harmony is utilised for a detailed comparison of the instruments.
 
 ## You may also be interested in these harmonisations
 
@@ -34,7 +34,7 @@ Harmony, utilizing ground-breaking natural language processing and generative AI
 It calculates a percentage match between each item in SDQ and RCADS and also allows the results of a given study to be compared with or replicated in another even in different languages. The SDQ vs RCADS comparison thus becomes a quick, easy, and highly reliable procedure that can be repeated across studies.
 
 
-Simply select the instruments from Harmony's database or upload your own for an efficient and straightforward comparison process. Visit [Harmony's web interface](https://harmonydata.ac.uk/app) and experience the power of AI in psychological research in the comparative study of SDQ and RCADS.
+Simply select the instruments from Harmony's database or upload your own for an efficient and straightforward comparison process. Visit [Harmony's web interface](https://harmonydata.ac.uk/app) and experience the power of AI in psychology research in the comparative study of SDQ and RCADS.
 
 {{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
 

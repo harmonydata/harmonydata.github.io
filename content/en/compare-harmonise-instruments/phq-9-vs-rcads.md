@@ -7,7 +7,7 @@ aliases:
 
 ## PHQ-9 vs RCADS
 
-Psychologists and social scientists often ponder over the harmony between different psychological assessment tools. A common comparison drawn in the industry is between the Patient Health Questionnaire (PHQ-9) and the Revised Children's Anxiety and Depression Scale (RCADS). The PHQ-9 vs RCADS comparison is vital due to their distinct natures and widespread use in psychological research.
+Psychologists and social scientists often ponder over the harmony between different psychological assessment tools. A common comparison drawn in the industry is between the Patient Health Questionnaire (PHQ-9) and the Revised Children's Anxiety and Depression Scale (RCADS). The PHQ-9 vs RCADS comparison is vital due to their distinct natures and widespread use in psychology research.
 
 ## Compare the items in PHQ-9 and RCADS
 

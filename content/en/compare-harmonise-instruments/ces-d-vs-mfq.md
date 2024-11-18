@@ -7,7 +7,7 @@ aliases:
 
 ## CES-D vs MFQ
 
-Comparing questionnaire items for psychological research can be a tedious task. One common comparison is CES-D vs MFQ - the Center for Epidemiological Studies-Depression Scale and the Mood & Feelings Questionnaire. Both of these instruments are used to measure depressive symptoms in individuals, yet their questions and scales differ. Harmony, an advanced software tool designed for psychologists, offers an effective solution to this issue by using natural language processing and generative AI models to harmonise these items, making CES-D vs MFQ comparisons efficient and reliable.
+Comparing questionnaire items for psychology research can be a tedious task. One common comparison is CES-D vs MFQ - the Center for Epidemiological Studies-Depression Scale and the Mood & Feelings Questionnaire. Both of these instruments are used to measure depressive symptoms in individuals, yet their questions and scales differ. Harmony, an advanced software tool designed for psychologists, offers an effective solution to this issue by using natural language processing and generative AI models to harmonise these items, making CES-D vs MFQ comparisons efficient and reliable.
 
 ## Compare the items in CES-D English and MFQ
 

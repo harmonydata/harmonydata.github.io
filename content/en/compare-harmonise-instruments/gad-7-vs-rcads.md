@@ -7,7 +7,7 @@ aliases:
 
 ## GAD-7 vs RCADS
 
-When conducting psychological research or assessments, it is essential to have accurate and effective tools. Two such tools are the Generalized Anxiety Disorder Assessment (GAD-7) and the Revised Children's Anxiety and Depression Scale (RCADS). Both are widely used in the field, albeit they serve different specific purposes.
+When conducting psychology research or assessments, it is essential to have accurate and effective tools. Two such tools are the Generalized Anxiety Disorder Assessment (GAD-7) and the Revised Children's Anxiety and Depression Scale (RCADS). Both are widely used in the field, albeit they serve different specific purposes.
 
 ## Compare the items in GAD-7 English and RCADS
 
@@ -46,7 +46,7 @@ It’s not uncommon for psychologists to need to compare these two tools, a task
 
 {{< youtube cEZppTBj1NI >}}
 
-This allows researchers to view similarities and differences at a glance, significantly reducing the effort required in the manual comparison process. The term *GAD-7 vs [RCADS](/compare-harmonise-instruments/ces-d-vs-rcads)* is redefined by utilizing Harmony, transforming a complex process into a streamlined and straightforward one. We highly recommend using Harmony for your *GAD-7 vs RCADS* comparison tasks whether you are conducting new research or revisiting older studies for fresh insights. You can select both instruments directly from Harmony's comprehensive database or upload your own copies in PDF format. The added bonus, Harmony is even equipped to handle comparisons in multiple languages. Simplify your research process with Harmony – the new standard for questionnaire harmonisation.
+This allows researchers to view similarities and differences at a glance, significantly reducing the effort required in the manual comparison process. The term *GAD-7 vs [RCADS](/compare-harmonise-instruments/ces-d-vs-rcads)* is redefined by using Harmony, transforming a complex process into a streamlined and straightforward one. We highly recommend using Harmony for your *GAD-7 vs RCADS* comparison tasks whether you are conducting new research or revisiting older studies for fresh insights. You can select both instruments directly from Harmony's comprehensive database or upload your own copies in PDF format. The added bonus, Harmony is even equipped to handle comparisons in multiple languages. Simplify your research process with Harmony – the new standard for questionnaire harmonisation.
 
 
 

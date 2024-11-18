@@ -30,7 +30,7 @@ One of the significant uses of Harmony is that it can not only efficiently compa
 
 {{< youtube cEZppTBj1NI >}}
 
-Through optimization of longitudinal comparisons between GHQ-12 vs CBCL, Harmony can contribute to testing the consistency of results across different studies. In the context of multi-language instruments as in the comparison between GHQ-12 vs CBCL, Harmony’s ability to facilitate analysis across different languages further underscores its immense utility. Whether you wish to examine the unidimensionality of GHQ-12 or explore the multidimensional structures of the CBCL, Harmony provides an effortless, streamlined process for reliable harmonisation and comparison. For psychological researchers who aim to enrich their practice through enhanced harmonisation, Harmony stands out as an essential tool of choice.
+Through optimization of longitudinal comparisons between GHQ-12 vs CBCL, Harmony can contribute to testing the consistency of results across different studies. In the context of multi-language instruments as in the comparison between GHQ-12 vs CBCL, Harmony’s ability to facilitate analysis across different languages further underscores its immense utility. Whether you wish to examine the unidimensionality of GHQ-12 or explore the multidimensional structures of the CBCL, Harmony provides an effortless, streamlined process for reliable harmonisation and comparison. For psychology researchers who aim to enrich their practice through enhanced harmonisation, Harmony stands out as an essential tool of choice.
 
 
 {{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}

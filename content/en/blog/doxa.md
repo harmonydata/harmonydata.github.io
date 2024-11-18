@@ -30,6 +30,10 @@ We would like to improve Harmony's matching algorithm. Sometimes, Harmony mistak
 We would like to improve Harmony with a *fine tuned* large language model. We have teamed up with DOXA AI and made an online competition where you can improve on the off-the-shelf LLMs which we are currently using. You can win up to £500 in vouchers! [Click here to join the Harmony matching competition on DOXA AI](https://doxaai.com/competition/harmony-matching).
 
 
+{{< grid columns="2" >}}
+  {{< card heading="Register on DOXA AI" copy="Enter the competition on DOXA AI by fine tuning your own large language model and improve Harmony!" url="https://doxaai.com/competition/harmony-matching" >}}
+  {{< card heading="Join our Discord" copy="Join the Harmony Discord server. Check out the 🏅「matching-challenge」 channel!" url="https://discord.com/invite/harmonydata" >}}
+{{< /grid >}}
 
 
 ## Webinar recording
@@ -61,7 +65,10 @@ The Harmony team has recently published a paper in BMC Psychiatry showing that t
 
 * McElroy, E., Wood, T.A., Bond, R., Mulvenna M., Shevlin M., Ploubidis G., Scopel Hoffmann M., Moltrecht B., [Using natural language processing to facilitate the harmonisation of mental health questionnaires: a validation study using real-world data](/ai-in-mental-health/bmc-psychiatry-paper/). BMC Psychiatry 24, 530 (2024). https://doi.org/10.1186/s12888-024-05954-2
 
-
+{{< grid columns="2" >}}
+  {{< card heading="Register on DOXA AI" copy="Enter the competition on DOXA AI by fine tuning your own large language model and improve Harmony!" url="https://doxaai.com/competition/harmony-matching" >}}
+  {{< card heading="Join our Discord" copy="Join the Harmony Discord server. Check out the 🏅「matching-challenge」 channel!" url="https://discord.com/invite/harmonydata" >}}
+{{< /grid >}}
 
 ## See other events
 

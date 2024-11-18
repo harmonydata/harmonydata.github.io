@@ -16,7 +16,7 @@ Researchers and psychologists who need to compare the PHQ-9 with SURPS often fac
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs SURPS" title="PHQ-9 vs SURPS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and SURPS " url="https://harmonydata.ac.uk/app" >}}
 

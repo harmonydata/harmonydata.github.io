@@ -16,7 +16,7 @@ Comparing Strengths and Difficulties Questionnaire (SDQ) and Geriatric Depressio
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs GDS" title="SDQ vs GDS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and GDS " url="https://harmonydata.ac.uk/app" >}}
 

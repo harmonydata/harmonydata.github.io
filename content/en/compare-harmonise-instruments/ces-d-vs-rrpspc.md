@@ -16,7 +16,7 @@ When conducting psychology research, it's not uncommon to need to compare differ
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs RRPSPC" title="CES-D vs RRPSPC" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and RRPSPC " url="https://harmonydata.ac.uk/app" >}}
 

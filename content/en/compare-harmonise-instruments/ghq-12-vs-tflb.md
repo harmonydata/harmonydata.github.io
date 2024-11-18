@@ -16,7 +16,7 @@ The process of harmonising research instruments like the General Health Question
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs TFLB" title="GHQ 12 vs TFLB" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and TFLB " url="https://harmonydata.ac.uk/app" >}}
 

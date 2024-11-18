@@ -37,7 +37,7 @@ Harmony is a tool that uses progressive natural language processing and artifici
 This software not only quickens the process but also ensures a higher degree of accuracy than manually comparing the two questionnaires. Hence, using Harmony for the evaluation of PHQ-9 vs MFQ presents clear advantages for psychologists and researchers, saving them from the tedious tasks of manual harmonisation and errors in comparison. Furthermore, Harmony's innovative feature to compare items in multiple languages enhances its usability on a global scale. This feature can prove particularly beneficial while comparing PHQ-9 vs MFQ in non-English speaking populations, hence increasing the scope and validity of studies. All of this can be accomplished within a user-friendly interface where you can easily select instruments from a broad database or upload your own in a PDF format.
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs MFQ" title="PHQ-9 vs MFQ" >}}
 
 
 

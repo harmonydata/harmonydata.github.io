@@ -16,7 +16,7 @@ SDQ vs CBS: Streamlining Questionnaire Comparison Comparing the Strengths and Di
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs CBS" title="SDQ vs CBS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and CBS " url="https://harmonydata.ac.uk/app" >}}
 

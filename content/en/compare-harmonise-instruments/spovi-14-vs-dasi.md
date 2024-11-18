@@ -16,7 +16,7 @@ SPOVI-14 vs DASI: A Comparative Harmonization Comparative psychology research of
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SPOVI-14 vs DASI" title="SPOVI-14 vs DASI" >}}
 
 {{< card heading="Try Harmony" copy="Compare SPOVI-14 and DASI " url="https://harmonydata.ac.uk/app" >}}
 

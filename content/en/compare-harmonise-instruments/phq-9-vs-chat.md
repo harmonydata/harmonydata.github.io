@@ -16,7 +16,7 @@ Psychologists often desire to draw comparisons between different mental health a
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs CHAT" title="PHQ-9 vs CHAT" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and CHAT " url="https://harmonydata.ac.uk/app" >}}
 

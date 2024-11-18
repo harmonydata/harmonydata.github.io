@@ -16,7 +16,7 @@ Interested in comparing the Patient Health Questionnaire (PHQ-9) and the Drinkin
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs DMQ" title="PHQ-9 vs DMQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and DMQ " url="https://harmonydata.ac.uk/app" >}}
 

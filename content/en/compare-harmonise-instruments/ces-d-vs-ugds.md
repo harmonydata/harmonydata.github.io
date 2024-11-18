@@ -16,7 +16,7 @@ The practice of comparing diverse questionnaires, such as CES-D (Center for Epid
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs UGDS" title="CES-D vs UGDS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and UGDS " url="https://harmonydata.ac.uk/app" >}}
 

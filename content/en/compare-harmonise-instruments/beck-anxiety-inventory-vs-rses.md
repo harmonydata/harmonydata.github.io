@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs RSES Comparing the Beck Anxiety Inventory and RSES can
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs RSES" title="Beck Anxiety Inventory vs RSES" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and RSES " url="https://harmonydata.ac.uk/app" >}}
 

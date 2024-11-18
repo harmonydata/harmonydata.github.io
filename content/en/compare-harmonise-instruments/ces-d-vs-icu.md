@@ -16,7 +16,7 @@ Psychologists around the world have often faced hurdles while comparing question
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs ICU" title="CES-D vs ICU" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and ICU " url="https://harmonydata.ac.uk/app" >}}
 

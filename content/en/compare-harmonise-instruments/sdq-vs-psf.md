@@ -16,7 +16,7 @@ Are you trying to compare the Strengths and Difficulties Questionnaire (SDQ) wit
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs PSF" title="SDQ vs PSF" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and PSF " url="https://harmonydata.ac.uk/app" >}}
 

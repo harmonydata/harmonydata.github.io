@@ -16,7 +16,7 @@ When comparing the Strengths and Difficulties Questionnaire (SDQ) and CAGE quest
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs CAGE" title="SDQ vs CAGE" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and CAGE " url="https://harmonydata.ac.uk/app" >}}
 

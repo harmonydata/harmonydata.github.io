@@ -16,7 +16,7 @@ GHQ 12 vs WEMWBS: A Comparative Study The ongoing debate on the most effective p
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs WEMWBS" title="GHQ 12 vs WEMWBS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and WEMWBS " url="https://harmonydata.ac.uk/app" >}}
 

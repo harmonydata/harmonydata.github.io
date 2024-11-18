@@ -16,7 +16,7 @@ SDQ vs CHS: The Perfect Tool for Comparing Questionnaires When psychologists wan
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs CHS" title="SDQ vs CHS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and CHS " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ CES-D vs HAS: A Guide to Comparing Psychological Measures When conducting resear
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs HAS" title="CES-D vs HAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and HAS " url="https://harmonydata.ac.uk/app" >}}
 

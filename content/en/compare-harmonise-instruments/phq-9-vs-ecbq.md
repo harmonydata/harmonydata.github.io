@@ -16,7 +16,7 @@ Psychology and social sciences often require researchers to harmonise questionna
 
 Comparing the nine DSM-IV criteria of PHQ-9, centered around depression, with the behavioural actions surveyed in ECBQ becomes a breeze with Harmony. No matter if the questionnaires are in the same or different languages, as PHQ-9 vs ECBQ, Harmony's deep integration of large language models allows you to receive a percentage match between each item swiftly. Using data gathered from various longitudinal studies becomes more accessible and precise, making consistent results across studies a reality and initiating new explorations into socio-cultural influences on mental health. Harmony's simple and intuitive web interface at https://harmonydata.ac.uk/app makes the process of comparison as effortless as dragging and dropping your instruments in PDF form. The ability to select instruments from Harmony's database or introduce your own opens up boundless opportunities when dealing with PHQ-9 vs ECBQ. Aimed to empower your purposes, Harmony transforms the way comparisons are done, enhancing the pertinence and credibility from your research conclusions. 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs ECBQ" title="PHQ-9 vs ECBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and ECBQ " url="https://harmonydata.ac.uk/app" >}}
 

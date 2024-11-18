@@ -34,7 +34,7 @@ Harmony, designed specifically for psychologists and researchers, emerges as a g
 Harmony is capable of computing a percentage match, thereby quantifying how aligned each item is across the two instruments. Furthermore, Harmony boasts a built-in database loaded with a plethora of instruments, including but not limited to AQ-10 and ADOS, that users can readily access for comparative purposes. The AQ-10 vs ADOS comparison becomes more accessible, precise, and time-efficient with Harmony. Its [multilingual functionality](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/) can be a game-changer for studies involving participants from diverse linguistic backgrounds. Harmony's adeptness at handling various languages broadens the scopes of cross-cultural studies examining autism. Harmony's user-friendly web interface further enhances the overall harmonisation process, encouraging researchers to perform comparative studies more frequently. Looking at AQ-10 vs ADOS, psychologists can undoubtedly benefit from the technological prowess that Harmony provides.
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="AQ-10 vs ADOS" title="AQ-10 vs ADOS" >}}
 
 
 

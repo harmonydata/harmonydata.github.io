@@ -16,7 +16,7 @@ Modern psychology and social science involves extensive use of questionnaires fo
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs SHAPS" title="PHQ-9 vs SHAPS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and SHAPS " url="https://harmonydata.ac.uk/app" >}}
 

@@ -18,7 +18,7 @@ Using Harmony's natural language processing and generative AI models, matching a
 
  You can select SDQ and BIS-11 from Harmony's vast database or simply drag and drop your own PDFs into Harmony's user-friendly web interface. Harmony uses large language models to compare instruments, displaying a percentage match between each item in the SDQ and BIS-11. This makes comparative analysis not only swift but also highly accurate. Consider 'SDQ vs BIS-11' - Harmony not only helps in comparing items in these instruments but it also supports multi-language comparisons. 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs BIS-11" title="SDQ vs BIS-11" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and BIS-11 " url="https://harmonydata.ac.uk/app" >}}
 

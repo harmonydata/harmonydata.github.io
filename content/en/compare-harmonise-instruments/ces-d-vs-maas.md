@@ -16,7 +16,7 @@ Comparing questionnaires often presents a challenge in psychology research, due 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs MAAS" title="CES-D vs MAAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and MAAS " url="https://harmonydata.ac.uk/app" >}}
 

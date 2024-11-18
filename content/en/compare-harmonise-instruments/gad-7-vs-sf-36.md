@@ -29,7 +29,7 @@ Software Comparing the GAD-7 and SF-36 questionnaires can provide powerful insig
 |     8 | If you checked any problems, how difficult have they made it for you to do your work, take care of things at home, or get along with other people? |
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GAD-7 vs SF-36" title="GAD-7 vs SF-36" >}}
 
 {{< card heading="Try Harmony" copy="Compare GAD-7 and SF-36 " url="https://harmonydata.ac.uk/app" >}}
 

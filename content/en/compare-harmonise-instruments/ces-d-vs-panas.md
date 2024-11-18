@@ -16,7 +16,7 @@ When comparing psychological instruments like the Center for Epidemiological Stu
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs PANAS" title="CES-D vs PANAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and PANAS " url="https://harmonydata.ac.uk/app" >}}
 

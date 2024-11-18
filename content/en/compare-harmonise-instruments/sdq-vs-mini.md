@@ -16,7 +16,7 @@ Streamline your research experience with **SDQ vs MINI** comparison, enabled by 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs MINI" title="SDQ vs MINI" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and MINI " url="https://harmonydata.ac.uk/app" >}}
 

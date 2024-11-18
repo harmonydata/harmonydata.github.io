@@ -16,7 +16,7 @@ Harmony's innovative software tool provides an excellent platform to perform com
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs SAM" title="CES-D vs SAM" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and SAM " url="https://harmonydata.ac.uk/app" >}}
 

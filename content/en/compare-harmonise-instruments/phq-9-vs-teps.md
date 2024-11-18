@@ -16,7 +16,7 @@ PHQ-9 vs TEPS Psychologists are often required to carry out detailed examination
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs TEPS" title="PHQ-9 vs TEPS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and TEPS " url="https://harmonydata.ac.uk/app" >}}
 

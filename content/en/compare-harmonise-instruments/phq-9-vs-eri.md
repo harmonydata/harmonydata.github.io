@@ -16,7 +16,7 @@ Software Several psychologists and social scientists often find themselves compa
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs ERI" title="PHQ-9 vs ERI" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and ERI " url="https://harmonydata.ac.uk/app" >}}
 

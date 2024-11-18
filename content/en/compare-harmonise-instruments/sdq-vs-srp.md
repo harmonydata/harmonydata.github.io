@@ -16,7 +16,7 @@ Can Help As psychologists and researchers, the process of comparing and harmonis
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs SRP" title="SDQ vs SRP" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and SRP " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ As researchers and psychologists, comparing mental health assessment tools such 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs SFQ" title="PHQ-9 vs SFQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and SFQ " url="https://harmonydata.ac.uk/app" >}}
 

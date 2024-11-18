@@ -16,7 +16,7 @@ PHQ-9 vs MAST Comparison of questionnaires and screening tools forms an integral
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs MAST" title="PHQ-9 vs MAST" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and MAST " url="https://harmonydata.ac.uk/app" >}}
 

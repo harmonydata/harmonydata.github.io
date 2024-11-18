@@ -16,7 +16,7 @@ Comparing two distinct psychological questionnaires such as the Patient Health Q
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs CEBQ" title="PHQ-9 vs CEBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and CEBQ " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Harmonisation is a crucial process in psychological and social studies, enabling
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs SPPC" title="SDQ vs SPPC" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and SPPC " url="https://harmonydata.ac.uk/app" >}}
 

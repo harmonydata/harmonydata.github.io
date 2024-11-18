@@ -16,7 +16,7 @@ GHQ 12 vs TAS-20 Psychologists and social scientists often find themselves compa
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs TAS-20" title="GHQ 12 vs TAS-20" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and TAS-20 " url="https://harmonydata.ac.uk/app" >}}
 

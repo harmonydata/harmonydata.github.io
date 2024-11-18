@@ -16,7 +16,7 @@ One of the major challenges psychologists face in their research is comparing di
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs EDDS" title="SDQ vs EDDS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and EDDS " url="https://harmonydata.ac.uk/app" >}}
 

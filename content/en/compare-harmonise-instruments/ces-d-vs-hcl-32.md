@@ -10,7 +10,7 @@ Harmony a generative AI tool specifically developed for psychologists and social
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs HCL-32" title="CES-D vs HCL-32" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and HCL-32 " url="https://harmonydata.ac.uk/app" >}}
 

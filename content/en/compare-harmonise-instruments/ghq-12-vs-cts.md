@@ -16,7 +16,7 @@ Harmony, an advanced tool that utilizes natural language processing and generati
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs CTS" title="GHQ 12 vs CTS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and CTS " url="https://harmonydata.ac.uk/app" >}}
 

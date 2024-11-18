@@ -16,7 +16,7 @@ Comparing SDQ (Strengths and Difficulties Questionnaire) with DUDIT (Drug Use Di
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs DUDIT" title="SDQ vs DUDIT" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and DUDIT " url="https://harmonydata.ac.uk/app" >}}
 

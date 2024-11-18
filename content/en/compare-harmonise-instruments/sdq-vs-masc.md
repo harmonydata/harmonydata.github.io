@@ -16,7 +16,7 @@ SDQ vs MASC: An Insightful Comparison for Psychologists As researchers, we often
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs MASC" title="SDQ vs MASC" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and MASC " url="https://harmonydata.ac.uk/app" >}}
 

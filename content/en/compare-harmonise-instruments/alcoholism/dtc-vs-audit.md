@@ -36,7 +36,7 @@ Harmony offers an effortless and comprehensive approach to harmonise and compare
 
 Harmony enables users to upload their questionnaires directly into its web interface, breaking the tedious cycle of manually sorting through PDF files. Moreover, Harmony's aptitude extends beyond just the English language. The software can aptly compare and harmonise questionnaires written in multiple languages. That makes DTC vs AUDIT comparisons across different cultural and social contexts easier than ever. Harmony effectively shreds the barriers of linguistics and introduces a new era in cross-study comparisons. The software is poised to be an invaluable tool for psychologists aspiring to unravel the intricate web of behavioral patterns across various challenges and cultures.
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="DTC vs AUDIT" title="DTC vs AUDIT" >}}
 
 
 

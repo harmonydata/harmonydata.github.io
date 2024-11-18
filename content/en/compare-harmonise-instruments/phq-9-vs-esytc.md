@@ -16,7 +16,7 @@ In the field of psychology, having the ability to make comparisons across variou
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs ESYTC" title="PHQ-9 vs ESYTC" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and ESYTC " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Harmony, an advanced software solution, revolutionizes the way psychologists and
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs TFEQ" title="PHQ-9 vs TFEQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and TFEQ " url="https://harmonydata.ac.uk/app" >}}
 

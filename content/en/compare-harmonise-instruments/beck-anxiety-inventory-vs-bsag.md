@@ -16,7 +16,7 @@ The Beck Anxiety Inventory and Bristol Social Adjustment Guide (BSAG) are two va
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs BSAG" title="Beck Anxiety Inventory vs BSAG" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and BSAG " url="https://harmonydata.ac.uk/app" >}}
 

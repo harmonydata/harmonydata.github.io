@@ -16,7 +16,7 @@ Harmony, an innovative software designed for psychologists and social scientists
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs EDDS" title="CES-D vs EDDS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and EDDS " url="https://harmonydata.ac.uk/app" >}}
 

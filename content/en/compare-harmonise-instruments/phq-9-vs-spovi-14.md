@@ -16,7 +16,7 @@ PHQ-9 vs SPOVI-14 As a psychologist or social scientist, comparing different psy
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs SPOVI-14" title="PHQ-9 vs SPOVI-14" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and SPOVI-14 " url="https://harmonydata.ac.uk/app" >}}
 

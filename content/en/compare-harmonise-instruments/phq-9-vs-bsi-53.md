@@ -16,7 +16,7 @@ PHQ-9 vs BSI-53 In the world of psychology research, comparing different instrum
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs BSI-53" title="PHQ-9 vs BSI-53" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and BSI-53 " url="https://harmonydata.ac.uk/app" >}}
 

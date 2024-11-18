@@ -16,7 +16,7 @@ The task of comparing two distinct psychological questionnaires, PHQ-9 and CII, 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs CII" title="PHQ-9 vs CII" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and CII " url="https://harmonydata.ac.uk/app" >}}
 

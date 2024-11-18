@@ -16,7 +16,7 @@ TFLB vs HCL-16 Psychologists often have to use different instruments, such as th
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="TFLB vs HCL-16" title="TFLB vs HCL-16" >}}
 
 {{< card heading="Try Harmony" copy="Compare TFLB and HCL-16 " url="https://harmonydata.ac.uk/app" >}}
 

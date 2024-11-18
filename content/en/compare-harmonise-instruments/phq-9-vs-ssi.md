@@ -16,7 +16,7 @@ Harmony, a tool designed especially for psychologists and social scientists, sim
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs SSI" title="PHQ-9 vs SSI" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and SSI " url="https://harmonydata.ac.uk/app" >}}
 

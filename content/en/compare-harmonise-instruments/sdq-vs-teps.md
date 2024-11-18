@@ -24,7 +24,7 @@ Perhaps one of the most groundbreaking features of Harmony is its multilingual f
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs TEPS" title="SDQ vs TEPS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and TEPS " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ CES-D vs PIL: A Harmonious Comparison In the world of psychology research, compa
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs PIL" title="CES-D vs PIL" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and PIL " url="https://harmonydata.ac.uk/app" >}}
 

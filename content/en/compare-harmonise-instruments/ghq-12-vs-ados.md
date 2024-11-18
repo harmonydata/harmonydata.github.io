@@ -16,7 +16,7 @@ The comparison between GHQ 12 and ADOS is a prominent topic in psychology resear
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs ADOS" title="GHQ 12 vs ADOS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and ADOS " url="https://harmonydata.ac.uk/app" >}}
 

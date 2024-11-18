@@ -16,7 +16,7 @@ Software Psychologists worldwide often grapple with the intricacy of harmonising
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs ASI" title="PHQ-9 vs ASI" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and ASI " url="https://harmonydata.ac.uk/app" >}}
 

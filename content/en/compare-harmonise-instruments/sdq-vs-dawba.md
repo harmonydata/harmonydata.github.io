@@ -16,7 +16,7 @@ The domain of psychology presents an array of tests and assessments that serve t
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs DAWBA" title="SDQ vs DAWBA" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and DAWBA " url="https://harmonydata.ac.uk/app" >}}
 

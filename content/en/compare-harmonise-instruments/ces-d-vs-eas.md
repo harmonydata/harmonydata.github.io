@@ -16,7 +16,7 @@ The CES-D (Center for Epidemiological Studies-Depression) and the EAS (Emotional
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs EAS" title="CES-D vs EAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and EAS " url="https://harmonydata.ac.uk/app" >}}
 

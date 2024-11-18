@@ -16,7 +16,7 @@ CES-D vs GHQ-28 As a psychologist or a social scientist, you may have faced the 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs GHQ-28" title="CES-D vs GHQ-28" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and GHQ-28 " url="https://harmonydata.ac.uk/app" >}}
 

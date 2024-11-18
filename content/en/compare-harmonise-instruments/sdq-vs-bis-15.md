@@ -16,7 +16,7 @@ In the field of psychology and social science, comparing questionnaires like the
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs BIS-15" title="SDQ vs BIS-15" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and BIS-15 " url="https://harmonydata.ac.uk/app" >}}
 

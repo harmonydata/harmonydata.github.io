@@ -9,7 +9,7 @@ aliases:
 
 As mental health professionals and researchers, finding a useful and efficient footing for questionnaire harmonisation is crucial for accurate, comparative analysis. Harmony, the innovative, AI-powered software, is here to help in navigating this often complex process.
 
-{{< image src="/images/GAD-7-vs-Becks.drawio-min.png" alt="dog" title="dog" >}}
+{{< image src="/images/GAD-7-vs-Becks.drawio-min.png" alt="CES-D vs Beck Anxiety Inventory" title="CES-D vs Beck Anxiety Inventory" >}}
 
 One common comparative analysis that psychologists encounter is comparing data collected with the CES-D vs data collected with the Beck Anxiety Inventory matchup. The CES-D (Center for Epidemiological Studies-Depression) questionnaire measures symptoms linked to depression, whereas the Beck Anxiety Inventory (BAI) zeroes in on anxiety's cognitive and somatic signals. While both instruments address the similar theme of emotional distress, their unique parameters make it challenging to compare without meticulous harmonisation.
 

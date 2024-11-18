@@ -18,7 +18,7 @@ The CES-D scale predominantly focuses on evaluating depressive symptoms in indiv
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs DMQ" title="CES-D vs DMQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and DMQ " url="https://harmonydata.ac.uk/app" >}}
 

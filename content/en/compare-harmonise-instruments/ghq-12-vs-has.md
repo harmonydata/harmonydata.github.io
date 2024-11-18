@@ -16,7 +16,7 @@ Psychologists and social scientists routinely require to harmonise and match ite
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs HAS" title="GHQ 12 vs HAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and HAS " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ CES-D vs CDI: Comparing Depression Assessment Tools When it comes to comparing t
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs CDI" title="CES-D vs CDI" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and CDI " url="https://harmonydata.ac.uk/app" >}}
 

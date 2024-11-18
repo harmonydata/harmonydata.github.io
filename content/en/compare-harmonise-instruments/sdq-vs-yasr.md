@@ -16,7 +16,7 @@ In  psychology research, the ability to perform comparative analyses between dif
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs YASR" title="SDQ vs YASR" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and YASR " url="https://harmonydata.ac.uk/app" >}}
 

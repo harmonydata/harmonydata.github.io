@@ -16,7 +16,7 @@ Conducting a comparison between the Strengths and Difficulties Questionnaire (SD
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs TIPI" title="SDQ vs TIPI" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and TIPI " url="https://harmonydata.ac.uk/app" >}}
 

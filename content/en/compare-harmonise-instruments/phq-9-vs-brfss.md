@@ -16,7 +16,7 @@ Harmony, a powerful tool built for psychologists and social scientists, uses adv
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs BRFSS" title="PHQ-9 vs BRFSS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and BRFSS " url="https://harmonydata.ac.uk/app" >}}
 

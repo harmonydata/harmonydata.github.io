@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs CAPE-42 Comparing psychological tools can often be a d
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs CAPE-42" title="Beck Anxiety Inventory vs CAPE-42" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and CAPE-42 " url="https://harmonydata.ac.uk/app" >}}
 

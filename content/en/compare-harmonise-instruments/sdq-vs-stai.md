@@ -16,7 +16,7 @@ As psychologists, comparing different questionnaires such as the Strengths and D
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs STAI" title="SDQ vs STAI" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and STAI " url="https://harmonydata.ac.uk/app" >}}
 

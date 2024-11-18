@@ -16,7 +16,7 @@ The landscape of psychological and behavioural sciences often requires a compari
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs ADOS" title="SDQ vs ADOS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and ADOS " url="https://harmonydata.ac.uk/app" >}}
 

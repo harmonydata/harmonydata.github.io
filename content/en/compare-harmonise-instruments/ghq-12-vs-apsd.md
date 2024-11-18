@@ -20,7 +20,7 @@ Given the complexities that often emerge when comparing different questionnaires
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs APSD" title="GHQ 12 vs APSD" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and APSD " url="https://harmonydata.ac.uk/app" >}}
 

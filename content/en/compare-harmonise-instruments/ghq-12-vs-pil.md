@@ -16,7 +16,7 @@ Psychologists and social scientists who are comparing the 12-item General Health
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs PIL" title="GHQ 12 vs PIL" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and PIL " url="https://harmonydata.ac.uk/app" >}}
 

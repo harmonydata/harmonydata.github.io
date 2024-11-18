@@ -16,7 +16,7 @@ Psychologists and researchers often grapple with the challenging task of harmoni
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs TSQ" title="CES-D vs TSQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and TSQ " url="https://harmonydata.ac.uk/app" >}}
 

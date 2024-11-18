@@ -16,7 +16,7 @@ When comparing complex psychological instruments like the General Health Questio
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs RSES" title="GHQ 12 vs RSES" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and RSES " url="https://harmonydata.ac.uk/app" >}}
 

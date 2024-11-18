@@ -16,7 +16,7 @@ Harmonising the measurements used in research questionnaires can be a challengin
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs SFQ" title="CES-D vs SFQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and SFQ " url="https://harmonydata.ac.uk/app" >}}
 

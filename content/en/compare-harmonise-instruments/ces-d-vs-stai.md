@@ -16,7 +16,7 @@ The use of psychological instruments such as CES-D (Center for Epidemiological S
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs STAI" title="CES-D vs STAI" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and STAI " url="https://harmonydata.ac.uk/app" >}}
 

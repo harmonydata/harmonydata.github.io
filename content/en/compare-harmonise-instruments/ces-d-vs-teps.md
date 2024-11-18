@@ -16,7 +16,7 @@ CES-D vs TEPS Are you a researcher interested in matching and comparing the item
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs TEPS" title="CES-D vs TEPS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and TEPS " url="https://harmonydata.ac.uk/app" >}}
 

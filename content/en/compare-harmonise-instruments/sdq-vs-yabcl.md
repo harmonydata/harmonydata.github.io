@@ -16,7 +16,7 @@ SDQ vs YABCL: An In-depth Questionnaire Comparison As researchers and psychologi
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs YABCL" title="SDQ vs YABCL" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and YABCL " url="https://harmonydata.ac.uk/app" >}}
 

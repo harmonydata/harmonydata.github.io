@@ -33,7 +33,7 @@ Harmony employs large language models to match items from RAPI and ASSIST, provi
 Hence, for the comparison study of RAPI vs ASSIST, Harmony serves as an ideal tool. In conclusion, for psychologists and social scientists looking to conduct a comparison between RAPI and ASSIST, Harmony is the go-to tool. Its convenience, accuracy, and ease of use make the often tedious task of questionnaire harmonisation simple and efficient. Thus, in the comparison study of RAPI vs ASSIST, Harmony undoubtedly adds significant value, empowering researchers to focus on the analysis and interpretation stages of their work.
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="RAPI vs ASSIST" title="RAPI vs ASSIST" >}}
 
 
 

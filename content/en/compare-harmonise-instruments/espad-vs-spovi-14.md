@@ -16,7 +16,7 @@ Harmony makes the comparison between ESPAD and SPOVI-14 seamless and efficient. 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="ESPAD vs SPOVI-14" title="ESPAD vs SPOVI-14" >}}
 
 {{< card heading="Try Harmony" copy="Compare ESPAD and SPOVI-14 " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ PHQ-9 vs HAS: A Comparative Analysis When comparing two distinct psychological a
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs HAS" title="PHQ-9 vs HAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and HAS " url="https://harmonydata.ac.uk/app" >}}
 

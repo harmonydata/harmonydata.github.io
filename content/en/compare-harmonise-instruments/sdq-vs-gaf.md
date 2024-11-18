@@ -16,7 +16,7 @@ Software When aiming to analyze and understand the behavioural patterns and func
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs GAF" title="SDQ vs GAF" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and GAF " url="https://harmonydata.ac.uk/app" >}}
 

@@ -19,7 +19,7 @@ Harmony enables researchers to conveniently, comprehensively, and accurately com
 
 You also have the option to upload custom tools in PDF form. Merely by dragging and dropping the PDFs into the Harmony's web interface, you can swiftly commence your CES-D vs DSS analysis. By manipulating this highly automated, user-friendly tool, researchers are better equipped to examine consistencies and variations across such psychological studies, creating comparison reports for CES-D vs DSS with a few clicks. We highly recommend trying Harmony for your CES-D vs DSS comparative research. Harmony provides a percentage match between each CES-D and DSS item, effectively cutting down hours of manual harmonisation. Through this innovation, researchers can funnel more of their time on interpreting and using the data, rather than getting caught up in the tedious task of matching items. Capitalise on Harmony for a more productive and efficient CES-D vs DSS comparison and overall research process.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs DSS" title="CES-D vs DSS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and DSS " url="https://harmonydata.ac.uk/app" >}}
 

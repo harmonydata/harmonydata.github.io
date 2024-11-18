@@ -21,7 +21,7 @@ Harmony is an efficient, AI-driven tool that takes the hard work out of comparin
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs MLQ" title="GHQ 12 vs MLQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and MLQ " url="https://harmonydata.ac.uk/app" >}}
 

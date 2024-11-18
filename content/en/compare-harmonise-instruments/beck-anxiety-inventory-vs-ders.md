@@ -22,7 +22,7 @@ Harmony is an AI-powered tool designed to facilitate the harmonisation process. 
 
 Essentially, the application of Harmony to conduct Beck Anxiety Inventory vs DERS assessments means freeing up time for psychologists to do what they do best – analysing data and gaining insights. Using a percentage matching system, Harmony not only eases the comparison process but provides visualisation data to see direct questionnaire correlations. Beck Anxiety Inventory vs DERS doesn’t have to signify a long and tiring comparison process anymore; with Harmony, it symbolises streamlined and efficient assessments.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs DERS" title="Beck Anxiety Inventory vs DERS" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and DERS " url="https://harmonydata.ac.uk/app" >}}
 

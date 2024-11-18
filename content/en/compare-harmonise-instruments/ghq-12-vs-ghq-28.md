@@ -16,7 +16,7 @@ As psychologists, when faced with different versions of questionnaires like GHQ 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs GHQ-28" title="GHQ 12 vs GHQ-28" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and GHQ-28 " url="https://harmonydata.ac.uk/app" >}}
 

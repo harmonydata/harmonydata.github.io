@@ -16,7 +16,7 @@ Can Help When it comes to comparing the Drug, Alcohol, and Self Injury Questionn
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="DASI vs HAS" title="DASI vs HAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare DASI and HAS " url="https://harmonydata.ac.uk/app" >}}
 

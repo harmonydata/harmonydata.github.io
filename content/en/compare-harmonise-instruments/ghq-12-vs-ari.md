@@ -16,7 +16,7 @@ In the field of psychology research, the investigation of psychometric tools, su
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs ARI" title="GHQ 12 vs ARI" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and ARI " url="https://harmonydata.ac.uk/app" >}}
 

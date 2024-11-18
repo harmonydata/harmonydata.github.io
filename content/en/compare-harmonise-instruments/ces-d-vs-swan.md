@@ -26,7 +26,7 @@ Harmonising items within CES-D vs SWAN just became a lot easier and efficient wi
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs SWAN" title="CES-D vs SWAN" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and SWAN " url="https://harmonydata.ac.uk/app" >}}
 

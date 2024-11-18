@@ -16,7 +16,7 @@ Exploring behavioural screening and conflict tactics respectively, the Strengths
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs CTS" title="SDQ vs CTS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and CTS " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ GHQ 12 vs IPIP Comparing two essential psychological questionnaires, GHQ 12 and 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs IPIP" title="GHQ 12 vs IPIP" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and IPIP " url="https://harmonydata.ac.uk/app" >}}
 

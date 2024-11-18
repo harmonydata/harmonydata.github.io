@@ -16,7 +16,7 @@ SDQ vs GRCS If you're looking into comparing the Strengths and Difficulties Ques
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs GRCS" title="SDQ vs GRCS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and GRCS " url="https://harmonydata.ac.uk/app" >}}
 

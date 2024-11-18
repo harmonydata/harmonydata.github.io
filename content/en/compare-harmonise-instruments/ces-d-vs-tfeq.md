@@ -16,7 +16,7 @@ Harmony an innovative tool using natural language processing and AI, offers a co
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs TFEQ" title="CES-D vs TFEQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and TFEQ " url="https://harmonydata.ac.uk/app" >}}
 

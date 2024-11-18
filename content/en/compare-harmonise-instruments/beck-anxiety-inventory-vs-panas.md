@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs PANAS If you're a researcher or psychologist seeking t
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs PANAS" title="Beck Anxiety Inventory vs PANAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and PANAS " url="https://harmonydata.ac.uk/app" >}}
 

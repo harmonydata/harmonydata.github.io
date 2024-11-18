@@ -16,7 +16,7 @@ PHQ-9 vs GSE Comparing measurement scales like the Patient Health Questionnaire 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs GSE" title="PHQ-9 vs GSE" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and GSE " url="https://harmonydata.ac.uk/app" >}}
 

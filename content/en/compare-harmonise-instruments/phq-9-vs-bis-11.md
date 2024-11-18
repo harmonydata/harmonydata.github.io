@@ -16,7 +16,7 @@ PHQ-9 vs BIS-11 Are you a psychologist or social scientist looking to compare th
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs BIS-11" title="PHQ-9 vs BIS-11" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and BIS-11 " url="https://harmonydata.ac.uk/app" >}}
 

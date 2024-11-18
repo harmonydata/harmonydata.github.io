@@ -16,7 +16,7 @@ Comparing the PHQ-9 vs RRPSPC is an imperative psychological process that seeks 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs RRPSPC" title="PHQ-9 vs RRPSPC" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and RRPSPC " url="https://harmonydata.ac.uk/app" >}}
 

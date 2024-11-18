@@ -16,7 +16,7 @@ CES-D vs SWEMWBS: A Comparative Analysis Framework Comparing different psycholog
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs SWEMWBS" title="CES-D vs SWEMWBS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and SWEMWBS " url="https://harmonydata.ac.uk/app" >}}
 

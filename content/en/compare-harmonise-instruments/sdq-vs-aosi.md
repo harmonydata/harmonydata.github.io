@@ -16,7 +16,7 @@ The comparison between the Strengths and Difficulties Questionnaire (SDQ) and Au
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs AOSI" title="SDQ vs AOSI" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and AOSI " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ SDQ vs WEMWBS Comparing mental health screening questionnaires like the Strength
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs WEMWBS" title="SDQ vs WEMWBS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and WEMWBS " url="https://harmonydata.ac.uk/app" >}}
 

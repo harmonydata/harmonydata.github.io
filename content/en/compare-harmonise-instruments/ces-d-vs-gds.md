@@ -16,7 +16,7 @@ CES-D vs GDS Are you a psychologist or a social scientist looking to harmonise i
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs GDS" title="CES-D vs GDS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and GDS " url="https://harmonydata.ac.uk/app" >}}
 

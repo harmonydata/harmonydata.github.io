@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs DAWBA When it comes to comparing the Beck Anxiety Inve
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs DAWBA" title="Beck Anxiety Inventory vs DAWBA" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and DAWBA " url="https://harmonydata.ac.uk/app" >}}
 

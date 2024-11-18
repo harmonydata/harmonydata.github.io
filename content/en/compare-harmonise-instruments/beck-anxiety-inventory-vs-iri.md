@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs IRI Comparing the Beck Anxiety Inventory (BAI) with th
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs IRI" title="Beck Anxiety Inventory vs IRI" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and IRI " url="https://harmonydata.ac.uk/app" >}}
 

@@ -10,7 +10,7 @@ In the ever-evolving field of psychology research, making comparisons between va
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs ERI" title="SDQ vs ERI" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and ERI " url="https://harmonydata.ac.uk/app" >}}
 

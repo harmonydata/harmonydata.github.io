@@ -16,7 +16,7 @@ Simplifies the Comparison When it boils down to comparing GHQ 12 vs BIS-11, it's
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs BIS-11" title="GHQ 12 vs BIS-11" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and BIS-11 " url="https://harmonydata.ac.uk/app" >}}
 

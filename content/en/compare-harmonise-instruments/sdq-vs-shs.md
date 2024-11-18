@@ -16,7 +16,7 @@ When comparing the Strengths and Difficulties Questionnaire (SDQ) and the Subjec
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs SHS" title="SDQ vs SHS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and SHS " url="https://harmonydata.ac.uk/app" >}}
 

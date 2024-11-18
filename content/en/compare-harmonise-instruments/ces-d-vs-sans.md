@@ -16,7 +16,7 @@ Psychologists and researchers often face the challenge of harmonising and compar
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs SANS" title="CES-D vs SANS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and SANS " url="https://harmonydata.ac.uk/app" >}}
 

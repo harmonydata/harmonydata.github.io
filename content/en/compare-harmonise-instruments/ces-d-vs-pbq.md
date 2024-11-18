@@ -16,7 +16,7 @@ Psychology research often necessitates the comparison of varying questionnaires,
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs PBQ" title="CES-D vs PBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and PBQ " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Harmony was developed precisely for scenarios such as the comparison between GHQ
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs IRI" title="GHQ 12 vs IRI" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and IRI " url="https://harmonydata.ac.uk/app" >}}
 

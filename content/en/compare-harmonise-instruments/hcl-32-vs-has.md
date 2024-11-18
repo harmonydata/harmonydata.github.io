@@ -16,7 +16,7 @@ As psychologists and research scientists, we continually grapple with the import
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="HCL-32 vs HAS" title="HCL-32 vs HAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare HCL-32 and HAS " url="https://harmonydata.ac.uk/app" >}}
 

@@ -48,7 +48,7 @@ As an added convenience, Harmony's platform allows researchers to select instrum
 
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GAD-7 vs SCARED (adult)" title="GAD-7 vs SCARED (adult)" >}}
 
 
 

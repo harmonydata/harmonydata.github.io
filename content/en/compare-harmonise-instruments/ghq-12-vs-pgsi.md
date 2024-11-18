@@ -16,7 +16,7 @@ When examining the domains of psychological distress and problem gambling, resea
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs PGSI" title="GHQ 12 vs PGSI" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and PGSI " url="https://harmonydata.ac.uk/app" >}}
 

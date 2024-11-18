@@ -16,7 +16,7 @@ Harmony is an innovative software that simplifies the process of harmonisation f
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs STAI" title="GHQ 12 vs STAI" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and STAI " url="https://harmonydata.ac.uk/app" >}}
 

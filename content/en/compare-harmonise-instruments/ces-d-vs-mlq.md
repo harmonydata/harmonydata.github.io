@@ -9,7 +9,7 @@ date: 2024-12-25
 In social sciences and psychology research, comparison of instruments is a crucial step to arrive at representative and relevant results. Often, researchers are tasked with the harmonisation of questionnaire items which could be time-consuming and subjective. Contrasting varied questionnaires such as CES-D (Center for Epidemiological Studies-Depression) vs MLQ (Meaning in Life Questionnaire) is an exemplary scenario. 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs MLQ" title="CES-D vs MLQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and MLQ " url="https://harmonydata.ac.uk/app" >}}
 

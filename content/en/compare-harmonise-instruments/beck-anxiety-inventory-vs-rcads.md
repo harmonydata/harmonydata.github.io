@@ -34,7 +34,7 @@ Harmony, using its advanced natural language processing and AI models, allows th
 
 For psychologists and researchers who require exhaustive comprehension of assessments like the Beck Anxiety Inventory vs RCADS, Harmony is an invaluable analytical tool. By digitizing the process of juxtaposing and harmonising the distinct aspects of these assessments, Harmony presents a user-friendly solution, helping the researchers to test their hypotheses more accurately and validate their results against a much wider set of comparisons.
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs RCADS" title="Beck Anxiety Inventory vs RCADS" >}}
 
 
 

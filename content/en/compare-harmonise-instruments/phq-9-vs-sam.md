@@ -16,7 +16,7 @@ Evaluating the similarities and differences between the Patient Health Questionn
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs SAM" title="PHQ-9 vs SAM" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and SAM " url="https://harmonydata.ac.uk/app" >}}
 

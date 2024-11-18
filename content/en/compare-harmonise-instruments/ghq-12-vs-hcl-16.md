@@ -26,7 +26,7 @@ Harmony's software is easy to use and efficient. You can select instruments from
 The GHQ 12 vs HCL-16 comparison involves an analysis of psychological distress measures against hypomania evaluation criteria. Today, researchers not only have the ability to conduct this comparison more effectively but also effortlessly through Harmony. In this era of technological advancement and growing research needs, integrating AI-powered tools like Harmony can enable consistent, objective, and quicker analyses, facilitating more accurate cross-study comparisons like GHQ 12 vs HCL-16.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs HCL-16" title="GHQ 12 vs HCL-16" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and HCL-16 " url="https://harmonydata.ac.uk/app" >}}
 

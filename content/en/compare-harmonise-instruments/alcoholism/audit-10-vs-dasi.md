@@ -15,7 +15,7 @@ When comparing two crucial questionnaires in the field of psychology and social 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="AUDIT-10 vs DASI" title="AUDIT-10 vs DASI" >}}
 
 {{< card heading="Try Harmony" copy="Compare AUDIT-10 and DASI " url="https://harmonydata.ac.uk/app" >}}
 

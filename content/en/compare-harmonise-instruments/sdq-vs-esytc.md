@@ -16,7 +16,7 @@ The comparison process between different psychological questionnaires such as th
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs ESYTC" title="SDQ vs ESYTC" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and ESYTC " url="https://harmonydata.ac.uk/app" >}}
 

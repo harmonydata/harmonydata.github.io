@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs IPIP Comparing the Beck Anxiety Inventory (BAI) and th
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs IPIP" title="Beck Anxiety Inventory vs IPIP" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and IPIP " url="https://harmonydata.ac.uk/app" >}}
 

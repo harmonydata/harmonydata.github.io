@@ -16,7 +16,7 @@ A common challenge faced by psychologists and social scientists is the harmonisa
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs BRFSS" title="SDQ vs BRFSS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and BRFSS " url="https://harmonydata.ac.uk/app" >}}
 

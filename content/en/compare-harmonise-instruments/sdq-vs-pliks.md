@@ -16,7 +16,7 @@ SDQ vs PLIKS When it comes to comparing Strengths and Difficulties Questionnaire
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs PLIKS" title="SDQ vs PLIKS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and PLIKS " url="https://harmonydata.ac.uk/app" >}}
 

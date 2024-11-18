@@ -33,7 +33,7 @@ Comparing the [De Jong Gierveld Loneliness](/compare-harmonise-instruments/gad-7
 By using Harmony, researchers can select these instruments from the database or upload their own versions. Harmony is specifically designed to aid in such comparisons by using large language models that provide a percentage match between each item in both scales. Harmony’s ability to compare items in multiple languages adds a valuable layer of potential international research collaboration. The comparison between the De Jong Gierveld Loneliness Scale and SCARED (adult) can thus be conducted in a much simpler, quicker, and more effective manner, reducing the time spent on harmonisation and increasing the time for analysis and interpretation. With Harmony, the comparison of De Jong Gierveld Loneliness Scale vs SCARED (adult) becomes a straightforward process.
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="De Jong Gierveld Loneliness Scale vs SCARED" title="De Jong Gierveld Loneliness Scale vs SCARED" >}}
 
 
 

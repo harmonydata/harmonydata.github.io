@@ -16,7 +16,7 @@ If you are a psychologist or social scientist trying to bridge the gap between t
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs PBQ" title="SDQ vs PBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and PBQ " url="https://harmonydata.ac.uk/app" >}}
 

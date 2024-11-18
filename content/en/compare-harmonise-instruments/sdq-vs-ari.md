@@ -16,7 +16,7 @@ In the field of psychology and behavioural science, comparing different personal
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs ARI" title="SDQ vs ARI" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and ARI " url="https://harmonydata.ac.uk/app" >}}
 

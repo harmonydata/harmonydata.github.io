@@ -15,7 +15,7 @@ aliases:
 
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="ESPAD vs ASSIST" title="ESPAD vs ASSIST" >}}
 
 {{< card heading="Try Harmony" copy="Compare ESPAD and ASSIST " url="https://harmonydata.ac.uk/app" >}}
 

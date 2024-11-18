@@ -16,7 +16,7 @@ As psychologists and researchers explore the intricacies of human behaviour, it 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="DTC vs SPOVI-14" title="DTC vs SPOVI-14" >}}
 
 {{< card heading="Try Harmony" copy="Compare DTC and SPOVI-14 " url="https://harmonydata.ac.uk/app" >}}
 

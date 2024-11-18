@@ -16,7 +16,7 @@ CES-D vs APSD Comparing different psychological tests such as CES-D and APSD oft
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs APSD" title="CES-D vs APSD" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and APSD " url="https://harmonydata.ac.uk/app" >}}
 

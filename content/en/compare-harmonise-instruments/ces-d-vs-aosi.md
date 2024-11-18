@@ -16,7 +16,7 @@ Psychologists, researchers, and social scientists are frequently tasked with the
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs AOSI" title="CES-D vs AOSI" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and AOSI " url="https://harmonydata.ac.uk/app" >}}
 

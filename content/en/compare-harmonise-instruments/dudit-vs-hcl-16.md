@@ -16,7 +16,7 @@ DUDIT vs HCL-16 Researchers, psychologists, and social scientists often grapple 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="DUDIT vs HCL-16" title="DUDIT vs HCL-16" >}}
 
 {{< card heading="Try Harmony" copy="Compare DUDIT and HCL-16 " url="https://harmonydata.ac.uk/app" >}}
 

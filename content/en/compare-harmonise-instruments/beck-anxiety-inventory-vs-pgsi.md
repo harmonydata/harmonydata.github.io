@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs PGSI Comparing the Beck Anxiety Inventory (BAI) and th
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs PGSI" title="Beck Anxiety Inventory vs PGSI" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and PGSI " url="https://harmonydata.ac.uk/app" >}}
 

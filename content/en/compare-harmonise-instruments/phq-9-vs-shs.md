@@ -16,7 +16,7 @@ In  psychology and social sciences, questionnaires like the Patient Health Quest
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs SHS" title="PHQ-9 vs SHS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and SHS " url="https://harmonydata.ac.uk/app" >}}
 

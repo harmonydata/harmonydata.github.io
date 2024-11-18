@@ -16,7 +16,7 @@ CES-D vs RCMAS Comparing the Center for Epidemiological Studies-Depression (CES-
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs RCMAS" title="CES-D vs RCMAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and RCMAS " url="https://harmonydata.ac.uk/app" >}}
 

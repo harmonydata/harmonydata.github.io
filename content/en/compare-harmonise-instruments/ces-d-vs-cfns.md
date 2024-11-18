@@ -16,7 +16,7 @@ Psychologists and social scientists often struggle with the concept of harmonisa
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs CFNS" title="CES-D vs CFNS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and CFNS " url="https://harmonydata.ac.uk/app" >}}
 

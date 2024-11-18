@@ -38,7 +38,7 @@ Harmony simplifies the comparison process by applying advanced AI to evaluate th
 
 If you are a psychologist seeking to compare the Beck Anxiety Inventory and GHQ-28 to gain better insights into anxiety, consider using Harmony. This AI tool can provide a percentage match between the items in multiple languages, making it versatile for multinational studies.
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs GHQ-28" title="Beck Anxiety Inventory vs GHQ-28" >}}
 
 
 

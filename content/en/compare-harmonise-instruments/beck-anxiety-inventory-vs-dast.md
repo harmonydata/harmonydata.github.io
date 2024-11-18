@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs DAST When it comes to comparing two well-known tools u
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs DAST" title="Beck Anxiety Inventory vs DAST" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and DAST " url="https://harmonydata.ac.uk/app" >}}
 

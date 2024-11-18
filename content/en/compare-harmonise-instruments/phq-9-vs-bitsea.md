@@ -16,7 +16,7 @@ PHQ-9 vs BITSEA Understanding the comparability of psychometric tools like PHQ-9
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs BITSEA" title="PHQ-9 vs BITSEA" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and BITSEA " url="https://harmonydata.ac.uk/app" >}}
 

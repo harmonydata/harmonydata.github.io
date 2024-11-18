@@ -16,7 +16,7 @@ GHQ 12 vs PSF Psychologists and social scientists who wish to gain a deeper unde
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs PSF" title="GHQ 12 vs PSF" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and PSF " url="https://harmonydata.ac.uk/app" >}}
 

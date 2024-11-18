@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs DSS Choosing the right psychological instrument for as
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs DSS" title="Beck Anxiety Inventory vs DSS" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and DSS " url="https://harmonydata.ac.uk/app" >}}
 

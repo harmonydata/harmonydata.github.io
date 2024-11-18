@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs EPQ Understanding and evaluating the severity of anxie
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs EPQ" title="Beck Anxiety Inventory vs EPQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and EPQ " url="https://harmonydata.ac.uk/app" >}}
 

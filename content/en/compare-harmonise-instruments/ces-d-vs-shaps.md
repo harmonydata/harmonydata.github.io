@@ -16,7 +16,7 @@ CES-D vs SHAPS Harmonizing psychological questionnaires such as the Center for E
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs SHAPS" title="CES-D vs SHAPS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and SHAPS " url="https://harmonydata.ac.uk/app" >}}
 

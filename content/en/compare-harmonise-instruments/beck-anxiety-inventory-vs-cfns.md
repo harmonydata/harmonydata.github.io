@@ -16,7 +16,7 @@ Software The field of psychology demands constant investigation and comparison o
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs CFNS" title="Beck Anxiety Inventory vs CFNS" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and CFNS " url="https://harmonydata.ac.uk/app" >}}
 

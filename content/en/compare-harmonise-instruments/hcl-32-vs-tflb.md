@@ -16,7 +16,7 @@ HCL-32 vs TFLB When it comes to comparing the Hypomania Checklist-32 (HCL-32) an
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="HCL-32 vs TFLB" title="HCL-32 vs TFLB" >}}
 
 {{< card heading="Try Harmony" copy="Compare HCL-32 and TFLB " url="https://harmonydata.ac.uk/app" >}}
 

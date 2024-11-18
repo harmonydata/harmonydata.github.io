@@ -16,7 +16,7 @@ SDQ vs DERS: A Harmonious Comparison Psychological research often demands detail
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs DERS" title="SDQ vs DERS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and DERS " url="https://harmonydata.ac.uk/app" >}}
 

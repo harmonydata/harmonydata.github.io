@@ -16,7 +16,7 @@ The General Health Questionnaire (GHQ 12) and the Child Eating Behaviour Questio
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs CEBQ" title="GHQ 12 vs CEBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and CEBQ " url="https://harmonydata.ac.uk/app" >}}
 

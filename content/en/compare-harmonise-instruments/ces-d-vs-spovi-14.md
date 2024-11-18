@@ -16,7 +16,7 @@ Software The disciplines of psychology and social sciences often necessitate the
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs SPOVI-14" title="CES-D vs SPOVI-14" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and SPOVI-14 " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Software Clinical psychologists and researchers often encounter the complex task
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs PAS" title="CES-D vs PAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and PAS " url="https://harmonydata.ac.uk/app" >}}
 

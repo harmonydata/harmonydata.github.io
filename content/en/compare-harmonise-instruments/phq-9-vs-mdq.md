@@ -16,7 +16,7 @@ Comparing mental health diagnostic instruments like PHQ-9 and MDQ can be a compl
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs MDQ" title="PHQ-9 vs MDQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and MDQ " url="https://harmonydata.ac.uk/app" >}}
 

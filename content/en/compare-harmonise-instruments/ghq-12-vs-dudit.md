@@ -16,7 +16,7 @@ Psychologists, social scientists, and researchers have always been in need of ef
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs DUDIT" title="GHQ 12 vs DUDIT" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and DUDIT " url="https://harmonydata.ac.uk/app" >}}
 

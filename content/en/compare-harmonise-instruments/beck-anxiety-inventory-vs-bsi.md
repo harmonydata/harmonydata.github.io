@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs BSI Comparing the Beck Anxiety Inventory (BAI) and the
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs BSI" title="Beck Anxiety Inventory vs BSI" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and BSI " url="https://harmonydata.ac.uk/app" >}}
 

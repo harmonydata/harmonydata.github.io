@@ -16,7 +16,7 @@ Harmonizing the data between different questionnaire assessments, such as HCL-32
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="HCL-32 vs DASI" title="HCL-32 vs DASI" >}}
 
 {{< card heading="Try Harmony" copy="Compare HCL-32 and DASI " url="https://harmonydata.ac.uk/app" >}}
 

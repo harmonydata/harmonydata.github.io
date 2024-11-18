@@ -16,7 +16,7 @@ DUDIT vs SPOVI-14: A Harmonious Analysis The research field of psychology has al
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="DUDIT vs SPOVI-14" title="DUDIT vs SPOVI-14" >}}
 
 {{< card heading="Try Harmony" copy="Compare DUDIT and SPOVI-14 " url="https://harmonydata.ac.uk/app" >}}
 

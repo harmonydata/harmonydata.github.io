@@ -16,7 +16,7 @@ In  psychological and social science research, matching and comparing questionna
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs BES" title="CES-D vs BES" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and BES " url="https://harmonydata.ac.uk/app" >}}
 

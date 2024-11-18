@@ -16,7 +16,7 @@ SDQ vs RAPI: A Brief Guide When conducting psychological and behavioural researc
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs RAPI" title="SDQ vs RAPI" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and RAPI " url="https://harmonydata.ac.uk/app" >}}
 

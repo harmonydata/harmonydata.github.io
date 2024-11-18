@@ -16,7 +16,7 @@ The comparison and thorough examination of psychological questionnaires such as 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs GDS" title="PHQ-9 vs GDS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and GDS " url="https://harmonydata.ac.uk/app" >}}
 

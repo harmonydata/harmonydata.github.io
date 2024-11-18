@@ -16,7 +16,7 @@ In the field of psychology research, comparing and harmonising questionnaire ite
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs YASR" title="PHQ-9 vs YASR" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and YASR " url="https://harmonydata.ac.uk/app" >}}
 

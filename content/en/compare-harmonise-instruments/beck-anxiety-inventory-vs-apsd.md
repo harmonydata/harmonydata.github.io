@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs APSD Comparing psychological measurement tools such as
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs APSD" title="Beck Anxiety Inventory vs APSD" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and APSD " url="https://harmonydata.ac.uk/app" >}}
 

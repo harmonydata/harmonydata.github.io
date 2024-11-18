@@ -16,7 +16,7 @@ Psychologists and social scientists are often tasked with the complex process of
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs DAWBA" title="GHQ 12 vs DAWBA" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and DAWBA " url="https://harmonydata.ac.uk/app" >}}
 

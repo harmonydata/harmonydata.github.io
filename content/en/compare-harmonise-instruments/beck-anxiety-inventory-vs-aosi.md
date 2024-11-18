@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs AOSI Times have changed and technology has become more
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs AOSI" title="Beck Anxiety Inventory vs AOSI" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and AOSI " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Harmony, a revolutionary software exclusively designed for psychologists, brings
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs GHQ-12" title="SDQ vs GHQ-12" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and GHQ-12 " url="https://harmonydata.ac.uk/app" >}}
 

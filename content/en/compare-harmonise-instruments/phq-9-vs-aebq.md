@@ -16,7 +16,7 @@ If you are a researcher or psychologist wanting to make comparisons between the 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs AEBQ" title="PHQ-9 vs AEBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and AEBQ " url="https://harmonydata.ac.uk/app" >}}
 

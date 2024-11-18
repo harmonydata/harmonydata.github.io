@@ -16,7 +16,7 @@ Harmony a sophisticated software developed for psychologists, assists in the har
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs FTND" title="PHQ-9 vs FTND" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and FTND " url="https://harmonydata.ac.uk/app" >}}
 

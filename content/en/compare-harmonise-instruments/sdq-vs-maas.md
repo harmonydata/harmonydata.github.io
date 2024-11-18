@@ -16,7 +16,7 @@ Are you a psychologist or social scientist striving to compare and harmonise the
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs MAAS" title="SDQ vs MAAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and MAAS " url="https://harmonydata.ac.uk/app" >}}
 

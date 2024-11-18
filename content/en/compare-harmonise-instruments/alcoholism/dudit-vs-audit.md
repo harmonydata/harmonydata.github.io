@@ -37,7 +37,7 @@ Using natural language processing and generative AI models, Harmony can provide 
 Making use of Harmony for the comparison of DUDIT vs AUDIT presents a clear advantage for psychologists and researchers. It not only simplifies the process, but also offers more accurate and reliable results. Whether you're working with a preexisting database or importing your own study data, Harmony facilitates a smoother, more efficient workflow, taking the hassle out of DUDIT vs AUDIT harmonisation.
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="DUDIT vs AUDIT" title="DUDIT vs AUDIT" >}}
 
 
 

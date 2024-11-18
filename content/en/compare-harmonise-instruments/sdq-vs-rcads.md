@@ -36,7 +36,7 @@ It calculates a percentage match between each item in SDQ and RCADS and also all
 
 Simply select the instruments from Harmony's database or upload your own for an efficient and straightforward comparison process. Visit [Harmony's web interface](https://harmonydata.ac.uk/app) and experience the power of AI in psychology research in the comparative study of SDQ and RCADS.
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs RCADS" title="SDQ vs RCADS" >}}
 
 
 

@@ -16,7 +16,7 @@ CES-D vs PSQ The comparison study of various psychological assessments is paramo
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs PSQ" title="CES-D vs PSQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and PSQ " url="https://harmonydata.ac.uk/app" >}}
 

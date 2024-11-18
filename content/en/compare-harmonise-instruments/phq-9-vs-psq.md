@@ -16,7 +16,7 @@ Psychologists and social scientists often come across the task of comparing diff
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs PSQ" title="PHQ-9 vs PSQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and PSQ " url="https://harmonydata.ac.uk/app" >}}
 

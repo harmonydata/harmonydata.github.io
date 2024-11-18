@@ -35,7 +35,7 @@ Harmony allows researchers to select instruments from its database or upload the
 
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="ADOS vs BAPQ" title="ADOS vs BAPQ" >}}
 
 
 

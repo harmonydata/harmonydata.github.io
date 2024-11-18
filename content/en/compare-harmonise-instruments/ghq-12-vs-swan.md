@@ -16,7 +16,7 @@ GHQ 12 vs SWAN The world of psychology and mental health is ever-evolving, resul
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs SWAN" title="GHQ 12 vs SWAN" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and SWAN " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Harmony software works seamlessly in comparing common psychological items such a
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs PSQ" title="SDQ vs PSQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and PSQ " url="https://harmonydata.ac.uk/app" >}}
 

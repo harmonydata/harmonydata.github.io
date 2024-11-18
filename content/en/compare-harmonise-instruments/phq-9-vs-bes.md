@@ -16,7 +16,7 @@ Psychologists and researchers often face the challenge of comparing different se
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs BES" title="PHQ-9 vs BES" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and BES " url="https://harmonydata.ac.uk/app" >}}
 

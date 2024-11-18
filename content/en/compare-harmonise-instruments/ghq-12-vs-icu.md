@@ -16,7 +16,7 @@ When it comes to comparing psychological assessments, GHQ 12 vs ICU often presen
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs ICU" title="GHQ 12 vs ICU" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and ICU " url="https://harmonydata.ac.uk/app" >}}
 

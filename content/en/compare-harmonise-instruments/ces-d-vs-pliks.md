@@ -16,7 +16,7 @@ Conducting a comparative analysis between different psychological instruments ca
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs PLIKS" title="CES-D vs PLIKS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and PLIKS " url="https://harmonydata.ac.uk/app" >}}
 

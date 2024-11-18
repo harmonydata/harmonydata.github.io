@@ -16,7 +16,7 @@ Comparative analysis of questionnaire items such as those found in the 12-item G
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs UGDS" title="GHQ 12 vs UGDS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and UGDS " url="https://harmonydata.ac.uk/app" >}}
 

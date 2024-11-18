@@ -16,7 +16,7 @@ Harmony emerges as a revolutionary tool, streamlining the tiresome process of qu
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs BSAG" title="SDQ vs BSAG" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and BSAG " url="https://harmonydata.ac.uk/app" >}}
 

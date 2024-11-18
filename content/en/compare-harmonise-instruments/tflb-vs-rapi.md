@@ -16,7 +16,7 @@ TFLB vs RAPI: A Comparative Study Harmonizing questionnaire items can be tedious
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="TFLB vs RAPI" title="TFLB vs RAPI" >}}
 
 {{< card heading="Try Harmony" copy="Compare TFLB and RAPI " url="https://harmonydata.ac.uk/app" >}}
 

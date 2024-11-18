@@ -16,7 +16,7 @@ Psychologists often experiment with different assessment tools such as GHQ 12 an
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs BSAG" title="GHQ 12 vs BSAG" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and BSAG " url="https://harmonydata.ac.uk/app" >}}
 

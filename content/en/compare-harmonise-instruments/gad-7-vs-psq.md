@@ -31,7 +31,7 @@ Psychologists often face the challenge of comparing various instruments or quest
 
  The GAD-7 vs PSQ analysis can become quite tiresome and subjective if done manually. Translation across different languages may present yet another challenge. Harmony leverages natural language processing and AI generative models to compare questionnaires and provide a percentage match, thereby making the GAD-7 vs PSQ comparison much more efficient and objective. It negates the dreaded process of sorting through long PDFs and transferring questions manually to an excel sheet for comparison. 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GAD-7 vs PSQ" title="GAD-7 vs PSQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare GAD-7 and PSQ " url="https://harmonydata.ac.uk/app" >}}
 

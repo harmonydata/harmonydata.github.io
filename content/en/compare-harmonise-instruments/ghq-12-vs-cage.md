@@ -16,7 +16,7 @@ GHQ 12 vs CAGE: A Comparative Evaluation The comparison between GHQ 12 and CAGE 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs CAGE" title="GHQ 12 vs CAGE" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and CAGE " url="https://harmonydata.ac.uk/app" >}}
 

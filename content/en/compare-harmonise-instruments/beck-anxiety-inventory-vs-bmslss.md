@@ -26,7 +26,7 @@ The strategic use of Harmony proves valuable for psychologists seeking a detaile
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs BMSLSS" title="Beck Anxiety Inventory vs BMSLSS" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and BMSLSS " url="https://harmonydata.ac.uk/app" >}}
 

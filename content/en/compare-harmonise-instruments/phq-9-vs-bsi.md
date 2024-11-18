@@ -16,7 +16,7 @@ When conducting psychological and clinical assessments, practitioners often use 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs BSI" title="PHQ-9 vs BSI" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and BSI " url="https://harmonydata.ac.uk/app" >}}
 

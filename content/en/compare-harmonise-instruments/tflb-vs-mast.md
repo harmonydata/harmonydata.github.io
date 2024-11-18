@@ -16,7 +16,7 @@ TFLB vs MAST: A Comparative Analysis When it comes to comparing the Timeline-Fol
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="TFLB vs MAST" title="TFLB vs MAST" >}}
 
 {{< card heading="Try Harmony" copy="Compare TFLB and MAST " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ SDQ vs SPOVI-14 Comparing psychological instruments like the Strengths and Diffi
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs SPOVI-14" title="SDQ vs SPOVI-14" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and SPOVI-14 " url="https://harmonydata.ac.uk/app" >}}
 

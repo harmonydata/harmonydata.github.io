@@ -16,7 +16,7 @@ CES-D vs DEBQ Comparing self-report measures such as the Center for Epidemiologi
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs DEBQ" title="CES-D vs DEBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and DEBQ " url="https://harmonydata.ac.uk/app" >}}
 

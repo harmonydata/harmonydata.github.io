@@ -16,7 +16,7 @@ In the field of psychological and social research, comparing tools like the Gene
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs TIPI" title="GHQ 12 vs TIPI" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and TIPI " url="https://harmonydata.ac.uk/app" >}}
 

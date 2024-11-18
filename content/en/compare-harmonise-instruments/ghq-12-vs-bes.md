@@ -16,7 +16,7 @@ Identifying similarities and discrepancies in measuring psychological distress a
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs BES" title="GHQ 12 vs BES" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and BES " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ For researchers and psychologists working with survey data, comparing items from
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs ESPAD" title="SDQ vs ESPAD" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and ESPAD " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs BIS-11 When it comes to psychological assessments, two
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs BIS-11" title="Beck Anxiety Inventory vs BIS-11" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and BIS-11 " url="https://harmonydata.ac.uk/app" >}}
 

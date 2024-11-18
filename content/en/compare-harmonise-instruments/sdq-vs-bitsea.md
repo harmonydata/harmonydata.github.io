@@ -16,7 +16,7 @@ The process of matching and comparing items between different psychological ques
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs BITSEA" title="SDQ vs BITSEA" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and BITSEA " url="https://harmonydata.ac.uk/app" >}}
 

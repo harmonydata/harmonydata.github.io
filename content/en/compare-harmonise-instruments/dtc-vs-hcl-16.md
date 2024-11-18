@@ -16,7 +16,7 @@ The process of comparing questionnaires like Drinking to Cope (DTC) and Hypomani
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="DTC vs HCL-16" title="DTC vs HCL-16" >}}
 
 {{< card heading="Try Harmony" copy="Compare DTC and HCL-16 " url="https://harmonydata.ac.uk/app" >}}
 

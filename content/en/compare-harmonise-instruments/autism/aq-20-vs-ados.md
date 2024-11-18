@@ -38,7 +38,7 @@ Interested researchers and psychologists can effortlessly use the web interface 
 
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="AQ-20 vs ADOS" title="AQ-20 vs ADOS" >}}
 
 
 

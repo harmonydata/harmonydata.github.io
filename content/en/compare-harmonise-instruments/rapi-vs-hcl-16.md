@@ -16,7 +16,7 @@ The comparison between the Rutgers Alcohol Problem Index (RAPI) and the Hypomani
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="RAPI vs HCL-16" title="RAPI vs HCL-16" >}}
 
 {{< card heading="Try Harmony" copy="Compare RAPI and HCL-16 " url="https://harmonydata.ac.uk/app" >}}
 

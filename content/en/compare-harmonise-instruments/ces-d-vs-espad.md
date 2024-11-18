@@ -16,7 +16,7 @@ In psychology and social sciences, it's essential to compare and contrast differ
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs ESPAD" title="CES-D vs ESPAD" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and ESPAD " url="https://harmonydata.ac.uk/app" >}}
 

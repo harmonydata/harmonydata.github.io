@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs CQSF The task of comparing psychological instruments l
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs CQSF" title="Beck Anxiety Inventory vs CQSF" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and CQSF " url="https://harmonydata.ac.uk/app" >}}
 

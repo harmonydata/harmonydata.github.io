@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs PSD - An In-depth Comparative Analysis A major part of
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs PSD" title="Beck Anxiety Inventory vs PSD" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and PSD " url="https://harmonydata.ac.uk/app" >}}
 

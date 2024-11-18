@@ -23,7 +23,7 @@ With Harmony, comparing GHQ 12 vs SAM becomes a breeze. It cuts through the nois
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs SAM" title="GHQ 12 vs SAM" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and SAM " url="https://harmonydata.ac.uk/app" >}}
 

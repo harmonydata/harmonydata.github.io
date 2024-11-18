@@ -16,7 +16,7 @@ Harmony is an innovative piece of software that can facilitate a comparative ana
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs ARI" title="PHQ-9 vs ARI" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and ARI " url="https://harmonydata.ac.uk/app" >}}
 

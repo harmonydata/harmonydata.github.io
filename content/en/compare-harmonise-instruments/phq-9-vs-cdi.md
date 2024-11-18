@@ -16,7 +16,7 @@ Conducting comparative analysis of psychological questionnaires can often be a d
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs CDI" title="PHQ-9 vs CDI" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and CDI " url="https://harmonydata.ac.uk/app" >}}
 

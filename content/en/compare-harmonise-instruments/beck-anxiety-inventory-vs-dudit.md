@@ -16,7 +16,7 @@ Psychologists and other researchers often grapple with the need to compare diffe
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs DUDIT" title="Beck Anxiety Inventory vs DUDIT" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and DUDIT " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Software When comparing the Strengths and Difficulties Questionnaire (SDQ) and t
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs TSQ" title="SDQ vs TSQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and TSQ " url="https://harmonydata.ac.uk/app" >}}
 

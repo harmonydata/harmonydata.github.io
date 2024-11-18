@@ -16,7 +16,7 @@ Harmonising questionnaire items to compare meaningful data is a common challenge
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs DTC" title="SDQ vs DTC" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and DTC " url="https://harmonydata.ac.uk/app" >}}
 

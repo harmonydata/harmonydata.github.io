@@ -16,7 +16,7 @@ When dealing with the intricate study of human emotions and behaviour, psycholog
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs DAST" title="SDQ vs DAST" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and DAST " url="https://harmonydata.ac.uk/app" >}}
 

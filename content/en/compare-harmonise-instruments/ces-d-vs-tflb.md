@@ -16,7 +16,7 @@ As psychology research becomes more complex, integrating data from different ins
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs TFLB" title="CES-D vs TFLB" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and TFLB " url="https://harmonydata.ac.uk/app" >}}
 

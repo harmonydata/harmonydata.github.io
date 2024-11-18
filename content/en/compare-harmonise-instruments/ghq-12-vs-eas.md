@@ -16,7 +16,7 @@ Harmony's robust toolset makes psychological instrument comparison seamless. A p
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs EAS" title="GHQ 12 vs EAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and EAS " url="https://harmonydata.ac.uk/app" >}}
 

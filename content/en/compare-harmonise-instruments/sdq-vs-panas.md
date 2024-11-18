@@ -16,7 +16,7 @@ SDQ vs PANAS: A Harmonized Approach Comparing psychological questionnaires, spec
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs PANAS" title="SDQ vs PANAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and PANAS " url="https://harmonydata.ac.uk/app" >}}
 

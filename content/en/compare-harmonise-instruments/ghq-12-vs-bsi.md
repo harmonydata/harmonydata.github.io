@@ -16,7 +16,7 @@ Utilizing comprehensive tools for comparative study is vital for psychology rese
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs BSI" title="GHQ 12 vs BSI" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and BSI " url="https://harmonydata.ac.uk/app" >}}
 

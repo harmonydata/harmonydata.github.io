@@ -16,7 +16,7 @@ Harmony is a groundbreaking tool that presents an opportunity for psychologists 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs IPIP" title="CES-D vs IPIP" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and IPIP " url="https://harmonydata.ac.uk/app" >}}
 

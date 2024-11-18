@@ -16,7 +16,7 @@ Harmony provides researchers and psychologists the means to compare questionnair
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs BIS-15" title="CES-D vs BIS-15" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and BIS-15 " url="https://harmonydata.ac.uk/app" >}}
 

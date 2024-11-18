@@ -16,7 +16,7 @@ Conducting academic studies involving psychological questionnaires such as the P
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs PAAS" title="PHQ-9 vs PAAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and PAAS " url="https://harmonydata.ac.uk/app" >}}
 

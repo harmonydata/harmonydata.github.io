@@ -16,7 +16,7 @@ In  behavioural and psychology research, effective tools for assessing, comparin
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs BAQ" title="SDQ vs BAQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and BAQ " url="https://harmonydata.ac.uk/app" >}}
 

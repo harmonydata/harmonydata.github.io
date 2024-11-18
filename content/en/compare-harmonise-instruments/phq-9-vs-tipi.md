@@ -16,7 +16,7 @@ Software In the world of psychology research, the two commonly used instruments 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs TIPI" title="PHQ-9 vs TIPI" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and TIPI " url="https://harmonydata.ac.uk/app" >}}
 

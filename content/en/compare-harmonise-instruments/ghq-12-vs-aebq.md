@@ -16,7 +16,7 @@ In the sphere of psychology research, longitudinal studies often necessitate the
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs AEBQ" title="GHQ 12 vs AEBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and AEBQ " url="https://harmonydata.ac.uk/app" >}}
 

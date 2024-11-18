@@ -39,7 +39,7 @@ Harmony, by employing advanced natural language processing and AI technology, si
 Finding correlations between these two diverse but crucial instruments can provide insightful findings in psychological studies. Harmony significantly reduces the time taken to collate and compare data between SDQ vs PSS-10, allowing for both intra and inter-study comparisons. By using Harmony's user-friendly interface, researchers can either select from a database of pre-existing questionnaires or upload their own instruments for comparison. The system can conveniently handle and process PDF formats, making comparison between complex instruments such as SDQ vs PSS-10 a breeze. More impressively, Harmony boasts multi-language support that expands research possibilities and ensures the software’s utility in a variety of contexts around the globe. Therefore, for seamless, speedy, and accurate harmonisation, Harmony is the tool of choice for psychologists when comparing SDQ vs PSS-10.
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs PSS-10" title="SDQ vs PSS-10" >}}
 
 
 

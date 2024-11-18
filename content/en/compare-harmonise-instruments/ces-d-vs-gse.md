@@ -16,7 +16,7 @@ CES-D vs GSE As mental health researchers, one of the challenging tasks we face 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs GSE" title="CES-D vs GSE" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and GSE " url="https://harmonydata.ac.uk/app" >}}
 

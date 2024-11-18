@@ -16,7 +16,7 @@ Psychologists and social science researchers often have the task of comparing di
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs ARI" title="CES-D vs ARI" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and ARI " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ PHQ-9 vs CAGE: A Harmonized Comparison Make the process of questionnaire harmoni
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs CAGE" title="PHQ-9 vs CAGE" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and CAGE " url="https://harmonydata.ac.uk/app" >}}
 

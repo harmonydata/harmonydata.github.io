@@ -16,7 +16,7 @@ SDQ vs RPQ Understanding the nature of behavioural patterns in young individuals
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs RPQ" title="SDQ vs RPQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and RPQ " url="https://harmonydata.ac.uk/app" >}}
 

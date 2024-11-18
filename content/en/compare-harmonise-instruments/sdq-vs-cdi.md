@@ -18,7 +18,7 @@ When it comes to questionnaires that tackle the emotional and psychological stat
 
 Harmony uses advanced generative AI models and natural language processing to seamlessly harmonise questionnaire items. By entering the term, "SDQ vs CDI" into Harmony, researchers can easily select the relevant instruments from its database or upload their own in PDF form. With the help of large language models, Harmony then gives a percentage match for individual items across both SDQ and CDI, even in multiple languages. This simplifies the comparison process and facilitates a holistic understanding. To wrap up, if you're a psychologist or researcher worried about the complexities of "SDQ vs CDI", your worries end with Harmony. Not only does it streamline the harmonisation process, but it also significantly reduces the subjectivity and time involved in comparing various questionnaire items. Using Harmony is an excellent way to maximize the usefulness of longitudinal studies, allowing for more accurate and timely research outcomes.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs CDI" title="SDQ vs CDI" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and CDI " url="https://harmonydata.ac.uk/app" >}}
 

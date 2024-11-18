@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs GRCS The Beck Anxiety Inventory (BAI) and the Gambling
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs GRCS" title="Beck Anxiety Inventory vs GRCS" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and GRCS " url="https://harmonydata.ac.uk/app" >}}
 

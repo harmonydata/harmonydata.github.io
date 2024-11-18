@@ -16,7 +16,7 @@ Comparative and longitudinal analysis plays a critical role for psychologists an
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs CBS" title="PHQ-9 vs CBS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and CBS " url="https://harmonydata.ac.uk/app" >}}
 

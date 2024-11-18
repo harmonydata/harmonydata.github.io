@@ -16,7 +16,7 @@ PHQ-9 vs PCS When comparing the Patient Health Questionnaire 9-item depression m
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs PCS" title="PHQ-9 vs PCS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and PCS " url="https://harmonydata.ac.uk/app" >}}
 

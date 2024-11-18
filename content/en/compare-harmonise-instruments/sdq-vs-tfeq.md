@@ -16,7 +16,7 @@ Psychologists and social researchers routinely have to draw correlations among v
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs TFEQ" title="SDQ vs TFEQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and TFEQ " url="https://harmonydata.ac.uk/app" >}}
 

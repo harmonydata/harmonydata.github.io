@@ -16,7 +16,7 @@ In the field of psychology and mental health research, two frequently utilized q
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs CAMEEI" title="GHQ 12 vs CAMEEI" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and CAMEEI " url="https://harmonydata.ac.uk/app" >}}
 

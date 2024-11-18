@@ -16,7 +16,7 @@ Harmony offers a streamlined method for psychologists and researchers aiming to 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs FNS" title="SDQ vs FNS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and FNS " url="https://harmonydata.ac.uk/app" >}}
 

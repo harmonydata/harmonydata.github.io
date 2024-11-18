@@ -16,7 +16,7 @@ CES-D vs SHS: A Harmonic Approach The comparison of two commonly used psychometr
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs SHS" title="CES-D vs SHS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and SHS " url="https://harmonydata.ac.uk/app" >}}
 

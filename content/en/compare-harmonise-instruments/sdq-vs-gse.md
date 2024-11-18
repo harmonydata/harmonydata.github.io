@@ -16,7 +16,7 @@ Psychologists and researchers are often faced with the task of comparing instrum
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs GSE" title="SDQ vs GSE" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and GSE " url="https://harmonydata.ac.uk/app" >}}
 

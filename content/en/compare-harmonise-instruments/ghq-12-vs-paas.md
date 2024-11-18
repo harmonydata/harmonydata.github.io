@@ -16,7 +16,7 @@ Comparing the 12-item General Health Questionnaire (GHQ-12) against the Paternal
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs PAAS" title="GHQ 12 vs PAAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and PAAS " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ CES-D vs PSF: Comparing Psychological Tools Made Easy While doing psychology res
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs PSF" title="CES-D vs PSF" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and PSF " url="https://harmonydata.ac.uk/app" >}}
 

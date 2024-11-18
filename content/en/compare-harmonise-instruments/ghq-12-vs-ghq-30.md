@@ -27,7 +27,7 @@ The General Health Questionnaire (GHQ) is a widely utilised measure for detectin
 
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ-12 vs GHQ-30" title="GHQ-12 vs GHQ-30" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ-12 and GHQ-30 " url="https://harmonydata.ac.uk/app" >}}
 

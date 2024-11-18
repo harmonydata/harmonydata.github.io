@@ -16,7 +16,7 @@ Depicting an accurate comparison between the Strengths and Difficulties Question
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs HAS" title="SDQ vs HAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and HAS " url="https://harmonydata.ac.uk/app" >}}
 

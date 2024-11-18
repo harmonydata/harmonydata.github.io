@@ -17,7 +17,7 @@ Comparing two extensive psychological questionnaires like the Hypomania Checklis
  With Harmony, researchers get to leverage the power of natural language processing and generative AI models. This facilitates swift and accurate harmonisation of questionnaire items, across various languages, making HCL-32 vs MAST a less arduous task. These comparisons provide researchers the ability to test whether results are consistent across studies, or if they differ in response to changing social conditions. Harmony allows for the selection of instruments from its database, or lets you input your own in PDF form. 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="HCL-32 vs MAST" title="HCL-32 vs MAST" >}}
 
 {{< card heading="Try Harmony" copy="Compare HCL-32 and MAST " url="https://harmonydata.ac.uk/app" >}}
 

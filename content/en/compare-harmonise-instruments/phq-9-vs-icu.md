@@ -16,7 +16,7 @@ PHQ-9 vs ICU Organizing and understanding the data obtained from patient-specifi
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs ICU" title="PHQ-9 vs ICU" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and ICU " url="https://harmonydata.ac.uk/app" >}}
 

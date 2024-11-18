@@ -16,7 +16,7 @@ The enduring challenge faced by psychologists and social scientists in the harmo
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs PLIKS" title="GHQ 12 vs PLIKS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and PLIKS " url="https://harmonydata.ac.uk/app" >}}
 

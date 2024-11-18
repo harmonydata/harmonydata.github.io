@@ -16,7 +16,7 @@ Software Psychologists and social scientists often find themselves needing to co
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs GHQ-28" title="PHQ-9 vs GHQ-28" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and GHQ-28 " url="https://harmonydata.ac.uk/app" >}}
 

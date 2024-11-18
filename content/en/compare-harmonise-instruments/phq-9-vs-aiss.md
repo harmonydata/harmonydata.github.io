@@ -16,7 +16,7 @@ Psychologists and researchers wishing to make valuable correlations between vari
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs AISS" title="PHQ-9 vs AISS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and AISS " url="https://harmonydata.ac.uk/app" >}}
 

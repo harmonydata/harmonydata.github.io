@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs CEBQ Comparing the Beck Anxiety Inventory and the Chil
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs CEBQ" title="Beck Anxiety Inventory vs CEBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and CEBQ " url="https://harmonydata.ac.uk/app" >}}
 

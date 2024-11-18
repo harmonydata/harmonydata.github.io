@@ -16,7 +16,7 @@ Comparing 'The Strengths and Difficulties Questionnaire' (SDQ) and 'Arnett's Inv
 
 Harmony employs advanced natural language processing and generative AI models to conduct comparative studies of SDQ vs AISS. The tool provides a percentage match between each item in SDQ and AISS making the research process more efficient and less repetitive. This way, psychologists are equipped with a platform for a side-by-side comparison of the two questionnaires. 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs AISS" title="SDQ vs AISS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and AISS " url="https://harmonydata.ac.uk/app" >}}
 

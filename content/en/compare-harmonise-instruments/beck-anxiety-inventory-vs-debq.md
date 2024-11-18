@@ -16,7 +16,7 @@ The debate on the comparative study of mental health instruments: Beck Anxiety I
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs DEBQ" title="Beck Anxiety Inventory vs DEBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and DEBQ " url="https://harmonydata.ac.uk/app" >}}
 

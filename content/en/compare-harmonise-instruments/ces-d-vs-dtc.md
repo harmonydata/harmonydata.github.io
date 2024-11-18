@@ -16,7 +16,7 @@ Comparison of psychological instruments such as CES-D (The Center for Epidemiolo
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs DTC" title="CES-D vs DTC" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and DTC " url="https://harmonydata.ac.uk/app" >}}
 

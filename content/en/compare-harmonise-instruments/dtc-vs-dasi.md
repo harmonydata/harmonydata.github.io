@@ -16,7 +16,7 @@ DTC vs DASI: A Comparative Analysis In the field of psychology, comparing differ
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="DTC vs DASI" title="DTC vs DASI" >}}
 
 {{< card heading="Try Harmony" copy="Compare DTC and DASI " url="https://harmonydata.ac.uk/app" >}}
 

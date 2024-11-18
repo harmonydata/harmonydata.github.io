@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs HRQOL Psychologists and researchers often find difficu
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs HRQOL" title="Beck Anxiety Inventory vs HRQOL" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and HRQOL " url="https://harmonydata.ac.uk/app" >}}
 

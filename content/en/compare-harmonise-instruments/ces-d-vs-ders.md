@@ -16,7 +16,7 @@ Looking for an efficient comparison of CES-D and DERS questionnaire based resear
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs DERS" title="CES-D vs DERS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and DERS " url="https://harmonydata.ac.uk/app" >}}
 

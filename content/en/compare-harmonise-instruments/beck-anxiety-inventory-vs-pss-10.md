@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs PSS-10 When comparing psychological evaluation instrum
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs PSS-10" title="Beck Anxiety Inventory vs PSS-10" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and PSS-10 " url="https://harmonydata.ac.uk/app" >}}
 

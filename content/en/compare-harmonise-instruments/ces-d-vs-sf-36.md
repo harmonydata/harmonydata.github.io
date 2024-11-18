@@ -16,7 +16,7 @@ CES-D vs SF-36 Researchers, psychologists, and social scientists often find them
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs SF-36" title="CES-D vs SF-36" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and SF-36 " url="https://harmonydata.ac.uk/app" >}}
 

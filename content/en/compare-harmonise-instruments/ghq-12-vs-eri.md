@@ -23,7 +23,7 @@ GHQ 12 vs ERI In the world of psychology research and social sciences, the need 
 Harmony is a powerful tool that uses advanced Natural Language Processing and AI models. With it, researchers can perform a harmonisation of items from GHQ 12 and ERI. It can provide a percentage match between each item in GHQ 12 and ERI, simplifying the process significantly. Not only does it eliminate the bias, but it also vastly speeds up the process. You can utilize Harmony's extensive database or simply drag and drop your own instruments into Harmony's intuitive web interface.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs ERI" title="GHQ 12 vs ERI" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and ERI " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ GHQ 12 vs CRISIS Comparing commonly used mental health assessment tools can be a
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs CRISIS" title="GHQ 12 vs CRISIS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and CRISIS " url="https://harmonydata.ac.uk/app" >}}
 

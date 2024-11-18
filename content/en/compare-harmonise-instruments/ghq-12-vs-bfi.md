@@ -16,7 +16,7 @@ GHQ 12 vs BFI Understanding the relationship and overlaps between different psyc
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs BFI" title="GHQ 12 vs BFI" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and BFI " url="https://harmonydata.ac.uk/app" >}}
 

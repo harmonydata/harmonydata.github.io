@@ -16,7 +16,7 @@ In the field of psychology, the process of comparing different questionnaires to
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs TFLB" title="SDQ vs TFLB" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and TFLB " url="https://harmonydata.ac.uk/app" >}}
 

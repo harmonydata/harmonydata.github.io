@@ -16,7 +16,7 @@ Psychologists and social scientists often face the challenging task of comparing
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs BMSLSS" title="CES-D vs BMSLSS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and BMSLSS " url="https://harmonydata.ac.uk/app" >}}
 

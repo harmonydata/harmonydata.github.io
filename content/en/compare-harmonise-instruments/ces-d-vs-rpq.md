@@ -16,7 +16,7 @@ Dealing with and comparing two distinct psychological questionnaires like CES-D 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs RPQ" title="CES-D vs RPQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and RPQ " url="https://harmonydata.ac.uk/app" >}}
 

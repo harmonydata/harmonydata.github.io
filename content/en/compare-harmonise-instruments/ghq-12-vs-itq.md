@@ -16,7 +16,7 @@ GHQ 12 vs ITQ When it comes to psychology research, understanding and comparing 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs ITQ" title="GHQ 12 vs ITQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and ITQ " url="https://harmonydata.ac.uk/app" >}}
 

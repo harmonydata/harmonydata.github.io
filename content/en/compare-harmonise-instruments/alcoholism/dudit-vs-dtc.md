@@ -33,7 +33,7 @@ Using Harmony’s sophisticated natural language processing and generative AI mo
 This aids psychologists in their journey towards drawing meaningful insights and conclusions in their research work. In this digital age, Harmony is a game-changer for psychologists and researchers dealing with questionnaire items comparison like *DUDIT vs DTC*. It not only handles English but also provides the facility for comparing items in multiple languages. With Harmony, researchers can let go of the tedious manual harmonisation process and divert their attention to more critical aspects of their study. Let Harmony guide your comparative study, and see the ease it brings to your research process.
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="DUDIT vs DTC" title="DUDIT vs DTC" >}}
 
 
 

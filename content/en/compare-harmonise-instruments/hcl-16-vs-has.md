@@ -16,7 +16,7 @@ HCL-16 vs HAS: A New Approach to Comparison In the field of psychology, research
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="HCL-16 vs HAS" title="HCL-16 vs HAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare HCL-16 and HAS " url="https://harmonydata.ac.uk/app" >}}
 

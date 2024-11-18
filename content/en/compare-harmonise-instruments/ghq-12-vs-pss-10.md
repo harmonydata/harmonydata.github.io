@@ -36,7 +36,7 @@ Both questionnaires are invaluable in understanding the intricate nature of ment
 Harmony, with its advanced algorithms using natural language processing and generative AI models, can systematically compare GHQ-12 and PSS-10 and provide a percentage match. It simplifies the task of harmonisation, while ensuring an objective analysis. For researchers comparing **GHQ-12 vs PSS-10**, Harmony's functionalities spare them the tedious process of going through long PDFs and manually putting the questions into Excel. Harmony also offers versatility in terms of language. It is an inclusive tool that can compare and harmonise between **GHQ-12 and PSS-10** items in multiple languages. The comparison doesn't stop at GHQ-12 and PSS-10. You can select from Harmony's database or drop your own instruments in a PDF into Harmony's web interface. Thus, Harmony not only offers a solution to your GHQ-12 vs PSS-10 comparison needs but also extends its capabilities to a variety of other tools, making it an indispensable asset for researchers in psychology and social sciences.
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ-12 vs PSS-10" title="GHQ-12 vs PSS-10" >}}
 
 
 

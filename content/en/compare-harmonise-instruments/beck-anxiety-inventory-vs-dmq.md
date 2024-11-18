@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs DMQ In the world of psychological studies, especially 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs DMQ" title="Beck Anxiety Inventory vs DMQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and DMQ " url="https://harmonydata.ac.uk/app" >}}
 

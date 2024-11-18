@@ -16,7 +16,7 @@ When it comes to advancing research in psychology and social sciences, making ac
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs HRQOL" title="CES-D vs HRQOL" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and HRQOL " url="https://harmonydata.ac.uk/app" >}}
 

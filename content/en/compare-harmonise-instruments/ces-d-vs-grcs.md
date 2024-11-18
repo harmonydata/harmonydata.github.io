@@ -16,7 +16,7 @@ CES-D vs GRCS Psychologists and social scientists often find themselves needing 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs GRCS" title="CES-D vs GRCS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and GRCS " url="https://harmonydata.ac.uk/app" >}}
 

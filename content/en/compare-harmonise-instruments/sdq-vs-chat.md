@@ -16,7 +16,7 @@ Harmony, a revolutionary tool developed for psychologists and social scientists,
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs CHAT" title="SDQ vs CHAT" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and CHAT " url="https://harmonydata.ac.uk/app" >}}
 

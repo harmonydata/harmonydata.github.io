@@ -16,7 +16,7 @@ Comparing the Center for Epidemiological Studies-Depression (CES-D) measure with
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs CASI" title="CES-D vs CASI" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and CASI " url="https://harmonydata.ac.uk/app" >}}
 

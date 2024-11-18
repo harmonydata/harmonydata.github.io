@@ -16,7 +16,7 @@ CES-D vs PGSI: A Harmonious Comparison The process of comparing different psycho
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs PGSI" title="CES-D vs PGSI" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and PGSI " url="https://harmonydata.ac.uk/app" >}}
 

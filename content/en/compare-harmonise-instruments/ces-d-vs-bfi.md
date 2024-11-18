@@ -16,7 +16,7 @@ CES-D vs BFI: An Empowered Approach to Specifications Comparison Are you a psych
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs BFI" title="CES-D vs BFI" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and BFI " url="https://harmonydata.ac.uk/app" >}}
 

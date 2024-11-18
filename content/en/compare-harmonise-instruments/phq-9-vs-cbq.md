@@ -16,7 +16,7 @@ For psychologists and social scientists, comparing two different questionnaire i
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs CBQ" title="PHQ-9 vs CBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and CBQ " url="https://harmonydata.ac.uk/app" >}}
 

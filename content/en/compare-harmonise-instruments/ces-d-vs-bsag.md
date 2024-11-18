@@ -16,7 +16,7 @@ The field of psychology often relies on tools like CES-D (Center for Epidemiolog
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs BSAG" title="CES-D vs BSAG" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and BSAG " url="https://harmonydata.ac.uk/app" >}}
 

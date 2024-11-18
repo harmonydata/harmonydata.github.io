@@ -36,7 +36,7 @@ Moreover, Harmony's user-friendly interface allows researchers to simply select 
 
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="AUDIT-10 vs MAST" title="AUDIT-10 vs MAST" >}}
 
 
 

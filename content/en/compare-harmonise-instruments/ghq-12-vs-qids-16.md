@@ -16,7 +16,7 @@ Psychologists and social scientists often face the challenge of harmonising item
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs QIDS-16" title="GHQ 12 vs QIDS-16" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and QIDS-16 " url="https://harmonydata.ac.uk/app" >}}
 

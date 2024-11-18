@@ -33,7 +33,7 @@ Harmony, a sophisticated tool built using natural language processing and genera
 Harmony is a revolutionary tool in the field of psychology specifically and social sciences generally. The platform offers an accessible web interface where researchers can either select CHAT or BAPQ from their existing database or upload their own PDF forms of the instruments for harmonisation. Thus, whenever you are dealing with CHAT vs BAPQ or any other instruments for that matter, you may want to consider using Harmony as your go-to source for simplifying and accelerating your research. Gone are the days of individually sifting through long PDF files for questionnaire items, thanks to Harmony!
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CHAT vs BAPQ" title="CHAT vs BAPQ" >}}
 
 
 

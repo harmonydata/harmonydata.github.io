@@ -16,7 +16,7 @@ PHQ-9 vs EDDS: Harnessing AI for Comparative Analysis Comparative analysis betwe
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs EDDS" title="PHQ-9 vs EDDS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and EDDS " url="https://harmonydata.ac.uk/app" >}}
 

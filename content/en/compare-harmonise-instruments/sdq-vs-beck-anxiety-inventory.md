@@ -11,7 +11,7 @@ When we talk about powerful psychological assessment tools, the Strengths and Di
 
 These tools have provided psychometric insights into the behavioural and emotional states of individuals across the world. However, comparing these two questionnaires, or harmonising their items, can often be an arduous and laborious process.
 
-{{< image src="/images/GAD-7-vs-Becks.drawio-min.png" alt="dog" title="dog" >}}
+{{< image src="/images/GAD-7-vs-Becks.drawio-min.png" alt="SDQ vs Beck Anxiety Inventory" title="SDQ vs Beck Anxiety Inventory" >}}
 
 **Harmony** is a free tool that streamlines not just this SDQ vs Beck Anxiety Inventory challenge but all harmonisation processes in psychology research. Harmony is a software tool that leverages natural language processing and advanced AI models to help psychologists and social scientists harmonise different questionnaire items. 
 

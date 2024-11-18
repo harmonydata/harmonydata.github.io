@@ -16,7 +16,7 @@ CES-D vs SRP When comparing CES-D and SRP, a conventional approach would be time
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs SRP" title="CES-D vs SRP" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and SRP " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ The world of psychology research frequently sees the use of two impactful instru
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs RSES" title="SDQ vs RSES" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and RSES " url="https://harmonydata.ac.uk/app" >}}
 

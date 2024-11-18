@@ -16,7 +16,7 @@ Matching items between psychological instruments, such as 'GHQ 12' and 'CAST', i
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs CAST" title="GHQ 12 vs CAST" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and CAST " url="https://harmonydata.ac.uk/app" >}}
 

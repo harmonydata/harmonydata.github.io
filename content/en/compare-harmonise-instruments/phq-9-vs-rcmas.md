@@ -16,7 +16,7 @@ PHQ-9 vs RCMAS Comparing mental health questionnaires, especially those that ass
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs RCMAS" title="PHQ-9 vs RCMAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and RCMAS " url="https://harmonydata.ac.uk/app" >}}
 

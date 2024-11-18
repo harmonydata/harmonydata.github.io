@@ -16,7 +16,7 @@ CES-D vs CBQ - Instrument Comparison Guide Harmonisation of psychological studie
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs CBQ" title="CES-D vs CBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and CBQ " url="https://harmonydata.ac.uk/app" >}}
 

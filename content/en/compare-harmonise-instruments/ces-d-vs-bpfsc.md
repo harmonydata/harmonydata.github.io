@@ -16,7 +16,7 @@ CES-D vs BPFSC As psychologists, we often encounter the task of comparing and co
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs BPFSC" title="CES-D vs BPFSC" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and BPFSC " url="https://harmonydata.ac.uk/app" >}}
 

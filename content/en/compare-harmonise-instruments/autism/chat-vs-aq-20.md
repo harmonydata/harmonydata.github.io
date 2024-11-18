@@ -34,7 +34,7 @@ In CHAT vs AQ-20 analysis, Harmony goes beyond comparison to dispense value adde
 
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CHAT vs AQ-20" title="CHAT vs AQ-20" >}}
 
 
 

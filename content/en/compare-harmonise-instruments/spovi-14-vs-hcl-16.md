@@ -16,7 +16,7 @@ Whether you are a seasoned psychologist or a start-up researcher, the process of
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SPOVI-14 vs HCL-16" title="SPOVI-14 vs HCL-16" >}}
 
 {{< card heading="Try Harmony" copy="Compare SPOVI-14 and HCL-16 " url="https://harmonydata.ac.uk/app" >}}
 

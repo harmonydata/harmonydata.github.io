@@ -16,7 +16,7 @@ Are you a psychologist working on a research project that requires harmonising C
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs SWLS" title="CES-D vs SWLS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and SWLS " url="https://harmonydata.ac.uk/app" >}}
 

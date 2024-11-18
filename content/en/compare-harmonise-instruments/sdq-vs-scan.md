@@ -16,7 +16,7 @@ In psychology and social research, comparing different questionnaires for harmon
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs SCAN" title="SDQ vs SCAN" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and SCAN " url="https://harmonydata.ac.uk/app" >}}
 

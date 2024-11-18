@@ -16,7 +16,7 @@ GHQ 12 vs SANS: A Comprehensive Comparison The comparison between GHQ 12 and SAN
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs SANS" title="GHQ 12 vs SANS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and SANS " url="https://harmonydata.ac.uk/app" >}}
 

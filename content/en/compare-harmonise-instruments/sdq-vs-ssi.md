@@ -16,7 +16,7 @@ SDQ vs SSI: A Comprehensive Comparison With an increasing focus on mental and ps
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs SSI" title="SDQ vs SSI" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and SSI " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs PAAS Exploring comparative studies is a vital process,
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs PAAS" title="Beck Anxiety Inventory vs PAAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and PAAS " url="https://harmonydata.ac.uk/app" >}}
 

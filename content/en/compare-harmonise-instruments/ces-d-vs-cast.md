@@ -16,7 +16,7 @@ Software Psychologists, therapists, and researchers looking to compare the Cente
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs CAST" title="CES-D vs CAST" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and CAST " url="https://harmonydata.ac.uk/app" >}}
 

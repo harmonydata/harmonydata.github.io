@@ -16,7 +16,7 @@ CES-D vs TIPI Comparing different psychological measures can be a daunting task,
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs TIPI" title="CES-D vs TIPI" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and TIPI " url="https://harmonydata.ac.uk/app" >}}
 

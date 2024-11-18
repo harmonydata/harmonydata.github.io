@@ -16,7 +16,7 @@ As a psychologist or social scientist, if you've ever needed to compare question
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs AEBQ" title="CES-D vs AEBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and AEBQ " url="https://harmonydata.ac.uk/app" >}}
 

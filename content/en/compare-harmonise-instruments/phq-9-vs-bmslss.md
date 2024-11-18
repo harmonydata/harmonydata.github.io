@@ -16,7 +16,7 @@ PHQ-9 vs BMSLSS Comparing measurements from separate scales like PHQ-9 and BMSLS
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs BMSLSS" title="PHQ-9 vs BMSLSS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and BMSLSS " url="https://harmonydata.ac.uk/app" >}}
 

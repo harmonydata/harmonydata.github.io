@@ -16,7 +16,7 @@ Comparative studies often find psychologists wrestling with the task of harmonis
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs BES" title="SDQ vs BES" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and BES " url="https://harmonydata.ac.uk/app" >}}
 

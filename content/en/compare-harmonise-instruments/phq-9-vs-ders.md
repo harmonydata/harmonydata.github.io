@@ -16,7 +16,7 @@ When embarking on the journey of harmonising psychometric instruments, it is ess
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs DERS" title="PHQ-9 vs DERS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and DERS " url="https://harmonydata.ac.uk/app" >}}
 

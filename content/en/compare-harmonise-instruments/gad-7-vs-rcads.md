@@ -50,7 +50,7 @@ This allows researchers to view similarities and differences at a glance, signif
 
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GAD-7 vs RCADS" title="GAD-7 vs RCADS" >}}
 
 
 

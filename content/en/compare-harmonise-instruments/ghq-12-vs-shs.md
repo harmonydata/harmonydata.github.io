@@ -16,7 +16,7 @@ GHQ 12 vs SHS: A Comparative Review Psychologists often face the intricate task 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs SHS" title="GHQ 12 vs SHS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and SHS " url="https://harmonydata.ac.uk/app" >}}
 

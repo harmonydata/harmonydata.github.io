@@ -16,7 +16,7 @@ If you find yourself frequently dealing with psychological questionnaires like t
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs BFI" title="SDQ vs BFI" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and BFI " url="https://harmonydata.ac.uk/app" >}}
 

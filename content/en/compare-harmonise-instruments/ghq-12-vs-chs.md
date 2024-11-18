@@ -16,7 +16,7 @@ The process of matching item similarities between psychological questionnaires h
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs CHS" title="GHQ 12 vs CHS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and CHS " url="https://harmonydata.ac.uk/app" >}}
 

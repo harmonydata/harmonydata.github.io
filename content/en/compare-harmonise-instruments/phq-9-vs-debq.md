@@ -16,7 +16,7 @@ When it comes to similarities and overlaps in questionnaire items, the compariso
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs DEBQ" title="PHQ-9 vs DEBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and DEBQ " url="https://harmonydata.ac.uk/app" >}}
 

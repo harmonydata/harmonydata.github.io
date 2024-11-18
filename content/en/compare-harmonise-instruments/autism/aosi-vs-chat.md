@@ -37,7 +37,7 @@ Harmony can be highly advantageous for researchers wishing to conduct a comparat
 
  Therefore, for researchers interested in an in-depth comparative study of AOSI vs CHAT, Harmony brings an effortless solution to your table. Whether you wish to select instruments from Harmony's expansive database or upload your own PDFs, Harmony makes it all possible through its simple and responsive web interface. When dealing with AOSI vs CHAT, Harmony not only saves your precious time but also negates any subjectivity that could arise from manual comparison. It is undeniably a crucial asset for researchers dealing with AOSI vs CHAT and similar other comparative studies.
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="AOSI vs CHAT" title="AOSI vs CHAT" >}}
 
 
 

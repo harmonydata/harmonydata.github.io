@@ -16,7 +16,7 @@ PHQ-9 vs CSBS: A Comprehensive Comparison Matching items in different questionna
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs CSBS" title="PHQ-9 vs CSBS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and CSBS " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Mental health professionals often grapple with the task of effectively comparing
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs EPDS" title="PHQ-9 vs EPDS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and EPDS " url="https://harmonydata.ac.uk/app" >}}
 

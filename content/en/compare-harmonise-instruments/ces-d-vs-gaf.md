@@ -16,7 +16,7 @@ The complexities in the field of psychology can sometimes present as obstacles f
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs GAF" title="CES-D vs GAF" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and GAF " url="https://harmonydata.ac.uk/app" >}}
 

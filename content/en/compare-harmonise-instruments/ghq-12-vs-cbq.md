@@ -16,7 +16,7 @@ GHQ 12 vs CBQ When comparing the **GHQ 12 vs CBQ**, psychologists and researcher
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs CBQ" title="GHQ 12 vs CBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and CBQ " url="https://harmonydata.ac.uk/app" >}}
 

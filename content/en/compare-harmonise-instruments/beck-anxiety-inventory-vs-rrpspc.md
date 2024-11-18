@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs RRPSPC Researchers frequently need to compare and harm
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs RRPSPC" title="Beck Anxiety Inventory vs RRPSPC" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and RRPSPC " url="https://harmonydata.ac.uk/app" >}}
 

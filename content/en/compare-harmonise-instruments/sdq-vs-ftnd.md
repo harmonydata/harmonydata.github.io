@@ -10,7 +10,7 @@ As a psychologist, comparing different questionnaires such as the Strengths and 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs FTND" title="SDQ vs FTND" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and FTND " url="https://harmonydata.ac.uk/app" >}}
 

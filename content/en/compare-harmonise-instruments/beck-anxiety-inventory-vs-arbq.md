@@ -16,7 +16,7 @@ If you're a psychologist or social scientist looking for a comparative analysis 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs ARBQ" title="Beck Anxiety Inventory vs ARBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and ARBQ " url="https://harmonydata.ac.uk/app" >}}
 

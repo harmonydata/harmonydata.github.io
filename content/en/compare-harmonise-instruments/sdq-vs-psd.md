@@ -16,7 +16,7 @@ The comparison of the Strengths and Difficulties Questionnaire (SDQ) and the Psy
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs PSD" title="SDQ vs PSD" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and PSD " url="https://harmonydata.ac.uk/app" >}}
 

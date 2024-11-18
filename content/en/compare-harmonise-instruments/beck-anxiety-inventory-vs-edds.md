@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs EDDS When researchers aim to undertake a comparative s
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs EDDS" title="Beck Anxiety Inventory vs EDDS" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and EDDS " url="https://harmonydata.ac.uk/app" >}}
 

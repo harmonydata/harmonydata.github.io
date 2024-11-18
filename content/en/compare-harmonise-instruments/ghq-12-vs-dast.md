@@ -16,7 +16,7 @@ Comparing the General Health Questionnaire (GHQ-12) and the Drug Abuse Screening
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs DAST" title="GHQ 12 vs DAST" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and DAST " url="https://harmonydata.ac.uk/app" >}}
 

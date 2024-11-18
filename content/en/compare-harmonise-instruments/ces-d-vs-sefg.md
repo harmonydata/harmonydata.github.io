@@ -23,7 +23,7 @@ In psychological and social science research, it is often necessary to compare d
 Comparison with Harmony's Features Harmony is a versatile tool that can compare CES-D vs SEFG even if they are in different languages—a feature that is particularly useful in diverse and multilingual research contexts. Harmony includes a vast database of instruments, allowing researchers to select them directly or upload their own in PDF format through a straightforward web interface. With these capabilities, researchers can streamline the process of comparing CES-D vs SEFG, saving time and energy that can be dedicated to data analysis and interpretation.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs SEFG" title="CES-D vs SEFG" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and SEFG " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Comparing survey items such as those in CES-D (Center for Epidemiological Studie
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs YASR" title="CES-D vs YASR" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and YASR " url="https://harmonydata.ac.uk/app" >}}
 

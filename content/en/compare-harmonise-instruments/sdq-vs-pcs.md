@@ -16,7 +16,7 @@ Comparing the Strengths and Difficulties Questionnaire (SDQ) and the Peer Confli
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs PCS" title="SDQ vs PCS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and PCS " url="https://harmonydata.ac.uk/app" >}}
 

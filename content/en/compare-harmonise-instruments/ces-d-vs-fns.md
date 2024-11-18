@@ -16,7 +16,7 @@ When conducting psychology research, especially in the fields of child developme
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs FNS" title="CES-D vs FNS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and FNS " url="https://harmonydata.ac.uk/app" >}}
 

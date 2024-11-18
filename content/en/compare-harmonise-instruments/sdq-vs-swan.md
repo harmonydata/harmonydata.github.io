@@ -16,7 +16,7 @@ SDQ vs SWAN When it comes to evaluating behavioural screening questionnaires suc
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs SWAN" title="SDQ vs SWAN" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and SWAN " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Comparing and contrasting two prominent mental health assessment tools, PHQ-9 an
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs DAWBA" title="PHQ-9 vs DAWBA" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and DAWBA " url="https://harmonydata.ac.uk/app" >}}
 

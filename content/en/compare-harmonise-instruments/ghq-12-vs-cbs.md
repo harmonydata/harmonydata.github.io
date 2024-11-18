@@ -18,7 +18,7 @@ The process of comparing the General Health Questionnaire (GHQ 12) and the Child
 
 With Harmony, users can upload their own PDF copy of the GHQ 12 or CBS. GHQ 12 vs CBS comparative analyses are made extremely user-friendly with Harmony's intuitive interface. What's even more impressive is Harmony's multi-language support, allowing for comparisons even across different languages. This broadens the scope for psychologists who are working with diverse linguistic demographics, making it an invaluable tool. In conclusion, when comparing GHQ 12 vs CBS, Harmony offers a seamless, user-friendly and highly accurate solution. Using large language models to calculate the percentage match between items, Harmony provides valuable insights and makes the harmonisation process less arduous. Thus, Harmony emerges as an essential tool for psychologists or any researcher seeking to bridge the gap between GHQ 12 and CBS, despite the considerable differences in their structure and composition.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs CBS" title="GHQ 12 vs CBS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and CBS " url="https://harmonydata.ac.uk/app" >}}
 

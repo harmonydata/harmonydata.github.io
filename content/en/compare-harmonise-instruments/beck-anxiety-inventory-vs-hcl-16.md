@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs HCL-16 When comparing mental health assessment tools, 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs HCL-16" title="Beck Anxiety Inventory vs HCL-16" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and HCL-16 " url="https://harmonydata.ac.uk/app" >}}
 

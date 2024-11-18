@@ -16,7 +16,7 @@ CES-D vs CHAT Comparing questionnaires like the Center for Epidemiological Studi
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs CHAT" title="CES-D vs CHAT" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and CHAT " url="https://harmonydata.ac.uk/app" >}}
 

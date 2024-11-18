@@ -16,7 +16,7 @@ Comparing the Strength and Difficulties Questionnaire (SDQ) with the Child Eatin
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs CEBQ" title="SDQ vs CEBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and CEBQ " url="https://harmonydata.ac.uk/app" >}}
 

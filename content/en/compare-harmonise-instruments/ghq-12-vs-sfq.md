@@ -24,7 +24,7 @@ Harmony's unique feature set makes the comparison of instruments like GHQ 12 and
 Harmony was developed with the understanding that harmonising questionnaire items can be a tedious and subjective process. Therefore, when psychologists are seeking to understand the intricacies of tools like GHQ 12 vs SFQ, it becomes clear that a system like Harmony is a necessity. Enabling more efficient, unbiased, and wide-reaching comparisons across multiple languages, Harmony is set to revolutionise the way psychologists compare and harmonise their questionnaires, especially between instruments like GHQ 12 and SFQ.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs SFQ" title="GHQ 12 vs SFQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and SFQ " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ When working with questionnaires for social or psychology research, often a pivo
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="TFLB vs HAS" title="TFLB vs HAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare TFLB and HAS " url="https://harmonydata.ac.uk/app" >}}
 

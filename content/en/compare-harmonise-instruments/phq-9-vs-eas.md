@@ -16,7 +16,7 @@ Psychologists and research scientists often encounter the laborious task of matc
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs EAS" title="PHQ-9 vs EAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and EAS " url="https://harmonydata.ac.uk/app" >}}
 

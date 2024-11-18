@@ -16,7 +16,7 @@ Psychologists and researchers often confront difficulties in matching and harmon
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs CII" title="GHQ 12 vs CII" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and CII " url="https://harmonydata.ac.uk/app" >}}
 

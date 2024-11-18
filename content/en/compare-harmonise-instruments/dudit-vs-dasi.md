@@ -16,7 +16,7 @@ DUDIT vs DASI: A Comparative Analysis Comparing questionnaires like the Drug Use
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="DUDIT vs DASI" title="DUDIT vs DASI" >}}
 
 {{< card heading="Try Harmony" copy="Compare DUDIT and DASI " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ GHQ 12 vs BSI-53 The comparison between GHQ 12 vs BSI-53 is a relevant subject i
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs BSI-53" title="GHQ 12 vs BSI-53" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and BSI-53 " url="https://harmonydata.ac.uk/app" >}}
 

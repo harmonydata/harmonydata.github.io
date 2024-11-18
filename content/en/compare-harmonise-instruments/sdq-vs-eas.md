@@ -16,7 +16,7 @@ Comparing different sets of questionnaires can often be a challenging task for r
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs EAS" title="SDQ vs EAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and EAS " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Psychologists often grapple with the task of comparing and harmonising different
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs SANS" title="SDQ vs SANS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and SANS " url="https://harmonydata.ac.uk/app" >}}
 

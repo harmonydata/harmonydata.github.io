@@ -16,7 +16,7 @@ Psychologists constantly face the challenge of harmonising different questionnai
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs MDQ" title="GHQ 12 vs MDQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and MDQ " url="https://harmonydata.ac.uk/app" >}}
 

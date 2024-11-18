@@ -16,7 +16,7 @@ SDQ vs IPIP In the field of behavioural science and psychology, comparing differ
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs IPIP" title="SDQ vs IPIP" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and IPIP " url="https://harmonydata.ac.uk/app" >}}
 

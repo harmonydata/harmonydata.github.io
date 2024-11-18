@@ -16,7 +16,7 @@ There are numerous psychological studies over the years that often require the c
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs PCS" title="CES-D vs PCS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and PCS " url="https://harmonydata.ac.uk/app" >}}
 

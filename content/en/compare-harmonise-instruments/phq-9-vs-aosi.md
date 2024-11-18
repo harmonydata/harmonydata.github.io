@@ -16,7 +16,7 @@ PHQ-9 vs AOSI The comparison analysis of the Patient Health Questionnaire (PHQ-9
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs AOSI" title="PHQ-9 vs AOSI" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and AOSI " url="https://harmonydata.ac.uk/app" >}}
 

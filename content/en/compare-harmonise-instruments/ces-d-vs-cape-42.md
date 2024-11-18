@@ -21,7 +21,7 @@ Harmony's innovative software tool, built with natural language processing and g
 Psychologists and social scientists can leverage Harmony to compare CES-D and CAPE-42 efficiently. Harmony’s robust database and AI-powered technology lead to an accurate percentage match between each CES-D and CAPE-42 item, mitigating the need for manual, time-consuming cross-referencing or potential inaccuracies from subjective interpretation. The Harmony tool also allows comparison across varying languages, enhancing its utility in multinational research endeavors. Notably, the CES-D vs CAPE-42 comparison becomes a more attainable and streamlined process with Harmony, therefore enabling researchers to effectively utilize valuable data from different questionnaires.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs CAPE-42" title="CES-D vs CAPE-42" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and CAPE-42 " url="https://harmonydata.ac.uk/app" >}}
 

@@ -17,7 +17,7 @@ Psychologists and social scientists constantly need to compare different questio
 With PHQ-9 vs SRP, Harmony enables researchers to measure and identify any percentage match between the two, effectively enabling comparison. Harmony's database includes a vast array of these instruments, including PHQ-9 and SRP which users can select for comparative analysis. Alternatively, researchers can submit their own questionnaire instruments in PDF format for comparison. PHQ-9 vs SRP is thus no more a tedious task for researchers. Designed to help researchers in investigating longitudinal analysis across a range of studies, Harmony indeed encapsulates the essence of seamless data comparison. Regardless of language barriers, Harmony makes comparison easier and faster, enabling quick evaluation of important subjects such as the PHQ-9 vs SRP. To begin comparing, all you need to do is access the user-friendly Harmony's web interface at https://harmonydata.ac.uk/app.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs SRP" title="PHQ-9 vs SRP" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and SRP " url="https://harmonydata.ac.uk/app" >}}
 

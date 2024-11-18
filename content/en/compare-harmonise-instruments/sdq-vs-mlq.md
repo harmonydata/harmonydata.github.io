@@ -16,7 +16,7 @@ The process of comparing the questions posed by the Strengths and Difficulties Q
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs MLQ" title="SDQ vs MLQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and MLQ " url="https://harmonydata.ac.uk/app" >}}
 

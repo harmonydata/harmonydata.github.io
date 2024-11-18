@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs PBQ Psychologists and social scientists often deal wit
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs PBQ" title="Beck Anxiety Inventory vs PBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and PBQ " url="https://harmonydata.ac.uk/app" >}}
 

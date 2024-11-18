@@ -16,7 +16,7 @@ Harmony, a cutting-edge tool developed specifically for psychologists and social
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs CII" title="SDQ vs CII" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and CII " url="https://harmonydata.ac.uk/app" >}}
 

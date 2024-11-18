@@ -16,7 +16,7 @@ Within the field of psychology and social sciences, comparing different measures
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="DUDIT vs TFLB" title="DUDIT vs TFLB" >}}
 
 {{< card heading="Try Harmony" copy="Compare DUDIT and TFLB " url="https://harmonydata.ac.uk/app" >}}
 

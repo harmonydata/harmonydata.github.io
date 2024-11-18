@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs ICU: A Comparative Examination In the domain of psycho
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs ICU" title="Beck Anxiety Inventory vs ICU" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and ICU " url="https://harmonydata.ac.uk/app" >}}
 

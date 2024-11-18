@@ -16,7 +16,7 @@ SDQ vs BSI: Comparing Psychological Instruments When it comes to comparing diffe
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs BSI" title="SDQ vs BSI" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and BSI " url="https://harmonydata.ac.uk/app" >}}
 

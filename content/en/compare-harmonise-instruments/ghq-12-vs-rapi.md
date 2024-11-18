@@ -18,7 +18,7 @@ Harmony simplifies this process by using natural language processing and generat
 
 Specifically, in the case of GHQ 12 vs RAPI, Harmony can provide a percentage match between each item in both questionnaires. This capability not only streamlines the harmonisation process but also boosts accuracy. Moreover, Harmony also allows you to drag and drop your instruments into its web interface, enhancing its practicality. In summary, Harmony presents a powerful solution for psychologists and researchers working on comparative studies like GHQ 12 vs RAPI. 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs RAPI" title="GHQ 12 vs RAPI" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and RAPI " url="https://harmonydata.ac.uk/app" >}}
 

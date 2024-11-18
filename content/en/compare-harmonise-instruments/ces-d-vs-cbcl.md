@@ -38,7 +38,7 @@ Furthermore, Harmony’s user-friendly web interface allows you to simply drag a
 
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs CBCL" title="CES-D vs CBCL" >}}
 
 
 

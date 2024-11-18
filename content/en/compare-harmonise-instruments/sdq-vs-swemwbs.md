@@ -17,7 +17,7 @@ Studying the interplay between mental health and wellbeing is often approached u
 
 The 'SDQ vs SWEMWBS' comparison shows, using Harmony, how the mental health issues captured in SDQ interlink with the wellness domains laid out in SWEMWBS. It analyses each item in these tools and provides a percentage match which bridges the subjective gap of manual comparison. Harmony revolutionises psychology research by making this comparison process not only accurate but also efficient and time-saving. Titled 'SDQ vs SWEMWBS', this comparative analysis seeks to redefine how psychologists view and use these instruments. The multilingual functionality of Harmony broadens the scope of comparison across different linguistic data, enhancing the cross-cultural relevancy of these tools. Visit Harmony's web interface at [https://harmonydata.ac.uk/app](https://harmonydata.ac.uk/app) to begin your 'SDQ vs SWEMWBS' exploration and delve deeper into the varied dimensions of mental health and wellbeing research.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs SWEMWBS" title="SDQ vs SWEMWBS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and SWEMWBS " url="https://harmonydata.ac.uk/app" >}}
 

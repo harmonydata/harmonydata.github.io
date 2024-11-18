@@ -16,7 +16,7 @@ The comparison between Beck Anxiety Inventory (BAI) and Fagerstrom Test for Nico
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs FTND" title="Beck Anxiety Inventory vs FTND" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and FTND " url="https://harmonydata.ac.uk/app" >}}
 

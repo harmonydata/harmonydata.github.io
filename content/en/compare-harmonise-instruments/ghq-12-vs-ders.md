@@ -16,7 +16,7 @@ Software In the field of psychology, comparing different questionnaires for cros
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs DERS" title="GHQ 12 vs DERS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and DERS " url="https://harmonydata.ac.uk/app" >}}
 

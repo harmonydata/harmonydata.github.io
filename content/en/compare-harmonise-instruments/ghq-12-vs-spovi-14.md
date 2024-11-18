@@ -16,7 +16,7 @@ Psychologists and social science researchers often need to compare different set
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs SPOVI-14" title="GHQ 12 vs SPOVI-14" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and SPOVI-14 " url="https://harmonydata.ac.uk/app" >}}
 

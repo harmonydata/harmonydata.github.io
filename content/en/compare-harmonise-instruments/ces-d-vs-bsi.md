@@ -16,7 +16,7 @@ CES-D vs BSI When it comes to comparing the Center for Epidemiological Studies-D
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs BSI" title="CES-D vs BSI" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and BSI " url="https://harmonydata.ac.uk/app" >}}
 

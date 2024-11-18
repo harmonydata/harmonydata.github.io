@@ -16,7 +16,7 @@ A frequent scenario encountered by psychologists includes the comparison between
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs ECBQ" title="SDQ vs ECBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and ECBQ " url="https://harmonydata.ac.uk/app" >}}
 

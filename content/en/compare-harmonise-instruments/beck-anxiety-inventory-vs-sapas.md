@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs SAPAS: A Harmonization Approach Psychologists and Soci
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs SAPAS" title="Beck Anxiety Inventory vs SAPAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and SAPAS " url="https://harmonydata.ac.uk/app" >}}
 

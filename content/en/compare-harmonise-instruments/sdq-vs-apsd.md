@@ -16,7 +16,7 @@ Harmony is a powerful tool that streamlines the process of comparing measurement
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs APSD" title="SDQ vs APSD" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and APSD " url="https://harmonydata.ac.uk/app" >}}
 

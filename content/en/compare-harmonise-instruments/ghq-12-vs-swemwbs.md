@@ -25,7 +25,7 @@ The task of harmonising data from **GHQ 12 vs SWEMWBS** can be time-consuming an
 In  psychology and social sciences, comparing **GHQ 12 vs SWEMWBS** can provide insightful findings about psychological distress and mental wellbeing. Using Harmony, this comparison becomes less burdensome and more streamlined. The software takes the GHI 12 and SWEMWBS questionnaires and uses its advanced AI algorithms to match items and provide a detailed comparison.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs SWEMWBS" title="GHQ 12 vs SWEMWBS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and SWEMWBS " url="https://harmonydata.ac.uk/app" >}}
 

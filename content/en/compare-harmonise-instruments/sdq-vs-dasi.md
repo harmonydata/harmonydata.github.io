@@ -16,7 +16,7 @@ Software Matching and comparing data across different questionnaires such as the
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs DASI" title="SDQ vs DASI" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and DASI " url="https://harmonydata.ac.uk/app" >}}
 

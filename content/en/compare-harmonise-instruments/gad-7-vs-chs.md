@@ -29,7 +29,7 @@ The comparison of Psychological assessment tools such as GAD-7 and CHS could be 
 |     8 | If you checked any problems, how difficult have they made it for you to do your work, take care of things at home, or get along with other people? |
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GAD-7 vs CHS" title="GAD-7 vs CHS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GAD-7 and CHS " url="https://harmonydata.ac.uk/app" >}}
 

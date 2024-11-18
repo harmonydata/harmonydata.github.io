@@ -34,7 +34,7 @@ If you're planning a **DUDIT vs ASSIST** analysis, we highly recommend giving Ha
 
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="DUDIT vs ASSIST" title="DUDIT vs ASSIST" >}}
 
 
 

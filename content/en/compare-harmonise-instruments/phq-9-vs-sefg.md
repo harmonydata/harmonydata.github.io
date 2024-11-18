@@ -16,7 +16,7 @@ Harmony is a web-based software and Python and R library designed for the harmon
 
 By providing a percentage match between each item in PHQ-9 and SEFG, Harmony provides a detailed and comprehensive comparison for your research needs. Psychologists are encouraged to take advantage of Harmony's user-friendly features and large language models to efficiently compare PHQ-9 vs SEFG. It's as easy as uploading your own instruments in PDF form using their web interface, then let Harmony handle the rest. It's not just about the convenience, the rich database of instruments and comprehensive comparison features elevates the quality of your analysis. PHQ-9 vs SEFG comparison can be a time-consuming task due to differences in language, format, and content structure. Harmony eliminates these barriers, providing a seamless and practical tool for researchers and scientists. In summary, PHQ-9 vs SEFG comparison need not be a painstaking task, not when you have Harmony at your disposal. Tailor research to your needs rather than manual labor, and take the smart route with Harmony.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs SEFG" title="PHQ-9 vs SEFG" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and SEFG " url="https://harmonydata.ac.uk/app" >}}
 

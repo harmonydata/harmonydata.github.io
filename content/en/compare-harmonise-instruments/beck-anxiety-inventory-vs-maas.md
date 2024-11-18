@@ -16,7 +16,7 @@ Comparing and contrasting distinctive psychological inventories such as the Beck
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs MAAS" title="Beck Anxiety Inventory vs MAAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and MAAS " url="https://harmonydata.ac.uk/app" >}}
 

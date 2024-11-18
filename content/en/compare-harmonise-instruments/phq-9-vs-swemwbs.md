@@ -16,7 +16,7 @@ PHQ-9 vs SWEMWBS Psychologists and social scientists frequently work with questi
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs SWEMWBS" title="PHQ-9 vs SWEMWBS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and SWEMWBS " url="https://harmonydata.ac.uk/app" >}}
 

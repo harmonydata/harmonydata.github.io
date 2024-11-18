@@ -16,7 +16,7 @@ The comparison and harmonisation of psychological questionnaires such as the Gen
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs AISS" title="GHQ 12 vs AISS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and AISS " url="https://harmonydata.ac.uk/app" >}}
 

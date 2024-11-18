@@ -16,7 +16,7 @@ The comparison between the General Health Questionnaire (GHQ-12), designed to me
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs DASI" title="GHQ 12 vs DASI" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and DASI " url="https://harmonydata.ac.uk/app" >}}
 

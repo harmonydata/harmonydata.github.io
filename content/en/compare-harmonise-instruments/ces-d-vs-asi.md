@@ -16,7 +16,7 @@ CES-D vs ASI Psychologists and researchers often find themselves comparing diffe
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs ASI" title="CES-D vs ASI" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and ASI " url="https://harmonydata.ac.uk/app" >}}
 

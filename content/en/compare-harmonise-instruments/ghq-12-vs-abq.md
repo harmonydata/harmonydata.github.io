@@ -23,7 +23,7 @@ Unique software such as Harmony has shown great promise in simplifying harmonisa
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs ABQ" title="GHQ 12 vs ABQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and ABQ " url="https://harmonydata.ac.uk/app" >}}
 

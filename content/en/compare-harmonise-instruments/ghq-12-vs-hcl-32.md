@@ -16,7 +16,7 @@ GHQ 12 vs HCL-32 Research in psychology often necessitates the comparison of dif
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs HCL-32" title="GHQ 12 vs HCL-32" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and HCL-32 " url="https://harmonydata.ac.uk/app" >}}
 

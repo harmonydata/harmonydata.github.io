@@ -16,7 +16,7 @@ CES-D vs BIS-11 Have you ever thought of seamlessly comparing the mental health 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs BIS-11" title="CES-D vs BIS-11" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and BIS-11 " url="https://harmonydata.ac.uk/app" >}}
 

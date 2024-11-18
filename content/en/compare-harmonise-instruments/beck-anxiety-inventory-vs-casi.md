@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs CASI The Beck Anxiety Inventory and CASI (Children's A
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs CASI" title="Beck Anxiety Inventory vs CASI" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and CASI " url="https://harmonydata.ac.uk/app" >}}
 

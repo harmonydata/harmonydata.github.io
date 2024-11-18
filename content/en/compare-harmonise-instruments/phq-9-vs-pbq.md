@@ -16,7 +16,7 @@ PHQ-9 vs PBQ Psychologists and researchers often face the challenge of harmonisi
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs PBQ" title="PHQ-9 vs PBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and PBQ " url="https://harmonydata.ac.uk/app" >}}
 

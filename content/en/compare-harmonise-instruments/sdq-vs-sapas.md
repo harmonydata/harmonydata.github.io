@@ -16,7 +16,7 @@ SDQ vs SAPAS In the field of psychology research, the comparison between differe
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs SAPAS" title="SDQ vs SAPAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and SAPAS " url="https://harmonydata.ac.uk/app" >}}
 

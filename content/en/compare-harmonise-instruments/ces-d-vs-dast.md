@@ -16,7 +16,7 @@ In the field of psychological and social research, questionnaires play a signifi
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs DAST" title="CES-D vs DAST" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and DAST " url="https://harmonydata.ac.uk/app" >}}
 

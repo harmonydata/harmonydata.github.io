@@ -16,7 +16,7 @@ This article focuses on conducting a comparison between the Center for Epidemiol
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs BSI-53" title="CES-D vs BSI-53" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and BSI-53 " url="https://harmonydata.ac.uk/app" >}}
 

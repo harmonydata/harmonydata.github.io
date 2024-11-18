@@ -16,7 +16,7 @@ Software Psychologists often face the challenge of comparing and harmonising mul
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs TFLB" title="PHQ-9 vs TFLB" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and TFLB " url="https://harmonydata.ac.uk/app" >}}
 

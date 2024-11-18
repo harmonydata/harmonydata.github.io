@@ -20,7 +20,7 @@ Harmony revolutionizes how SDQ vs ITQ comparisons are made. It uses large langua
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs ITQ" title="SDQ vs ITQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and ITQ " url="https://harmonydata.ac.uk/app" >}}
 

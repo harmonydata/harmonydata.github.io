@@ -16,7 +16,7 @@ Harmony, a powerful software tool for psychologists, provides an efficient solut
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs PGSI" title="PHQ-9 vs PGSI" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and PGSI " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Harmonising questionnaires can shed light on interrelated psychological construc
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs RSES" title="CES-D vs RSES" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and RSES " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ PHQ-9 vs QIDS-16 When comparing the Patient Health Questionnaire (PHQ-9) and the
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs QIDS-16" title="PHQ-9 vs QIDS-16" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and QIDS-16 " url="https://harmonydata.ac.uk/app" >}}
 

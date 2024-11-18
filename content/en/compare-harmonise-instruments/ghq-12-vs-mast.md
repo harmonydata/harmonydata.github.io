@@ -16,7 +16,7 @@ Understanding the similarities and differences between the 12-item General Healt
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs MAST" title="GHQ 12 vs MAST" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and MAST " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ The comparison of psychological measurement tools such as GHQ 12 and PANAS often
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs PANAS" title="GHQ 12 vs PANAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and PANAS " url="https://harmonydata.ac.uk/app" >}}
 

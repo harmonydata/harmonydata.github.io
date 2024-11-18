@@ -16,7 +16,7 @@ The process of comparing important psychological instruments like PHQ-9 and BPI 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs BPI" title="PHQ-9 vs BPI" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and BPI " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ CES-D vs BPI The process of harmonising psychometrically significant questionnai
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs BPI" title="CES-D vs BPI" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and BPI " url="https://harmonydata.ac.uk/app" >}}
 

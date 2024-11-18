@@ -8,7 +8,7 @@ date: 2024-12-06
 
 In psychology research, the comparison of different questionnaires plays a significant role in consistent data interpretation. A prime example is the comparative analysis of GHQ 12 (General Health Questionnaire) and GCOS (General Causality Orientation Scale), two distinct instruments aimed at assessing psychological distress and causality orientations respectively. As evaluating psychological constructs can be quite intricate, using user-friendly software like Harmony can greatly enhance the methodological precision while saving time and effort. 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs GCOS" title="GHQ 12 vs GCOS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and GCOS " url="https://harmonydata.ac.uk/app" >}}
 

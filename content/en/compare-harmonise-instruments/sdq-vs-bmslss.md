@@ -18,7 +18,7 @@ Are you a psychologist or social scientist struggling to compare different quest
 More interestingly, Harmony supports multiple languages, making it more than just a tool for cross-linguistic harmonisation. So, even if you have an SDQ vs BMSLSS comparison task in a language other than English, Harmony has your back. Furthermore, our comprehensive database allows you to not just fetch instruments readily, but also to input your custom tools for a more personalised experience. In conclusion, there's no better way to facilitate harmonisation between SDQ vs BMSLSS than using Harmony. Its optimised feature set, advanced AI capabilities, language support, and customisation options are hard to ignore. So, why not give it a try today and witness how much easier comparing SDQ vs BMSLSS can be?
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs BMSLSS" title="SDQ vs BMSLSS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and BMSLSS " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs EPDS Psychologists and researchers often express a nee
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs EPDS" title="Beck Anxiety Inventory vs EPDS" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and EPDS " url="https://harmonydata.ac.uk/app" >}}
 

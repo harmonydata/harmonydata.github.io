@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs CHS Comparing psychological measurements such as the B
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs CHS" title="Beck Anxiety Inventory vs CHS" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and CHS " url="https://harmonydata.ac.uk/app" >}}
 

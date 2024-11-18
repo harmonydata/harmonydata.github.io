@@ -16,7 +16,7 @@ Psychologists studying patterns of mental health across populations often find t
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs CDI" title="GHQ 12 vs CDI" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and CDI " url="https://harmonydata.ac.uk/app" >}}
 

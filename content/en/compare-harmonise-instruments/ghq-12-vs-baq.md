@@ -10,7 +10,7 @@ Psychologists and researchers frequently confront the challenge of harmonising o
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs BAQ" title="GHQ 12 vs BAQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and BAQ " url="https://harmonydata.ac.uk/app" >}}
 

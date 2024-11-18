@@ -16,7 +16,7 @@ SDQ vs GCOS: Harmonising Psychological Tools When comparing psychological instru
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs GCOS" title="SDQ vs GCOS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and GCOS " url="https://harmonydata.ac.uk/app" >}}
 

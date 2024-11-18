@@ -16,7 +16,7 @@ Researchers in the field of psychology and social sciences often cross match que
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs SAS" title="GHQ 12 vs SAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and SAS " url="https://harmonydata.ac.uk/app" >}}
 

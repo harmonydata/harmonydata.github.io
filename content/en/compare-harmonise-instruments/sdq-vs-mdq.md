@@ -16,7 +16,7 @@ When it comes to comparing psychological assessment tools like the Strengths and
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs MDQ" title="SDQ vs MDQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and MDQ " url="https://harmonydata.ac.uk/app" >}}
 

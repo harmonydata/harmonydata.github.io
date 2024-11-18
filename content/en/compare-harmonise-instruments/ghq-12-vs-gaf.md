@@ -16,7 +16,7 @@ Software Psychologists and researchers often face the challenge of comparing dif
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs GAF" title="GHQ 12 vs GAF" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and GAF " url="https://harmonydata.ac.uk/app" >}}
 

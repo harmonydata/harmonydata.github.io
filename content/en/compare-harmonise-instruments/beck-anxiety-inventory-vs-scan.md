@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs SCAN Comparative research involving different psycholo
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs SCAN" title="Beck Anxiety Inventory vs SCAN" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and SCAN " url="https://harmonydata.ac.uk/app" >}}
 

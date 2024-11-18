@@ -16,7 +16,7 @@ GHQ 12 vs BMSLSS: Harnessing Technology for Easier Comparison When conducting ps
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs BMSLSS" title="GHQ 12 vs BMSLSS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and BMSLSS " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Researchers, clinicians, and psychologists often need to compare different quest
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs TAS-20" title="SDQ vs TAS-20" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and TAS-20 " url="https://harmonydata.ac.uk/app" >}}
 

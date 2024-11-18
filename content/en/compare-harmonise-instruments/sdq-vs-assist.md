@@ -16,7 +16,7 @@ SDQ vs ASSIST When it comes to behavioural analyses, psychologists often utilize
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs ASSIST" title="SDQ vs ASSIST" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and ASSIST " url="https://harmonydata.ac.uk/app" >}}
 

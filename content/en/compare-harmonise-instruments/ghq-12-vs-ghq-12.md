@@ -16,7 +16,7 @@ GHQ 12 vs GHQ-12 The task of comparing psychological questionnaires, such as GHQ
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs GHQ-12" title="GHQ 12 vs GHQ-12" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and GHQ-12 " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ The comparison between two pivotal instruments like the Strengths and Difficulti
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs QIDS-16" title="SDQ vs QIDS-16" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and QIDS-16 " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ In the world of psychology, drawing comparisons and understanding the nuances be
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs RRPSPC" title="SDQ vs RRPSPC" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and RRPSPC " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ SDQ vs SWLS: Harmonizing Psychological Questionnaires The comparison of differen
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs SWLS" title="SDQ vs SWLS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and SWLS " url="https://harmonydata.ac.uk/app" >}}
 

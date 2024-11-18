@@ -16,7 +16,7 @@ When examining child behaviour, two popular scales used by psychologists are the
 
 Harmony helps by giving a percentage match between each item in SDQ and CBQ, providing an objective and quantitative comparison of the questionnaires. This way, researchers can confidently decide on which instrument to use or even compare outputs from the two, thereby facilitating broader longitudinal studies and enabling a deeper understanding of child behaviour trends. Despite the different nature of both scales - with SDQ designed to screen behavioural issues on a broad range while CBQ features more specific behaviour-related questions - Harmony can smooth out these differences and provide meaningful comparisons. In conclusion, if you are grappling with the 'SDQ vs CBQ' dilemma in your research, Harmony is an efficient tool to navigate this challenge. By providing a comparative analysis between each item in the SDQ and CBQ, Harmony makes it possible to analyze and use different instruments seamlessly. A tool that is quick, efficient, and user-friendly, Harmony changes the game in the world of child behaviour research. Try Harmony today, and make your 'SDQ vs CBQ' comparison a smooth and efficient process.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs CBQ" title="SDQ vs CBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and CBQ " url="https://harmonydata.ac.uk/app" >}}
 

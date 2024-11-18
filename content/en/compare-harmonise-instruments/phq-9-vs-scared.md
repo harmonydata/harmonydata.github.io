@@ -26,7 +26,7 @@ Harmony has the ability not only to compare standardised questionnaires like the
 
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs SCARED (adult)" title="PHQ-9 vs SCARED (adult)" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and SCARED (adult) " url="https://harmonydata.ac.uk/app" >}}
 

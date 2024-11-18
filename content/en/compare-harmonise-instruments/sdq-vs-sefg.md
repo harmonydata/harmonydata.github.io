@@ -16,7 +16,7 @@ SDQ vs SEFG For psychologists and researchers studying child well-being and scho
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs SEFG" title="SDQ vs SEFG" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and SEFG " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ In the field of psychology and social science, comparative studies of surveys su
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs ABQ" title="CES-D vs ABQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and ABQ " url="https://harmonydata.ac.uk/app" >}}
 

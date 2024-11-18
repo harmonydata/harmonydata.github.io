@@ -16,7 +16,7 @@ Software for Efficient Comparison Psychologists and social scientists are often 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs CSBS" title="SDQ vs CSBS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and CSBS " url="https://harmonydata.ac.uk/app" >}}
 

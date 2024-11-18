@@ -16,7 +16,7 @@ Harmony software, developed explicitly for psychologists and social scientists, 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs ABQ" title="PHQ-9 vs ABQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and ABQ " url="https://harmonydata.ac.uk/app" >}}
 

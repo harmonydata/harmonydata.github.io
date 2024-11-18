@@ -42,7 +42,7 @@ This can be extremely beneficial in establishing a correlation between the quest
 
 Given the diverse nature of these questionnaires, comparing AOSI vs BAPQ can pose significant challenges. Harmony simplifies this task by leveraging large language models that can even handle multiple languages. Its robust database allows for an easy comparison of a variety of instruments, both within and across different cohort and longitudinal studies. So if you’re looking to deepen your insights into autism research, consider using Harmony for comparing AOSI vs BAPQ and make your research more efficient and comprehensive.
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="AOSI vs BAPQ" title="AOSI vs BAPQ" >}}
 
 
 

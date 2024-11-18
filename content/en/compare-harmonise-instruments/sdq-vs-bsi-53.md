@@ -16,7 +16,7 @@ When it comes to the robust comparison of psychological questionnaires, SDQ vs B
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs BSI-53" title="SDQ vs BSI-53" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and BSI-53 " url="https://harmonydata.ac.uk/app" >}}
 

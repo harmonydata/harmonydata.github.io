@@ -16,7 +16,7 @@ CES-D vs BRFSS: A Comparative Analysis When conducting psychological and medical
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs BRFSS" title="CES-D vs BRFSS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and BRFSS " url="https://harmonydata.ac.uk/app" >}}
 

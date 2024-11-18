@@ -16,7 +16,7 @@ As psychologists, we routinely conduct comparative analyses between different qu
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs RPQ" title="PHQ-9 vs RPQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and RPQ " url="https://harmonydata.ac.uk/app" >}}
 

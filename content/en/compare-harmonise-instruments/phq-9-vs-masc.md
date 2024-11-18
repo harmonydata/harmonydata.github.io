@@ -9,7 +9,7 @@ date: 2024-12-13
 The process of comparing different psychological questionnaires, like PHQ-9 (Patient Health Questionnaire) and MASC (Multidimensional Anxiety Scale for Children), can often be a challenging one. Psychologists and researchers can see the importance of harmonising these instruments to make valuable longitudinal analyses and build comprehensive conclusions about mental health indicators. The software solution "Harmony" makes this comparison easier, more effective, and less time-consuming. Combined with advanced natural language processing and AI models, it is possible to harmonise and compare the PHQ-9 vs MASC and effectively study their similarities, differences, and interrelationships.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs MASC" title="PHQ-9 vs MASC" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and MASC " url="https://harmonydata.ac.uk/app" >}}
 

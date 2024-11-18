@@ -16,7 +16,7 @@ The process of conducting comparative studies between different instruments such
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs CAGE" title="CES-D vs CAGE" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and CAGE " url="https://harmonydata.ac.uk/app" >}}
 

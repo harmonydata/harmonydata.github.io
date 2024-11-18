@@ -16,7 +16,7 @@ RAPI vs SPOVI-14 Researchers and psychologists often find the need to compare si
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="RAPI vs SPOVI-14" title="RAPI vs SPOVI-14" >}}
 
 {{< card heading="Try Harmony" copy="Compare RAPI and SPOVI-14 " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Comparative analysis of different psychological and clinical tools like "Center 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs ESYTC" title="CES-D vs ESYTC" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and ESYTC " url="https://harmonydata.ac.uk/app" >}}
 

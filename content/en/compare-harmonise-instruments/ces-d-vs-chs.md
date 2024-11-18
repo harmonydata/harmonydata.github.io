@@ -16,7 +16,7 @@ Software Harmonising questionnaire instruments is a crucial step in social scien
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs CHS" title="CES-D vs CHS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and CHS " url="https://harmonydata.ac.uk/app" >}}
 

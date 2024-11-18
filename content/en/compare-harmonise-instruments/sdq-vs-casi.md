@@ -16,7 +16,7 @@ Comparing questionnaires, such as the Strengths and Difficulties Questionnaire (
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs CASI" title="SDQ vs CASI" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and CASI " url="https://harmonydata.ac.uk/app" >}}
 

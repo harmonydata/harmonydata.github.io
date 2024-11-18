@@ -16,7 +16,7 @@ Psychology researchers regularly find themselves needing to draw comparisons bet
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs FNS" title="GHQ 12 vs FNS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and FNS " url="https://harmonydata.ac.uk/app" >}}
 

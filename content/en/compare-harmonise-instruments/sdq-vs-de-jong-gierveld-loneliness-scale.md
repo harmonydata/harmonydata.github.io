@@ -10,7 +10,7 @@ aliases:
 Comparing different instruments used in psychology research can often seem like an overwhelming task due to their varying item structures and contexts. One such example includes the comparison between the Strengths and Difficulties Questionnaire (SDQ) and the De Jong Gierveld Loneliness Scale.
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs De Jong Gierveld Loneliness Scale" title="SDQ vs De Jong Gierveld Loneliness Scale" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and De Jong Gierveld Loneliness Scale " url="https://harmonydata.ac.uk/app" >}}
 

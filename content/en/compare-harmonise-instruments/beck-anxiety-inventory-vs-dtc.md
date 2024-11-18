@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs DTC Comparing questionnaires like the Beck Anxiety Inv
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs DTC" title="Beck Anxiety Inventory vs DTC" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and DTC " url="https://harmonydata.ac.uk/app" >}}
 

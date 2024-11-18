@@ -16,7 +16,7 @@ Comparing psychological questionnaires such as GHQ 12 and CFNS can be a daunting
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs CFNS" title="GHQ 12 vs CFNS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and CFNS " url="https://harmonydata.ac.uk/app" >}}
 

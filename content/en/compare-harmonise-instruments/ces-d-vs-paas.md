@@ -16,7 +16,7 @@ Comparing two psychological measures like CES-D (Center for Epidemiological Stud
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs PAAS" title="CES-D vs PAAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and PAAS " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ PHQ-9 vs SWAN Psychologists and researchers often confront the challenge of comp
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs SWAN" title="PHQ-9 vs SWAN" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and SWAN " url="https://harmonydata.ac.uk/app" >}}
 

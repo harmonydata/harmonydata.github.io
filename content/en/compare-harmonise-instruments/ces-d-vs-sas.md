@@ -16,7 +16,7 @@ CES-D vs SAS: A Comparative Analytical Approach In the world of psychological an
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs SAS" title="CES-D vs SAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and SAS " url="https://harmonydata.ac.uk/app" >}}
 

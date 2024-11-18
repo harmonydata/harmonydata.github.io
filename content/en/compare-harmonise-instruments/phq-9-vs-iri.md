@@ -16,7 +16,7 @@ PHQ-9 vs IRI Psychologists and social scientists often find themselves needing t
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs IRI" title="PHQ-9 vs IRI" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and IRI " url="https://harmonydata.ac.uk/app" >}}
 

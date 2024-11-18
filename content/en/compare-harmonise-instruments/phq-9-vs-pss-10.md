@@ -38,7 +38,7 @@ Harmony is a software designed specifically to aid psychologists and researchers
 It has a multi-language capability, making it a versatile tool for international studies. The process of using Harmony is seamless and user-friendly. All it requires is to select your instruments from its extensive database or directly drag and drop your own devices in PDF format unto its web interface. So, for any study involving the PHQ-9 vs PSS-10, Harmony is the perfect tool for you. By making comparisons easier and more efficient, taking advantage of this tool will significantly enhance the quality and validity of your study results.
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs PSS-10" title="PHQ-9 vs PSS-10" >}}
 
 
 

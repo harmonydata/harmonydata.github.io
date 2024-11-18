@@ -16,7 +16,7 @@ Navigating the field of psychology often involves the complex task of comparing 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs CAPE-42" title="SDQ vs CAPE-42" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and CAPE-42 " url="https://harmonydata.ac.uk/app" >}}
 

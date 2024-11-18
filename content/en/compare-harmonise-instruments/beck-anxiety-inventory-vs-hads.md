@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs HADS When comparing two widely used assessments like t
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs HADS" title="Beck Anxiety Inventory vs HADS" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and HADS " url="https://harmonydata.ac.uk/app" >}}
 

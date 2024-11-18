@@ -16,7 +16,7 @@ Psychologists and social scientists constantly deal with the task of harmonising
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs RSES" title="PHQ-9 vs RSES" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and RSES " url="https://harmonydata.ac.uk/app" >}}
 

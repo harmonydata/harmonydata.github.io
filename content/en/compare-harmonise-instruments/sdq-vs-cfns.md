@@ -16,7 +16,7 @@ Software SDQ versus CFNS: a complex comparison that can pose significant challen
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs CFNS" title="SDQ vs CFNS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and CFNS " url="https://harmonydata.ac.uk/app" >}}
 

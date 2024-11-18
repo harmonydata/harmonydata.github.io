@@ -16,7 +16,7 @@ DTC vs ASSIST: A Study through Harmonization The field of psychology research of
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="DTC vs ASSIST" title="DTC vs ASSIST" >}}
 
 {{< card heading="Try Harmony" copy="Compare DTC and ASSIST " url="https://harmonydata.ac.uk/app" >}}
 

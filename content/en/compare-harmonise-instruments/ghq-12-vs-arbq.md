@@ -16,7 +16,7 @@ GHQ 12 vs ARBQ: A Comparative Analysis The General Health Questionnaire (GHQ-12)
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs ARBQ" title="GHQ 12 vs ARBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and ARBQ " url="https://harmonydata.ac.uk/app" >}}
 

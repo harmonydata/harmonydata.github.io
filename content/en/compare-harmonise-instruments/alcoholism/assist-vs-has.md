@@ -15,7 +15,7 @@ The comparison process between Alcohol, Smoking, and Substance Involvement Scree
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="ASSIST vs HAS" title="ASSIST vs HAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare ASSIST and HAS " url="https://harmonydata.ac.uk/app" >}}
 

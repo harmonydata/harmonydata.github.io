@@ -16,7 +16,7 @@ Software Comparing the questionnaires of studies such as PHQ-9 and MLQ demands a
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs MLQ" title="PHQ-9 vs MLQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and MLQ " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ SDQ vs BPFSC Psychological evaluation is a critical process, hence the pressing 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs BPFSC" title="SDQ vs BPFSC" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and BPFSC " url="https://harmonydata.ac.uk/app" >}}
 

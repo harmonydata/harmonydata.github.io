@@ -16,7 +16,7 @@ SPOVI-14 vs ASSIST: Harmonising and Comparing Psychological Questionnaires Are y
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SPOVI-14 vs ASSIST" title="SPOVI-14 vs ASSIST" >}}
 
 {{< card heading="Try Harmony" copy="Compare SPOVI-14 and ASSIST " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Software Psychologists often have the daunting task of comparing and matching it
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs CAPE-42" title="GHQ 12 vs CAPE-42" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and CAPE-42 " url="https://harmonydata.ac.uk/app" >}}
 

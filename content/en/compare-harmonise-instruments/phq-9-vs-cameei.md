@@ -16,7 +16,7 @@ PHQ-9 vs CAMEEI: A Harmonious Comparison When it comes to the assessment and stu
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs CAMEEI" title="PHQ-9 vs CAMEEI" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and CAMEEI " url="https://harmonydata.ac.uk/app" >}}
 

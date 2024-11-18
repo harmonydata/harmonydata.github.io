@@ -16,7 +16,7 @@ Software The comparison between the General Health Questionnaire (GHQ 12) and Dr
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs DMQ" title="GHQ 12 vs DMQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and DMQ " url="https://harmonydata.ac.uk/app" >}}
 

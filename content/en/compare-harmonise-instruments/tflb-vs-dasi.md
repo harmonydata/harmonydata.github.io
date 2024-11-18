@@ -16,7 +16,7 @@ TFLB vs DASI: A Comparative Analysis The comparison between the Timeline-Followb
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="TFLB vs DASI" title="TFLB vs DASI" >}}
 
 {{< card heading="Try Harmony" copy="Compare TFLB and DASI " url="https://harmonydata.ac.uk/app" >}}
 

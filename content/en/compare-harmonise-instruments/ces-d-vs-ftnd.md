@@ -16,7 +16,7 @@ The comparative analysis of two significant tools in psychology research, CES-D 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs FTND" title="CES-D vs FTND" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and FTND " url="https://harmonydata.ac.uk/app" >}}
 

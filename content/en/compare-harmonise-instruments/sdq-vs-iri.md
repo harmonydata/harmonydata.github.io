@@ -16,7 +16,7 @@ In psychology and social sciences, the comparison of scales like the SDQ (Streng
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs IRI" title="SDQ vs IRI" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and IRI " url="https://harmonydata.ac.uk/app" >}}
 

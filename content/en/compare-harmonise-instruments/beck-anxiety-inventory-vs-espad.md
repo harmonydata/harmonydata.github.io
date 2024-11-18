@@ -16,7 +16,7 @@ In psychology research, a common necessity is the harmonisation of different que
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs ESPAD" title="Beck Anxiety Inventory vs ESPAD" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and ESPAD " url="https://harmonydata.ac.uk/app" >}}
 

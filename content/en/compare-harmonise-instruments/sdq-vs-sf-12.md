@@ -16,7 +16,7 @@ Running a correlation between two different sets of questionnaires can be a comp
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs SF-12" title="SDQ vs SF-12" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and SF-12 " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ PHQ-9 vs RAPI Comparing behavioural and psychological scales such as ***PHQ-9 vs
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs RAPI" title="PHQ-9 vs RAPI" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and RAPI " url="https://harmonydata.ac.uk/app" >}}
 

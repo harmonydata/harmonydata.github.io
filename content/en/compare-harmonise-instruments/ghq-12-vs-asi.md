@@ -16,7 +16,7 @@ Psychological research involves ample measures to ensure data reliability and va
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs ASI" title="GHQ 12 vs ASI" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and ASI " url="https://harmonydata.ac.uk/app" >}}
 

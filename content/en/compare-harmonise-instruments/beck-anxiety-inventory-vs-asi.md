@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs ASI Comparing different psychological questionnaires c
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs ASI" title="Beck Anxiety Inventory vs ASI" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and ASI " url="https://harmonydata.ac.uk/app" >}}
 

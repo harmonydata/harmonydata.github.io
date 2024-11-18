@@ -16,7 +16,7 @@ Are you a psychologist or social scientist trying to conduct a comparative analy
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="DTC vs HAS" title="DTC vs HAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare DTC and HAS " url="https://harmonydata.ac.uk/app" >}}
 

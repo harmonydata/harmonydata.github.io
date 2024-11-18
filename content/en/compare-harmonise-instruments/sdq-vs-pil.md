@@ -10,7 +10,7 @@ When confronted with the task of harmonising the Strengths and Difficulties Ques
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs PIL" title="SDQ vs PIL" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and PIL " url="https://harmonydata.ac.uk/app" >}}
 

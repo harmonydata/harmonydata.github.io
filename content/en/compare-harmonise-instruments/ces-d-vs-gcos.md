@@ -16,7 +16,7 @@ Software Harnessing advanced language processing and generative AI, Harmony Soft
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs GCOS" title="CES-D vs GCOS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and GCOS " url="https://harmonydata.ac.uk/app" >}}
 

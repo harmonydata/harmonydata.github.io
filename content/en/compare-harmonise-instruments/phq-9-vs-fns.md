@@ -16,7 +16,7 @@ When it comes to comparing the PHQ-9 vs FNS, Harmony provides an unparalleled to
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs FNS" title="PHQ-9 vs FNS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and FNS " url="https://harmonydata.ac.uk/app" >}}
 

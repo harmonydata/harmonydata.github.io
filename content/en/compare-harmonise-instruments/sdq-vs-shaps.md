@@ -16,7 +16,7 @@ SDQ vs SHAPS The field of psychology often requires a comparison of different in
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs SHAPS" title="SDQ vs SHAPS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and SHAPS " url="https://harmonydata.ac.uk/app" >}}
 

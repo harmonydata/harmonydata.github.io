@@ -16,7 +16,7 @@ When it comes to comparing questionnaire items from GHQ 12 and ECBQ, it can prov
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs ECBQ" title="GHQ 12 vs ECBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and ECBQ " url="https://harmonydata.ac.uk/app" >}}
 

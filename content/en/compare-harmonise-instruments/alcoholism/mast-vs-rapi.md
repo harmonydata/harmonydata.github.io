@@ -36,7 +36,7 @@ Harmony allows researchers to select instruments for comparison or upload their 
 
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="MAST vs RAPI" title="MAST vs RAPI" >}}
 
 
 

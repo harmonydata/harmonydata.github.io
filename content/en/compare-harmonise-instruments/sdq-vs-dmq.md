@@ -23,7 +23,7 @@ Harmony provides an user-friendly interface, where you can drag and drop the PDF
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs DMQ" title="SDQ vs DMQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and DMQ " url="https://harmonydata.ac.uk/app" >}}
 

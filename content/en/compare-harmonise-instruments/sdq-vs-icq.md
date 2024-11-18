@@ -16,7 +16,7 @@ When addressing behavioural and mood concerns in children, two questionnaires be
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs ICQ" title="SDQ vs ICQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and ICQ " url="https://harmonydata.ac.uk/app" >}}
 

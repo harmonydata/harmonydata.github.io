@@ -16,7 +16,7 @@ GHQ 12 vs SEFG In the field of psychology and social science research, the need 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs SEFG" title="GHQ 12 vs SEFG" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and SEFG " url="https://harmonydata.ac.uk/app" >}}
 

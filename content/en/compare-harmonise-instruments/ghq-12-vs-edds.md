@@ -16,7 +16,7 @@ GHQ 12 vs EDDS: A Harmonious Comparison When it comes to harmonising psychologic
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs EDDS" title="GHQ 12 vs EDDS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and EDDS " url="https://harmonydata.ac.uk/app" >}}
 

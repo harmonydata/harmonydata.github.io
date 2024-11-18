@@ -16,7 +16,7 @@ Choosing the right psychological measure can be a complex task, often involving 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs IRI" title="CES-D vs IRI" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and IRI " url="https://harmonydata.ac.uk/app" >}}
 

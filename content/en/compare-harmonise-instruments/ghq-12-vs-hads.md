@@ -16,7 +16,7 @@ GHQ 12 vs HADS Comparing and harmonising the General Health Questionnaire (GHQ 1
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs HADS" title="GHQ 12 vs HADS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and HADS " url="https://harmonydata.ac.uk/app" >}}
 

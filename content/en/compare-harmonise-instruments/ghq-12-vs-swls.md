@@ -16,7 +16,7 @@ GHQ 12 vs SWLS When it comes to comparing the General Health Questionnaire (GHQ 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs SWLS" title="GHQ 12 vs SWLS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and SWLS " url="https://harmonydata.ac.uk/app" >}}
 

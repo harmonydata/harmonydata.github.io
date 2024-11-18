@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs CBQ The comparison of psychological evaluation tools s
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs CBQ" title="Beck Anxiety Inventory vs CBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and CBQ " url="https://harmonydata.ac.uk/app" >}}
 

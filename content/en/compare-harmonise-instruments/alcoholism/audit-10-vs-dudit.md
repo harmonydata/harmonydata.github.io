@@ -36,7 +36,7 @@ By using Harmony in the comparison of AUDIT-10 vs DUDIT, researchers can leverag
 
 By using Harmony, researchers can ensure that the comparison of these two widely used assessment instruments is both accurate and efficient, thus enhancing the quality and reliability of their study outcomes. With its cutting-edge technology, Harmony is paving the way for more robust and comprehensive research in psychology and social sciences.
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="AUDIT-10 vs DUDIT" title="AUDIT-10 vs DUDIT" >}}
 
 
 

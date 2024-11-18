@@ -9,7 +9,7 @@ date: 2024-12-06
 Harmony is an exceptional tool for psychologists and researchers who aim to draw longitudinal and cross-study analysis from the abundant mental health and behavioural data that they have. Specifically, this powerful software lends its hand in comparing different psychiatric assessment tools, including the popular Patient Health Questionnaire (PHQ-9) and Young Adult Behaviour Checklist (YABCL). Understanding the correlation between the items in these two instruments is crucial for obtaining a comprehensive picture of a patient's mental status.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs YABCL" title="PHQ-9 vs YABCL" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and YABCL " url="https://harmonydata.ac.uk/app" >}}
 

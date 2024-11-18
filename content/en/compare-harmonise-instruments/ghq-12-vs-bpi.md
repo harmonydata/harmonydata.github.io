@@ -16,7 +16,7 @@ Harmonising psychological questionnaires like GHQ 12 and BPI becomes a breeze wi
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs BPI" title="GHQ 12 vs BPI" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and BPI " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ When comparing psychological questionnaires such as the Center for Epidemiologic
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs DUDIT" title="CES-D vs DUDIT" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and DUDIT " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Psychologists and social scientists frequently undertake a task known as harmoni
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs PAS" title="SDQ vs PAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and PAS " url="https://harmonydata.ac.uk/app" >}}
 

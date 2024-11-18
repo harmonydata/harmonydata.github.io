@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs ICQ When comparing two psychological assessment tools 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs ICQ" title="Beck Anxiety Inventory vs ICQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and ICQ " url="https://harmonydata.ac.uk/app" >}}
 

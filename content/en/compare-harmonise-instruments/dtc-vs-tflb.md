@@ -16,7 +16,7 @@ A comparative analysis of Drinking to Cope (DTC) and Timeline-Followback Intervi
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="DTC vs TFLB" title="DTC vs TFLB" >}}
 
 {{< card heading="Try Harmony" copy="Compare DTC and TFLB " url="https://harmonydata.ac.uk/app" >}}
 

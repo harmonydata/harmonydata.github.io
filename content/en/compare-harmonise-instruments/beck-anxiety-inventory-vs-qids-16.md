@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs QIDS-16 In the world of psychology research, comparing
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs QIDS-16" title="Beck Anxiety Inventory vs QIDS-16" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and QIDS-16 " url="https://harmonydata.ac.uk/app" >}}
 

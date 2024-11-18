@@ -16,7 +16,7 @@ Want to delve deeper into understanding behavioural patterns? Comparing differen
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs HCL-16" title="SDQ vs HCL-16" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and HCL-16 " url="https://harmonydata.ac.uk/app" >}}
 

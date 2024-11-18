@@ -16,7 +16,7 @@ ESPAD vs HCL-16 Psychologists and researchers often find it difficult to compare
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="ESPAD vs HCL-16" title="ESPAD vs HCL-16" >}}
 
 {{< card heading="Try Harmony" copy="Compare ESPAD and HCL-16 " url="https://harmonydata.ac.uk/app" >}}
 

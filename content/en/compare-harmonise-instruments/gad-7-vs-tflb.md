@@ -29,7 +29,7 @@ Comparing psychological questionnaires like GAD-7 and TFLB has traditionally bee
 |     8 | If you checked any problems, how difficult have they made it for you to do your work, take care of things at home, or get along with other people? |
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GAD-7 vs TFLB" title="GAD-7 vs TFLB" >}}
 
 {{< card heading="Try Harmony" copy="Compare GAD-7 and TFLB " url="https://harmonydata.ac.uk/app" >}}
 

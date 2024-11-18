@@ -16,7 +16,7 @@ The task of comparing questionnaires can often be a daunting one, particularly w
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs AEBQ" title="SDQ vs AEBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and AEBQ " url="https://harmonydata.ac.uk/app" >}}
 

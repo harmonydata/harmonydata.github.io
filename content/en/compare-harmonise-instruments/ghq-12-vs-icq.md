@@ -16,7 +16,7 @@ Investigating the psychological state of individuals has always been a challenge
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs ICQ" title="GHQ 12 vs ICQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and ICQ " url="https://harmonydata.ac.uk/app" >}}
 

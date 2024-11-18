@@ -16,7 +16,7 @@ GHQ 12 vs MAAS: Streamline Your Research In the field of psychology and social s
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs MAAS" title="GHQ 12 vs MAAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and MAAS " url="https://harmonydata.ac.uk/app" >}}
 

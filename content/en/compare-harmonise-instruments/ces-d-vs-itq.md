@@ -16,7 +16,7 @@ Serious research necessitates robust comparisons, particularly in the field of p
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs ITQ" title="CES-D vs ITQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and ITQ " url="https://harmonydata.ac.uk/app" >}}
 

@@ -33,7 +33,7 @@ Both the Alcohol Use Disorder Identification Test (AUDIT-10) and the Alcohol, Sm
 With Harmony, the process of comparing AUDIT-10 vs ASSIST becomes simplified and objective. Harmony's large language models compare the instruments and provide a percentage match between each item in AUDIT-10 and ASSIST, making it easier for the researchers to draw conclusions and identify patterns. But the utility of Harmony does not stop at the AUDIT-10 vs ASSIST comparison. The software is capable of processing a variety of instruments across languages, enabling psychologists to do comprehensive, global analysis. Furthermore, psychologist can input their own instruments in PDF form into Harmon's web interface for personalized comparisons. If you are a researcher grappling with AUDIT-10 vs ASSIST or any other questionnaire comparison, Harmony might be the time-saving and objective solution you need.
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="AUDIT-10 vs ASSIST" title="AUDIT-10 vs ASSIST" >}}
 
 
 

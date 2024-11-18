@@ -16,7 +16,7 @@ CES-D vs SCAN Understanding the comparability of CES-D and SCAN is crucial for p
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs SCAN" title="CES-D vs SCAN" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and SCAN " url="https://harmonydata.ac.uk/app" >}}
 

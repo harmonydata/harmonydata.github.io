@@ -34,7 +34,7 @@ Harmony is a software designed to simplify and expedite the process of questionn
 With Harmony, researchers can easily compare items within and across these questionnaires. Harmony even has the capability to compare items in multiple languages, thus broadening the scope of possible research studies. Using Harmony is as easy as selecting the instruments from Harmony's database or uploading your own instruments in PDF form. In the comparison of Beck Anxiety Inventory vs GHQ-30, Harmony will scan through each item in both instruments and provide a percentage match between them. This efficient tool enables researchers to conduct more accurate, reliable, and diverse studies by ensuring that the items in the Beck Anxiety Inventory and GHQ-30 are correctly matched. Therefore, if you are looking for an innovative and efficient solution to harmonise your psychological questionnaires, the Beck Anxiety Inventory vs GHQ-30 comparison will no longer be a tedious task with Harmony software.
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs GHQ-30" title="Beck Anxiety Inventory vs GHQ-30" >}}
 
 
 

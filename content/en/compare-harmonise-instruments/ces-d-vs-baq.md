@@ -16,7 +16,7 @@ Comparative studies of various scales are of immense importance in the field of 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs BAQ" title="CES-D vs BAQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and BAQ " url="https://harmonydata.ac.uk/app" >}}
 

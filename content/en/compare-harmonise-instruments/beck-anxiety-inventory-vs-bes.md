@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs BES When it comes to psychological assessment, the cho
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs BES" title="Beck Anxiety Inventory vs BES" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and BES " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ SDQ vs GHQ-28 When it comes to conducting psychological assessments, researchers
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs GHQ-28" title="SDQ vs GHQ-28" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and GHQ-28 " url="https://harmonydata.ac.uk/app" >}}
 

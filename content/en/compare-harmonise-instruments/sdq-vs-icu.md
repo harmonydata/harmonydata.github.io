@@ -16,7 +16,7 @@ The Strengths and Difficulties Questionnaire (SDQ) and the Inventory of Callous 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs ICU" title="SDQ vs ICU" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and ICU " url="https://harmonydata.ac.uk/app" >}}
 

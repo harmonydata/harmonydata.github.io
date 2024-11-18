@@ -16,7 +16,7 @@ Harmony offers a next-generation tool for researchers to perform comparative ana
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs RPQ" title="GHQ 12 vs RPQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and RPQ " url="https://harmonydata.ac.uk/app" >}}
 

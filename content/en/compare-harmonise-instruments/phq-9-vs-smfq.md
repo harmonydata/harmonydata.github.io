@@ -39,7 +39,7 @@ Harmony employs large language models that enable it to compare individual compo
 
 Rigorous manual comparison of PHQ-9 vs SMFQ not only takes a hefty amount of time but is also subjected to the risk of subjective interpretation. Employing Harmony's cutting-edge features can save time, enhance objectivity, and even possibly shed light on overlooked aspects of comparative analyses between PHQ-9 vs SMFQ. Its inclusive engagement with a variety of test instruments and [multilingual support](/nlp-semantic-text-matching/harmony-on-kufungisisa-a-cultural-concept-of-distress-from-zimbabwe/) further proves it to be a vital tool for psychological and social science research.
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs SMFQ" title="PHQ-9 vs SMFQ" >}}
 
 
 

@@ -16,7 +16,7 @@ Comparative study of different mental health questionnaires, such as PHQ-9 vs SW
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs SWLS" title="PHQ-9 vs SWLS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and SWLS " url="https://harmonydata.ac.uk/app" >}}
 

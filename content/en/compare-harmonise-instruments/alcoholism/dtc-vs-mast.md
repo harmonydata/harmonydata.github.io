@@ -34,7 +34,7 @@ Comparison and harmonisation of questionnaires like DTC (Drinking to Cope) and M
 
 The easy-to-understand comparison results of DTC vs MAST produced by Harmony can potentially speed up research timelines, reducing the need for manual harmonisation process. In conclusion, technology has simplified many areas of research, and survey harmonisation is no exception. When it comes to DTC vs MAST comparison, Harmony is arguably the best tool on the market. The platform enables researchers to automate the traditionally complex and tedious harmonisation process, making it more efficient and accurate. Next time you need to compare DTC vs MAST, consider using Harmony. The software is sure to revolutionise your research process, saving you valuable time and resources.
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="DTC vs MAST" title="DTC vs MAST" >}}
 
 
 

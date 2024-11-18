@@ -16,7 +16,7 @@ Psychologists often want to compare different psychological instruments, such as
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs EPQ" title="CES-D vs EPQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and EPQ " url="https://harmonydata.ac.uk/app" >}}
 

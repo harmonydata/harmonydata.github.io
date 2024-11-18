@@ -16,7 +16,7 @@ Conducting cross-instrument comparisons and harmonisations can be a complex proc
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs SF-36" title="SDQ vs SF-36" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and SF-36 " url="https://harmonydata.ac.uk/app" >}}
 

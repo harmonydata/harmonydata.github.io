@@ -16,7 +16,7 @@ Are you a psychologist or social scientist grappling with lengthy questionnaires
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs SRP" title="GHQ 12 vs SRP" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and SRP " url="https://harmonydata.ac.uk/app" >}}
 

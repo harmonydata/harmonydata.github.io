@@ -16,7 +16,7 @@ When comparing two psychological assessments like the Strengths and Difficulties
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs EPDS" title="SDQ vs EPDS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and EPDS " url="https://harmonydata.ac.uk/app" >}}
 

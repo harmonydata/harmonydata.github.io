@@ -16,7 +16,7 @@ HCL-32 vs HCL-16 Comparing **HCL-32 vs HCL-16** is crucial for psychologists and
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="HCL-32 vs HCL-16" title="HCL-32 vs HCL-16" >}}
 
 {{< card heading="Try Harmony" copy="Compare HCL-32 and HCL-16 " url="https://harmonydata.ac.uk/app" >}}
 

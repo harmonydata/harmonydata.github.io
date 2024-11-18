@@ -16,7 +16,7 @@ With the task of understanding human behaviour and mental processes, psychologis
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs GHQ-30" title="SDQ vs GHQ-30" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and GHQ-30 " url="https://harmonydata.ac.uk/app" >}}
 

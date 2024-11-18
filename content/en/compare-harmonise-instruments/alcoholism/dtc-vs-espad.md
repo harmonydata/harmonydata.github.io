@@ -34,7 +34,7 @@ Harmony's AI models will analyse and compare each item of DTC and ESPAD, providi
 
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="DTC vs ESPAD" title="DTC vs ESPAD" >}}
 
 
 

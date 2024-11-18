@@ -16,7 +16,7 @@ Researchers and psychologists often need to compare questionnaires like PHQ-9 an
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs DUDIT" title="PHQ-9 vs DUDIT" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and DUDIT " url="https://harmonydata.ac.uk/app" >}}
 

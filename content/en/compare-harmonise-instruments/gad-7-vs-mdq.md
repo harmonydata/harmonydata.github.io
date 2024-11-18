@@ -33,7 +33,7 @@ Psychologists and social scientists frequently conduct comparative analyses betw
 With Harmony, an advanced software tool, the daunting process of conducting the "GAD-7 vs MDQ" comparison is simplified. Harmony employs natural language processing and generative AI model techniques to harmonise questionnaire items, even if they are in divergent languages. This effectively eradicates the subjectivity and time-consuming nature of manual harmonisation. Such digital utility also eliminates the need for conventional manual operations such as transferring questions from PDFs into Excel - a tedious task that researchers often find burdensome. The process for comparing "GAD-7 vs MDQ" on Harmony is just as easy as selecting these instruments from Harmony's expansive database and then initiating the comparison. Harmony's robust language model can confer a precise percentage match between each item on GAD-7 and MDQ. Harmony also allows for the addition of your unique instruments via a drag-and-drop feature on its web platform.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GAD-7 vs MDQ" title="GAD-7 vs MDQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare GAD-7 and MDQ " url="https://harmonydata.ac.uk/app" >}}
 

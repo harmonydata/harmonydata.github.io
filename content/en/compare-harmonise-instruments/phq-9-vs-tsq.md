@@ -16,7 +16,7 @@ PHQ-9 vs TSQ Comparing different evaluation questionnaires, such as the Patient 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs TSQ" title="PHQ-9 vs TSQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and TSQ " url="https://harmonydata.ac.uk/app" >}}
 

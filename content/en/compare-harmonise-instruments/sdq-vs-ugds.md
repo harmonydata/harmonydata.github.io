@@ -16,7 +16,7 @@ When comparing diverse psychological questionnaire items like SDQ and UGDS, the 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs UGDS" title="SDQ vs UGDS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and UGDS " url="https://harmonydata.ac.uk/app" >}}
 

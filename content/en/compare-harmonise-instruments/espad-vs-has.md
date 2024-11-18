@@ -16,7 +16,7 @@ When it comes to comparing questionnaires in different areas of psychology resea
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="ESPAD vs HAS" title="ESPAD vs HAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare ESPAD and HAS " url="https://harmonydata.ac.uk/app" >}}
 

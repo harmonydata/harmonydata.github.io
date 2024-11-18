@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs ECBQ When comparing psychological instruments, one fre
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs ECBQ" title="Beck Anxiety Inventory vs ECBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and ECBQ " url="https://harmonydata.ac.uk/app" >}}
 

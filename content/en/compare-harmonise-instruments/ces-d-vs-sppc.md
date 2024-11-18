@@ -16,7 +16,7 @@ When delving into a comparative analysis of CES-D and SPPC, it's essential to us
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs SPPC" title="CES-D vs SPPC" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and SPPC " url="https://harmonydata.ac.uk/app" >}}
 

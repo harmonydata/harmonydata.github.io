@@ -16,7 +16,7 @@ PHQ-9 vs GHQ-12 Psychologists and researchers often grapple with the task of mat
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs GHQ-12" title="PHQ-9 vs GHQ-12" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and GHQ-12 " url="https://harmonydata.ac.uk/app" >}}
 

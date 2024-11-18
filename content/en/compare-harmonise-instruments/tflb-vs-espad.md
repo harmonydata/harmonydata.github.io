@@ -16,7 +16,7 @@ The process of harmonising and comparing data from different questionnaires like
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="TFLB vs ESPAD" title="TFLB vs ESPAD" >}}
 
 {{< card heading="Try Harmony" copy="Compare TFLB and ESPAD " url="https://harmonydata.ac.uk/app" >}}
 

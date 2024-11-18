@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs HCL-32 Comparisons between distinct psychological inst
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs HCL-32" title="Beck Anxiety Inventory vs HCL-32" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and HCL-32 " url="https://harmonydata.ac.uk/app" >}}
 

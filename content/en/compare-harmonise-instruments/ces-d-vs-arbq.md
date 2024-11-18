@@ -16,7 +16,7 @@ Comparison and harmonisation of psychological questionnaires are vital processes
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs ARBQ" title="CES-D vs ARBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and ARBQ " url="https://harmonydata.ac.uk/app" >}}
 

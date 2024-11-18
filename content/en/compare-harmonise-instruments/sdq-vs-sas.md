@@ -16,7 +16,7 @@ Are you a researcher grappling with the task of comparing the Strengths and Diff
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs SAS" title="SDQ vs SAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and SAS " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ SDQ vs CQSF For psychologists and researchers involved in behavioural screening,
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs CQSF" title="SDQ vs CQSF" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and CQSF " url="https://harmonydata.ac.uk/app" >}}
 

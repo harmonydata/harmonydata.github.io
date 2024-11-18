@@ -16,7 +16,7 @@ For Efficient Comparisons Harmony is your go-to technological solution when you'
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="HCL-16 vs DASI" title="HCL-16 vs DASI" >}}
 
 {{< card heading="Try Harmony" copy="Compare HCL-16 and DASI " url="https://harmonydata.ac.uk/app" >}}
 

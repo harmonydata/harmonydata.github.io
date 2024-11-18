@@ -16,7 +16,7 @@ As psychologists and researchers, we are often faced with the challenge of compa
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs WEMWBS" title="CES-D vs WEMWBS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and WEMWBS " url="https://harmonydata.ac.uk/app" >}}
 

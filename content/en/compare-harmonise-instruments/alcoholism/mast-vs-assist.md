@@ -36,7 +36,7 @@ To comprehensively compare and analyse MAST vs ASSIST, Harmony invites psycholog
 
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="MAST vs ASSIST" title="MAST vs ASSIST" >}}
 
 
 

@@ -16,7 +16,7 @@ The comparison between instruments like the Strengths and Difficulties Questionn
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs PSS" title="SDQ vs PSS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and PSS " url="https://harmonydata.ac.uk/app" >}}
 

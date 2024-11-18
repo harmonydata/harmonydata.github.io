@@ -16,7 +16,7 @@ The task of harmonising questionnaire items such as those found in GHQ 12 (Gener
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs RCMAS" title="GHQ 12 vs RCMAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and RCMAS " url="https://harmonydata.ac.uk/app" >}}
 

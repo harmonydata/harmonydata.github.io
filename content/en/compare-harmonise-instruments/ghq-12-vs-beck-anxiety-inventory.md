@@ -9,7 +9,7 @@ aliases:
 
 As researchers, we are consistently working with a multitude of questionnaires and surveys, daily deciphering the threads that tie relations between them. This is where Harmony comes into the picture as it helps streamline this process, most notably in the comparison of GHQ 12 vs Beck Anxiety Inventory.
 
-{{< image src="/images/GAD-7-vs-Becks.drawio-min.png" alt="dog" title="dog" >}}
+{{< image src="/images/GAD-7-vs-Becks.drawio-min.png" alt="GHQ 12 vs Beck Anxiety Inventory" title="GHQ 12 vs Beck Anxiety Inventory" >}}
 
 GHQ 12, short for the General Health Questionnaire-12, is a widely used measure for detecting psychological distress. But how accurately does it stand against the 21-question Beck Anxiety Inventory (BAI) designed for assessing the severity of anxiety? This is where the comparison of GHQ 12 vs Beck Anxiety Inventory becomes an intriguing area of study for psychologists, and using Harmony software makes this analysis remarkably simpler.
 

@@ -16,7 +16,7 @@ HCL-32 vs SPOVI-14 Comparing questionnaires like HCL-32 (Hypomania Checklist-32)
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="HCL-32 vs SPOVI-14" title="HCL-32 vs SPOVI-14" >}}
 
 {{< card heading="Try Harmony" copy="Compare HCL-32 and SPOVI-14 " url="https://harmonydata.ac.uk/app" >}}
 

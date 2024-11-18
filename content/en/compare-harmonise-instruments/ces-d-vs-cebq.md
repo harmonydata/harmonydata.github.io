@@ -20,7 +20,7 @@ CES-D vs CEBQ: Harmonizing Psychological Questionnaires The ability to compare a
 Harmony is an innovative tool designed for researchers looking to streamline the process of data harmonisation, including the comparison of CES-D and CEBQ. Using advanced natural language processing and generative AI models, Harmony can quickly identify matches or overlaps in the questionnaire items from these different tools. This software can even conduct comparisons across different languages, making it an unparalleled aid for international research.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs CEBQ" title="CES-D vs CEBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and CEBQ " url="https://harmonydata.ac.uk/app" >}}
 

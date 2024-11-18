@@ -16,7 +16,7 @@ Tool As researchers, when comparing behavioural studies, one frequent challenge 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs CRISIS" title="SDQ vs CRISIS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and CRISIS " url="https://harmonydata.ac.uk/app" >}}
 

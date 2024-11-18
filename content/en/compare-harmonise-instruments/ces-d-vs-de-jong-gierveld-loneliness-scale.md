@@ -41,7 +41,7 @@ Psychologists comparing CES-D vs De Jong Gierveld Loneliness Scale using Harmony
 
 Harmony is a tremendous asset to psychologists harmonising and comparing psychological scales. Considerable potential lies in using this software to conduct meta-analyses of data gathered using both CES-D and De Jong Gierveld Loneliness Scale. Through Harmony, researchers can untangle the complex relationship between these two measures and contribute valuable insights to the field of psychology. By easing the process of comparison and harmonisation, Harmony enables deep, meaningful interpretations of questionnaire data.
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs De Jong Gierveld Loneliness Scale" title="CES-D vs De Jong Gierveld Loneliness Scale" >}}
 
 
 

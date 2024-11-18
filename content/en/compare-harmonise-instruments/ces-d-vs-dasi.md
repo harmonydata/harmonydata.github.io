@@ -16,7 +16,7 @@ The field of psychology often requires coordination and comparison of different 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs DASI" title="CES-D vs DASI" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and DASI " url="https://harmonydata.ac.uk/app" >}}
 

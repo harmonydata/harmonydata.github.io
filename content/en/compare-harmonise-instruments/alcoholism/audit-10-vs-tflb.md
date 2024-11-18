@@ -35,7 +35,7 @@ Whether you choose from the software's database or upload your own documents, Ha
 
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="AUDIT-10 vs TFLB" title="AUDIT-10 vs TFLB" >}}
 
 
 

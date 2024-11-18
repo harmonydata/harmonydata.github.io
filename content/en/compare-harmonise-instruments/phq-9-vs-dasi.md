@@ -16,7 +16,7 @@ PHQ-9 vs DASI Psychologists often come across the necessity to compare different
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs DASI" title="PHQ-9 vs DASI" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and DASI " url="https://harmonydata.ac.uk/app" >}}
 

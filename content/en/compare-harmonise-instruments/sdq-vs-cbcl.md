@@ -36,7 +36,7 @@ The software provides a percentage match between each item in SDQ and CBCL, effe
 Additionally, Harmony allows users to either select instruments from its expansive database, or directly insert their PDFs of questionnaires into the web interface. This makes the process of comparing SDQ vs CBCL both user-friendly and efficient. Harmony's multilingual competency expands the horizons of the comparative analysis between SDQ and CBCL. This crucial feature fulfills a significant requirement for researchers by allowing a comparison of the items in multiple languages. It emphasizes the versatility of the Harmony software in handling the SDQ vs CBCL comparison and providing a comprehensive platform for researchers to explore. Trust Harmony to facilitate seamless and quick harmonisation, helping streamline the research process for psychologists and social scientists.
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs CBCL" title="SDQ vs CBCL" >}}
 
 
 

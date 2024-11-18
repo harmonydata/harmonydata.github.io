@@ -16,7 +16,7 @@ When it comes to psychology research, one of the most frequent challenges encoun
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs SAS" title="Beck Anxiety Inventory vs SAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and SAS " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs CSBS When comparing the Beck Anxiety Inventory (BAI) t
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs CSBS" title="Beck Anxiety Inventory vs CSBS" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and CSBS " url="https://harmonydata.ac.uk/app" >}}
 

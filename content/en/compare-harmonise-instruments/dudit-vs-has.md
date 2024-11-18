@@ -16,7 +16,7 @@ When it comes to comparing questionnaires such as the Drug Use Disorders Identif
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="DUDIT vs HAS" title="DUDIT vs HAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare DUDIT and HAS " url="https://harmonydata.ac.uk/app" >}}
 

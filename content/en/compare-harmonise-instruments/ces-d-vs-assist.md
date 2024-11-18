@@ -16,7 +16,7 @@ Psychologists and social scientists are often tasked with comparing and harmonis
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs ASSIST" title="CES-D vs ASSIST" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and ASSIST " url="https://harmonydata.ac.uk/app" >}}
 

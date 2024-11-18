@@ -16,7 +16,7 @@ SDQ vs PAAS: A Revelation in Psychological Assessment Comparisons Comparing the 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs PAAS" title="SDQ vs PAAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and PAAS " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Software Researchers working on psychological studies often find themselves comp
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs BAPQ" title="GHQ 12 vs BAPQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and BAPQ " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ CES-D vs RTQ Psychologists and social scientists often compare different questio
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs RTQ" title="CES-D vs RTQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and RTQ " url="https://harmonydata.ac.uk/app" >}}
 

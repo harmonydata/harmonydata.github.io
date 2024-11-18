@@ -32,7 +32,7 @@ Harmony can make this process easier and more efficient. Harmony uses natural la
 
 You can select instruments from Harmony's database or drag and drop your own PDF instruments into the web interface. Comparing instruments like AOSI vs AQ-20 doesn't have to be a daunting task with Harmony. 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="AOSI vs AQ-20" title="AOSI vs AQ-20" >}}
 
 
 

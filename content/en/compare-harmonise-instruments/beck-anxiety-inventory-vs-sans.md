@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs SANS Harmonizing and comparing psychological questionn
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs SANS" title="Beck Anxiety Inventory vs SANS" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and SANS " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Harmony is an innovative tool specially designed for researchers in psychology, 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs DTC" title="PHQ-9 vs DTC" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and DTC " url="https://harmonydata.ac.uk/app" >}}
 

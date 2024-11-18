@@ -16,7 +16,7 @@ GHQ 12 vs CASI: A Harmonizing Approach When it comes to psychological assessment
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs CASI" title="GHQ 12 vs CASI" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and CASI " url="https://harmonydata.ac.uk/app" >}}
 

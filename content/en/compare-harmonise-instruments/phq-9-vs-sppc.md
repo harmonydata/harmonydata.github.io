@@ -16,7 +16,7 @@ PHQ-9 vs SPPC: A Comparative Analysis Analyzing and comparing psychological inst
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs SPPC" title="PHQ-9 vs SPPC" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and SPPC " url="https://harmonydata.ac.uk/app" >}}
 

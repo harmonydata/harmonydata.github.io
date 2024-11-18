@@ -16,7 +16,7 @@ When it comes to psychological and social research, comparing various instrument
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs BIS-15" title="GHQ 12 vs BIS-15" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and BIS-15 " url="https://harmonydata.ac.uk/app" >}}
 

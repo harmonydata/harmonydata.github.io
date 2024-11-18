@@ -16,7 +16,7 @@ PHQ-9 vs CASI The process of comparing and harmonising the PHQ-9 and the Childre
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs CASI" title="PHQ-9 vs CASI" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and CASI " url="https://harmonydata.ac.uk/app" >}}
 

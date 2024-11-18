@@ -13,7 +13,7 @@ In psychology research, comparing and contrasting different questionnaires is a 
 
 Both are predominant instruments used to evaluate patients' mental health. So, how can we accurately map these two instruments and streamline our research? Enter Harmony - your ultimate tool for convenient harmonisation.
 
-{{< image src="/images/GAD-7-vs-Becks.drawio-min.png" alt="dog" title="dog" >}}
+{{< image src="/images/GAD-7-vs-Becks.drawio-min.png" alt="PHQ-9 vs Beck Anxiety Inventory" title="PHQ-9 vs Beck Anxiety Inventory" >}}
 
 
 

@@ -16,7 +16,7 @@ GHQ 12 vs SSI When looking at psychological distress detection, it becomes relev
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs SSI" title="GHQ 12 vs SSI" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and SSI " url="https://harmonydata.ac.uk/app" >}}
 

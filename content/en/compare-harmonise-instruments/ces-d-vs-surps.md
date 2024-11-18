@@ -16,7 +16,7 @@ CES-D vs SURPS When it comes to comparing psychological measures such as the Cen
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs SURPS" title="CES-D vs SURPS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and SURPS " url="https://harmonydata.ac.uk/app" >}}
 

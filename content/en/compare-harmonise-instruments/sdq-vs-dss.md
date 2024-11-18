@@ -16,7 +16,7 @@ Exploring behavioural and emotional characteristics in children’s or adult dev
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs DSS" title="SDQ vs DSS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and DSS " url="https://harmonydata.ac.uk/app" >}}
 

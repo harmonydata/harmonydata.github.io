@@ -16,7 +16,7 @@ Software Psychologists and social scientists often have a need for comparing and
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs MAST" title="SDQ vs MAST" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and MAST " url="https://harmonydata.ac.uk/app" >}}
 

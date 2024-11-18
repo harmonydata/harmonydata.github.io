@@ -16,7 +16,7 @@ Imagine being a psychologist or social scientist and having to compare the Gener
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs SPPC" title="GHQ 12 vs SPPC" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and SPPC " url="https://harmonydata.ac.uk/app" >}}
 

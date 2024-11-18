@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs GAF Researchers in psychology often come across challe
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs GAF" title="Beck Anxiety Inventory vs GAF" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and GAF " url="https://harmonydata.ac.uk/app" >}}
 

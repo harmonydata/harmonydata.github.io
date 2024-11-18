@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs GSE Leading researches in the field of psychology ofte
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs GSE" title="Beck Anxiety Inventory vs GSE" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and GSE " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ As psychologists and social scientists often required to compare instruments lik
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs APSD" title="PHQ-9 vs APSD" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and APSD " url="https://harmonydata.ac.uk/app" >}}
 

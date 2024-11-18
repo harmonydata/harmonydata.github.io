@@ -16,7 +16,7 @@ Both the Strengths and Difficulties Questionnaire (SDQ) and Broad Autism Phenoty
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs BAPQ" title="SDQ vs BAPQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and BAPQ " url="https://harmonydata.ac.uk/app" >}}
 

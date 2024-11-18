@@ -16,7 +16,7 @@ With the numerous studies that use both the 12-item General Health Questionnaire
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs AOSI" title="GHQ 12 vs AOSI" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and AOSI " url="https://harmonydata.ac.uk/app" >}}
 

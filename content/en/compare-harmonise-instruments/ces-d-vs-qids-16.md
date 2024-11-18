@@ -16,7 +16,7 @@ Software** If you're a psychologist or social scientist looking to compare the C
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs QIDS-16" title="CES-D vs QIDS-16" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and QIDS-16 " url="https://harmonydata.ac.uk/app" >}}
 

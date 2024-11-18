@@ -16,7 +16,7 @@ CES-D vs RAPI Comparing survey instruments like CES-D and RAPI can be a daunting
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs RAPI" title="CES-D vs RAPI" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and RAPI " url="https://harmonydata.ac.uk/app" >}}
 

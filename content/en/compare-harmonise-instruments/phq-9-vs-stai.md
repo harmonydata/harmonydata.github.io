@@ -16,7 +16,7 @@ Embracing the evolution of technology in scientific research, Harmony comes into
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs STAI" title="PHQ-9 vs STAI" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and STAI " url="https://harmonydata.ac.uk/app" >}}
 

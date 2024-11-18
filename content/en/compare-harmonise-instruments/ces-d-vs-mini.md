@@ -16,7 +16,7 @@ Comparing the scope and items of different psychological measures such as CES-D 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs MINI" title="CES-D vs MINI" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and MINI " url="https://harmonydata.ac.uk/app" >}}
 

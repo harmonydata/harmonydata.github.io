@@ -16,7 +16,7 @@ SDQ (Strengths and Difficulties Questionnaire) and RCMAS (Revised Children's Man
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs RCMAS" title="SDQ vs RCMAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and RCMAS " url="https://harmonydata.ac.uk/app" >}}
 

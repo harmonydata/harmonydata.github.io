@@ -16,7 +16,7 @@ CES-D vs ADOS: A Comparative Analysis for Psychological Assessment Psychological
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs ADOS" title="CES-D vs ADOS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and ADOS " url="https://harmonydata.ac.uk/app" >}}
 

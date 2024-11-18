@@ -16,7 +16,7 @@ The process of comparing the Strengths and Difficulties Questionnaire (SDQ) and 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs PGSI" title="SDQ vs PGSI" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and PGSI " url="https://harmonydata.ac.uk/app" >}}
 

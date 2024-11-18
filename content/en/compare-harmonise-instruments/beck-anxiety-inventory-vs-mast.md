@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs MAST As researchers in psychology and social sciences,
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs MAST" title="Beck Anxiety Inventory vs MAST" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and MAST " url="https://harmonydata.ac.uk/app" >}}
 

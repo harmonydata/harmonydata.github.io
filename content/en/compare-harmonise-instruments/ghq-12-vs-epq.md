@@ -16,7 +16,7 @@ GHQ 12 vs EPQ Comparing health questionnaires, such as GHQ 12 and EPQ, is crucia
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs EPQ" title="GHQ 12 vs EPQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and EPQ " url="https://harmonydata.ac.uk/app" >}}
 

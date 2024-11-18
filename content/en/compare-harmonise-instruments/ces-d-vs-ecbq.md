@@ -16,7 +16,7 @@ With immense developments in psychology research, the need for efficient tools f
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs ECBQ" title="CES-D vs ECBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and ECBQ " url="https://harmonydata.ac.uk/app" >}}
 

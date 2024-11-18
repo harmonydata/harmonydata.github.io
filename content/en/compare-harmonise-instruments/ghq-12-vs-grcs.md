@@ -16,7 +16,7 @@ GHQ 12 vs GRCS: Comparing Measures of Psychological Distress and Gambling Cognit
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs GRCS" title="GHQ 12 vs GRCS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and GRCS " url="https://harmonydata.ac.uk/app" >}}
 

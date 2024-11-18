@@ -16,7 +16,7 @@ The comparison of different psychological questionnaires and tools, such as GHQ 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs SURPS" title="GHQ 12 vs SURPS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and SURPS " url="https://harmonydata.ac.uk/app" >}}
 

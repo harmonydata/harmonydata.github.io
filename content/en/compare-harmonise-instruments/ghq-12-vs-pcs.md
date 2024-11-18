@@ -16,7 +16,7 @@ When performing comparative studies, psychologists often turn their attention to
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs PCS" title="GHQ 12 vs PCS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and PCS " url="https://harmonydata.ac.uk/app" >}}
 

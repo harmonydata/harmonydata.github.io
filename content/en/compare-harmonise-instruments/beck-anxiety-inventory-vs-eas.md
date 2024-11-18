@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs EAS When comparing the Beck Anxiety Inventory (BAI) an
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs EAS" title="Beck Anxiety Inventory vs EAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and EAS " url="https://harmonydata.ac.uk/app" >}}
 

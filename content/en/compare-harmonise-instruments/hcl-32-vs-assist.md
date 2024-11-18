@@ -16,7 +16,7 @@ HCL-32 vs ASSIST It's crucial for psychologists over different research studies 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="HCL-32 vs ASSIST" title="HCL-32 vs ASSIST" >}}
 
 {{< card heading="Try Harmony" copy="Compare HCL-32 and ASSIST " url="https://harmonydata.ac.uk/app" >}}
 

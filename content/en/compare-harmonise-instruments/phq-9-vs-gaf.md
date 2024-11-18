@@ -16,7 +16,7 @@ The process of comparing and matching items between different psychological inst
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs GAF" title="PHQ-9 vs GAF" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and GAF " url="https://harmonydata.ac.uk/app" >}}
 

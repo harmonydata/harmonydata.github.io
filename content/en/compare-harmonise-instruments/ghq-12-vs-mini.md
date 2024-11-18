@@ -16,7 +16,7 @@ Comparative studies between the General Health Questionnaire (GHQ 12) and the MI
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs MINI" title="GHQ 12 vs MINI" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and MINI " url="https://harmonydata.ac.uk/app" >}}
 

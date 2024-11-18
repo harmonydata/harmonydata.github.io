@@ -16,7 +16,7 @@ Harmony is a revolutionizing tool for researchers, social scientists, and psycho
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs ESPAD" title="GHQ 12 vs ESPAD" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and ESPAD " url="https://harmonydata.ac.uk/app" >}}
 

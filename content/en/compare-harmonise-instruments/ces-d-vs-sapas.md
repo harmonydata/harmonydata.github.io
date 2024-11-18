@@ -16,7 +16,7 @@ Harmony, a highly advanced tool with natural language processing and generative 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs SAPAS" title="CES-D vs SAPAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and SAPAS " url="https://harmonydata.ac.uk/app" >}}
 

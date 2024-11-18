@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs BIS-15 Comparing the **Beck Anxiety Inventory vs BIS-1
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs BIS-15" title="Beck Anxiety Inventory vs BIS-15" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and BIS-15 " url="https://harmonydata.ac.uk/app" >}}
 

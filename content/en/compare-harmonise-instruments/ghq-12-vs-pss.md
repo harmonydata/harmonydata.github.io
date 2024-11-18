@@ -16,7 +16,7 @@ Software When comparing and contrasting psychology research tools, researchers o
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs PSS" title="GHQ 12 vs PSS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and PSS " url="https://harmonydata.ac.uk/app" >}}
 

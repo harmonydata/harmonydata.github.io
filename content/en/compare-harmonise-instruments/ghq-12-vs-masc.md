@@ -16,7 +16,7 @@ GHQ 12 vs MASC Are you a psychologist or researcher and need a comparison betwee
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs MASC" title="GHQ 12 vs MASC" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and MASC " url="https://harmonydata.ac.uk/app" >}}
 

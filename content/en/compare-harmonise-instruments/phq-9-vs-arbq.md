@@ -16,7 +16,7 @@ PHQ-9 vs ARBQ: A Comparative Insight The comparison and harmonisation of psychol
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs ARBQ" title="PHQ-9 vs ARBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and ARBQ " url="https://harmonydata.ac.uk/app" >}}
 

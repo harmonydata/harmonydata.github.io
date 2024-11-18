@@ -16,7 +16,7 @@ CES-D vs BAPQ As a psychologist or social science researcher, you often come acr
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs BAPQ" title="CES-D vs BAPQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and BAPQ " url="https://harmonydata.ac.uk/app" >}}
 

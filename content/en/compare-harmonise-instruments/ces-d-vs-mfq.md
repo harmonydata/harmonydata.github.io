@@ -38,7 +38,7 @@ Harmony is a powerful tool for psychologists conducting CES-D vs MFQ comparisons
 
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs MFQ" title="CES-D vs MFQ" >}}
 
 
 

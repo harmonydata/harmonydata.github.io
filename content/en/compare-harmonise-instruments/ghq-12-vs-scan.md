@@ -16,7 +16,7 @@ Psychologists frequently find themselves comparing GHQ 12 and SCAN, two instrume
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs SCAN" title="GHQ 12 vs SCAN" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and SCAN " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ GHQ 12 vs BPFSC The GHQ 12 (General Health Questionnaire) and BPFSC (Borderline 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs BPFSC" title="GHQ 12 vs BPFSC" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and BPFSC " url="https://harmonydata.ac.uk/app" >}}
 

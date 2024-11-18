@@ -16,7 +16,7 @@ Psychologists often face the challenging task of comparing different psychologic
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs CHAT" title="Beck Anxiety Inventory vs CHAT" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and CHAT " url="https://harmonydata.ac.uk/app" >}}
 

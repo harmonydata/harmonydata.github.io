@@ -16,7 +16,7 @@ Studying psychological distress using validated instruments has always been a co
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs RTQ" title="GHQ 12 vs RTQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and RTQ " url="https://harmonydata.ac.uk/app" >}}
 

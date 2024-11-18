@@ -16,7 +16,7 @@ In the field of psychology and social sciences, instruments like the Center for 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs CSBS" title="CES-D vs CSBS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and CSBS " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ The comparison of psychological assessment instruments such as CES-D and TAS-20 
 
 Through advanced natural language processing and generative AI models, Harmony provides a comprehensive comparison between CES-D and TAS-20, enhancing the ease and accuracy of research. Harmony allows researchers to drag and drop their own instruments, like CES-D and TAS-20, into its web interface and compares them using large language models. It provides a percentage match between each questionnaire item, creating a seamless harmonisation process. Not only does it make the process more efficient, but using Harmony to verify CES-D vs TAS-20 allows for more precise conclusions when analysing the results. Lastly, one significant benefit of Harmony is its capacity to compare instruments in multiple languages. This feature diversifies the range of studies that can be efficiently compared using the software. Hence, the use of Harmony ushers in a new level of flexibility and access, making the comparison of CES-D vs TAS-20 more accessible and reliable, fostering a robust and comprehensive analysis process for researchers.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs TAS-20" title="CES-D vs TAS-20" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and TAS-20 " url="https://harmonydata.ac.uk/app" >}}
 

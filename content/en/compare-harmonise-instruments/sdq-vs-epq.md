@@ -16,7 +16,7 @@ When it comes to behavioural and personality assessment, two key instruments oft
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs EPQ" title="SDQ vs EPQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and EPQ " url="https://harmonydata.ac.uk/app" >}}
 

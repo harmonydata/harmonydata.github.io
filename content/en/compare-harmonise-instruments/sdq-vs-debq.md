@@ -16,7 +16,7 @@ When undertaking psychology research, comparing and harmonising different questi
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs DEBQ" title="SDQ vs DEBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and DEBQ " url="https://harmonydata.ac.uk/app" >}}
 

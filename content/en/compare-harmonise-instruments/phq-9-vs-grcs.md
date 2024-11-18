@@ -16,7 +16,7 @@ PHQ-9 vs GRCS Harmonisation is pivotal for psychologists and social scientists, 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs GRCS" title="PHQ-9 vs GRCS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and GRCS " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ CES-D vs DAWBA Comparing CES-D and DAWBA can prove to be a hefty task due to the
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs DAWBA" title="CES-D vs DAWBA" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and DAWBA " url="https://harmonydata.ac.uk/app" >}}
 

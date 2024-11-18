@@ -16,7 +16,7 @@ Comparative research, particularly between the Centre for Epidemiological Studie
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs CAMEEI" title="CES-D vs CAMEEI" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and CAMEEI " url="https://harmonydata.ac.uk/app" >}}
 

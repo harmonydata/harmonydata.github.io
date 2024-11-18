@@ -16,7 +16,7 @@ In the field of psychology research and social studies, comparing different ques
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs BFI" title="PHQ-9 vs BFI" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and BFI " url="https://harmonydata.ac.uk/app" >}}
 

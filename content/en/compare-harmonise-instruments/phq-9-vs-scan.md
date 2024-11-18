@@ -16,7 +16,7 @@ In the world of psychology research, making accurate and valid comparisons betwe
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs SCAN" title="PHQ-9 vs SCAN" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and SCAN " url="https://harmonydata.ac.uk/app" >}}
 

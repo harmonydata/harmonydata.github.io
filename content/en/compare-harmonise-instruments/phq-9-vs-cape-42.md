@@ -16,7 +16,7 @@ PHQ-9 vs CAPE-42 In the field of psychological and social research, the need to 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs CAPE-42" title="PHQ-9 vs CAPE-42" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and CAPE-42 " url="https://harmonydata.ac.uk/app" >}}
 

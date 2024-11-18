@@ -16,7 +16,7 @@ date: 2025-01-30
 
 When operationalizing the SDQ vs CAMEEI comparative analysis, the Harmony application acts as an intermediary bridge. By employing quantitative measures such as percentage match between each variable across the questionnaires. For example, an item from the SDQ such as "Your child often complains of headaches, stomach-aches..." can be efficiently synced to a relevant counterpart from the CAMEEI using this application's complex algorithms. This capability proves particularly useful, especially when working with translations since Harmony can manage multi-language data seamlessly. By intelligently leveraging Harmony when conducting 'SDQ vs CAMEEI' research, psychologists and social scientists can drastically streamline their analysis and unleash new research opportunities. Its comprehensive database allows researchers to select instruments for harmonising or even include their own by merely drag-and-dropping PDFs. Harmony empowers the modern social scientist to validate study outcomes across different studies while saving time and resources. Embrace Harmony to thrust your 'SDQ vs CAMEEI' research into new vistas of accuracy and objectivity.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs CAMEEI" title="SDQ vs CAMEEI" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and CAMEEI " url="https://harmonydata.ac.uk/app" >}}
 

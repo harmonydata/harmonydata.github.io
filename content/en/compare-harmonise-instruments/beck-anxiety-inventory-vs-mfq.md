@@ -34,7 +34,7 @@ Harmony uses natural language processing and generative AI models to compare and
 
 Harmony can perform this process even in multiple languages, enabling global and cross-cultural research studies. In the endeavor of comparing Beck Anxiety Inventory vs MFQ, researchers can simply utilize Harmony by selecting the required instruments from its robust database or uploading their own instruments in PDF form. This web-based tool offers a simplified and user-friendly interface for ease of use. Furthermore, Harmony's advanced AI technology allows the researchers to perform repeated longitudinal analysis across various studies with ease, hence enabling the exploration of consistent results or differential responses under changing social conditions. Therefore, for researchers in the domain of psychology and social sciences, the recommendation is clear – leverage the Harmony tool when comparing Beck Anxiety Inventory vs MFQ.
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs MFQ" title="Beck Anxiety Inventory vs MFQ" >}}
 
 
 

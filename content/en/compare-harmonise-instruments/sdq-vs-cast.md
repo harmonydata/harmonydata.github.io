@@ -16,7 +16,7 @@ Studies in social sciences often require a comparative analysis between differen
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs CAST" title="SDQ vs CAST" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and CAST " url="https://harmonydata.ac.uk/app" >}}
 

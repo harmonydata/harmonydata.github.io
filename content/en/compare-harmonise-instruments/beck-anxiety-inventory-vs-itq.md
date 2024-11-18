@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs ITQ: A Harmonized Comparison Comparing questionnaires 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs ITQ" title="Beck Anxiety Inventory vs ITQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and ITQ " url="https://harmonydata.ac.uk/app" >}}
 

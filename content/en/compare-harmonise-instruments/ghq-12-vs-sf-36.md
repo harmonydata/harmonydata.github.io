@@ -16,7 +16,7 @@ Harmony can help psychologists and social scientists compare GHQ 12 vs SF-36. Th
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs SF-36" title="GHQ 12 vs SF-36" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and SF-36 " url="https://harmonydata.ac.uk/app" >}}
 

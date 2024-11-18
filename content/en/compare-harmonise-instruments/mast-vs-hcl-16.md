@@ -16,7 +16,7 @@ The comparison between the Michigan Alcoholism Screening Test (MAST) and the Hyp
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="MAST vs HCL-16" title="MAST vs HCL-16" >}}
 
 {{< card heading="Try Harmony" copy="Compare MAST and HCL-16 " url="https://harmonydata.ac.uk/app" >}}
 

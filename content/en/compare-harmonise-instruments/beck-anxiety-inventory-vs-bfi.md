@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs BFI When comparing the [Beck Anxiety Inventory vs BFI]
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs BFI" title="Beck Anxiety Inventory vs BFI" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and BFI " url="https://harmonydata.ac.uk/app" >}}
 

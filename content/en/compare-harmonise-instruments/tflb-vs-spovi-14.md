@@ -16,7 +16,7 @@ Professional psychologists who aim to compare the Timeline-Followback Interview 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="TFLB vs SPOVI-14" title="TFLB vs SPOVI-14" >}}
 
 {{< card heading="Try Harmony" copy="Compare TFLB and SPOVI-14 " url="https://harmonydata.ac.uk/app" >}}
 

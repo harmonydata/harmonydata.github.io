@@ -23,7 +23,7 @@ Harmony offers an easy-to-use interface where you can directly input or upload t
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs SAPAS" title="PHQ-9 vs SAPAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and SAPAS " url="https://harmonydata.ac.uk/app" >}}
 

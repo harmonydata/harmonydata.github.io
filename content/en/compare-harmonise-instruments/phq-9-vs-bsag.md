@@ -16,7 +16,7 @@ PHQ-9 vs BSAG Comparing two important instruments in psychology, PHQ-9 and BSAG,
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs BSAG" title="PHQ-9 vs BSAG" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and BSAG " url="https://harmonydata.ac.uk/app" >}}
 

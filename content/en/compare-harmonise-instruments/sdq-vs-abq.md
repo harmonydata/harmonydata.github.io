@@ -16,7 +16,7 @@ The comparative analysis of Strengths and Difficulties Questionnaire (SDQ) and A
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs ABQ" title="SDQ vs ABQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and ABQ " url="https://harmonydata.ac.uk/app" >}}
 

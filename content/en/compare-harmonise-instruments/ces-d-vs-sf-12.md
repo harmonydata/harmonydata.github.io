@@ -16,7 +16,7 @@ CES-D vs SF-12 The use of psychological assessment measures like the Center for 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs SF-12" title="CES-D vs SF-12" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and SF-12 " url="https://harmonydata.ac.uk/app" >}}
 

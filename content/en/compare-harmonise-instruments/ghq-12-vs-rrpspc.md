@@ -16,7 +16,7 @@ Software Analyzing and comparing two major psychological instruments, GHQ 12 and
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs RRPSPC" title="GHQ 12 vs RRPSPC" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and RRPSPC " url="https://harmonydata.ac.uk/app" >}}
 

@@ -12,7 +12,7 @@ Harmony is an innovative, AI-powered software opens up more profound, nuanced op
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs PAS" title="PHQ-9 vs PAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and PAS " url="https://harmonydata.ac.uk/app" >}}
 

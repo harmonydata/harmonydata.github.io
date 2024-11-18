@@ -16,7 +16,7 @@ GHQ 12 vs ESYTC Psychologists often need to compare different questionnaire data
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs ESYTC" title="GHQ 12 vs ESYTC" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and ESYTC " url="https://harmonydata.ac.uk/app" >}}
 

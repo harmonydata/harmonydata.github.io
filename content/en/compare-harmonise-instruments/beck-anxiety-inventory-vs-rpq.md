@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs RPQ Psychologists and social scientists often confront
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs RPQ" title="Beck Anxiety Inventory vs RPQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and RPQ " url="https://harmonydata.ac.uk/app" >}}
 

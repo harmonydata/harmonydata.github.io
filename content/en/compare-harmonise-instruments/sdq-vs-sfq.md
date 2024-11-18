@@ -16,7 +16,7 @@ The task of comparing and harmonising psychological questionnaires like the Stre
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs SFQ" title="SDQ vs SFQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and SFQ " url="https://harmonydata.ac.uk/app" >}}
 

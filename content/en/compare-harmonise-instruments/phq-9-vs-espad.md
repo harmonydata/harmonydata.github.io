@@ -20,7 +20,7 @@ The difference in nature of these questionnaires calls for an efficient comparis
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs ESPAD" title="PHQ-9 vs ESPAD" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and ESPAD " url="https://harmonydata.ac.uk/app" >}}
 

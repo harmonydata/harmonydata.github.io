@@ -21,7 +21,7 @@ When comparing questionnaires like PHQ-9 and CRISIS, researchers are faced with 
 Harmony specializes in the harmonisation of questionnaires like PHQ-9 and CRISIS, thus taking the burden off the shoulders of researchers. By using Harmony's user-friendly web interface at https://harmonydata.ac.uk/app, researchers can either select instruments from the database or upload their own in PDF form. The AI-powered software then computes a percentage match between each item in PHQ-9 and CRISIS, making it easier than ever for psychologists to make accurate comparisons and draw insight from the data.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs CRISIS" title="PHQ-9 vs CRISIS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and CRISIS " url="https://harmonydata.ac.uk/app" >}}
 

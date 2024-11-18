@@ -16,7 +16,7 @@ The comparison between *CES-D vs EPDS* is significant for psychologists striving
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs EPDS" title="CES-D vs EPDS" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and EPDS " url="https://harmonydata.ac.uk/app" >}}
 

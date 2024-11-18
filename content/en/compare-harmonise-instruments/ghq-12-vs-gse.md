@@ -16,7 +16,7 @@ The Harmony software can significantly simplify the process of item and data har
 
 Harmony is particularly impressive because it can easily handle item comparison in multiple languages, making it an invaluable resource for psychologists conducting cross-cultural studies. Comparing GHQ 12 vs GSE might initially seem challenging due to the multidimensional nature of both scales, but Harmony's artificial intelligence takes this complexity in its stride, providing reliable and consistent results irrespective of the languages in which the questionnaires are administered. Furthermore, with the capabilities to select necessary instruments from Harmony's extensive database or upload customized instruments in PDF format, it makes comparing GHQ 12 vs GSE remarkably straightforward. Simply visit Harmony's web interface: https://harmonydata.ac.uk/app to make use of this invaluable tool. The harmonisation process not only becomes convenient but also ensures the integrity and consistency of your research results.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs GSE" title="GHQ 12 vs GSE" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and GSE " url="https://harmonydata.ac.uk/app" >}}
 

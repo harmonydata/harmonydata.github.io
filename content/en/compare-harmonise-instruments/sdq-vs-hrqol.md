@@ -16,7 +16,7 @@ SDQ vs HRQOL: Streamlining the Comparison Process The task of comparing and harm
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs HRQOL" title="SDQ vs HRQOL" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and HRQOL " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Comparing the use of different psychological measurement tools such as the Beck 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs AISS" title="Beck Anxiety Inventory vs AISS" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and AISS " url="https://harmonydata.ac.uk/app" >}}
 

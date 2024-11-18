@@ -16,7 +16,7 @@ Harmonization of questionnaire items is an integral part of psychology research.
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs BITSEA" title="CES-D vs BITSEA" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and BITSEA " url="https://harmonydata.ac.uk/app" >}}
 

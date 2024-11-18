@@ -16,7 +16,7 @@ TFLB vs ASSIST Comparing questionnaires such as Timeline-Followback Interview (T
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="TFLB vs ASSIST" title="TFLB vs ASSIST" >}}
 
 {{< card heading="Try Harmony" copy="Compare TFLB and ASSIST " url="https://harmonydata.ac.uk/app" >}}
 

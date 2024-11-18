@@ -16,7 +16,7 @@ Comparing psychological assessment tools such as the Strengths and Difficulties 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs ASI" title="SDQ vs ASI" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and ASI " url="https://harmonydata.ac.uk/app" >}}
 

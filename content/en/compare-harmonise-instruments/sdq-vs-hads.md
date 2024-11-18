@@ -16,7 +16,7 @@ In psychology research, comparing tools like the Strengths and Difficulties Ques
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs HADS" title="SDQ vs HADS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and HADS " url="https://harmonydata.ac.uk/app" >}}
 

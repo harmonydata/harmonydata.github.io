@@ -16,7 +16,7 @@ The process of comparing different psychological questionnaires such as PHQ-9 an
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs PSF" title="PHQ-9 vs PSF" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and PSF " url="https://harmonydata.ac.uk/app" >}}
 

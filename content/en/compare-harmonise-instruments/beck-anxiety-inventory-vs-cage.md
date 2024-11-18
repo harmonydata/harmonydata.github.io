@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs CAGE Psychologists and social scientists often need to
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs CAGE" title="Beck Anxiety Inventory vs CAGE" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and CAGE " url="https://harmonydata.ac.uk/app" >}}
 

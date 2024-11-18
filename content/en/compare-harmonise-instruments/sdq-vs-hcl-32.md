@@ -16,7 +16,7 @@ SDQ vs HCL-32 The comparison of the Strengths and Difficulties Questionnaire (SD
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs HCL-32" title="SDQ vs HCL-32" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and HCL-32 " url="https://harmonydata.ac.uk/app" >}}
 

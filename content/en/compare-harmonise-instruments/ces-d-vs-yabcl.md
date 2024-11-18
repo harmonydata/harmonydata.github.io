@@ -16,7 +16,7 @@ CES-D vs YABCL When comparing two paramount psychological questionnaires, CES-D 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs YABCL" title="CES-D vs YABCL" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and YABCL " url="https://harmonydata.ac.uk/app" >}}
 

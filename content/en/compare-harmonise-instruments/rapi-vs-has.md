@@ -16,7 +16,7 @@ Comparing psychiatric questionnaires like RAPI (Rutgers Alcohol Problem Index) a
 
 It uses advanced language processing algorithms to match the specific items of tools like RAPI vs HAS, thereby making cross-study comparisons less challenging and more accurate. Notably, with Harmony's extensive language models, it can produce a percentage match between every item in RAPI vs HAS. Besides, users can easily access the instruments from Harmony's database, or they can upload their own tools in PDF form. This assesses the potential of Harmony to support various studies where a rigorous and dependable harmonisation of questionnaires is necessary. For multilingual studies, Harmony can do a comparison in multiple languages, making it a versatile tool for international research. In conclusion, Harmony presents an innovative solution to ease the process of comparing and analyzing instruments like RAPI vs HAS. Its capacity to minimise the laborious task of manual harmonisation is immensely beneficial for researchers. The RAPI vs HAS comparison becomes straightforward, effective and precise by integrating Harmony into the process. 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="RAPI vs HAS" title="RAPI vs HAS" >}}
 
 {{< card heading="Try Harmony" copy="Compare RAPI and HAS " url="https://harmonydata.ac.uk/app" >}}
 

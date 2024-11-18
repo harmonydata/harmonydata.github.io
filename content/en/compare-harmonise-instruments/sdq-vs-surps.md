@@ -16,7 +16,7 @@ SDQ vs SURPS: An In-Depth Guide on Empirical Comparison The process of comparing
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs SURPS" title="SDQ vs SURPS" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and SURPS " url="https://harmonydata.ac.uk/app" >}}
 

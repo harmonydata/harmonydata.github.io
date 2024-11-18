@@ -16,7 +16,7 @@ Comparing the Strengths and Difficulties Questionnaire (SDQ) and the Anxiety-Rel
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs ARBQ" title="SDQ vs ARBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and ARBQ " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Psychologists often face the challenge of duplicating longitudinal analyses acro
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs MDQ" title="Beck Anxiety Inventory vs MDQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and MDQ " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ When conducting research in psychology and social sciences, the harmonisation of
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs DSS" title="GHQ 12 vs DSS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and DSS " url="https://harmonydata.ac.uk/app" >}}
 

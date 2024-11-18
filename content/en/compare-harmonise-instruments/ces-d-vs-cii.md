@@ -18,7 +18,7 @@ The application of psychology research often necessitates the comparison and har
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs CII" title="CES-D vs CII" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and CII " url="https://harmonydata.ac.uk/app" >}}
 

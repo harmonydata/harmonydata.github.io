@@ -40,7 +40,7 @@ Featuring an easy-to-use web interface, Harmony is designed to streamlines the h
 Thus, the once tedious process of comparing GHQ-12 vs RCADS becomes a breeze with Harmony. Moreover, Harmony's capabilities reach far beyond straightforward English language metrics. Are you needing to compare GHQ-12 vs RCADS across different languages? No problem. Harmony's generative AI models are well-equipped to handle comparisons in multiple languages. Researchers seeking to test the consistency of longitudinal analysis across a number of studies, or detect responses to changing social conditions, will surely find Harmony to be a valuable addition to their toolset. So why wait? Visit https://harmonydata.ac.uk/app today, and experience harmonisation like never before.
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ-12 vs RCADS" title="GHQ-12 vs RCADS" >}}
 
 
 

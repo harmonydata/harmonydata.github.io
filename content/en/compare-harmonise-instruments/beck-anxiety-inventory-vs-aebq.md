@@ -16,7 +16,7 @@ Beck Anxiety Inventory vs AEBQ In the field of psychology, researchers often hav
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="Beck Anxiety Inventory vs AEBQ" title="Beck Anxiety Inventory vs AEBQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare Beck Anxiety Inventory and AEBQ " url="https://harmonydata.ac.uk/app" >}}
 

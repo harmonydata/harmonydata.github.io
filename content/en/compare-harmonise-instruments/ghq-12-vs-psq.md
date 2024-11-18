@@ -26,7 +26,7 @@ Harmony's impressive functionality taps into the potential of large language mod
 The capacity of Harmony's advanced analysis should not be underestimated and is undoubtedly an asset for all research professionals. In comparing GHQ 12 vs PSQ, saving time and guaranteeing a more objective view, Harmony guides researchers towards a unified conclusion. As the landscape of data-driven insights continues to evolve, Harmony paves the way for streamlined psychology research methodologies.
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs PSQ" title="GHQ 12 vs PSQ" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and PSQ " url="https://harmonydata.ac.uk/app" >}}
 

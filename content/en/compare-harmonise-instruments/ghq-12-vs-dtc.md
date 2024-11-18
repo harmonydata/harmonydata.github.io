@@ -16,7 +16,7 @@ Comparing the General Health Questionnaire (GHQ-12) with the Drinking to Cope (D
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs DTC" title="GHQ 12 vs DTC" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and DTC " url="https://harmonydata.ac.uk/app" >}}
 

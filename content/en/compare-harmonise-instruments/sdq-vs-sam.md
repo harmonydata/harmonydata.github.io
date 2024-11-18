@@ -20,7 +20,7 @@ To lessen the difficulty often faced in harmonising these questionnaires manuall
 
 Harmony not only assists researchers in comparing existing instruments from its database but also allows users the flexibility to drag and drop their unique instruments in PDF format into its web interface, hence providing a tailored approach to research. Harmony also stands out in its ability to cater to multi-language comparisons. This exceptional feature is incredibly beneficial when analysing the 'SDQ vs SAM' elements in different linguistic contexts or cross-national studies. As such, Harmony doesn't merely simplify the process of questionnaire harmonisation, but also opens up new avenues for inclusive and comprehensive research. Therefore, when facing an 'SDQ vs SAM' situation, Harmony could be the perfect solution to ensure efficient, objective, and universal comparisons.
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs SAM" title="SDQ vs SAM" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and SAM " url="https://harmonydata.ac.uk/app" >}}
 

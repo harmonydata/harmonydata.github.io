@@ -16,7 +16,7 @@ Psychologists are continuously striving to comprehend the intricate perspectives
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs SHAPS" title="GHQ 12 vs SHAPS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and SHAPS " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Comparisons between different psychological instruments such as the Patient Heal
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="PHQ-9 vs CTS" title="PHQ-9 vs CTS" >}}
 
 {{< card heading="Try Harmony" copy="Compare PHQ-9 and CTS " url="https://harmonydata.ac.uk/app" >}}
 

@@ -16,7 +16,7 @@ Streamlines the Process The process of comparing two measurement tools in psycho
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="GHQ 12 vs GDS" title="GHQ 12 vs GDS" >}}
 
 {{< card heading="Try Harmony" copy="Compare GHQ 12 and GDS " url="https://harmonydata.ac.uk/app" >}}
 

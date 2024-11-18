@@ -16,7 +16,7 @@ CES-D vs MAST When it comes to research in psychology and social sciences, the c
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="CES-D vs MAST" title="CES-D vs MAST" >}}
 
 {{< card heading="Try Harmony" copy="Compare CES-D and MAST " url="https://harmonydata.ac.uk/app" >}}
 

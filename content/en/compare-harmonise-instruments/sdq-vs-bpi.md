@@ -16,7 +16,7 @@ When it comes to analyzing behavioural patterns in children, SDQ (Strengths and 
 
 
 
-{{< image src="images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="SDQ vs BPI" title="SDQ vs BPI" >}}
 
 {{< card heading="Try Harmony" copy="Compare SDQ and BPI " url="https://harmonydata.ac.uk/app" >}}
 

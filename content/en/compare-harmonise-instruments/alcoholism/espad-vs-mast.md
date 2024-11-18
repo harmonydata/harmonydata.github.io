@@ -38,7 +38,7 @@ This analytical software uses natural language processing and generative AI mode
 This significantly reduces the manual labor, making the comparison process streamlined and efficient. With ESPAD vs MAST comparison and many alike, Harmony becomes an unavoidable tool for psychologists and social scientists. The Harmony software's ability to provide item-level comparisons between diverse studies immediately and accurately makes it stand out as a revolutionary tool in the field of research. With Harmony, researchers can make full use of the cohort and longitudinal data not just within, but across different studies, leading to more comprehensive and accurate results.
 
 
-{{< image src="/images/gad7-becks.jpg" alt="dog" title="dog" >}}
+{{< image src="/images/gad7-becks.jpg" alt="ESPAD vs MAST" title="ESPAD vs MAST" >}}
 
 
 

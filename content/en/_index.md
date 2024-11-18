@@ -25,18 +25,19 @@ blocks:
 
  
   links:
+  - heading: Harmony Discovery
+    copy: Find out about the next phase of the Harmony development roadmap
+    url: "https://harmonydata.ac.uk/open-source-for-social-science/discovery"
   - heading: Contribute
     copy: Harmony is in active development and you can contribute.
     url: "https://github.com/harmonydata/harmony"
-  - heading: Raise NLP issue
-    copy: Raise an issue with Harmony's natural language understanding.
-    url: "https://github.com/harmonydata/harmony/issues"
-  - heading: Raise UI issue
-    copy: Rise an issue with Harmony's user interface and graphics.
-    url: "https://github.com/harmonydata/app/issues"
   - heading: Discord
     copy: Join our Discord server.
     url: "https://discord.gg/harmonydata"
+  - heading: Raise NLP issue
+    copy: Raise an issue with Harmony's natural language understanding.
+    url: "https://github.com/harmonydata/harmony/issues"
+
     
   buttons:
   - text: Try Harmony Now!

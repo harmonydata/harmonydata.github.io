@@ -17,6 +17,8 @@ url: "/doxa/"
 {{< /grid >}}
 
 
+
+
 We would like to improve Harmony's matching algorithm. Sometimes, Harmony mistakenly thinks that sentences are similar when a psychologist would consider them dissimilar, or vice versa. We have evaluated Harmony's performance [in this blog post](/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/).
 
 
@@ -81,3 +83,13 @@ The Harmony team has recently published a paper in BMC Psychiatry showing that t
 * 5 May 2024: [Harmony: A global platform for harmonisation, translation and cooperation in mental health](/ai-in-mental-health/harmony-at-lifecourse-seminar/) at  Melbourne Children’s LifeCourse Initiative seminar series.
 * 27 March 2024: [Harmony at AI Camp](/psychology-ai-tool/aicamp-meetup/)
 * 17 August 2023: [Harmony and TIDAL workshop](/ai-in-mental-health/harmony-and-tidal-workshop)
+
+
+
+{{< htmlcode >}}
+
+<button onclick="window.open('https://doxaai.com/competition/harmony-matching');" style="border-width:1px;background-color:rgb(15, 24, 84);color:white;padding:10px;margin:2px;border-radius:4px;">Enter the competition on DOXA</button>
+
+{{< /htmlcode >}}
+
+{{< card heading="Register on DOXA AI" copy="Enter the competition on DOXA AI by fine tuning your own large language model and improve Harmony!" url="https://doxaai.com/competition/harmony-matching" >}}

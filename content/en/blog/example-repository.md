@@ -1,0 +1,38 @@
+---
+title: "Examples repository: Python and R"
+description: "For the users who have been using Harmony in their research, we have created a repository where example R notebooks and Jupyter notebooks can be uploaded"
+date: 2024-11-19
+categories: ["development"]
+image: /images/examples-repo.png
+
+
+url: "/open-source-for-social-science/example-respository/"
+---
+
+For users who have been using Harmony in their research, we have created an example scripts repository here
+
+* https://github.com/harmonydata/harmony_examples
+
+This contains example R notebooks and Jupyter notebooks. You can upload your own example script if you have something to share with the research community.
+
+Example problems that users have been solving included:
+
+
+
+## R examples
+
+* Walkthrough R notebook in R Studio: <a target="new"  href="https://harmonydata.ac.uk/harmony_r_example.nb.html" target="_parent"><img   style="display:inline" src="https://img.shields.io/badge/RStudio-4285F4" alt="Open In R Studio"/></a>
+* Walkthrough R notebook in Google Colab: <a target="new"  href="https://colab.research.google.com/github/harmonydata/experiments/blob/main/Harmony_R_example.ipynb" target="_parent"><img  style="display:inline" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+
+
+## Python examples
+
+* [Walkthrough Python notebook](https://github.com/harmonydata/harmony/blob/main/Harmony_example_walkthrough.ipynb) <a target="new"  href="https://colab.research.google.com/github/harmonydata/harmony/blob/main/Harmony_example_walkthrough.ipynb" target="_parent"><img style="display:inline" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* [Example script to create a crosswalk table on real survey data](https://github.com/harmonydata/harmony_examples/blob/main/create_harmony_crosswalks_in_python.ipynb)  <a target="new"  href="https://colab.research.google.com/github/harmonydata/harmony_examples/blob/main/create_harmony_crosswalks_in_python.ipynb" target="_parent"><img  style="display:inline" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* [Example script to strip prefixes from questions](https://github.com/harmonydata/harmony_examples/blob/main/strip_common_prefixes_from_questions.ipynb)  <a target="new"  href="https://colab.research.google.com/github/harmonydata/harmony_examples/blob/main/strip_common_prefixes_from_questions.ipynb" target="_parent"><img  style="display:inline" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+## Documentation
+
+[View the PDF documentation of the R package on CRAN](https://cran.r-project.org/web/packages/harmonydata/harmonydata.pdf)

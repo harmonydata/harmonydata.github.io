@@ -62,7 +62,7 @@ Three column example with Card shortcodes:
 
 ## How to run the website locally on your computer
 
-Install [Hugo](https://gohugo.io/installation/).
+Install [Hugo](https://gohugo.io/installation/) version 0.92.2.
 
 Install dependencies:
 `npm install`

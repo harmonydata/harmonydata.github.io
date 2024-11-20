@@ -75,7 +75,7 @@ The Harmony team has recently published a paper in BMC Psychiatry showing that t
 
 {{< youtube SyHXRxkO0tQ >}}
 
-*Tutorial on fine tuning your own LLM*
+*Tutorial on fine tuning your own LLM. [Download the notebook used in this tutorial](https://naturallanguageprocessing.com/train-ai/fine-tune-large-language-model-for-sentence-similarity/)*
 
 ## See other events
 

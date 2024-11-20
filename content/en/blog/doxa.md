@@ -72,6 +72,11 @@ The Harmony team has recently published a paper in BMC Psychiatry showing that t
   {{< card heading="Join our Discord" copy="Join the Harmony Discord server. Check out the 🏅「matching-challenge」 channel!" url="https://discord.com/invite/harmonydata" >}}
 {{< /grid >}}
 
+
+{{< youtube SyHXRxkO0tQ >}}
+
+*Tutorial on fine tuning your own LLM*
+
 ## See other events
 
 * 22 November 2024: [Harmony at Women In Data™️ London Chapter](/open-source-for-social-science/women-in-data/)

@@ -63,6 +63,10 @@ languages:
         url: /ada/
         parent: Case studies
         weight: 10
+      - name: Matilda Centre at University of Sydney
+        url: /matilda/
+        parent: Case studies
+        weight: 20
       - name: Help
         weight: 50
       - name: FAQ

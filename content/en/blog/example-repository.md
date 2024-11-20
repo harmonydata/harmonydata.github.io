@@ -5,8 +5,8 @@ date: 2024-11-19
 categories: ["development"]
 image: /images/examples-repo.png
 
-
-url: "/open-source-for-social-science/example-respository/"
+aliases: ["/open-source-for-social-science/example-respository/"]
+url: "/open-source-for-social-science/example-repository/"
 ---
 
 For users who have been using Harmony in their research, we have created an example scripts repository here

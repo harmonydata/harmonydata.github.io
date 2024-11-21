@@ -20,6 +20,9 @@ Speakers: [Thomas Wood](https://freelancedatascientist.net/) ([Fast Data Science
 Date: **10th December 2024**
 
 
+{{< card heading="Register" copy="RSVP to join the AI and LLMs night at the Google Campus on 10 December 2024" url="https://www.meetup.com/london-ai-llms/events/304633572/" >}}
+
+
 
 ## See other Harmony events
 

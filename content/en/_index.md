@@ -85,6 +85,8 @@ blocks:
     url: https://www.youtube.com/watch?v=Okk8tUMDr6g
   - text: Linux (Ubuntu) installation video
     url: https://www.youtube.com/watch?v=enWh0-4I0Sg
+  - text: Example scripts and Jupyter notebooks
+    url: https://github.com/harmonydata/harmony_examples/
   code: |
     ```vshell
     pip install harmonydata
@@ -115,6 +117,8 @@ blocks:
     url: "https://cran.r-project.org/web/packages/harmonydata/index.html"
   - text: Windows installation video
     url: "https://www.youtube.com/watch?v=hFqg6T_BqZc"
+  - text: Example notebooks for RStudio
+    url: https://github.com/harmonydata/harmony_examples/
   code: |
     ```vshell
     # install.packages("devtools") # If you don't have devtools installed already or CRAN is down.

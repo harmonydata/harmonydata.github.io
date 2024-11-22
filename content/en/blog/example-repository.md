@@ -23,6 +23,8 @@ Example problems that users have been solving included:
 
 * Walkthrough R notebook in R Studio: <a target="new"  href="https://harmonydata.ac.uk/harmony_r_example.nb.html" target="_parent"><img   style="display:inline" src="https://img.shields.io/badge/RStudio-4285F4" alt="Open In R Studio"/></a>
 * Walkthrough R notebook in Google Colab: <a target="new"  href="https://colab.research.google.com/github/harmonydata/experiments/blob/main/Harmony_R_example.ipynb" target="_parent"><img  style="display:inline" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* R Markdown to Check for Correspondence between Differently Worded Versions of the Same Scale Item <a target="new"  href="https://github.com/harmonydata/harmony_examples/blob/main/R%20Markdown%20to%20Check%20for%20Correspondence%20between%20Differently%20Worded%20Versions%20of%20the%20Same%20Scale%20Item.Rmd" target="_parent">View on Github</a> - credit to [Deanna Varley](/matilda/)
+* R Script to Check for Matches between Items from Different Scales <a target="new"  href="https://github.com/harmonydata/harmony_examples/blob/main/R%20Script%20to%20Check%20for%20Matches%20between%20Items%20from%20Different%20Scales.R" target="_parent">View on Github</a> - credit to [Deanna Varley](/matilda/)
 
 
 

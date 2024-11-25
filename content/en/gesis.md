@@ -5,7 +5,7 @@ title: "GESIS using Harmony for the EU-funded project Infra4NextGen"
 ## Harmony case study: GESIS using Harmony for the EU-funded project Infra4NextGen
 
 {{< htmlcode >}}
-<img src="/images/GESIS.png" />
+<img src="/images/gesis.jpg" />
 {{</ htmlcode >}}
 
 

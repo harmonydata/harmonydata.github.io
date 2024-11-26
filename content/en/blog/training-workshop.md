@@ -2,7 +2,7 @@
 title: "Harmony training workshop"
 categories: 
   - "ai-in-research"
-image: "/images/women-in-data.png"
+image: "https://fastdatascience.z33.web.core.windows.net/social_images/harmony/anne2/17.jpg"
 date: 2024-10-26
 
 

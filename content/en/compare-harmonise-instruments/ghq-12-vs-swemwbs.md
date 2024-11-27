@@ -6,7 +6,7 @@ date: 2024-11-20
 
 ## GHQ 12 vs SWEMWBS
 
-GHQ 12 vs SWEMWBS When comparing **GHQ 12 vs SWEMWBS**, one of the critical tasks for psychologists and social scientists is to harmonise items from both questionnaires. Harmony, a cutting-edge software tool, has made this process simpler than ever. Developed with Natural Language Processing and generative AI technology, Harmony allows researchers to match and compare questionnaire items, even when they are in different languages.
+When comparing **GHQ 12 vs SWEMWBS**, one of the critical tasks for psychologists and social scientists is to harmonise items from both questionnaires. Harmony, a cutting-edge software tool, has made this process simpler than ever. Developed with Natural Language Processing and generative AI technology, Harmony allows researchers to match and compare questionnaire items, even when they are in different languages.
 
 ## Compare the items in GHQ 12 English and SWEMWBS
 

@@ -58,6 +58,6 @@ There are a number of ways you can help to make this tool better for future user
    * [API](https://github.com/harmonydata/harmonyapi) - the Python API runs with Pydantic and Fast API and is running on an on-prem server enabling the web app to work
    * [Web front end](https://github.com/harmonydata/app) - we welcome feedback and contributions on front end and UX issues
 * You can always [message in Discord](https://discord.gg/harmonydata) and let us know that you're interested in joining the project.
-* Please contribute to our [hackathons](/open-source-for-social-science/hackathon/) and [coding challenges](/doxa/) to help improve the tool
+* Please contribute to our [hackathons](https://fastdatascience.com/ai-in-research/ai-hackathon-machine-learning-hackathon/) and [coding challenges](/doxa/) to help improve the tool
 * We appreciate coming to give talks at events such as [Women In Data™️](/open-source-for-social-science/women-in-data/), [AI|DL](/psychology-ai-tool/aidl-meetup/), [MethodsCon Futures](/ai-in-mental-health/harmony-at-methodscon-futures/), [Pydata](/open-source-for-social-science/pydata-meetup/), [Lifecourse](/ai-in-mental-health/harmony-at-lifecourse-seminar/), and [AI Camp](/psychology-ai-tool/aicamp-meetup/). If you run a similar meetup or community group we are willing to come and talk.
 * Please give feedback, no matter how informal. When we know how people are using the tool, this can help us improve it.

@@ -63,7 +63,7 @@ There are lots of ways you can contribute to Harmony! You can work on code, impr
 
 In particular, the [PDF extraction](/data-harmonisation/extract-process-data-from-questionnaires/) (converting PDFs to structured questionnaire items) is very hard and we have a separate Github repo with examples here: https://github.com/harmonydata/pdf-questionnaire-extraction
 
-We are planning on running a [hackathon](/open-source-for-social-science/hackathon/) focused on this aspect of the tool.
+We are planning on running a [hackathon](https://fastdatascience.com/ai-in-research/ai-hackathon-machine-learning-hackathon/) focused on this aspect of the tool.
 
 Also, other initiatives that could be really useful include:
 

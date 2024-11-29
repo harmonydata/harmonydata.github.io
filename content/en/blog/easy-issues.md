@@ -33,7 +33,7 @@ We would like to expose the "between instrument matches" and the "negation" swit
 
 First of all have a look at our [Large Language Model training and fine tuning challenge](/doxa/)! This is an online competition to train a Large Language Model for mental health data and improve Harmony. You don't need any experience training a Large Language Model before. We provide data. First prize for most accurate LLM is £500 in vouchers!
 
-Secondly, keep an eye out for our next [hackathon](/open-source-for-social-science/hackathon/). We have already run one in 2024 but we are planning more for the future.
+Secondly, keep an eye out for our next [hackathon](/open-source-for-social-science/hackathon/). We have already run one in 2024 but we are planning more for the future. [Find out how to find AI hackathons here](https://fastdatascience.com/ai-in-research/ai-hackathon-machine-learning-hackathon/).
 
 Please also take a look at the issue trackers on our repositories. There are issues tagged as `good first issue` which you can pick up
    * [Python](https://github.com/harmonydata/harmony) - the main core library and the Python package which is on [Pypi](https://pypi.org/project/harmonydata/)

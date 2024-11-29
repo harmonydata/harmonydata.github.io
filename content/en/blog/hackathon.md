@@ -13,7 +13,7 @@ url: "/open-source-for-social-science/hackathon/"
 
 Come and join us for a day of coding, collaboration, and creativity at the Harmony Hackathon! Whether you're a seasoned programmer or just starting out, this event is perfect for anyone interested in tech and innovation. [You can sign up on Eventbrite](https://www.eventbrite.com/e/harmony-hackathon-tickets-887795278577)!
 
-The Hackathon event will be held at Chandler House (UCL), providing a vibrant and inspiring atmosphere for all participants. Get ready to work on exciting projects, learn new skills, and connect with like-minded individuals. Don't miss out on this opportunity to showcase your talents and help us shape the future of research.
+The [AI Hackathon](https://fastdatascience.com/ai-in-research/ai-hackathon-machine-learning-hackathon/) event will be held at Chandler House (UCL), providing a vibrant and inspiring atmosphere for all participants. Get ready to work on exciting projects, learn new skills, and connect with like-minded individuals. Don't miss out on this opportunity to showcase your talents and help us shape the future of research.
 
 **This is an in-person hackathon happening in London on 3 June 2024.**
 

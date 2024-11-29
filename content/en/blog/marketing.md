@@ -36,7 +36,7 @@ In order to raise awareness of [the tool](/psychology-ai-tool/), we have taken t
 In future, we plan to:
 
 * Present at conferences and [workshops](https://harmonydata.ac.uk/harmony-tidal-workshop). This is a great way to connect with potential contributors and collaborators.
-* Attend hackathons and other events. This is a great way to connect with potential contributors and collaborators.
+* Attend [AI hackathons](https://fastdatascience.com/ai-in-research/ai-hackathon-machine-learning-hackathon/) and other events. This is a great way to connect with potential contributors and collaborators.
 
 We hope to attract contributors, build support, and enable Harmony to prosper and develop further in the long term.
 

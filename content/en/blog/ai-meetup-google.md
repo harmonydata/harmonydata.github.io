@@ -11,7 +11,9 @@ url: "/psychology-ai-tool/genai-llms-night/"
 
 {{< youtube MpZLl9gTEIw >}}
 
-We're pleased to announce that the [AI tool](/psychology-ai-tool/) **Harmony** will be showcased at the upcoming **GenAI and LLMs night at Google London** on **10th December**  organised by AI Camp.
+We're pleased to announce that the [AI tool](/psychology-ai-tool/) **Harmony** will be showcased at the upcoming [GenAI and LLMs night at Google London](https://www.aicamp.ai/event/eventdetails/W2024121010) on **10th December**  organised by AI Camp at Google Cloud Startup Hub.
+
+Join AI Camp at Google for deep dive tech talks on AI, GenAI, LLMs and machine learning, food/drink, networking with speakers and fellow developers.
 
 Topic: Harmony, Open source AI tool for psychology research
 
@@ -19,9 +21,25 @@ Speakers: [Thomas Wood](https://freelancedatascientist.net/) ([Fast Data Science
 
 Date: **10th December 2024**
 
+Time: 6pm UK time
 
-{{< card heading="Register" copy="RSVP to join the AI and LLMs night at the Google Campus on 10 December 2024" url="https://www.meetup.com/london-ai-llms/events/304633572/" >}}
+Location: Google Cloud Startup Hub, 4-5 Bonhill St., London
 
+Abstract: In this talk, Thomas Wood and Bettina Moltrecht will discuss using generative AI and LLMs to help researchers discover datasets and compare items in questionnaires such as GAD-7 (used to measure anxiety), even when they are written in different languages.
+
+{{< card heading="Register" copy="RSVP to join the AI and LLMs night at the Google Campus on 10 December 2024" url="https://www.aicamp.ai/event/eventdetails/W2024121010" >}}
+
+
+
+The other talk in the evening will be by [Chris Scammell](https://www.linkedin.com/in/chris-scammell/) of [Conjecture](https://www.conjecture.dev/), titled "Cognitive Software and the (near) Future of AI".
+
+{{< htmlcode >}}
+
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9929.95457833604!2d-0.0856059!3d51.5225968!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761d001d8438af%3A0x97cf57f4991f1ea5!2sGoogle%20Cloud%20Startup%20Hub!5e0!3m2!1sen!2suk!4v1733047070313!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+{{< /htmlcode >}}
 
 
 ## See other Harmony events

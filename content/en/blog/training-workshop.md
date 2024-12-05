@@ -9,6 +9,8 @@ date: 2024-11-26
 url: "/open-source-for-social-science/training-workshop/"
 ---
 
+{{< youtube bD_EOVThXkE >}}
+
 ## Transforming data management with the Harmony Data Tool: A hands-on introduction
 
 We're excited to be partnering with [UK Data Service](https://ukdataservice.ac.uk/) to deliver a practical workshop on how to best use our tools. The session will take place online on 29 November.

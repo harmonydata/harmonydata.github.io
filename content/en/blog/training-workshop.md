@@ -9,7 +9,7 @@ date: 2024-11-26
 url: "/open-source-for-social-science/training-workshop/"
 ---
 
-{{< youtube bD_EOVThXkE >}}
+[Click to view the video of the training session](https://www.youtube.com/watch?v=bD_EOVThXkE)
 
 ## Transforming data management with the Harmony Data Tool: A hands-on introduction
 

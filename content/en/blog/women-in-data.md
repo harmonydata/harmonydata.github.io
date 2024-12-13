@@ -2,6 +2,7 @@
 title: "Harmony at Women In Data™️"
 categories: 
   - "ai-in-research"
+  - "events"
 image: "/images/women-in-data.png"
 date: 2024-10-21
 

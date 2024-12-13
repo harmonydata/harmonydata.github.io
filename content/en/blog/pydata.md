@@ -1,7 +1,7 @@
 ---
 title: "Pydata on 2 July"
 date: 2024-06-23
-categories: ["development"]
+categories: ["development", "events"]
 image: "/images/thomas-wood-pydata.jpg"
 
 aliases:

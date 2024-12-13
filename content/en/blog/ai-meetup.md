@@ -1,6 +1,6 @@
 ---
 title: "Upcoming Tech Talk at AICamp meetup"
-categories: ["data"]
+categories: ["data", "events"]
 image: "/images/aimeetup-londonb.png"
 date: 2024-03-22
 

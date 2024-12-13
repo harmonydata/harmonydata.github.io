@@ -2,8 +2,9 @@
 title: "Harmony at AI|DL meetup"
 categories: 
   - "ai-in-research"
+  - "events"
 image: "/images/aidl.jpg"
-date: 2024-09-20
+date: 2024-10-08
 
 
 aliases:

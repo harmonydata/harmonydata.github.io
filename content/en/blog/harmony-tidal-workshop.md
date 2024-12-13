@@ -2,7 +2,7 @@
 title: Harmony and TIDAL workshop
 description: Collaborating with another team in the Wellcome Trust Data Prize
 date: 2023-08-18
-categories: ["harmony"]
+categories: ["harmony", "events"]
 image: /images/harmony-tidal-workshop.jpg
 
 

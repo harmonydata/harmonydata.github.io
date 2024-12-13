@@ -13,29 +13,35 @@ url: "/psychology-ai-tool/genai-llms-night/"
 
 *Above: video of the [AICamp](https://www.aicamp.ai/) meetup in London on 10 December 2024. Harmony starts at 40:00 - the first talk is by [Chris Scammell](https://www.linkedin.com/in/chris-scammell/) of [Conjecture](https://www.conjecture.dev/)*
 
-We have presented the [AI tool](/psychology-ai-tool/) **Harmony**  at the upcoming [GenAI and LLMs night at Google London](https://www.aicamp.ai/event/eventdetails/W2024121010) on **10th December**  organised by AI Camp at Google Cloud Startup Hub.
+We have presented the [AI tool](/psychology-ai-tool/) **Harmony**  at the [GenAI and LLMs night at Google London](https://www.aicamp.ai/event/eventdetails/W2024121010) on **10th December**  organised by AI Camp at Google Cloud Startup Hub.
 
 AI Camp and Google hosted two deep dive tech talks on AI, GenAI, LLMs and machine learning, with food/drink, networking with speakers and fellow developers.
 
-Topic: Harmony, Open source AI tool for psychology research
+| Topic | Harmony, Open source AI tool for psychology research |
+| ----- | -------- |
+| Speakers | [Thomas Wood](https://freelancedatascientist.net/) ([Fast Data Science](https://fastdatascience.com/)), [Dr Bettina Moltrecht](https://profiles.ucl.ac.uk/60736-bettina-moltrecht) ([UCL](https://ucl.ac.uk)) |
+| Date | **10th December 2024** |
+| Time | 6pm UK time |
+| Location | Google Cloud Startup Hub, 4-5 Bonhill St., London |
+| Abstract | In this talk, Thomas Wood and Bettina Moltrecht discuss using generative AI and LLMs to help researchers discover datasets and compare items in questionnaires such as GAD-7 (used to measure anxiety), even when they are written in different languages. |
 
-Speakers: [Thomas Wood](https://freelancedatascientist.net/) ([Fast Data Science](https://fastdatascience.com/)),  Bettina Moltrecht (UCL)
-
-Date: **10th December 2024**
-
-Time: 6pm UK time
-
-Location: Google Cloud Startup Hub, 4-5 Bonhill St., London
-
-Abstract: In this talk, Thomas Wood and Bettina Moltrecht discuss using generative AI and LLMs to help researchers discover datasets and compare items in questionnaires such as GAD-7 (used to measure anxiety), even when they are written in different languages.
-
+{{< htmlcode >}}
+<!--
 {{< card heading="Register" copy="RSVP to join the AI and LLMs night at the Google Campus on 10 December 2024" url="https://www.aicamp.ai/event/eventdetails/W2024121010" >}}
+-->
+
+{{< /htmlcode >}}
+
+{{< card heading="Download the slides" copy="Slide deck from AI and LLMs night at the Google Campus on 10 December 2024" url="/20241210-harmony-aicamp-google-presentation.pdf" >}}
 
 
-[Download the slides](/20241210-harmony-aicamp-google-presentation.pdf)
+{{< image src="/images/thomas-bettina-aicamp-3-min.jpg" alt="Thomas Wood and Bettina Moltrecht presenting Harmony at AICamp at Google Startup Hub on 10 December 2024" >}}
 
 
-The other talk in the evening was by [Chris Scammell](https://www.linkedin.com/in/chris-scammell/) of [Conjecture](https://www.conjecture.dev/), titled "Cognitive Software and the (near) Future of AI".
+
+The other talk in the evening was by Connor Leahy of [Conjecture](https://www.conjecture.dev/), titled "Cognitive Software and the (near) Future of AI".
+
+
 
 {{< htmlcode >}}
 

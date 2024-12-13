@@ -11,7 +11,7 @@ url: "/psychology-ai-tool/genai-llms-night/"
 
 {{< youtube C7SQdLPR6gs >}}
 
-*Above: video of the [AICamp](https://www.aicamp.ai/) meetup in London on 12 December 2024. Harmony starts at 40:00 - the first talk is by [Chris Scammell](https://www.linkedin.com/in/chris-scammell/) of [Conjecture](https://www.conjecture.dev/)*
+*Above: video of the [AICamp](https://www.aicamp.ai/) meetup in London on 10 December 2024. Harmony starts at 40:00 - the first talk is by [Chris Scammell](https://www.linkedin.com/in/chris-scammell/) of [Conjecture](https://www.conjecture.dev/)*
 
 We have presented the [AI tool](/psychology-ai-tool/) **Harmony**  at the upcoming [GenAI and LLMs night at Google London](https://www.aicamp.ai/event/eventdetails/W2024121010) on **10th December**  organised by AI Camp at Google Cloud Startup Hub.
 
@@ -31,6 +31,8 @@ Abstract: In this talk, Thomas Wood and Bettina Moltrecht discuss using generati
 
 {{< card heading="Register" copy="RSVP to join the AI and LLMs night at the Google Campus on 10 December 2024" url="https://www.aicamp.ai/event/eventdetails/W2024121010" >}}
 
+
+[Download the slides](/20241210-harmony-aicamp-google-presentation.pdf)
 
 
 The other talk in the evening was by [Chris Scammell](https://www.linkedin.com/in/chris-scammell/) of [Conjecture](https://www.conjecture.dev/), titled "Cognitive Software and the (near) Future of AI".

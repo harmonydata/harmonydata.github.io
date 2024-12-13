@@ -11,7 +11,7 @@ url: "/psychology-ai-tool/genai-llms-night/"
 
 {{< youtube C7SQdLPR6gs >}}
 
-*Above: video of the [AICamp](https://www.aicamp.ai/) meetup in London on 10 December 2024. Harmony starts at 40:00 - the first talk is by [Chris Scammell](https://www.linkedin.com/in/chris-scammell/) of [Conjecture](https://www.conjecture.dev/)*
+*Above: video of the [AICamp](https://www.aicamp.ai/) meetup in London on 10 December 2024. Harmony starts at 40:00 - the first talk is by Connor Leahy of [Conjecture](https://www.conjecture.dev/)*
 
 We have presented the [AI tool](/psychology-ai-tool/) **Harmony**  at the [GenAI and LLMs night at Google London](https://www.aicamp.ai/event/eventdetails/W2024121010) on **10th December**  organised by AI Camp at Google Cloud Startup Hub.
 

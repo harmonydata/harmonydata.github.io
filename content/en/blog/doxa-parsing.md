@@ -9,10 +9,10 @@ url: "/doxa-parsing/"
 
 ## Train your own Large Language Model to parse PDFs and win up to £1000 in vouchers!
 
-*Join a competition to train a Large Language Model to improve Harmony's PDF parsing. You don't need to have trained a Large Language Model before.*
+*Join a competition to train a machine learning model to improve Harmony's PDF parsing. You don't need to have trained a machine learning model before.*
 
 {{< grid columns="2" >}}
-  {{< card heading="Register on DOXA AI" copy="Enter the competition on DOXA AI by fine tuning your own large language model and improve Harmony!" url="https://doxaai.com/competition/harmony-parsing" >}}
+  {{< card heading="Register on DOXA AI" copy="Enter the competition on DOXA AI by fine tuning your own model and improve Harmony!" url="https://doxaai.com/competition/harmony-parsing" >}}
   {{< card heading="Join our Discord" copy="Join the Harmony Discord server. Check out the 🏅「matching-challenge」 channel!" url="https://discord.com/invite/harmonydata" >}}
 {{< /grid >}}
 
@@ -22,11 +22,11 @@ url: "/doxa-parsing/"
 We would like to improve Harmony's PDF parsing algorithm. 
 
 
-We would like to improve Harmony with a *fine tuned* large language model. We have teamed up with DOXA AI and made an online competition where you can improve on the off-the-shelf LLMs which we are currently using. You can win up to £1000 in vouchers! [Click here to join the Harmony matching competition on DOXA AI](https://doxaai.com/competition/harmony-parsing).
+We would like to improve Harmony with a *fine tuned* language model. We have teamed up with DOXA AI and made an online competition where you can improve on the off-the-shelf LLMs which we are currently using. You can win up to £1000 in vouchers! [Click here to join the Harmony matching competition on DOXA AI](https://doxaai.com/competition/harmony-parsing).
 
 
 {{< grid columns="2" >}}
-  {{< card heading="Register on DOXA AI" copy="Enter the competition on DOXA AI by fine tuning your own large language model and improve Harmony!" url="https://doxaai.com/competition/harmony-parsing" >}}
+  {{< card heading="Register on DOXA AI" copy="Enter the competition on DOXA AI by fine tuning your own language model and improve Harmony!" url="https://doxaai.com/competition/harmony-parsing" >}}
   {{< card heading="Join our Discord" copy="Join the Harmony Discord server. Check out the 🏅「matching-challenge」 channel!" url="https://discord.com/invite/harmonydata" >}}
 {{< /grid >}}
 
@@ -70,4 +70,4 @@ The prize for the winner of the competition is £1000 in vouchers and the runner
 
 {{< /htmlcode >}}
 
-{{< card heading="Register on DOXA AI" copy="Enter the competition on DOXA AI by fine tuning your own large language model and improve Harmony!" url="https://doxaai.com/competition/harmony-parsing" >}}
+{{< card heading="Register on DOXA AI" copy="Enter the competition on DOXA AI by fine tuning your own language model and improve Harmony!" url="https://doxaai.com/competition/harmony-parsing" >}}

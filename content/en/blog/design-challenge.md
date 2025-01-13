@@ -5,6 +5,7 @@ categories:
 image: "assets/images/Design Challenge Blog Banner.png"
 date: 2025-01-13
 url: "/design-challenge/"
+draft: true
 ---
 
 ## Help us design the next phase of Harmony and win up to £300 in vouchers!

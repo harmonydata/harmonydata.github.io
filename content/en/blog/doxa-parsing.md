@@ -52,6 +52,7 @@ The prize for the winner of the competition is £1000 in vouchers and the runner
 
 ## See other events
 
+* 23 Janaury: [Harmony at AI for Good at Newspeak House](https://harmonydata.ac.uk/psychology-ai-tool/newspeak-house/)
 * 22 November 2024: [Harmony at Women In Data™️ London Chapter](/open-source-for-social-science/women-in-data/)
 * 8 October 2024: [Harmony: a free online tool using LLMs for research in psychology and social sciences](/psychology-ai-tool/aidl-meetup/)  at AI|DL London
 * 11 and 12 September 2024: [Harmony at MethodsCon Futures](/ai-in-mental-health/harmony-at-methodscon-futures/

@@ -38,15 +38,14 @@ Should support high level meta-data ‘browsing’ as well as specific searching
 Core users of this tool will be Researchers, mainly working in mental health related fields but could also be Data Managers or anyone working with mental health meta-data. More detail around user, user requirements and user behaviour will be shared on our [Discord](https://discord.gg/XPSwKzcG8N) discussion channels during the competition.
 
 ## Requirements and Information
+* **1st place: £300 Amazon voucher**
+* **2nd place: £150 Amazon voucher**
 * Participants must sign-up to enter [here](https://forms.gle/hkFiGDFPcraFPQGc9)
 * Discussions and further detailed info to help you with this challenge will be added to our competition [Discord channel](https://discord.gg/XPSwKzcG8N) 
 * Participants are invited to submit wireframes, designs and/or basic prototypes in Figma or similar design tools
 * User flows should be clear or illustrated within the document
 * Submissions can be individual or team-based
 * No limit on number of submissions per person/team
-* Prizes for 1st and 2nd place
-* 1st place: £300 Amazon voucher
-* 2nd place: £150 Amazon voucher
 * Each participant will receive a certificate of participation signed by project leaders
 * Winners will receive a winners certificate indicating how they placed
 * Where a team submits an entry, the prize will be divided between the team, not per person
@@ -67,7 +66,7 @@ Submissions should be made via email to harmonydataproject@gmail.com no later th
 * Links to any prototypes or designs (these can also include hand-drawn, photos or wireframes)
 * Please ensure you also share access to your Figma or any design files or any supporting documentation with  harmonydataproject@gmail.com. 
 * You can add supporting narrative, comments or explanations within your files or separately via email or shared docs.  
-* Note: There will not be an opportunity to present submissions to the judgin team, however if you want to include video or narrative please ensure any links to this are included in your submission.
+* Note: There will not be an opportunity to present submissions to the judging team, however if you want to include video or narrative please ensure any links to this are included in your submission.
 
 
 **Submissions will be judged based on the following criteria:**

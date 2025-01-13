@@ -35,7 +35,7 @@ Filters or sorting criteria can change based on results (we aim to use AI LLM’
 Should support high level meta-data ‘browsing’ as well as specific searching
 
 ## Users
-Core users of this tool will be Researchers, mainly working in mental health related fields but could also be Data Managers or anyone working with mental health meta-data. More detail around user, user requirements and user behaviour will be shared on our [Discord]( discussion channels during the competition.
+Core users of this tool will be Researchers, mainly working in mental health related fields but could also be Data Managers or anyone working with mental health meta-data. More detail around user, user requirements and user behaviour will be shared on our [Discord](https://discord.gg/XPSwKzcG8N) discussion channels during the competition.
 
 ## Requirements and Information
 * Participants must sign-up to enter [here](https://forms.gle/hkFiGDFPcraFPQGc9)

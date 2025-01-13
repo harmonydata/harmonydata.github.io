@@ -15,7 +15,7 @@ Harmony is a platform for researchers to help them discover and compare complex 
 
 Harmony is currently available as a beta version and functionality is limited to harmonisation of meta-data items that a user uploads. The next stage of the project is to deliver additional functionality to the platform and connect with other data discoverability platforms and partners to enable easier discovery of study meta-data. 
 
-##The Challenge - Search and Results representation
+## The Challenge - Search and Results representation
 This design challenge is to design a new discovery page (or pages) that enables users to meaningfully search for meta-data and represent results in a way that is easy to understand. 
 
 Users need the ability to search and view meta-data from studies held on connected data platforms. The search function should be flexible enough to accommodate specific search requests across a wide range of subjects and also allow a user to filter or organise results in a meaningful way.
@@ -28,16 +28,16 @@ To sign up for this challenge, please [register](https://forms.gle/pWhDw2ksUiUqf
 {{< /grid >}}
 
 
-##Considerations
+## Considerations
 Study meta-data is not necessarily consistent across studies
 Labels and categories can use similar but different terms
 Filters or sorting criteria can change based on results (we aim to use AI LLM’s to determine things like filters based on results)
 Should support high level meta-data ‘browsing’ as well as specific searching
 
-##Users
+## Users
 Core users of this tool will be Researchers, mainly working in mental health related fields but could also be Data Managers or anyone working with mental health meta-data. More detail around user, user requirements and user behaviour will be shared on our [Discord]( discussion channels during the competition.
 
-##Requirements and Information
+## Requirements and Information
 * Participants must sign-up to enter [here](https://forms.gle/hkFiGDFPcraFPQGc9)
 * Discussions and further detailed info to help you with this challenge will be added to our competition [Discord channel](https://discord.gg/XPSwKzcG8N) 
 * Participants are invited to submit wireframes, designs and/or basic prototypes in Figma or similar design tools
@@ -51,7 +51,7 @@ Core users of this tool will be Researchers, mainly working in mental health rel
 * Winners will receive a winners certificate indicating how they placed
 * Where a team submits an entry, the prize will be divided between the team, not per person
 
-##Schedule
+## Schedule
 * Challenge and Sign-Up opens: 13th January 2025
 * Online Project Orientation and Q&A Session with Harmony Product Team - **date TBC**
 * [Discord Channel](https://discord.gg/XPSwKzcG8N) discussions and updates - ongoing - **Product Team available directly via Discord**
@@ -59,10 +59,10 @@ Core users of this tool will be Researchers, mainly working in mental health rel
 * Winners will be announced the following week on: Monday 24th March 2025
 
 
-##Submissions
+## Submissions
 Submissions should be made via email to harmonydataproject@gmail.com no later than 17th March 2025. Submissions do not necessarily need to be polished designs or working prototypes, however partcipants are encouraged to submit a file with clear ideas or wireframes that can be easily visualised by the judging team. 
 
-In your submission, you should include:
+**In your submission, you should include:**
 * An explanation of your design approach and reasoning
 * Links to any prototypes or designs (these can also include hand-drawn, photos or wireframes)
 * Please ensure you also share access to your Figma or any design files or any supporting documentation with  harmonydataproject@gmail.com. 
@@ -70,7 +70,7 @@ In your submission, you should include:
 * Note: There will not be an opportunity to present submissions to the judgin team, however if you want to include video or narrative please ensure any links to this are included in your submission.
 
 
-Submissions will be judged based on the following criteria:
+**Submissions will be judged based on the following criteria:**
 * Innovation and creativity of approach
 * How well it meets users needs
 * Usability and intuitiveness of designs

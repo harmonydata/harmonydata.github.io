@@ -13,7 +13,7 @@ url: "/doxa-parsing/"
 
 {{< grid columns="2" >}}
   {{< card heading="Register on DOXA AI" copy="Enter the competition on DOXA AI by fine tuning your own model and improve Harmony!" url="https://doxaai.com/competition/harmony-parsing" >}}
-  {{< card heading="Join our Discord" copy="Join the Harmony Discord server. Check out the 🏅「matching-challenge」 channel!" url="https://discord.com/invite/harmonydata" >}}
+  {{< card heading="Join our Discord" copy="Join the Harmony Discord server. Check out the 🏅「parsing-challenge」 channel!" url="https://discord.com/invite/harmonydata" >}}
 {{< /grid >}}
 
 
@@ -27,7 +27,7 @@ We would like to improve Harmony with a *fine tuned* language model. We have tea
 
 {{< grid columns="2" >}}
   {{< card heading="Register on DOXA AI" copy="Enter the competition on DOXA AI by fine tuning your own language model and improve Harmony!" url="https://doxaai.com/competition/harmony-parsing" >}}
-  {{< card heading="Join our Discord" copy="Join the Harmony Discord server. Check out the 🏅「matching-challenge」 channel!" url="https://discord.com/invite/harmonydata" >}}
+  {{< card heading="Join our Discord" copy="Join the Harmony Discord server. Check out the 🏅「parsing-challenge」 channel!" url="https://discord.com/invite/harmonydata" >}}
 {{< /grid >}}
 
 
@@ -66,7 +66,7 @@ The prize for the winner of the competition is £1000 in vouchers and the runner
 
 {{< htmlcode >}}
 
-<button onclick="window.open('https://doxaai.com/competition/harmony-matching');" style="border-width:1px;background-color:rgb(15, 24, 84);color:white;padding:10px;margin:2px;border-radius:4px;">Enter the competition on DOXA</button>
+<button onclick="window.open('https://doxaai.com/competition/harmony-parsing');" style="border-width:1px;background-color:rgb(15, 24, 84);color:white;padding:10px;margin:2px;border-radius:4px;">Enter the competition on DOXA</button>
 
 {{< /htmlcode >}}
 

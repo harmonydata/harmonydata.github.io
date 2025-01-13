@@ -29,7 +29,7 @@ Congratulations! look out for an email from us with your prize
 
 
 **2nd Place 🥈** {{< htmlcode >}}<br/>{{< /htmlcode >}}
-'Raafi' @rafa, with a very close 2nd place MAE of 20.544 {{< htmlcode >}}<br/>{{< /htmlcode >}}
+[Rafi Ahmed Riyaz Ahmed Patel](https://www.linkedin.com/in/rafi-ahmed-patel-bb2954202) @rafa, with a very close 2nd place MAE of 20.544 {{< htmlcode >}}<br/>{{< /htmlcode >}}
 Prize: **£250** in Amazon Vouchers {{< htmlcode >}}<br/>{{< /htmlcode >}}
 Well done 👏👏👏 your prize will be emailed to you soon
 

@@ -23,7 +23,7 @@ The final scoreboard:
 
 
 **1st Place 🏅** {{< htmlcode >}}<br/>{{< /htmlcode >}}
-'End' @oreug, with an impressive MAE (mean absolute error) of 20.348 {{< htmlcode >}}<br/>{{< /htmlcode >}}
+[José Inés Martínez Berard](https://www.linkedin.com/in/jos%C3%A9-in%C3%A9s-mart%C3%ADnez-berard-7b86a9222/) 'End' @oreug, with an impressive MAE (mean absolute error) of 20.348 {{< htmlcode >}}<br/>{{< /htmlcode >}}
 Prize: **£500** in Amazon Vouchers {{< htmlcode >}}<br/>{{< /htmlcode >}}
 Congratulations! look out for an email from us with your prize
 

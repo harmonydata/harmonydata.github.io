@@ -85,6 +85,10 @@ languages:
         parent: Help
         weight: 30
         url: /developer-guide/
+      - name: Releases
+        parent: Help
+        weight: 35
+        url: /releases/
       - name: Issue tracker
         parent: Help
         weight: 50

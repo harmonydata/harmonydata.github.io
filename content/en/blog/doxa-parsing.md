@@ -31,6 +31,18 @@ We would like to improve Harmony with a *fine tuned* language model. We have tea
 {{< /grid >}}
 
 
+## Webinar
+
+We will be running a webinar to introduce the challenge, where you can ask questions:
+
+* Topic: Introduction to Harmony Parsing Challenge (recorded)
+* Time: Jan 29, 2025 02:00 PM London
+* Join Zoom Meeting
+* https://us02web.zoom.us/j/88495445590?pwd=Ij9QLxbFGABVB6ecIZ2718PTMSGujn.1
+* Meeting ID: 884 9544 5590
+* Passcode: 587070
+
+
 
 ## What about data?
 

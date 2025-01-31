@@ -54,8 +54,8 @@ Core users of this tool will be Researchers, mainly working in mental health rel
 * Challenge and Sign-Up opens: 13th January 2025
 * Online Project Orientation and Q&A Session with Harmony Product Team - **date TBC**
 * [Discord Channel](https://discord.gg/XPSwKzcG8N) discussions and updates - ongoing - **Product Team available directly via Discord**
-* Submission deadline: Monday 17th March 2025
-* Winners will be announced the following week on: Monday 24th March 2025
+* Submission deadline: Monday 24th March 2025
+* Winners will be announced the following week on: Monday 31st March 2025
 
 
 ## Submissions
@@ -84,6 +84,7 @@ All participants will receive a certificate of participation or, if successful, 
 
 ## See other events
 
+* 17/18 March: [Harmony at AI UK: The Alan Turing Institute](https://ai-uk.turing.ac.uk)
 * 23 Janaury: [Harmony at AI for Good at Newspeak House](https://harmonydata.ac.uk/psychology-ai-tool/newspeak-house/)
 * 22 November 2024: [Harmony at Women In Data™️ London Chapter](/open-source-for-social-science/women-in-data/)
 * 8 October 2024: [Harmony: a free online tool using LLMs for research in psychology and social sciences](/psychology-ai-tool/aidl-meetup/)  at AI|DL London

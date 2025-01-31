@@ -2,7 +2,7 @@
 title: "Help Design Harmony - UX Design Challenge"
 categories: 
   - "development"
-image: "/images/Design_Challenge_New.png"
+image: "/images/Design_Challenge_New_Date.png" 
 date: 2025-01-13
 url: "/design-challenge/"
 ---

@@ -6,7 +6,7 @@ blocks:
 - block: features-4
   padding: top
   heading: Projects and Partners
-  subheading: We have a number of ongoing parterships
+  subheading: We have a number of ongoing parterships. Harmony has been funded by the Economic and Social Research Council (ESRC) and by Wellcome as part of the Wellcome Data Prize in Mental Health.
   cards: 
   - heading: Catalogue of Mental Health Measures
     description: |-

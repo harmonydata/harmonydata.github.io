@@ -27,10 +27,10 @@ blocks:
   links:
   - heading: Harmony Discovery
     copy: Find out about the next phase of the Harmony development roadmap
-    url: "https://harmonydata.ac.uk/open-source-for-social-science/discovery"
+    url: "/open-source-for-social-science/discovery"
   - heading: Contribute
     copy: Harmony is in active development and you can contribute.
-    url: "https://github.com/harmonydata/harmony"
+    url: "/open-source-for-social-science/contributing-to-harmony-nlp-project/"
   - heading: Discord
     copy: Join our Discord server.
     url: "https://discord.gg/harmonydata"

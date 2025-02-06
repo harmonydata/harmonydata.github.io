@@ -9,7 +9,26 @@ url: "/open-source-for-social-science/contributing-to-harmony-nlp-project/"
 
 Thank you for considering contributing to the Harmony project. This guide consolidates all the resources, tools, and tips you need to start contributing effectively. We value your input, no matter what skill set you have - whether you’re a developer, researcher, or data and AI enthusiast, or even if you’re in an entirely different field.
 {{< youtube cEZppTBj1NI >}}
+
+
+## Table of Contents
+
+1. [Getting started with Harmony](#getting-started-with-harmony)
+2. [Contributing to Harmony as a user](#contributing-to-harmony-as-a-user-eg-a-social-scientist-or-other-researcher)
+-  [Using Harmony from Python and R libraries](#using-harmony-from-python-and-r-libraries)
+-  [How you can help the Harmony project](#how-you-can-help-the-harmony-project)
+3. [Contributing to Harmony as a developer](#contributing-to-harmony-as-a-developer)
+-  [Where is the source code?](#where-is-the-source-code)
+-  [Installing Harmony](#installing-harmony)
+-  [What should I work on?](#what-should-i-work-on)
+-  [Coding Standards](#coding-standards)
+-  [Unit tests and code stability](#unit-tests-and-code-stability)
+-  [Forking and Submitting a Pull Request (PR)](#forking-and-submitting-a-pull-request-pr)
+-  [Troubleshooting the code base](#troubleshooting-the-code-base)
+4. [Additional Resources](#additional-resources)
+
 ## Getting started with Harmony
+
 We recommend that you try the free web tool: [Harmony App](https://harmonydata.ac.uk/app) to understand how the tool works and what it does.
 Join our [Discord Server](https://discord.gg/harmonydata), where you can interact with users and contributors, ask questions, and collaborate on ideas.
 Please also follow us on social media platforms: [Twitter](https://twitter.com/harmony_data), [LinkedIn](https://www.linkedin.com/company/harmonydata/), [Facebook](#Facebook-link), [YouTube](https://www.youtube.com/@harmonydata).
@@ -26,12 +45,16 @@ There are two ways you can use Harmony in your work:
 1. Using the Harmony web app from your browser at https://harmonydata.ac.uk/app
 2. Using Harmony from code, via the Python or R library.
 
+### Using Harmony from Python and R libraries
+
 Some academic users start off on the web tool, and then switch to the [Python](https://github.com/harmonydata/harmony) or [R library](https://github.com/harmonydata/harmony_r) and work in Jupyter Notebooks or R Markdown to use the tool as part of their workflow.
 
 We have some example notebooks to help you get started with the Python and R libraries:
 * [Python Colab notebook](https://colab.research.google.com/github/harmonydata/harmony/blob/main/Harmony_example_walkthrough.ipynb)
 * [R markdown](https://harmonydata.ac.uk/harmony_r_example.nb.html)
 * [R Colab notebook](https://colab.research.google.com/github/harmonydata/experiments/blob/main/Harmony_R_example.ipynb)
+
+### How you can help the Harmony project
 
 Here’s how you can help the project:
 
@@ -51,12 +74,15 @@ Harmony’s source code is all public and it’s under [source control](https://
 
 You are welcome to make your contributions to the library at any time. You can also come to our hackathons and [other events](/events/) and contribute in person.
 
-### Where is everything?
+### Where is the source code?
 
 We have four main repositories on Github under the [harmonydata](https://github.com/harmonydata/) organisation:
 
-1. Harmony Python library: https://github.com/harmonydata/harmony - this is everything to do with the NLP logic of Harmony. This is the main core library and the Python package which is on [Pypi](https://pypi.org/project/harmonydata/).
-2. Harmony API: https://github.com/harmonydata/harmonyapi - the Python API runs with Pydantic and Fast API. You can run this locally. The public Harmony web app is running this application as a Docker container on an on-prem server (CentOS, 16 GB).
+
+{{< image src="/images/harmony-repos.png" title="Harmony repos" >}}
+
+1. Harmony Python library: https://github.com/harmonydata/harmony - this is everything to do with the NLP logic of Harmony. This is the main core library and the Python package which is on [Pypi](https://pypi.org/project/harmonydata/). We regularly release new versions of the Python package to Pypi from this repository using Github actions. The Python repository is included in the API repository as a submodule.
+2. Harmony API: https://github.com/harmonydata/harmonyapi - the Python API runs with Pydantic and Fast API. You can run this locally. The public Harmony web app is running this application as a Docker container on an on-prem server (CentOS, 16 GB). Please note that the API repository **includes the Python repository as a submodule**. So when you clone this repository you need to include `--recurse-submodules`, e.g. `git clone --recurse-submodules git@github.com:harmonydata/harmonyapi.git`
 3. Harmony front end: https://github.com/harmonydata - this is everything to do with the front end and graphical interface of Harmony. We welcome feedback and contributions on front end and UX issues.
 4. R: https://github.com/harmonydata/harmony_r - the R port is on [CRAN](https://cran.r-project.org/web/packages/harmonydata/index.html) and it is slightly less mature than Python so we really appreciate if you can help move the R package forward.
 
@@ -97,11 +123,16 @@ You can also ask on Discord if you have any questions about how best to contribu
 
 It’s a good idea to check the open pull requests to check that nobody has already worked on that issue and submitted code back to the main project. For example, here are the pull requests for the Python library: https://github.com/harmonydata/harmony/pulls
 
-### Coding Harmony
+### Coding Standards
 
 Harmony is mostly coded in Python. We use [Pycharm IDE](https://www.jetbrains.com/pycharm/) by JetBrains. Please ensure you are familiar with Python, [HuggingFace](https://huggingface.co/), and [FastAPI](https://fastapi.tiangolo.com/), or Javascript and [React](https://react.dev/) if you want to work on the front end.
 
 * Please use  [Pycharm default linter](https://www.reddit.com/r/pycharm/comments/mm77el/what_is_the_default_linter_in_pycharm/) - this is a set of rules of how many whitespace characters are allowed in a line, and in general provides consistency for formatting of human readable code and comments. If you use a different one (such as VS Code's linter, or pylint), this will make the code history hard to follow, so please be consistent. If one person uses spaces and another uses tabs, it's hard to manage it and keep track of code changes. 
+
+See the example screenshot below of Pycharm's formatter to format your code correctly:
+
+{{< image src="/images/pycharm-lint.png" title="Pycharm Linter" >}}
+
 * Please run unit tests before pushing. We use test driven development. That means that every commit gets tested automatically by Github and will get a green tick or red cross if the tests pass or fail. All the repos have tests in a folder called `tests` and you can run them on your computer and Github actions will run them when you commit. They will tell you if you break any functionality.
 * Check your PR hasn’t got any extra files made by your IDE that shouldn’t be committed, such as .vscode or DS_Store (Mac). It's a common mistake for beginners to bulk commit the entire contents of a directory including files which are not part of the project. For example, Mac puts extra hidden files inside folders when you open them in the file browser. Try not to let them clutter our code base. They make code hard to manage and in some cases can break the tool.
 
@@ -118,13 +149,11 @@ Since the API repo includes the Python library as a [submodule](https://git-scm.
 Finally, the app repo [https://github.com/harmonydata/app](https://github.com/harmonydata/app) is the React front end. Please check you can run this repo locally also before you start contributing. To point the front end repo to a local copy of your API repo, please change the file [.env](https://github.com/harmonydata/app/blob/master/.env) to point to `http://localhost:8000`.
 
 
-### Workflow for contributing
+### Forking and Submitting a Pull Request (PR)
 
 The preferred workflow for contributing to Harmony’s repository is to fork the repository that you’re working on, such as [the Python library](https://github.com/harmonydata/harmony/), on GitHub, clone, and develop on a new branch.
 
 When you’re done, please run all unit tests and you can submit your changes back to the main project as a pull request. If you have worked on the core Python library, please also test your changes in the context of the Python API.
-
-### Process of forking and making a pull request
 
 If you are able to fix an issue, please feel free to submit your code back to the project by [making a pull request](https://github.blog/developer-skills/github-education/beginners-guide-to-github-merging-a-pull-request) (PR) but if you don't know how to do that, don't worry! You can always send us your work on Discord or by email. Here's a brief overview of the steps for making a pull request.
 
@@ -171,7 +200,7 @@ Always use a feature branch. It’s good practice to never work on the main bran
 8. When finished, push the changes to your GitHub account with: `git push --set-upstream origin my-feature-branch`
 9. Follow [these instructions](https://help.github.com/articles/creating-a-pull-request-from-a-fork) to create a pull request from your fork. If your work is still work in progress, open a draft pull request.
 
-### Making a good pull request
+#### Making a good pull request
 
 We recommend to open a pull request early, so that other contributors become aware of your work and can give you feedback early on.
 
@@ -181,7 +210,14 @@ Please don’t make huge changes, such as adding many third party dependencies t
 
 If you introduce a new feature, please can you document it, for example by making a script example in the [script examples repository](https://github.com/harmonydata/harmony_examples) so that people will know how to use it.
 
-### Help on Git and pull requests
+Please write clear commit messages:
+
+1. Structure your commit messages clearly and include the purpose of the change.
+2. Use issue numbers for tracking, e.g., `Fix bug in NLP model (#54)`. Github will detect the # in the message and automatically display your commit under the corresponding issue, which means that anyone can easily see that a particular issue has related commits, and vice versa.
+
+
+#### Help on Git and pull requests
+
 If any of the above seems like magic to you, look up the [Git documentation](https://gitscm.com/documentation). If you get stuck, chat with us on [Discord](https://discord.gg/harmonydata), or contact us at [harmonydata.ac.uk](https://harmonydata.ac.uk/contact).
 
 ### Troubleshooting the code base
@@ -200,3 +236,8 @@ git clone --recurse-submodules https://github.com/harmonydata/harmonyapi.git
 ```
 
 
+
+## Additional Resources
+
+1. [FAQ](https://harmonydata.ac.uk/frequently-asked-questions/)
+2. [Formatting Help](https://harmonydata.ac.uk/open-source-for-social-science/formatting-help/)

@@ -42,7 +42,7 @@ blocks:
       text: "Economic and Social Research Council"
       url: https://www.ukri.org/councils/esrc/
     image: /images/ukri_esrc.png
-    description: "ESRC is the UK’s largest funder of economic, social, behavioural and human data science."
+    description: "ESRC is the UK’s largest funder of economic, social, behavioural and human data science. ESRC has funded Harmony from 2024 to 2025."
   - heading: Centre for Longitudinal Studies
     button:
       text: "Economic and Social Research Council"

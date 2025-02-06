@@ -81,10 +81,10 @@ languages:
         parent: Help
         weight: 20
         url: /open-source-for-social-science/formatting-help/
-      - name: Developer guide
+      - name: Contributing to Harmony
         parent: Help
         weight: 30
-        url: /developer-guide/
+        url: /open-source-for-social-science/contributing-to-harmony-nlp-project/
       - name: Releases
         parent: Help
         weight: 35

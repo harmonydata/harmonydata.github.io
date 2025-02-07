@@ -49,6 +49,18 @@ There are two ways you can use Harmony in your work:
 
 Some academic users start off on the web tool, and then switch to the [Python](https://github.com/harmonydata/harmony) or [R library](https://github.com/harmonydata/harmony_r) and work in Jupyter Notebooks or R Markdown to use the tool as part of their workflow.
 
+#### Python installation
+
+1. In your command line (terminal), type `pip install harmonydata`
+2. In your Python code you can import Harmony with `import harmony`
+
+#### R installation
+
+1. Run `install.packages("harmonydata")` to install the package
+2. Import it with `library(harmonydata)`
+
+#### Example walkthrough notebooks in Python and R
+
 We have some example notebooks to help you get started with the Python and R libraries:
 * [Python Colab notebook](https://colab.research.google.com/github/harmonydata/harmony/blob/main/Harmony_example_walkthrough.ipynb)
 * [R markdown](https://harmonydata.ac.uk/harmony_r_example.nb.html)
@@ -65,7 +77,7 @@ Here’s how you can help the project:
 5. Attend events or invite us to talk. Please come to some of our in-person [events](/events/), and we are also interested in any opportunities to speak at your event.
 6. Share data. If you have any data that you’re trying to harmonise with Harmony and it’s not sensitive or restricted, please share it with us so that we can see how people are using the tool and understand what kind of input it should expect.
 7. Share example notebooks and scripts. If you have a Jupyter notebook, R markdown, R Studio files or similar, please upload them to https://github.com/harmonydata/harmony_examples and other people can see how you’ve been using Harmony.
-
+8. Engage with the community - write posts on Discord, LinkedIn, etc, and share how you think the tool could be used or improved.
 
 
 ## Contributing to Harmony as a developer 
@@ -99,13 +111,57 @@ You can use Windows, Linux or Mac. We have made some videos to help you install 
 
 Here are the steps to get started:
 
-* First clone the repository from Git. If you're not familiar with Git and Github, we recommend you watch a tutorial on Git first ([example video tutorial on Git](https://www.youtube.com/watch?v=USjZcfj8yxE))
-* Install Python 3.11
+#### Working on Harmony in Python
+
+If you just want to use the Python library without editing it, you can install it with `pip install harmonydata`. However, if you want to edit the source code, you will need to get it running from source.
+
+* First clone the [Python repository](https://github.com/harmonydata/harmony) from Git: `git clone git@github.com:harmonydata/harmony.git`. If you're not familiar with Git and Github, we recommend you watch a tutorial on Git first ([example video tutorial on Git](https://www.youtube.com/watch?v=USjZcfj8yxE))
+* Install Python 3.11 or later  (we recommend using Anaconda and Jupyter Notebook)
 * Install Pycharm
 * Install Jupyter Notebooks
-* Run the [example Colab notebook](https://colab.research.google.com/github/harmonydata/harmony/blob/main/Harmony_example_walkthrough.ipynb)
-* We recommend Anaconda and Jupyter Notebook
-* Then you can do `pip install harmonydata` to install Harmony once Python has been installed.
+* Run the [example Colab notebook](https://colab.research.google.com/github/harmonydata/harmony/blob/main/Harmony_example_walkthrough.ipynb) to get a feel for how Harmony can be used
+* If the code is set up correctly, you should be able to run the unit tests in the Python repository correctly.
+
+
+#### Working on Harmony API in Python
+
+The API repository depends on the Python repository, which it contains as a submodule. So when you clone the API repository, please make sure to include `--recurse-submodules`:
+
+```
+git clone --recurse-submodules git@github.com:harmonydata/harmonyapi.git
+```
+
+The API builds as a Docker container, so in addition to the Python library's dependencies, you will need to install FastAPI and Docker. There is a separate `requirements.txt` file for the API repository.
+
+You can run the API with 
+
+```
+python main.py
+```
+
+#### Working on Harmony front end
+
+Clone the [front end repository](https://github.com/harmonydata/app):
+
+```
+git clone git@github.com:harmonydata/app.git
+```
+
+Follow the instructions in the `.env` file to connect it to the Harmony API - you can connect either to the remote API, or to a local API. 
+
+#### Working on Harmony R
+
+Clone the [R repository](https://github.com/harmonydata/harmony_r):
+
+```
+git clone git@github.com:harmonydata/harmony_r.git
+```
+
+Harmony R connects to an API instance. By default it will connect to the remote API at `https://api.harmonydata.ac.uk`, but you can configure this with
+
+```
+harmonydata::set_url()
+```
 
 ### What should I work on?
 
@@ -193,7 +249,7 @@ git checkout -b <feature-branch>
 ```
 
 Always use a feature branch. It’s good practice to never work on the main branch! Name the feature branch after your contribution.
-
+	
 7. Develop your contribution on your feature branch. Add changed files using git add and then git commit files to record your changes in Git:
 `git add <modified_files>`;
 `git commit`

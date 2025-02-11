@@ -1,7 +1,7 @@
 ---
-title: "Event signup"
+title: "Welcome"
 
-url: "/event-signup/"
+url: "/welcome/"
 ---
 
 

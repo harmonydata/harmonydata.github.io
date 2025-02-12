@@ -20,7 +20,7 @@ blocks:
     O projeto Harmony é um projeto de harmonização de dados que usa [ Natural Language Processing ](https://harmonydata.ac.uk/nlp-semantic-text-matching/measuring-the-performance-of-nlp-algorithms/) para ajudar os pesquisadores a fazer melhor uso dos dados existentes de diferentes estudos, apoiando-os com a harmonização de várias medidas e itens usados em diferentes estudos. o Harmony é um projeto de colaboração entre [ Ulster University ](https://ulster.ac.uk/) , [ University College London ](https://ucl.ac.uk/) , a [ Universidade Federal de Santa Maria ](https://www.ufsm.br/) e [ Fast Data Science ](http://fastdatascience.com/) .
 
   buttons:
-  - text: Try Harmony Now!
+  - text: Experimente o Harmony
     url: "https://harmonydata.ac.uk/app"
     style: gradient
     size: large

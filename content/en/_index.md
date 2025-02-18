@@ -15,7 +15,7 @@ blocks:
   heading: "Harmonise questionnaire items with **Harmony**."
   subheading: Harmony is a tool for retrospective harmonisation of questionnaire items.
   copy: |-
-    Do you need to [compare questionnaire items across studies](/compare-harmonise-instruments/gad-7-vs-beck-anxiety-inventory/)? Do you want to find the best match for a set of items? Are there are different versions of the same questionnaire floating around and you want to make sure [how compatible they are](/harmonisation-validation/patient-health-questionnaire-9-phq-9/)? Are the questionnaires [written in different languages](/psychology-ai-tool/harmony-many-languages/) that you would like to compare?
+    Do you need to [compare questionnaire items across studies](/compare-harmonise-instruments/gad-7-vs-beck-anxiety-inventory/)? Do you want to find the best match for a set of items? Are there different versions of the same questionnaire floating around and you want to make sure [how compatible they are](/harmonisation-validation/patient-health-questionnaire-9-phq-9/)? Are the questionnaires [written in different languages](/psychology-ai-tool/harmony-many-languages/) that you would like to compare?
 
     The Harmony project is a data harmonisation project that uses [Natural Language Processing](https://fastdatascience.com/guide-natural-language-processing-nlp/) to help researchers make better use of existing data from different studies by supporting them with the harmonisation of various measures and items used in different studies. Harmony is a collaboration project between [Ulster University](https://ulster.ac.uk/), [University College London](https://ucl.ac.uk/), the [Universidade Federal de Santa Maria](https://www.ufsm.br/), and [Fast Data Science](http://fastdatascience.com/).  Harmony has been funded by the [Economic and Social Research Council (ESRC)](https://www.ukri.org/councils/esrc/) and by [Wellcome](https://wellcome.org/) as part of the [Wellcome Data Prize in Mental Health](https://wellcome.org/grant-funding/schemes/wellcome-mental-health-data-prize).
     
@@ -214,7 +214,7 @@ blocks:
   superheading: "**HARMONY**"
   heading: A global platform for contextual harmonisation, translation and cooperation in mental health research
   copy: |
-    We aim to promote better integration of data harmonisation in mental health research through a natural language processing harmonisation tool (Harmony), allowing researchers to compare data from existing studies to investigate the active ingredients of mental health. Led by Dr Eoin McElroy from Ulster University and Dr Bettina Moltrecht from University College London, the team will develop and demonstrate Harmony to answer research questions around human connection and its influence on the development of depression and anxiety in young people.
+    We aim to promote better integration of data harmonisation in mental health research through a natural language processing harmonisation tool (Harmony), allowing researchers to compare data from existing studies to investigate the active ingredients of mental health. Led by Dr Eoin McElroy from Ulster University and Dr Bettina Moltrecht from University College London, the team will develop Harmony to answer research questions around human connection and its influence on the development of depression and anxiety in young people.
 
 ---
 

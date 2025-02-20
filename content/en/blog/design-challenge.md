@@ -59,7 +59,7 @@ Core users of this tool will be Researchers, mainly working in mental health rel
 
 
 ## Submissions
-Submissions should be made via email to harmonydataproject@gmail.com no later than 17th March 2025. Submissions do not necessarily need to be polished designs or working prototypes, however partcipants are encouraged to submit a file with clear ideas or wireframes that can be easily visualised by the judging team. 
+Submissions should be made via email to harmonydataproject@gmail.com no later than 24th March 2025. Submissions do not necessarily need to be polished designs or working prototypes, however partcipants are encouraged to submit a file with clear ideas or wireframes that can be easily visualised by the judging team. 
 
 **In your submission, you should include:**
 * An explanation of your design approach and reasoning

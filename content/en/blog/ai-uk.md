@@ -3,7 +3,7 @@ title: "Harmony: Official Partner of AI UK 2025"
 categories: 
   - "events"
   - "development"
-image: "images/AI-UK.png" 
+image: "/images/AI-UK.png" 
 date: 2025-02-25
 url: "/ai-uk/"
 ---

@@ -2,49 +2,90 @@
 title: "Welcome"
 
 url: "/welcome/"
+
+layout: blocks
+
+blocks:
+- block: welcome
+  logo: /images/logo-light.svg
+  subheading: |-
+    Harmony is an open source tool which uses AI to help researchers use text data in areas such as mental health. Harmony is a web tool and a Python and R library. Researchers use Harmony to combine (harmonise) questions in questionnaires, where different wording is used, such as "I feel anxious" and "feeling nervous". We are also developing a discovery platform which lets researchers discover datasets.
+  button:
+    text: Find Out More About Harmony
+    url: "/"
+    size: large
+    style: outline
+  heading: Join our Community
+  copy: |-
+    Connect with our community of researchers, developers, AI enthusiasts and designers and become part of our AI for Good mission. Fill out the form below to receive updates, collaborate, and explore opportunities with Harmony.
+  connect: 
+    heading: More ways to connect
+    cards: 
+    - heading: AI Challenges
+      copy: Contribute to real-world AI and coding challenges.
+      button:
+        text: Learn more
+        url: https://harmonydata.ac.uk/challenges/
+      icon: sparkles
+    - heading: Discord Community
+      copy: Join discussions with fellow researchers and developers.
+      button:
+        text: Join
+        url: https://discord.com/invite/harmonydata
+      icon: discord-2
+    - heading: GitHub
+      copy: Access our latest code, tools, and contributions. Become a certified contributor
+      button:
+        text: Join
+        url: https://github.com/harmonydata/harmony
+      icon: github
+    - heading: Connect with us on Socials
+      social:
+        - text: LinkedIn
+          url: https://www.linkedin.com/company/harmonydata/about/?viewAsMember=true
+        - text: Bluesky
+          url: https://bsky.app/profile/harmonydata.bsky.social
+      icon: users
+      
+
+# - block: content
+
+- block: logos-2
+  # padding: top
+  heading: "Our Partners"
+  copy: |-
+    Harmony is a collaboration project between [Ulster University](https://ulster.ac.uk/), [University College London](https://ucl.ac.uk/), the [Universidade Federal de Santa Maria](https://www.ufsm.br/), and [Fast Data Science](http://fastdatascience.com/). Harmony has been funded by the [Economic and Social Research Council (ESRC)](https://www.ukri.org/councils/esrc/) and by [Wellcome](https://wellcome.org/) as part of the [Wellcome Data Prize in Mental Health](https://wellcome.org/grant-funding/schemes/wellcome-mental-health-data-prize).
+  logos:
+  - alt: ucl
+    image: /images/clients/client-2.png
+    url: https://www.ucl.ac.uk/
+  - alt: "CLS"
+    image: /images/cls_logo_red.svg
+    url: https://cls.ucl.ac.uk/
+  - alt: ulster
+    image: /images/clients/client-1.png
+    url: https://www.ulster.ac.uk/
+  - alt: ufsm
+    image: /images/clients/client-3.png
+    url: https://www.ufsm.br/
+  - alt: ukllc
+    image: /images/ukllc.svg
+    url: https://ukllc.ac.uk/
+  - alt: "Mental Health Catalogue"
+    image: /images/mental_health_catalogue.png
+    url: https://www.cataloguementalhealth.ac.uk/
+  - alt: datamind
+    image: /images/datamind.svg
+    url: https://datamind.org.uk
+  - alt: fastdatascience
+    image: /images/clients/client-4.png
+    url: https://fastdatascience.com/
+  - alt: wellcome
+    image: /images/clients/wellcome.gif
+    url: https://wellcome.org/
+  - alt: "UKRI ESRC"
+    image: /images/ukri_esrc.png
+    url: https://www.ukri.org/councils/esrc/
+
 ---
 
-
-## Harmony event signup
-
-{{< htmlcode >}}
-<div id="mc_embed_shell">
-      <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
-  <style type="text/css">
-        #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 600px;}
-        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style><style type="text/css">
-        #mc-embedded-subscribe-form input[type=checkbox]{display: inline; width: auto;margin-right: 10px;}
-#mergeRow-gdpr {margin-top: 20px;}
-#mergeRow-gdpr fieldset label {font-weight: normal;}
-#mc-embedded-subscribe-form .mc_fieldset{border:none;min-height: 0px;padding-bottom:0px;}
-</style>
-<div id="mc_embed_signup">
-    <form action="https://harmonydata.us21.list-manage.com/subscribe/post?u=6c600b2de0b9678055c62637f&amp;id=32eadfb37e&amp;v_id=408&amp;f_id=000483e6f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-        <div id="mc_embed_signup_scroll"><h2>Subscribe</h2>
-            <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-            <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div><div class="mc-field-group"><label for="mce-FNAME">First Name <span class="asterisk">*</span></label><input type="text" name="FNAME" class="required text" id="mce-FNAME" required="" value=""></div><div class="mc-field-group"><label for="mce-LNAME">Last Name <span class="asterisk">*</span></label><input type="text" name="LNAME" class="required text" id="mce-LNAME" required="" value=""></div><div class="mc-field-group"><label for="mce-MMERGE11">Job Title </label><input type="text" name="MMERGE11" class=" text" id="mce-MMERGE11" value=""></div><div class="mc-field-group"><label for="mce-MMERGE6">Discord Tag </label><input type="text" name="MMERGE6" class=" text" id="mce-MMERGE6" value=""></div><div class="mc-field-group"><label for="mce-MMERGE10">Github </label><input type="text" name="MMERGE10" class=" text" id="mce-MMERGE10" value=""></div><div class="mc-field-group input-group"><strong>Which sector do you work in? </strong><ul><li><input type="checkbox" name="group[11838][16384]" id="mce-group[11838]-11838-0" value=""><label for="mce-group[11838]-11838-0">Academic</label></li><li><input type="checkbox" name="group[11838][32768]" id="mce-group[11838]-11838-1" value=""><label for="mce-group[11838]-11838-1">Government</label></li><li><input type="checkbox" name="group[11838][65536]" id="mce-group[11838]-11838-2" value=""><label for="mce-group[11838]-11838-2">Student</label></li><li><input type="checkbox" name="group[11838][131072]" id="mce-group[11838]-11838-3" value=""><label for="mce-group[11838]-11838-3">Industry</label></li><li><input type="checkbox" name="group[11838][262144]" id="mce-group[11838]-11838-4" value=""><label for="mce-group[11838]-11838-4">Third-Sector</label></li><li><input type="checkbox" name="group[11838][524288]" id="mce-group[11838]-11838-5" value=""><label for="mce-group[11838]-11838-5">Other</label></li></ul></div><div class="mc-field-group input-group"><strong>I am interested in </strong><ul><li><input type="checkbox" name="group[11837][64]" id="mce-group[11837]-11837-0" value=""><label for="mce-group[11837]-11837-0">Harmony for Research</label></li><li><input type="checkbox" name="group[11837][128]" id="mce-group[11837]-11837-1" value=""><label for="mce-group[11837]-11837-1">Harmony for other purposes</label></li><li><input type="checkbox" name="group[11837][256]" id="mce-group[11837]-11837-2" value=""><label for="mce-group[11837]-11837-2">Co-Design Activities</label></li><li><input type="checkbox" name="group[11837][512]" id="mce-group[11837]-11837-3" value=""><label for="mce-group[11837]-11837-3">Hackathons</label></li><li><input type="checkbox" name="group[11837][1024]" id="mce-group[11837]-11837-4" value=""><label for="mce-group[11837]-11837-4">AI Challenges</label></li><li><input type="checkbox" name="group[11837][2048]" id="mce-group[11837]-11837-5" value=""><label for="mce-group[11837]-11837-5">Development</label></li><li><input type="checkbox" name="group[11837][4096]" id="mce-group[11837]-11837-6" value=""><label for="mce-group[11837]-11837-6">Research Collaboration</label></li><li><input type="checkbox" name="group[11837][8192]" id="mce-group[11837]-11837-7" value=""><label for="mce-group[11837]-11837-7">Everything</label></li></ul></div><div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group"><div class="content__gdpr"><label>Marketing Permissions</label><p>Please confirm that you agree for us to contact you via email.</p><fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field"><label class="checkbox subfield" for="gdpr97683"><input type="checkbox" id="gdpr_97683" name="gdpr[97683]" class="gdpr" value="Y"><span>Yes, that's fine.</span></label></fieldset><p>You can unsubscribe at any time by clicking the link in the footer of all our emails. We will not share your contact details with any third-parties.</p></div><div class="content__gdprLegal"><p>We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/terms">Learn more</a> about Mailchimp's privacy practices.</p></div></div>
-<div hidden=""><input type="hidden" name="tags" value="3003175"></div>
-        <div id="mce-responses" class="clear foot">
-            <div class="response" id="mce-error-response" style="display: none;"></div>
-            <div class="response" id="mce-success-response" style="display: none;"></div>
-        </div>
-    <div aria-hidden="true" style="position: absolute; left: -5000px;">
-        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
-        <input type="text" name="b_6c600b2de0b9678055c62637f_32eadfb37e" tabindex="-1" value="">
-    </div>
-        <div class="optionalParent">
-            <div class="clear foot">
-                <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
-                <p style="margin: 0px auto;"><a href="http://eepurl.com/iRn2e6" title="Mailchimp - email marketing made easy and fun"><span style="display: inline-block; background-color: transparent; border-radius: 4px;"><img class="refferal_badge" src="https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg" alt="Intuit Mailchimp" style="width: 220px; height: 40px; display: flex; padding: 2px 0px; justify-content: center; align-items: center;"></span></a></p>
-            </div>
-        </div>
-    </div>
-</form>
-</div>
-<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[11]='MMERGE11';ftypes[11]='text';fnames[6]='MMERGE6';ftypes[6]='text';fnames[10]='MMERGE10';ftypes[10]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';fnames[7]='MMERGE7';ftypes[7]='text';fnames[8]='MMERGE8';ftypes[8]='text';fnames[9]='MMERGE9';ftypes[9]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
-
-
-
-{{</ htmlcode >}}

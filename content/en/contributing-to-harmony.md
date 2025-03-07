@@ -149,6 +149,22 @@ git clone git@github.com:harmonydata/app.git
 
 Follow the instructions in the `.env` file to connect it to the Harmony API - you can connect either to the remote API, or to a local API. 
 
+For example, if you are already running the API locally, set `.env` and `.env.development` to:
+
+```
+REACT_APP_API_URL=http://localhost:8000
+REACT_APP_API_EXAMPLES=$REACT_APP_API_URL/text/examples
+REACT_APP_API_PARSE=$REACT_APP_API_URL/text/parse
+REACT_APP_API_MATCH=$REACT_APP_API_URL/text/match
+REACT_APP_API_VERSION=$REACT_APP_API_URL/info/version
+REACT_APP_API_MODELS=$REACT_APP_API_URL/info/list-models
+REACT_APP_ABSOLUTE_URL_PREFIX=http://localhost
+```
+
+Here is a video on how you can install and run both the back end and front end locally on your machine:
+
+{{< youtube 1xp3Uh6dptg >}}
+
 #### Working on Harmony R
 
 Clone the [R repository](https://github.com/harmonydata/harmony_r):
@@ -291,6 +307,13 @@ After you have cloned the repository at https://github.com/harmonydata/harmonyap
 git clone --recurse-submodules https://github.com/harmonydata/harmonyapi.git
 ```
 
+#### Troubleshooting the front end repository after git clone
+
+After you clone the front end, if you want the front end to communicate with your local copy of the API, you need to update `.env` and `.env.development` as described in the section on [Working on Harmony front end](#working-on-harmony-front-end).
+
+If you see an error such as the below, check that your `.env` and `.env.development` are correct. You can also check if it runs connecting to the remote API.
+
+{{< image src="/images/fe-uncaught-runtime-error.png" title="Harmony repos" >}}
 
 
 ## Additional Resources

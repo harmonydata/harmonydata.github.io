@@ -58,6 +58,8 @@ The model is also available on HuggingFace Hub under the model ID [harmonydata/m
 
 Here are the updates to the R library from Omar Hassoun. The R library is on CRAN at: https://cran.r-project.org/web/packages/harmonydata/index.html
 
+Check out the example R notebook in Google Colab:  https://colab.research.google.com/github/harmonydata/experiments/blob/main/Harmony_R_example.ipynb
+
 The new library:
 
 1. lets you see clusters found by Harmony

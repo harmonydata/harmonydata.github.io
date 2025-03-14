@@ -4,9 +4,8 @@ description: "'Send to Harmony' Chrome plugin"
 date: 2025-03-14
 categories: ["development"]
 image: /images/blog/gad7-becks.jpg
-aliases: ['/chrome/']
 
-url: "/nlp-semantic-text-matching/"
+url: "/chrome/"
 ---
 
 [Beta mode: we are currently testing this extension]

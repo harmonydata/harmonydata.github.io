@@ -3,7 +3,7 @@ title: "'Send to Harmony' Chrome plugin"
 description: "'Send to Harmony' Chrome plugin"
 date: 2025-03-14
 categories: ["development"]
-image: /images/blog/gad7-becks.jpg
+image: /images/send_to_harmony.png
 
 url: "/chrome/"
 ---

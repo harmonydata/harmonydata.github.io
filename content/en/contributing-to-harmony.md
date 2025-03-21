@@ -1,6 +1,7 @@
 ---
 title: "Guide to contributing to Harmony"
 aliases:
+  - "/contribute/"
   - "/contributing/"
   - "/contributing-to-harmony/"
   - "/developer-guide/"

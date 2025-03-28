@@ -147,7 +147,7 @@ blocks:
     url: https://raw.githubusercontent.com/harmonydata/harmonyapi/main/docs/API_reference.pdf
   code: |
     ```vshell
-    docker run -p 8000:8000 harmonydata/harmonyapi:20250311105945_1df2e89
+    docker run -p 8000:80 harmonydata/harmonyapi:20250311105945_1df2e89
     ```
 
 - block: logos

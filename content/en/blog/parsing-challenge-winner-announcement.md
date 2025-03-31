@@ -5,6 +5,7 @@ categories:
 image: "/images/harmony-parsing-challenge-scoreboard.png"
 date: 2025-03-31
 url: "/parsing-challenge-winner-announcement/"
+draft: true
 ---
 
 ## It's all over!

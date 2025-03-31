@@ -16,6 +16,6 @@ We've now got our winners of the **Harmony Parsing Challenge**! The [top three s
 * First place (accuracy of 93.145%): `@aashvin`
 * Second place (accuracy of 92.862%): `@siddhantoon`
 
-We would like to give an honourable mention to Atharva (`@Gladiator`)  whose final scoreboard accuracy was 92.824% (but who made a submission with 92.914% accuracy roughly half an hour before the deadline)
+We would like to give an honourable mention to `@Gladiator`  whose final scoreboard accuracy was 92.824% (but who made a submission with 92.914% accuracy roughly half an hour before the deadline)
 
 

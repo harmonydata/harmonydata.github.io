@@ -13,8 +13,8 @@ url: "/parsing-challenge-winner-announcement/"
 
 We've now got our winners of the **Harmony Parsing Challenge**! The [top three submissions](https://doxaai.com/competition/harmony-parsing/scoreboard) all used the [DeBERTa model](https://huggingface.co/docs/transformers/en/model_doc/deberta).
 
-* First place (accuracy of 93.145%): Aashvin Relwani (`@aashvin`)
-* Second place (accuracy of 92.862%): Siddhant (`@siddhantoon`) 
+* First place (accuracy of 93.145%): `@aashvin`
+* Second place (accuracy of 92.862%): `@siddhantoon`
 
 We would like to give an honourable mention to Atharva (`@Gladiator`)  whose final scoreboard accuracy was 92.824% (but who made a submission with 92.914% accuracy roughly half an hour before the deadline)
 

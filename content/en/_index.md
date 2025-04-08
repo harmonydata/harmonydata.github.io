@@ -215,5 +215,34 @@ blocks:
   copy: |
     We aim to promote better integration of data harmonisation in mental health research through a natural language processing harmonisation tool (Harmony), allowing researchers to compare data from existing studies to investigate the active ingredients of mental health. Led by Dr Eoin McElroy from Ulster University and Dr Bettina Moltrecht from University College London, the team will develop Harmony to answer research questions around human connection and its influence on the development of depression and anxiety in young people.
 
+- block: connect
+  heading: More ways to connect
+  cards: 
+  - heading: AI Challenges
+    copy: Contribute to real-world AI and coding challenges.
+    button:
+      text: Learn more
+      url: https://harmonydata.ac.uk/challenges/
+    icon: sparkles
+  - heading: Discord Community
+    copy: Join discussions with fellow researchers and developers.
+    button:
+      text: Join
+      url: https://discord.com/invite/harmonydata
+    icon: discord-2
+  - heading: GitHub
+    copy: Access our latest code, tools, and contributions. Become a certified contributor
+    button:
+      text: Join
+      url: https://github.com/harmonydata/harmony
+    icon: github
+  - heading: Connect with us on Socials
+    social:
+      - text: LinkedIn
+        url: https://www.linkedin.com/company/harmonydata/about/?viewAsMember=true
+      - text: Bluesky
+        url: https://bsky.app/profile/harmonydata.bsky.social
+    icon: users
+
 ---
 

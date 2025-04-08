@@ -1,0 +1,35 @@
+<div class="px-6 lg:px-8 py-20 lg:py-28 bg-primary-50/50">
+  <div class="max-w-2xl lg:max-w-4xl mx-auto">
+    <div class="text-center">
+      {{ partial "components/h2.html" . }}
+    </div>
+    <div class="grid grid-cols-1 gap-12 lg:gap-y-12 xl:gap-20 sm:grid-cols-2 mt-10">
+      {{ range .cards }}
+        <div class="space-y-4">
+          {{ if .icon }}
+            <div class="mb-6">
+              {{ partial "components/icon.html" . }}
+            </div>
+          {{ end }}
+          {{ partial "components/h3.html" . }}
+          {{ partial "components/copy.html" . }}
+          {{ with .social }}
+            <ul class="flex gap-5 flex-wrap">
+              {{ range . }}
+                <li><a class="text-blue-600 hover:text-blue-600 font-bold hover:underline font-heading text-sm" href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .text }}</a></li>
+              {{ end }}
+            </ul>
+          {{ end }}
+          {{ with .button }}
+            <div class="">
+              <a href="{{ .url | relLangURL }}"{{ if in .url "http" }} target="_blank" rel="noopener noreferrer"{{ end }} 
+                class="inline-block text-center transition rounded-full focus:outline-none font-heading font-bold text-sm text-blue-600 hover:underline">
+                {{ .text }}
+              </a>
+            </div>
+          {{ end }}      
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</div>

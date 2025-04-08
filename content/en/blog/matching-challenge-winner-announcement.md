@@ -36,10 +36,17 @@ Well done 👏👏👏 your prize will be emailed to you soon
 **A big thank you to everyone else that took part in the competition, if you weren't successful this time round, fear not, as our [next competition is already open](https://doxaai.com/competition/harmony-parsing) and the prizes are even BIGGER!**
 
 
+{{< youtube 1cfvvDLYcDI >}}
+
+**Above: watch a video interview with José and Rafi, winners of the challenge.**
+
+
 {{< grid columns="2" >}}
   {{< card heading="Join our next challenge" copy="Harmony: PDF Parsing Challenge. Develop an improved algorithm for identifying mental health survey questions." url="https://doxaai.com/competition/harmony-parsing" >}}
   {{< card heading="Join our Discord" copy="Join the Harmony Discord server. Check out the 🏅「parsing-challenge」 channel!" url="https://discord.com/invite/harmonydata" >}}
 {{< /grid >}}
+
+
 
 
 

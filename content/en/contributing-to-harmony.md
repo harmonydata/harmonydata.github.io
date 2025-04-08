@@ -1,6 +1,7 @@
 ---
 title: "Guide to contributing to Harmony"
 aliases:
+  - "/contribute/"
   - "/contributing/"
   - "/contributing-to-harmony/"
   - "/developer-guide/"
@@ -315,6 +316,23 @@ If you see an error such as the below, check that your `.env` and `.env.developm
 
 {{< image src="/images/fe-uncaught-runtime-error.png" title="Harmony repos" >}}
 
+
+#### Troubleshooting the Docker container
+
+You may be trying to run the Docker container locally so that you can run R and Harmony entirely on your computer without sending data over the internet.
+
+Normally this command should run in command line / Terminal:
+
+```
+docker run -p 8000:80 harmonydata/harmonyapi
+```
+
+But if you get an error such as "manifest unknown" then that means that you need to supply the Docker image with an exact tag (which tells Docker which version of Harmony Docker to run). You can see all the Docker images here: https://hub.docker.com/r/harmonydata/harmonyapi/tags and you can pick the latest one and put it in the command, something like this:
+
+
+```
+docker run -p 8000:80 harmonydata/harmonyapi:20250311105945_1df2e89
+```
 
 ## Additional Resources
 

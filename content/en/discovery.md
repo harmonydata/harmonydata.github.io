@@ -8,6 +8,6 @@ date: "2024-09-05"
 ## Harmony discovery
 
 
-[Click to visit Discovery dash prototype](https://harmonycataloguelookup.azurewebsites.net/)
+[Click to visit Discovery dash prototype](https://harmonydiscovery.fastdatascience.com/)
 
 

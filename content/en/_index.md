@@ -103,7 +103,7 @@ blocks:
 - block: feature-2
   padding: top
   heading: "Use Harmony in R"
-  subheading: R users can now import Harmony as an R package for data harmonisation.
+  subheading: R users can now import Harmony as an R package for data harmonisation. By default, Harmony R connects to the Harmony API but you can also point it to Harmony API running on Docker and then you can run Harmony R on a computer without internet (see below).
   links: 
   - text: R package on Github
     url: https://github.com/harmonydata/harmony_r
@@ -137,7 +137,7 @@ blocks:
   # padding: top
   align: right 
   heading: "Harmony Docker container/API"
-  subheading: We've released Harmony as a Docker container on [Dockerhub](https://hub.docker.com/), running a REST API using FastAPI.
+  subheading: We've released Harmony as a Docker container on [Dockerhub](https://hub.docker.com/), running a REST API using FastAPI. Check [Dockerhub](https://hub.docker.com/r/harmonydata/harmonyapi/tags) for the latest tag. You can run these commands in Windows Command Prompt or Terminal on Mac/Linux.
   links: 
   - text: Dockerhub
     url: https://hub.docker.com/r/harmonydata/harmonyapi
@@ -147,8 +147,7 @@ blocks:
     url: https://raw.githubusercontent.com/harmonydata/harmonyapi/main/docs/API_reference.pdf
   code: |
     ```vshell
-    docker pull harmonydata/harmonyapi
-    docker run -p 8000:8000 -p 3000:3000 harmonydata/harmonyapi
+    docker run -p 8000:80 harmonydata/harmonyapi:20250311105945_1df2e89
     ```
 
 - block: logos

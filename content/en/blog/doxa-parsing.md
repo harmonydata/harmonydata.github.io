@@ -1,7 +1,7 @@
 ---
 title: "Improve Harmony's PDF parsing on DOXA AI"
 categories: 
-  - "ai-in-research"
+  - "challenges"
 image: "/images/parsing-banner.png"
 date: 2024-12-20
 url: "/doxa-parsing/"

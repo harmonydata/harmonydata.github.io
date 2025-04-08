@@ -6,8 +6,6 @@ enableGitInfo: true
 enableRobotsTXT: true
 canonifyURLs: true
 
-paginate: 6
-
 taxonomies:
   categories: 'categories'
 permalinks:
@@ -49,6 +47,8 @@ languages:
     contentDir: content/en
     languageCode: en-GB
     weight: 1
+    pagination:
+      pagerSize: 6    
     menu:
       navbar:
       - name: News
@@ -239,6 +239,8 @@ languages:
     contentDir: content/pt
     languageCode: pt-BR
     weight: 2
+    pagination:
+      pagerSize: 6        
     menu:
       navbar:
       - name: Noticias

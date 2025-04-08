@@ -770,6 +770,10 @@ select {
   left: 0;
 }
 
+.aspect-h-11 {
+  --tw-aspect-h: 11;
+}
+
 .prose {
   color: var(--tw-prose-body);
   max-width: 65ch;
@@ -1561,10 +1565,6 @@ select {
 
 .inline-block {
   display: inline-block;
-}
-
-.inline {
-  display: inline;
 }
 
 .flex {
@@ -4330,6 +4330,16 @@ h1 strong, h2 strong, h3 strong, .text-highlight, .superheading strong {
   .lg\:mx-0 {
     margin-left: 0px;
     margin-right: 0px;
+  }
+
+  .lg\:-mx-16 {
+    margin-left: -4rem;
+    margin-right: -4rem;
+  }
+
+  .lg\:-mx-24 {
+    margin-left: -6rem;
+    margin-right: -6rem;
   }
 
   .lg\:-ml-0 {

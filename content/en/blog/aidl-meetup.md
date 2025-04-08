@@ -6,7 +6,7 @@ categories:
 image: "/images/aidl.jpg"
 date: 2024-10-08
 
-
+youtube: 2Fj-oBRXDiI
 aliases:
   - "/psychology/aidl-meetup/"
 url: "/psychology-ai-tool/aidl-meetup/"
@@ -15,8 +15,6 @@ url: "/psychology-ai-tool/aidl-meetup/"
 ## Tech Talk at the AI|DL AI Meetup (London) Artificial Intelligence and Deep Learning for Enterprise
 
 Thomas Wood presents the Harmony project at the 19th [AI and Deep Learning for Enterprise meetup](https://www.meetup.com/ai-and-dl-for-enterprise/events/303641323) on **8 October 2024**.
-
-{{< youtube 2Fj-oBRXDiI >}}
 
 **In case you missed the talk about Harmony on Tuesday at Civo Tech Junction with AI and Deep Learning for Enterprise sponsored by Daemon, you can now watch the recording of the live stream on AI|DL's channel.**
 

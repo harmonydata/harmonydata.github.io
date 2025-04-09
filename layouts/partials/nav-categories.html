@@ -36,10 +36,10 @@
   </div>
 </div>
 <div class="hidden lg:flex lg:justify-center capitalize">
-  <div class="flex space-x-1 justify-center font-normal text-sm bg-slate-50 dark:bg-primary-900 rounded-full p-2">
-    <a class="{{ if in .Permalink "/blog/" }}text-blue-600 bg-white shadow-md{{ else }}text-slate-900 {{ end }} hover:bg-white px-6 xl:px-8 py-2.5 tracking-wide rounded-full font-medium" href="{{ "/blog/" | relLangURL }}">{{ i18n "all_categories" }}</a>
+  <div class="flex flex-wrap gap-1.5 font-normal text-sm">
+    <a class="{{ if in .Permalink "/blog/" }}text-blue-600 bg-slate-100{{ else }}text-slate-700 bg-slate-50 {{ end }} hover:bg-slate-100 px-4 py-2 tracking-wide rounded-full font-medium" href="{{ "/blog/" | relLangURL }}">{{ i18n "all_categories" }}</a>
     {{ range site.Taxonomies.categories }}
-      <a class="{{ if eq .Page.Permalink $.Permalink }}text-blue-600 bg-white shadow-md{{ else }}text-slate-900 {{ end }} hover:bg-white px-6 xl:px-8 py-2.5 tracking-wide rounded-full font-medium" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+      <a class="{{ if eq .Page.Permalink $.Permalink }}text-blue-600 bg-slate-100{{ else }}text-slate-700 bg-slate-50 {{ end }} hover:bg-slate-100 px-4 py-2 tracking-wide rounded-full font-medium" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
     {{ end }}
   </div>
 </div>

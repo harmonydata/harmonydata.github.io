@@ -36,7 +36,7 @@ Download and install Docker:
 Open a Terminal and run
 
 ```
-docker run -p 8000:8000 -p 3000:3000 harmonydata/harmonylocal
+docker run -p 8000:80 harmonydata/harmonyapi
 ```
 
 Then go to http://localhost:3000 in your browser.

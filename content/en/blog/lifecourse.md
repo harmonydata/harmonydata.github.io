@@ -1,6 +1,6 @@
 ---
 title: "Harmony at Lifecourse seminar"
-categories: ["data"]
+categories: ["events"]
 image: "/images/lifecourse.jpg"
 date: 2024-05-15
 

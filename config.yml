@@ -6,6 +6,9 @@ enableGitInfo: true
 enableRobotsTXT: true
 canonifyURLs: true
 
+sitemap:
+  filename: static/sitemap.xml
+  
 taxonomies:
   categories: 'categories'
 permalinks:

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harmonydata.ac.uk/sitemap.xml
+Sitemap: https://harmonydata.ac.uk/en/sitemap.xml
+Sitemap: https://harmonydata.ac.uk/pt/sitemap.xml
+Sitemap: https://harmonydata.ac.uk/search/sitemap.xml

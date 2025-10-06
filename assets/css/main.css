@@ -8,6 +8,7 @@
     font-family: 'Pragmatica';
     src: url(/fonts/PragmaticaRegular.woff2) format("woff2");
     font-weight: 400;
+    font-display: swap;
   }
 }
 
@@ -160,4 +161,5 @@ h1 strong, h2 strong, h3 strong, .text-highlight, .superheading strong {
 }
 .code pre {
   @apply overflow-x-scroll;
+
 }

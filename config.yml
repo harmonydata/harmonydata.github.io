@@ -71,6 +71,10 @@ languages:
         url: /matilda/
         parent: Case studies
         weight: 30
+      - name:  ENIGMA Consortium 
+        url: /enigma/
+        parent: Case studies
+        weight: 40
       - name: Help
         weight: 50
       - name: FAQ

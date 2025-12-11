@@ -27,5 +27,7 @@ While the feature is still evolving, our main objective is to understand how res
 **Get Involved:**
 If you’re a researcher or data manager interested in participating in our co-design workshops, we’d love to hear from you! Get in touch with us via [email](mailto:rachel.gomes@ucl.ac.uk), you can also sign up to our [Discord](https://discord.gg/harmonydata) server and newsletter and follow us on [LinkedIn](https://www.linkedin.com/company/harmonydata/) to stay connected with the latest updates and community discussions.
 
+**Harmony Meta:** https://harmonydata.ac.uk/search  <br>
+**Introducing Harmony Discovery:** https://harmonydata.ac.uk/discovery/
 
 Harmony is an [open source tool for social science research](/open-source-for-social-science/).

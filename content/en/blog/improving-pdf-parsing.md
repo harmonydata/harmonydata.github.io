@@ -19,7 +19,7 @@ However, we then needed to do some user testing of the new PDF model in the Harm
 
 We deployed two versions of Harmony side by side: the original Harmony, and the new PDF extraction model on a new URL.
 
-A user at Ulster University evaluated the new model against the old model on a number of new questionnaires and counted which questions were correctly extracted.
+Emily Miskimmin at Ulster University evaluated the new model against the old model on a number of new questionnaires and counted which questions were correctly extracted.
 
 We have then run a statistical analysis on the two models. The analysis is here: https://github.com/harmonydata/test_new_pdf_model
 

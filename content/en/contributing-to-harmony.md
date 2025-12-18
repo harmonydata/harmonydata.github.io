@@ -288,6 +288,13 @@ Please write clear commit messages:
 1. Structure your commit messages clearly and include the purpose of the change.
 2. Use issue numbers for tracking, e.g., `Fix bug in NLP model (#54)`. Github will detect the # in the message and automatically display your commit under the corresponding issue, which means that anyone can easily see that a particular issue has related commits, and vice versa.
 
+#### What is not a good pull request
+
+Sometimes we receive pull requests which modify 18 files and look like they're rewriting the entire project. On looking through, often the contributor has accidentally committed files that were just part of their experimentation, or absolute paths within their computer. Or they rewrite a part of the project unrelated to what they're working on. 
+
+It is very hard to review a pull request like this. With so many changes, we cannot easily identify if any changes have a side effect. In addition, if anyone else is working on a part of the project affected by your changes, it will be hard to resolve conflicts.
+
+Please avoid using commands like `git add *` which adds all files in the directory - try to ensure that every file is added individually. You can always reach out to the Harmony team for a discussion.
 
 #### Help on Git and pull requests
 

@@ -5,8 +5,8 @@ categories: ["development"]
 image: "/images/Discovery Banner.png"
 
 aliases:
-  - "/harmonymeta/"
-url: "/harmonymeta/"
+  - "/harmony-meta/"
+url: "/harmony-meta/"
 ---
 
 ## Introducing Harmony Meta: A Simpler Way to Discover Research Metadata
@@ -24,11 +24,11 @@ Tracking down specific metadata often takes more time than it should. Harmony Me
 
 
 **Key Features**
-    * Search across multiple sources: Find studies and datasets from several major providers through one simple interface.
-    * Search using everyday language: You don't need to get the keywords exactly right. You can type queries using the descriptive terms that make sense for your project.
-    * Find related concepts: The tool is smart enough to find related terms. For example, a search for "asthma" will also find relevant variables like "difficulty breathing" or "respiratory health."
-    * Variable List: Easily find matching questions and variables within studies without the need to download and trawl through multiple data dictionaries. 
-    * Clear information: Get direct links to the original data sources along with the descriptions you need to decide if the data fits your research.
+    - Search across multiple sources: Find studies and datasets from several major providers through one simple interface.
+    - Search using everyday language: You don't need to get the keywords exactly right. You can type queries using the descriptive terms that make sense for your project.
+    - Find related concepts: The tool is smart enough to find related terms. For example, a search for "asthma" will also find relevant variables like "difficulty breathing" or "respiratory health."
+    - Variable List: Easily find matching questions and variables within studies without the need to download and trawl through multiple data dictionaries. 
+    - Clear information: Get direct links to the original data sources along with the descriptions you need to decide if the data fits your research.
 
 **Why we need your help**
 Harmony Meta is a work in progress. We are sharing this beta version now because we want to build it alongside the people who will actually use it. Your feedback at this stage is an important factor in how the tool evolves. By testing the beta, you can help us improve the search accuracy, suggest future features and tell us which new data sources we should add next.

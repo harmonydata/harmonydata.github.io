@@ -34,7 +34,7 @@ Tracking down specific metadata often takes more time than it should. Harmony Me
 Harmony Meta is a work in progress. We are sharing this beta version now because we want to build it alongside the people who will actually use it. Your feedback at this stage is an important factor in how the tool evolves. By testing the beta, you can help us improve the search accuracy, suggest future features and tell us which new data sources we should add next.
 
 **Get involved**
-You can try [Harmony Meta](harmonydata.ac.uk/search) now at [harmonydata.ac.uk/search](harmonydata.ac.uk/search).
+You can try [Harmony Meta](https://harmonydata.ac.uk/search/) now at https://harmonydata.ac.uk/search/.
 We'd love to hear your thoughts. To help us build a better tool for the community, you can [send us feedback here](https://forms.gle/Bup3qf3ivXzwqp5F8).
 
 

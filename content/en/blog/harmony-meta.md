@@ -14,7 +14,7 @@ Finding the right data is the foundation of good research, but it shouldn't be t
 This first version is now live, and we are inviting the research community to test it and help us shape its future.
 
 
-**What is [Harmony Meta](https://harmonydata.ac.uk/search/)?**
+**What is Harmony Meta?**
 [Harmony Meta](https://harmonydata.ac.uk/search/) is a single point of access for finding information about research datasets, studies, and individual variables.
 Rather than logging into multiple different archives or repositories, you can use [Harmony Meta](https://harmonydata.ac.uk/search/) to search across a growing network of sources—including UKDS, CLS, CLOSER, and the UKLLC—all at once. It’s designed to bring the data to you, rather than making you go looking for it across the web.
 

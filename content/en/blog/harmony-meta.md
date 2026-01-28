@@ -2,7 +2,7 @@
 title: "Introducing Harmony Meta: A Simpler Way to Discover Research Metadata"
 date: 2026-01-27
 categories: ["development"]
-image: "/images/Discovery Banner.png"
+image: "/images/Harmony Meta.png"
 
 aliases:
   - "/harmony-meta/"

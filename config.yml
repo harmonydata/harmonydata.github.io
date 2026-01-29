@@ -325,6 +325,9 @@ languages:
         url: "/contact/"
         parent: About us
         weight: 20
+      - name: Privacy policy
+        url: "/privacy-policy/"
+        weight: 30
 
       - name: Resources
         weight: 30    

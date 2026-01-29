@@ -127,7 +127,11 @@ languages:
         url: /projects-partners/
         parent: About
         weight: 50
-
+      - name: Privacy policy
+        url: /privacy-policy/
+        parent: About
+        weight: 60
+        
       navbar_cta:
       - name: Try Harmony
         url: "https://harmonydata.ac.uk/app/"
@@ -327,8 +331,9 @@ languages:
         weight: 20
       - name: Privacy policy
         url: "/privacy-policy/"
+        parent: About us
         weight: 30
-
+        
       - name: Resources
         weight: 30    
       - name: Blog
@@ -343,6 +348,7 @@ languages:
         url: "/frequently-asked-questions/"
         parent: Resources
         weight: 30
+
         
       - name: Useful links
         weight: 40    

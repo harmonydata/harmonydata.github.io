@@ -36,6 +36,6 @@ Tracking down specific metadata often takes more time than it should. [Harmony M
 **Get involved**
 You can try [Harmony Meta](https://harmonydata.ac.uk/search/) now at https://harmonydata.ac.uk/search/.
 
-We'd love to hear your thoughts. To help us build a better tool for the community, you can [send us feedback here](https://forms.gle/Bup3qf3ivXzwqp5F8).
+We'd love to hear your thoughts. To help us build a better tool for the community, you can [send us feedback here](https://harmonydata.ac.uk/contact/).
 
 

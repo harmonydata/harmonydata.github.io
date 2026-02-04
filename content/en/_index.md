@@ -1,5 +1,5 @@
 ---
-title: A global platform for contextual data harmonisation
+title: AI-driven Data Discovery and Harmonisation
 layout: blocks
 description: 
 image: 
@@ -12,41 +12,38 @@ blocks:
   mode: dark #dark mode, leave blank for light mode
   overlay: true #used together with navbar overlay: true option to show background image behind the navbar
   background_image: images/globe-min.svg
-  heading: "Harmonise questionnaire items with **Harmony**."
-  subheading: Harmony is a tool for retrospective harmonisation of questionnaire items.
+  heading: "Find existing research data with [**Harmony Meta**](https://harmonydata.ac.uk/search/) and retrospectively harmonise questionnaire items with [**Harmony**](https://harmonydata.ac.uk/app/)"
+  subheading: Our AI-driven tools help social scientists discover, compare, and unlock existing research data.
   copy: |-
-    Do you need to [compare questionnaire items across studies](/compare-harmonise-instruments/gad-7-vs-beck-anxiety-inventory/)? Do you want to find the best match for a set of items? Are there different versions of the same questionnaire floating around and you want to make sure [how compatible they are](/harmonisation-validation/patient-health-questionnaire-9-phq-9/)? Are the questionnaires [written in different languages](/psychology-ai-tool/harmony-many-languages/) that you would like to compare?
+  Research data is often siloed and difficult to find. Once found, it is even harder to compare. Harmony provides two powerful tools to bridge this gap:
+  
+[Harmony Meta](https://harmonydata.ac.uk/search/): Our new discovery engine that helps you search through vast catalogues of longitudinal studies to find the variables you need.
 
-    The Harmony project is a data harmonisation project that uses [Natural Language Processing](https://fastdatascience.com/guide-natural-language-processing-nlp/) to help researchers make better use of existing data from different studies by supporting them with the harmonisation of various measures and items used in different studies. Harmony is a collaboration project between [Ulster University](https://ulster.ac.uk/), [University College London](https://ucl.ac.uk/), the [Universidade Federal de Santa Maria](https://www.ufsm.br/), and [Fast Data Science](http://fastdatascience.com/).  Harmony has been funded by the [Economic and Social Research Council (ESRC)](https://www.ukri.org/councils/esrc/) and by [Wellcome](https://wellcome.org/) as part of the [Wellcome Data Prize in Mental Health](https://wellcome.org/grant-funding/schemes/wellcome-mental-health-data-prize).
-    
-    In 2024, we published a paper validating Harmony on real world mental health data:
-    
-    &nbsp;1. McElroy, Wood, Bond, Mulvenna, Shevlin, Ploubidis, Scopel Hoffmann, Moltrecht, *[Using natural language processing to facilitate the harmonisation of mental health questionnaires: a validation study using real-world data](/ai-in-mental-health/bmc-psychiatry-paper/)*. BMC Psychiatry 24, 530 (2024).
+[Harmony](https://harmonydata.ac.uk/app/): Our flagship tool that uses Large Language Models to automatically match items from different questionnaires, even across different languages.
 
- 
   links:
-  - heading: Harmony Discovery
-    copy: Find out about the next phase of the Harmony development roadmap
-    url: "/open-source-for-social-science/discovery"
+  - heading: Harmony Meta
+    copy: Try the beta version of our new search tool Harmony Meta.
+    url: "https://harmonydata.ac.uk/search/"
+  - heading: Harmonise
+    copy: Automatically match items across questionnaires.
+    url: "https://harmonydata.ac.uk/app/"
   - heading: Contribute
     copy: Harmony is in active development and you can contribute.
     url: "/open-source-for-social-science/contributing-to-harmony-nlp-project/"
-  - heading: Discord
-    copy: Join our Discord server.
-    url: "https://discord.gg/harmonydata"
   - heading: Raise NLP issue
     copy: Raise an issue with Harmony's natural language understanding.
     url: "https://github.com/harmonydata/harmony/issues"
 
     
   buttons:
-  - text: Try Harmony Now!
-    url: "https://harmonydata.ac.uk/app"
+  - text: Try Harmony Meta Now
+    url: "https://harmonydata.ac.uk/search/"
     style: gradient
     size: large
-  - text: Newsletter signup
-    url: "#feature-4"
-    style: outline
+  - text: Harmonise your questionnaires
+    url: "https://harmonydata.ac.uk/app/"
+    style: gradient
     size: large
 
 - block: video
@@ -59,8 +56,20 @@ blocks:
 
 - block: feature-2
   padding: top
+  image: images/Harmony Meta.png
+  heading: "Introducing Harmony Meta"
+  subheading: A simpler way to discover research metadata. Harmony Meta is designed for the discovery phase of research. Instead of manually checking across multiple repositories or data dictionaries, use our semantic search tool to explore metadata across thousands of variables.
+  youtube: yvaM3PXropQ
+  button:
+    text: Discover with Harmony Meta
+    url: "https://harmonydata.ac.uk/search/"
+    size: large
+    style: secondary
+
+  - block: feature-2
+  padding: top
   image: images/bg-video.jpg
-  heading: "Use Harmony in the browser"
+  heading: "Harmonise items in the browser"
   subheading: You can use Harmony on the web.
   youtube: CqAsrY74zNM
   button:

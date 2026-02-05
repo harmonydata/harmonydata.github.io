@@ -66,7 +66,7 @@ blocks:
     size: large
     style: secondary
 
-  - block: feature-2
+- block: feature-2
   padding: top
   image: images/bg-video.jpg
   heading: "Harmonise items in the browser"

@@ -15,11 +15,11 @@ blocks:
   heading: "Find existing research data with [**Harmony Meta**](https://harmonydata.ac.uk/search/) and retrospectively harmonise questionnaire items with [**Harmony**](https://harmonydata.ac.uk/app/)"
   subheading: Our AI-driven tools help social scientists discover, compare, and unlock existing research data.
   copy: |-
-  Research data is often siloed and difficult to find. Once found, it is even harder to compare. Harmony provides two powerful tools to bridge this gap:
+    Research data is often siloed and difficult to find. Once found, it is even harder to compare. Harmony provides two powerful tools to bridge this gap:
   
-[Harmony Meta](https://harmonydata.ac.uk/search/): Our new discovery engine that helps you search through vast catalogues of longitudinal studies to find the variables you need.
+    "[Harmony Meta](https://harmonydata.ac.uk/search/): Our new discovery engine that helps you search through vast catalogues of longitudinal studies to find the variables you need."
 
-[Harmony](https://harmonydata.ac.uk/app/): Our flagship tool that uses Large Language Models to automatically match items from different questionnaires, even across different languages.
+    "[Harmony](https://harmonydata.ac.uk/app/): Our flagship tool that uses Large Language Models to automatically match items from different questionnaires, even across different languages."
 
   links:
   - heading: Harmony Meta
@@ -60,8 +60,8 @@ blocks:
   heading: "Introducing Harmony Meta"
   subheading: A simpler way to discover research metadata. Harmony Meta is designed for the discovery phase of research. Instead of manually checking across multiple repositories or data dictionaries, use our semantic search tool to explore metadata across thousands of variables.
   youtube: yvaM3PXropQ
-  button:
-    text: Discover with Harmony Meta
+  buttons:
+  - text: Discover with Harmony Meta
     url: "https://harmonydata.ac.uk/search/"
     size: large
     style: secondary
@@ -254,4 +254,3 @@ blocks:
     icon: users
 
 ---
-

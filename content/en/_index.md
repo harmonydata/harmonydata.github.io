@@ -17,9 +17,9 @@ blocks:
   copy: |-
     Research data is often siloed and difficult to find. Once found, it is even harder to compare. Harmony provides two powerful tools to bridge this gap:
   
-    "[Harmony Meta](https://harmonydata.ac.uk/search/): Our new discovery engine that helps you search through vast catalogues of longitudinal studies to find the variables you need."
+    [Harmony Meta](https://harmonydata.ac.uk/search/) - Our new discovery engine that helps you search through vast catalogues of longitudinal studies to find the variables you need.
 
-    "[Harmony](https://harmonydata.ac.uk/app/): Our flagship tool that uses Large Language Models to automatically match items from different questionnaires, even across different languages."
+    [Harmony](https://harmonydata.ac.uk/app/) - Our flagship tool that uses Large Language Models to automatically match items from different questionnaires, even across different languages.
 
   links:
   - heading: Harmony Meta

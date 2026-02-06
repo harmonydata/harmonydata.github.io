@@ -13,7 +13,7 @@ blocks:
   overlay: true #used together with navbar overlay: true option to show background image behind the navbar
   background_image: images/globe-min.svg
   heading: "Find existing research data with [**Harmony Meta**](https://harmonydata.ac.uk/search/) and retrospectively harmonise questionnaire items with [**Harmony**](https://harmonydata.ac.uk/app/)"
-  subheading: Our AI-driven tools help social scientists discover, compare, and unlock existing research data. Research data is often siloed and difficult to find. Once found, it is even harder to compare. Harmony provides two powerful tools to bridge this gap:
+  subheading: Our AI-driven tools help social scientists discover, compare, and unlock existing research data. Research data is often siloed and difficult to find. Once found, it is even harder to compare. Harmony provides two powerful tools to bridge this gap.
   copy: |-
   
     [Harmony Meta](https://harmonydata.ac.uk/search/) - Our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.

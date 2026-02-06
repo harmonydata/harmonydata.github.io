@@ -60,7 +60,7 @@ blocks:
   heading: "Introducing Harmony Meta"
   subheading: A simpler way to discover research metadata. Harmony Meta is designed for the discovery phase of research. Instead of manually checking across multiple repositories or data dictionaries, use our semantic search tool to explore metadata across thousands of variables.
   youtube: yvaM3PXropQ
-  buttons:
+  button:
     text: Discover with Harmony Meta
     url: "https://harmonydata.ac.uk/search/"
     size: large

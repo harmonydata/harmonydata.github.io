@@ -20,16 +20,6 @@ blocks:
 
     [Harmony](https://harmonydata.ac.uk/app/) - Our flagship tool that uses Large Language Models to automatically match items from different questionnaires, even across different languages.
 
-buttons:
-- text: Try Harmony Meta Now
-  url: "https://harmonydata.ac.uk/search/"
-  style: gradient
-  size: large
-- text: Harmonise your questionnaires
-  url: "https://harmonydata.ac.uk/app/"
-  style: gradient
-  size: large
-
   links:
   - heading: Harmony Meta
     copy: Try the beta version of our new search tool Harmony Meta.
@@ -43,6 +33,16 @@ buttons:
   - heading: Raise NLP issue
     copy: Raise an issue with Harmony's natural language understanding.
     url: "https://github.com/harmonydata/harmony/issues"
+
+  buttons:
+  - text: Try Harmony Meta Now
+    url: "https://harmonydata.ac.uk/search/"
+    style: gradient
+    size: large
+  - text: Harmonise your questionnaires
+    url: "https://harmonydata.ac.uk/app/"
+    style: gradient
+    size: large
 
 - block: video
   padding: top

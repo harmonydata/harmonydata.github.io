@@ -13,13 +13,22 @@ blocks:
   overlay: true #used together with navbar overlay: true option to show background image behind the navbar
   background_image: images/globe-min.svg
   heading: "Find existing research data with [**Harmony Meta**](https://harmonydata.ac.uk/search/) and retrospectively harmonise questionnaire items with [**Harmony**](https://harmonydata.ac.uk/app/)"
-  subheading: Our AI-driven tools help social scientists discover, compare, and unlock existing research data.
+  subheading: Our AI-driven tools help social scientists discover, compare, and unlock existing research data. Research data is often siloed and difficult to find. Once found, it is even harder to compare. Harmony provides two powerful tools to bridge this gap:
   copy: |-
-    Research data is often siloed and difficult to find. Once found, it is even harder to compare. Harmony provides two powerful tools to bridge this gap:
   
-    [Harmony Meta](https://harmonydata.ac.uk/search/) - Our new discovery engine that helps you search through vast catalogues of longitudinal studies to find the variables you need.
+    [Harmony Meta](https://harmonydata.ac.uk/search/) - Our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
 
     [Harmony](https://harmonydata.ac.uk/app/) - Our flagship tool that uses Large Language Models to automatically match items from different questionnaires, even across different languages.
+
+buttons:
+  - text: Try Harmony Meta Now
+    url: "https://harmonydata.ac.uk/search/"
+    style: gradient
+    size: large
+  - text: Harmonise your questionnaires
+    url: "https://harmonydata.ac.uk/app/"
+    style: gradient
+    size: large
 
   links:
   - heading: Harmony Meta
@@ -34,17 +43,6 @@ blocks:
   - heading: Raise NLP issue
     copy: Raise an issue with Harmony's natural language understanding.
     url: "https://github.com/harmonydata/harmony/issues"
-
-    
-  buttons:
-  - text: Try Harmony Meta Now
-    url: "https://harmonydata.ac.uk/search/"
-    style: gradient
-    size: large
-  - text: Harmonise your questionnaires
-    url: "https://harmonydata.ac.uk/app/"
-    style: gradient
-    size: large
 
 - block: video
   padding: top

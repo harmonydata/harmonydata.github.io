@@ -61,7 +61,7 @@ blocks:
   subheading: A simpler way to discover research metadata. Harmony Meta is designed for the discovery phase of research. Instead of manually checking across multiple repositories or data dictionaries, use our semantic search tool to explore metadata across thousands of variables.
   youtube: yvaM3PXropQ
   buttons:
-  - text: Discover with Harmony Meta
+    text: Discover with Harmony Meta
     url: "https://harmonydata.ac.uk/search/"
     size: large
     style: secondary
@@ -70,7 +70,7 @@ blocks:
   padding: top
   image: images/bg-video.jpg
   heading: "Harmonise items in the browser"
-  subheading: You can use Harmony on the web.
+  subheading: You can use Harmony to compare questionnaire items directly on the web.
   youtube: CqAsrY74zNM
   button:
     text: Try Harmony App

@@ -21,11 +21,11 @@ blocks:
     [Harmony](https://harmonydata.ac.uk/app/) - Our flagship tool that uses Large Language Models to automatically match items from different questionnaires, even across different languages.
   
   buttons:
-  - text: Try Harmony Meta Now
+  - text: Discover with Harmony Meta
     url: "https://harmonydata.ac.uk/search/"
     style: gradient
     size: large
-  - text: Harmonise your questionnaires
+  - text: Harmonise with Harmony
     url: "https://harmonydata.ac.uk/app/"
     style: gradient
     size: large

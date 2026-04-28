@@ -11,17 +11,22 @@ The AIM (Acceptability of Intervention Measure) score is a measurement tool used
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of AIM (Acceptability of Intervention Measure) score " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-Harmony can assist researchers in validating and harmonising the AIM score with other instruments through its natural language processing and AI modeling capabilities. By comparing the items in the AIM score with items in other instruments, Harmony can provide a percentage match and identify any potential discrepancies or overlaps. This allows researchers to better understand the relationship between the AIM score and other measures, and determine if the AIM score is an appropriate tool for their research purposes.
+
+<!-- BEGIN BOILERPLATE -->
+
+Harmony is an AI tool which uses Large Language Models to automatically match items from different questionnaires, even across different languages. You can try Harmony here: https://harmonydata.ac.uk/app. Harmony is also available as a [Python](https://pypi.org/project/harmonydata/) and [R package](https://cran.r-project.org/web/packages/harmonydata/index.html).
+
+You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/), our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
+
+<!-- END BOILERPLATE -->
+
 
 * [GHQ-12 vs PHQ-9](/compare-harmonise-instruments/ghq-12-vs-phq-9/)
 * [CES-D vs GHQ-12](/compare-harmonise-instruments/ces-d-vs-ghq-12/)
 * [Validation and Harmonisation of Overall Health-related Quality of Life (SF-36)](/harmonisation-validation/overall-health-related-quality-of-life-sf-36)
 
-Harmony's ability to harmonise instruments in multiple languages also allows researchers to compare and validate the AIM score across different language versions, ensuring the consistency and validity of the score across different populations.
 
-Additionally, researchers can use Harmony to establish crosswalks between the AIM score and other instruments, meaning they can identify which items in the AIM score align with items in other measures and create a mapping between them. This can be helpful in comparing results from different studies using different instruments, as well as in conducting longitudinal analysis to assess if the results are consistent over time.
 
-Overall, Harmony offers a more efficient and objective way for researchers to validate and harmonise the AIM score with other instruments, providing valuable insights and strengthening the reliability of research findings.
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of AIM (Acceptability of Intervention Measure) score " title=" Validation and Harmonisation of AIM (Acceptability of Intervention Measure) score " >}}

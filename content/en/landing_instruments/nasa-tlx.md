@@ -21,10 +21,17 @@ The [NASA TLX](https://humansystems.arc.nasa.gov/groups/tlx/downloads/TLXScale.p
 |     5 | How hard did you have to work to accomplish your level of performance? |
 |     6 | How insecure, discouraged, irritated, stressed, and annoyed were you?  |
 
-Harmony can assist researchers in harmonising the NASA TLX Survey Index Scores with other instruments by comparing item variables from the NASA TLX with variables from other instruments. This allows researchers to establish crosswalks between the NASA TLX and other instruments, making it easier to compare and combine data from multiple studies.
+
+<!-- BEGIN BOILERPLATE -->
+
+Harmony is an AI tool which uses Large Language Models to automatically match items from different questionnaires, even across different languages. You can try Harmony here: https://harmonydata.ac.uk/app. Harmony is also available as a [Python](https://pypi.org/project/harmonydata/) and [R package](https://cran.r-project.org/web/packages/harmonydata/index.html).
+
+You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/), our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
+
+<!-- END BOILERPLATE -->
 
 
-Additionally, Harmony can help validate the NASA TLX Survey Index Scores by providing a percentage match between item variables. This allows researchers to assess the degree to which the NASA TLX is able to measure changes in the construct it is intended to measure. By comparing the variables and assessing the degree of match, researchers can gain a better understanding of the validity and reliability of the NASA TLX.
+
 
 
 * [Validation and Harmonisation of AIM (Acceptability of Intervention Measure) score](/harmonisation-validation/aim-acceptability-of-intervention-measure-score)

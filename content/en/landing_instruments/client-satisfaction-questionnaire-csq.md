@@ -11,19 +11,23 @@ The Client Satisfaction Questionnaire (CSQ) is a measure used in psychology and 
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Client Satisfaction Questionnaire (CSQ) " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-Harmony, a software developed for psychologists and social scientists, can help researchers validate and harmonise the CSQ with other instruments. 
+
+<!-- BEGIN BOILERPLATE -->
+
+Harmony is an AI tool which uses Large Language Models to automatically match items from different questionnaires, even across different languages. You can try Harmony here: https://harmonydata.ac.uk/app. Harmony is also available as a [Python](https://pypi.org/project/harmonydata/) and [R package](https://cran.r-project.org/web/packages/harmonydata/index.html).
+
+You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/), our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
+
+<!-- END BOILERPLATE -->
+
 
 * [GHQ-12 vs SDQ](/compare-harmonise-instruments/ghq-12-vs-sdq/)
 * [Validation and Harmonisation of Pittsburgh Sleep Quality Index (PSQI)](/harmonisation-validation/pittsburgh-sleep-quality-index-psqi)
 * [Harmony: A Free AI Tool for Longitudinal Study](/item-harmonisation/harmony-a-free-ai-tool-for-longitudinal-study)
 
-Validation is important because it ensures that an instrument is able to accurately measure the construct it is intended to measure. Harmony uses large language models to compare items in the CSQ with items in other instruments. This allows researchers to assess the validity of the CSQ and see if it accurately reflects changes in the construct being measured. 
 
-Moreover, researchers may want to harmonise the CSQ with other instruments in order to compare results and make cross-study comparisons. This is especially useful for longitudinal studies, where researchers want to see if results remain consistent over time or differ due to changing social conditions. Harmony's natural language processing and AI technology makes this process more efficient and less subjective. 
 
-Researchers can either select the CSQ from Harmony's database or upload their own version of the questionnaire in PDF form. Harmony's web interface allows for easy drag and drop of instruments and compares items in multiple languages. This allows for harmonisation not only within the same language but also across different languages. 
 
-In conclusion, Harmony is a valuable tool for researchers looking to validate and harmonise the Client Satisfaction Questionnaire (CSQ) with other instruments. Its technology allows for efficient and accurate comparisons, making it easier to make cross-study comparisons and assess the validity of the CSQ. 
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Client Satisfaction Questionnaire (CSQ) " title=" Validation and Harmonisation of Client Satisfaction Questionnaire (CSQ) " >}}

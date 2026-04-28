@@ -11,17 +11,22 @@ The Medical Outcomes Survey Sleep Quality Subscale (MOS-SQS) is a standardized i
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Medical Outcomes Survey Sleep Quality Subscale " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-Researchers may want to validate the MOS-SQS or harmonise it with other similar instruments in order to compare and combine data from different studies. This is where Harmony can be a useful tool.
+
+<!-- BEGIN BOILERPLATE -->
+
+Harmony is an AI tool which uses Large Language Models to automatically match items from different questionnaires, even across different languages. You can try Harmony here: https://harmonydata.ac.uk/app. Harmony is also available as a [Python](https://pypi.org/project/harmonydata/) and [R package](https://cran.r-project.org/web/packages/harmonydata/index.html).
+
+You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/), our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
+
+<!-- END BOILERPLATE -->
+
 
 * [Harmony: A Free AI Tool to Merge Longitudinal Studies](/item-harmonisation/harmony-a-free-ai-tool-to-merge-longitudinal-studies)
 * [Validation and Harmonisation of Alcohol Urges Questionnaire (AUQ)](/harmonisation-validation/alcohol-urges-questionnaire-auq)
 * [Validation and Harmonisation of Columbia-Suicide Severity Rating Scale (C-SSRS)](/harmonisation-validation/columbia-suicide-severity-rating-scale-c-ssrs)
 
-Harmony uses natural language processing and generative AI models to compare instruments, including the MOS-SQS, and can give a percentage match between each item in the instrument. This can help researchers identify which variables in the MOS-SQS match variables in other instruments and establish crosswalks between them. 
 
-Additionally, researchers can select the MOS-SQS from Harmony's database or upload their own version of the instrument in PDF form. Harmony can then analyse and compare the items in both versions, providing researchers with a harmonised version of the instrument.
 
-By harmonising the MOS-SQS with other instruments, researchers can ensure that their data is consistent and comparable across different studies. This can improve the validity of their research and help them make more accurate and reliable conclusions.
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Medical Outcomes Survey Sleep Quality Subscale " title=" Validation and Harmonisation of Medical Outcomes Survey Sleep Quality Subscale " >}}

@@ -11,17 +11,22 @@ The Young Mania Rating Scale (YMRS) is a tool used to assess manic symptoms in p
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Young Mania Rating Scale (YMRS) " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-Harmony can assist researchers in both validating and harmonising the YMRS with other instruments. Validation is the measure of an instrument's ability to accurately measure the intended construct, while harmonisation is the process of comparing and matching items in different instruments.
+
+<!-- BEGIN BOILERPLATE -->
+
+Harmony is an AI tool which uses Large Language Models to automatically match items from different questionnaires, even across different languages. You can try Harmony here: https://harmonydata.ac.uk/app. Harmony is also available as a [Python](https://pypi.org/project/harmonydata/) and [R package](https://cran.r-project.org/web/packages/harmonydata/index.html).
+
+You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/), our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
+
+<!-- END BOILERPLATE -->
+
 
 * [Validation and Harmonisation of Alcohol Urges Questionnaire (AUQ)](/harmonisation-validation/alcohol-urges-questionnaire-auq)
 * [Validation and Harmonisation of Bristol Stool Scale](/harmonisation-validation/bristol-stool-scale)
 * [Validation and Harmonisation of Walking Impairment Questionaire (WIQ)](/harmonisation-validation/walking-impairment-questionaire-wiq)
 
-Using Harmony, researchers can compare the YMRS with other instruments, such as the GAD-7 and PHQ-9, to establish crosswalks between them. This allows researchers to determine which variables in the YMRS align with variables in other instruments, enhancing the validity of both. Furthermore, Harmony can also harmonise the YMRS with other instruments, even if they are in different languages, through its use of natural language processing and AI models.
 
-Harmony's web interface, at https://harmonydata.ac.uk/app, allows researchers to easily select the YMRS and other instruments from its database, or upload their own instruments in PDF form. This saves researchers time and effort from manually going through long PDFs and inputting data into Excel. Additionally, by using Harmony, researchers can compare and harmonise instruments in longitudinal studies, providing more robust and consistent results.
 
-In summary, Harmony is a valuable tool for psychologists and social scientists, as it can assist in both validating and harmonising the Young Mania Rating Scale with other instruments, aiding in the analysis and comparison of data in psychological research. 
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Young Mania Rating Scale (YMRS) " title=" Validation and Harmonisation of Young Mania Rating Scale (YMRS) " >}}

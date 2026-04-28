@@ -11,13 +11,20 @@ The Comprehensive Psychopathological Rating Scale (CPRS) is an 18-item interview
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Comprehensive Psychopathological Rating Scale (CPRS) " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-Harmony, a software developed for psychologists, can aid in the validation and harmonisation of the CPRS with other instruments. Using natural language processing and generative AI models, Harmony can compare items in the CPRS with variables in other instruments, providing a percentage match between each item.
+
+<!-- BEGIN BOILERPLATE -->
+
+Harmony is an AI tool which uses Large Language Models to automatically match items from different questionnaires, even across different languages. You can try Harmony here: https://harmonydata.ac.uk/app. Harmony is also available as a [Python](https://pypi.org/project/harmonydata/) and [R package](https://cran.r-project.org/web/packages/harmonydata/index.html).
+
+You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/), our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
+
+<!-- END BOILERPLATE -->
+
 
 * [Harmony: A Free AI Tool to Merge Longitudinal Studies](/item-harmonisation/harmony-a-free-ai-tool-to-merge-longitudinal-studies)
 * [Validation and Harmonisation of Penn Alcohol Craving Scale (PACS)](/harmonisation-validation/penn-alcohol-craving-scale-pacs)
 * [Validation and Harmonisation of Visual Analog Scale (VAS)](/harmonisation-validation/visual-analog-scale-vas)
 
-This allows researchers to harmonise the CPRS with other instruments in longitudinal studies, allowing for comparisons within and across studies. It also aids in establishing crosswalks between the CPRS and other instruments, helping to validate the CPRS and ensure its effectiveness in measuring changes in the construct of interest. Overall, Harmony can save researchers time and effort in the time-consuming and subjective process of harmonisation, allowing for more efficient and accurate research in the field of psychology.
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Comprehensive Psychopathological Rating Scale (CPRS) " title=" Validation and Harmonisation of Comprehensive Psychopathological Rating Scale (CPRS) " >}}

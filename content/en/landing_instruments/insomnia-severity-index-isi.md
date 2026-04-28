@@ -11,19 +11,23 @@ The Insomnia Severity Index (ISI) is a self-report questionnaire used to measure
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Insomnia Severity Index (ISI) " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-One challenge that researchers face when using the ISI is harmonising it with other instruments, especially if those instruments are in different languages. This can be a time-consuming and subjective process, and it can also lead to inconsistencies in data analysis.
+
+<!-- BEGIN BOILERPLATE -->
+
+Harmony is an AI tool which uses Large Language Models to automatically match items from different questionnaires, even across different languages. You can try Harmony here: https://harmonydata.ac.uk/app. Harmony is also available as a [Python](https://pypi.org/project/harmonydata/) and [R package](https://cran.r-project.org/web/packages/harmonydata/index.html).
+
+You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/), our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
+
+<!-- END BOILERPLATE -->
+
 
 * [Validation and Harmonisation of Arthritis Impact Measurement Scales-2 (AIMS2)](/harmonisation-validation/arthritis-impact-measurement-scales-2-aims2)
 * [GHQ-12 vs SDQ](/compare-harmonise-instruments/ghq-12-vs-sdq/)
 * [Validation and Harmonisation of PROMIS depression subscale](/harmonisation-validation/promis-depression-subscale)
 
-This is where Harmony can be a valuable tool for psychologists. By using large language models, Harmony is able to compare items in the ISI with items in other [instruments](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology) and provide a percentage match between them. This not only saves researchers time but also ensures a more objective and consistent approach to harmonising instruments.
 
-Additionally, Harmony's database includes a wide range of instruments from various languages, making it easier for researchers to select and compare items from different instruments. Researchers can also upload their own instruments in PDF form to be harmonised by Harmony's web interface.
 
-Moreover, Harmony can also aid in validating the ISI by identifying which variables in the index match with variables in other instruments. This can help researchers establish crosswalks between the ISI and other instruments, allowing for more comprehensive and accurate data analysis.
 
-Overall, Harmony can be a valuable tool for psychologists in validating and harmonising the Insomnia Severity Index with other instruments, making data analysis more efficient and accurate.
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Insomnia Severity Index (ISI) " title=" Validation and Harmonisation of Insomnia Severity Index (ISI) " >}}

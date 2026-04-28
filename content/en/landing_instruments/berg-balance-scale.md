@@ -11,19 +11,23 @@ The Berg Balance Scale (BBS) is a clinical measure used to assess balance in old
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Berg Balance Scale " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-One potential challenge with the BBS is that it may not always be feasible or appropriate to use it as the only measure of balance. In some cases, researchers or clinicians may want to compare the results from the BBS with other balance measures to gain a more comprehensive understanding of an individual's balance abilities.
+
+<!-- BEGIN BOILERPLATE -->
+
+Harmony is an AI tool which uses Large Language Models to automatically match items from different questionnaires, even across different languages. You can try Harmony here: https://harmonydata.ac.uk/app. Harmony is also available as a [Python](https://pypi.org/project/harmonydata/) and [R package](https://cran.r-project.org/web/packages/harmonydata/index.html).
+
+You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/), our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
+
+<!-- END BOILERPLATE -->
+
 
 * [PHQ-9 vs Beck Anxiety Inventory](/compare-harmonise-instruments/phq-9-vs-beck-anxiety-inventory/)
 * [GHQ-12 vs Beck Anxiety Inventory](/compare-harmonise-instruments/ghq-12-vs-beck-anxiety-inventory/)
 * [Validation and Harmonisation of Comprehensive Psychopathological Rating Scale (CPRS)](/harmonisation-validation/comprehensive-psychopathological-rating-scale-cprs)
 
-This is where Harmony can be useful in helping researchers harmonise the BBS with other instruments. Harmony uses natural language processing and AI models to compare items in different questionnaires, including the BBS and other balance measures.
 
-By using Harmony, researchers can assess the compatibility of the BBS with other instruments and establish crosswalks between different items. This can provide valuable insights into the construct validity of the BBS and its ability to effectively measure changes in an individual's balance over time.
 
-Additionally, Harmony's database of instruments allows researchers to easily select and compare the BBS with other validated measures of balance in a variety of languages. This can be particularly useful for cross-cultural studies or when working with diverse populations.
 
-Overall, Harmony can help researchers validate and harmonise the BBS with other instruments, providing a more comprehensive and accurate assessment of an individual's balance abilities.
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Berg Balance Scale " title=" Validation and Harmonisation of Berg Balance Scale " >}}

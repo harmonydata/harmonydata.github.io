@@ -11,23 +11,26 @@ The Clinician Administered PTSD Scale (CAPS) is a structured clinical interview 
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Clinician Administered PTSD Scale (CAPS) " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-Harmony can assist researchers in two important ways when it comes to the CAPS: validation and harmonisation.
+
+<!-- BEGIN BOILERPLATE -->
+
+Harmony is an AI tool which uses Large Language Models to automatically match items from different questionnaires, even across different languages. You can try Harmony here: https://harmonydata.ac.uk/app. Harmony is also available as a [Python](https://pypi.org/project/harmonydata/) and [R package](https://cran.r-project.org/web/packages/harmonydata/index.html).
+
+You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/), our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
+
+<!-- END BOILERPLATE -->
+
 
 * [Validation and Harmonisation of Penn Alcohol Craving Scale (PACS)](/harmonisation-validation/penn-alcohol-craving-scale-pacs)
 * [GAD-7 vs PHQ-9](/compare-harmonise-instruments/gad-7-vs-phq-9/)
 * [Validation and Harmonisation of Quickley-Hein plaque index (PI)](/harmonisation-validation/quickley-hein-plaque-index-pi)
 
 ## Validation
-Validation is the process of assessing the degree to which an instrument measures what it intends to measure. In other words, it determines if the CAPS is accurately capturing the construct of PTSD.
 
-Using Harmony's large language models, researchers can compare the items and scoring of the CAPS with other well-validated measures of [PTSD](/discover-data/ptsd-datasets-and-studies), such as the Impact of Event Scale (IES) or the PTSD Checklist for DSM-5 (PCL-5). By comparing the items and scores, researchers can determine if the CAPS is accurately measuring the same concept as these other measures, thus providing evidence for its validity.
 
 ## Harmonisation
-Harmonisation refers to the process of standardizing and aligning items from different instruments. Researchers may want to harmonise the CAPS with other measures in order to compare results across studies and populations.
 
-Using Harmony, researchers can easily compare the items of the CAPS with those of other instruments, such as the DSM-5's diagnostic criteria for PTSD or self-report measures of PTSD symptoms. This allows for the creation of crosswalks, which are mappings between similar items in different instruments. This crosswalk can then be used to translate scores from one measure to another, allowing for direct comparisons and harmonisation of data.
 
-Overall, Harmony's abilities in terms of validation and harmonisation can greatly benefit researchers using the CAPS, providing them with more accurate and standardized measures for their studies and facilitating cross-study comparisons.
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Clinician Administered PTSD Scale (CAPS) " title=" Validation and Harmonisation of Clinician Administered PTSD Scale (CAPS) " >}}

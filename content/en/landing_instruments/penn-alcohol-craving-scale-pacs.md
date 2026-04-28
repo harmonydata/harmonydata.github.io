@@ -11,17 +11,22 @@ The Penn Alcohol Craving Scale (PACS) is a five-item self-administered instrumen
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Penn Alcohol Craving Scale (PACS) " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-With the help of Harmony, researchers can validate the PACS and compare it with other instruments to establish crosswalks. This allows for a more comprehensive understanding of alcohol craving and its measurement. By using Harmony, researchers can compare the items of the PACS with other instruments in different languages to ensure consistency and accuracy in measurement.
+
+<!-- BEGIN BOILERPLATE -->
+
+Harmony is an AI tool which uses Large Language Models to automatically match items from different questionnaires, even across different languages. You can try Harmony here: https://harmonydata.ac.uk/app. Harmony is also available as a [Python](https://pypi.org/project/harmonydata/) and [R package](https://cran.r-project.org/web/packages/harmonydata/index.html).
+
+You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/), our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
+
+<!-- END BOILERPLATE -->
+
 
 * [Validation and Harmonisation of Patient-reported Outcome Measure Information System (PROMIS) Anxiety subscale](/harmonisation-validation/patient-reported-outcome-measure-information-system-promis-anxiety-subscale)
 * [Validation and Harmonisation of Clinician Administered PTSD Scale (CAPS)](/harmonisation-validation/clinician-administered-ptsd-scale-caps)
 * [CES-D vs GHQ-12](/compare-harmonise-instruments/ces-d-vs-ghq-12/)
 
-Harmony's natural language processing and AI models can also identify any discrepancies or overlaps between the PACS and other instruments. This can help researchers to refine and improve the PACS, and potentially create a more effective measurement tool for assessing alcohol craving.
 
-Furthermore, researchers can use Harmony to harmonise the PACS with other instruments, such as the GAD-7 or PHQ-9, in order to compare results and test for consistency across studies. This allows for a deeper analysis of alcohol craving and its potential relationship with other psychological constructs.
 
-In conclusion, Harmony can provide valuable assistance to researchers in validating, refining, and harmonising the Penn Alcohol Craving Scale with other instruments, leading to a better understanding of alcohol craving and its measurement in research and treatment.
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Penn Alcohol Craving Scale (PACS) " title=" Validation and Harmonisation of Penn Alcohol Craving Scale (PACS) " >}}

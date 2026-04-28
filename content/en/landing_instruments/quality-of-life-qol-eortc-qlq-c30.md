@@ -11,17 +11,22 @@ The Quality of Life (QoL) EORTC QLQ-C30 is a commonly used questionnaire designe
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Quality of Life (QoL) EORTC QLQ-C30 " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-To ensure the validity of the QoL EORTC QLQ-C30, researchers may want to validate it against other instruments or harmonise it with other similar questionnaires. This helps to establish the reliability of the QoL EORTC QLQ-C30 and allows for comparisons to be made across studies.
+
+<!-- BEGIN BOILERPLATE -->
+
+Harmony is an AI tool which uses Large Language Models to automatically match items from different questionnaires, even across different languages. You can try Harmony here: https://harmonydata.ac.uk/app. Harmony is also available as a [Python](https://pypi.org/project/harmonydata/) and [R package](https://cran.r-project.org/web/packages/harmonydata/index.html).
+
+You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/), our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
+
+<!-- END BOILERPLATE -->
+
 
 * [Validation and Harmonisation of Contact Lens User Experience (CLUE)](/harmonisation-validation/contact-lens-user-experience-clue)
 * [Validation and Harmonisation of Numeric Pain Rating Scale (NPRS)](/harmonisation-validation/numeric-pain-rating-scale-nprs)
 * [GHQ-12 vs Beck Anxiety Inventory](/compare-harmonise-instruments/ghq-12-vs-beck-anxiety-inventory/)
 
-Harmony software can be a valuable tool for this process by using natural language processing and generative AI models to compare the items in QoL EORTC QLQ-C30 with items in other instruments. Researchers can select instruments from Harmony's database or upload their own instruments in PDF form to compare them.
 
-Harmony can also compare items in multiple [languages](/psychology-ai-tool/harmony-many-languages), making it easier for researchers to harmonise instruments across different languages and cultures.
 
-By using Harmony, researchers can save time and reduce subjectivity in the harmonisation process. They can also establish crosswalks between different instruments, allowing for more comprehensive comparisons and analyses in their research. Overall, Harmony can greatly aid in the validation and harmonisation of the Quality of Life (QoL) EORTC QLQ-C30 and other similar questionnaires.
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Quality of Life (QoL) EORTC QLQ-C30 " title=" Validation and Harmonisation of Quality of Life (QoL) EORTC QLQ-C30 " >}}

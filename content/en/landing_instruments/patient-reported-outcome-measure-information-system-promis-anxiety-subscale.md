@@ -11,15 +11,21 @@ The Patient-reported Outcome Measure Information System (PROMIS) Anxiety subscal
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Patient-reported Outcome Measure Information System (PROMIS) Anxiety subscale " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-Harmony can assist researchers in validating the PROMIS Anxiety subscale by comparing it with other well-established instruments for anxiety, such as the Generalized Anxiety Disorder-7 (GAD-7) and the Patient Health Questionnaire-9 (PHQ-9). By using Harmony's natural language processing and AI models, researchers can compare the items in the PROMIS Anxiety subscale with those in the GAD-7 and PHQ-9 to determine their level of similarity and validity.
+
+<!-- BEGIN BOILERPLATE -->
+
+Harmony is an AI tool which uses Large Language Models to automatically match items from different questionnaires, even across different languages. You can try Harmony here: https://harmonydata.ac.uk/app. Harmony is also available as a [Python](https://pypi.org/project/harmonydata/) and [R package](https://cran.r-project.org/web/packages/harmonydata/index.html).
+
+You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/), our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
+
+<!-- END BOILERPLATE -->
+
 
 * [CES-D vs SDQ](/compare-harmonise-instruments/ces-d-vs-sdq/)
 * [Validation and Harmonisation of Loe & Silness Gingival Index](/harmonisation-validation/loe-silness-gingival-index)
 * [Validation and Harmonisation of Patient-reported Outcome Measure Information System (PROMIS) Anxiety subscale](/harmonisation-validation/patient-reported-outcome-measure-information-system-promis-anxiety-subscale)
 
-Harmony can also be used for harmonisation of the PROMIS Anxiety subscale with other instruments. This means that researchers can compare the items in the PROMIS Anxiety subscale with similar items in other instruments, and establish crosswalks or mappings between them. This can help researchers to better understand the relationship between different measures of anxiety and potentially use them interchangeably in their studies.
 
-By using Harmony, researchers can save time and resources in the process of validation and harmonisation of the PROMIS Anxiety subscale. Rather than manually comparing the items in different instruments, Harmony can provide a quick and objective comparison, highlighting any differences or similarities between them. This can help researchers to confidently use the PROMIS Anxiety subscale in their studies and make meaningful comparisons with other measures of anxiety.
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Patient-reported Outcome Measure Information System (PROMIS) Anxiety subscale " title=" Validation and Harmonisation of Patient-reported Outcome Measure Information System (PROMIS) Anxiety subscale " >}}

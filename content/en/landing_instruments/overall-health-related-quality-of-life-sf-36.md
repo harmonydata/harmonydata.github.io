@@ -11,17 +11,22 @@ The Overall Health-related Quality of Life (SF-36) is a self-reported questionna
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Overall Health-related Quality of Life (SF-36) " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-However, the process of validating and harmonising the Overall Health-related Quality of Life (SF-36) with other instruments can be time-consuming and subjective. This is where Harmony can be a valuable tool for researchers.
+
+<!-- BEGIN BOILERPLATE -->
+
+Harmony is an AI tool which uses Large Language Models to automatically match items from different questionnaires, even across different languages. You can try Harmony here: https://harmonydata.ac.uk/app. Harmony is also available as a [Python](https://pypi.org/project/harmonydata/) and [R package](https://cran.r-project.org/web/packages/harmonydata/index.html).
+
+You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/), our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
+
+<!-- END BOILERPLATE -->
+
 
 * [Validation and Harmonisation of PROMIS-29 v2.0 questionnaire](/harmonisation-validation/promis-29-v2-0-questionnaire)
 * [Validation and Harmonisation of Walking Impairment Questionaire (WIQ)](/harmonisation-validation/walking-impairment-questionaire-wiq)
 * [Validation and Harmonisation of Contact Lens User Experience (CLUE)](/harmonisation-validation/contact-lens-user-experience-clue)
 
-Harmony uses natural language processing and generative AI models to compare items in the SF-36 with items in other instruments, even in different languages. This allows researchers to quickly and objectively identify which variables in the SF-36 match variables in other instruments. They can then establish crosswalks and harmonise the data to be used in their research.
 
-Harmony can also assist in the validation process by providing a percentage match between each item in the SF-36 and other instruments, allowing researchers to assess the degree of similarity between the two.
 
-Overall, Harmony streamlines and automates the process of validating and harmonising the Overall Health-related Quality of Life (SF-36) with other instruments, saving researchers time and effort while also ensuring more accurate and consistent results in their studies. 
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Overall Health-related Quality of Life (SF-36) " title=" Validation and Harmonisation of Overall Health-related Quality of Life (SF-36) " >}}

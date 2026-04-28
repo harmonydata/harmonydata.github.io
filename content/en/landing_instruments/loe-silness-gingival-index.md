@@ -11,17 +11,22 @@ The Loe & Silness Gingival Index is a scale used to measure gum (gingival) infla
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Loe & Silness Gingival Index " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-Harmony can aid researchers in validating and harmonising the Loe & Silness Gingival Index with other instruments. Validation refers to the process of determining the extent to which an instrument accurately measures the construct it is intended to measure. By using Harmony, researchers can compare the variables within the Loe & Silness Gingival Index with those in other instruments and establish crosswalks between them.
+
+<!-- BEGIN BOILERPLATE -->
+
+Harmony is an AI tool which uses Large Language Models to automatically match items from different questionnaires, even across different languages. You can try Harmony here: https://harmonydata.ac.uk/app. Harmony is also available as a [Python](https://pypi.org/project/harmonydata/) and [R package](https://cran.r-project.org/web/packages/harmonydata/index.html).
+
+You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/), our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
+
+<!-- END BOILERPLATE -->
+
 
 * [Harmony: A Free AI Tool for Harmonisation Of Instruments In Psychology](/item-harmonisation/harmony-a-free-ai-tool-for-harmonisation-of-instruments-in-psychology)
 * [Validation and Harmonisation of AIM (Acceptability of Intervention Measure) score](/harmonisation-validation/aim-acceptability-of-intervention-measure-score)
 * [GHQ-12 vs Beck Anxiety Inventory](/compare-harmonise-instruments/ghq-12-vs-beck-anxiety-inventory/)
 
-Using Harmony's natural language processing and AI models, researchers can quickly and accurately compare the Loe & Silness Gingival Index with other instruments in multiple languages. This not only saves time and resources, but also helps ensure consistency and accuracy in the measurement of the construct being studied.
 
-Furthermore, researchers can use Harmony to validate the Loe & Silness Gingival Index by analysing its effectiveness in measuring changes in gingival inflammation over time. This can be done by using Harmony to compare results from the Loe & Silness Gingival Index with those from other instruments over a period of time.
 
-In summary, Harmony can greatly aid in the validation and harmonisation of the Loe & Silness Gingival Index with other instruments in order to enhance the effectiveness and accuracy of research in the field of gingival inflammation.
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Loe & Silness Gingival Index " title=" Validation and Harmonisation of Loe & Silness Gingival Index " >}}

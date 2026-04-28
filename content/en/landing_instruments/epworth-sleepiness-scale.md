@@ -11,17 +11,22 @@ The Epworth Sleepiness Scale (ESS) is a self-report questionnaire used to measur
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Epworth Sleepiness Scale " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-In order to validate the ESS, researchers might want to compare it with other instruments that measure similar constructs, such as the Pittsburgh Sleep Quality Index or the Insomnia Severity Index. They might also want to establish crosswalks between the ESS and other instruments, in order to compare data from different studies.
+
+<!-- BEGIN BOILERPLATE -->
+
+Harmony is an AI tool which uses Large Language Models to automatically match items from different questionnaires, even across different languages. You can try Harmony here: https://harmonydata.ac.uk/app. Harmony is also available as a [Python](https://pypi.org/project/harmonydata/) and [R package](https://cran.r-project.org/web/packages/harmonydata/index.html).
+
+You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/), our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
+
+<!-- END BOILERPLATE -->
+
 
 * [Harmony: A Free AI Tool for Cross-Cohort Research](/item-harmonisation/harmony-a-free-ai-tool-for-cross-cohort-research)
 * [Validation and Harmonisation of Clinician Administered PTSD Scale (CAPS)](/harmonisation-validation/clinician-administered-ptsd-scale-caps)
 * [Validation and Harmonisation of Contact Lens User Experience (CLUE)](/harmonisation-validation/contact-lens-user-experience-clue)
 
-This is where Harmony can be useful. By using natural language processing and AI models, Harmony can compare the items in the ESS with items from other instruments and provide a percentage match. This allows researchers to determine which variables in the ESS align with variables in other instruments and establish crosswalks between them.
 
-Additionally, Harmony can assist in validating the ESS by comparing it with other instruments that measure similar constructs. This helps researchers determine the degree of change in the construct being measured and establish the validity of the ESS as a measurement tool.
 
-Overall, Harmony can save researchers time and effort in manually comparing and harmonising instruments, and can provide valuable insights for validating the ESS and crosswalking it with other instruments. 
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Epworth Sleepiness Scale " title=" Validation and Harmonisation of Epworth Sleepiness Scale " >}}

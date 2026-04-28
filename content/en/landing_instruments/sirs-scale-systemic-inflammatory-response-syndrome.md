@@ -11,7 +11,15 @@ The SIRS scale is a clinical tool used to assess the severity of systemic inflam
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of SIRS scale (Systemic Inflammatory Response Syndrome) " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-Harmony can help researchers harmonise the SIRS scale with other instruments by using natural language processing algorithms and large language models to compare variables in the SIRS scale with variables in other instruments. This allows for the creation of crosswalks or mappings between the two instruments, allowing for their validation and harmonisation. By using Harmony, researchers can quickly and objectively compare the variables in the SIRS scale with those in other instruments, facilitating the process of validation and harmonisation. This can save time and effort for researchers, as well as improve the reliability and accuracy of their results. Overall, Harmony provides a valuable tool for psychologists and researchers to validate and harmonise the SIRS scale with other instruments, leading to better understanding and assessment of systemic inflammatory response syndrome in clinical settings.
+
+<!-- BEGIN BOILERPLATE -->
+
+Harmony is an AI tool which uses Large Language Models to automatically match items from different questionnaires, even across different languages. You can try Harmony here: https://harmonydata.ac.uk/app. Harmony is also available as a [Python](https://pypi.org/project/harmonydata/) and [R package](https://cran.r-project.org/web/packages/harmonydata/index.html).
+
+You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/), our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
+
+<!-- END BOILERPLATE -->
+
 
 * [Validation and Harmonisation of Berg Balance Scale](/harmonisation-validation/berg-balance-scale)
 * [Validation and Harmonisation of PROMIS-29 v2.0 questionnaire](/harmonisation-validation/promis-29-v2-0-questionnaire)

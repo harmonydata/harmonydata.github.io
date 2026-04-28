@@ -11,13 +11,20 @@ The Quigley-Hein, Turesky Modification Index for Dental Plaque is a standardized
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Quigley-Hein, Turesky Modification Index for Dental Plaque  " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-Harmony, a software developed for psychologists, can assist in the harmonisation of this index with other instruments. Using natural language processing and generative AI models, Harmony can compare the items in the Quigley-Hein, Turesky Modification Index to items in other instruments and give a percentage match for each [item](/item-harmonisation/harmony-a-free-ai-tool-for-item-harmonisation). This can help researchers identify which variables in the index correspond to variables in other instruments, allowing for the validation and crosswalking of the index. 
+
+<!-- BEGIN BOILERPLATE -->
+
+Harmony is an AI tool which uses Large Language Models to automatically match items from different questionnaires, even across different languages. You can try Harmony here: https://harmonydata.ac.uk/app. Harmony is also available as a [Python](https://pypi.org/project/harmonydata/) and [R package](https://cran.r-project.org/web/packages/harmonydata/index.html).
+
+You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/), our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
+
+<!-- END BOILERPLATE -->
+
 
 * [Validation and Harmonisation of Pittsburgh Sleep Quality Index (PSQI)](/harmonisation-validation/pittsburgh-sleep-quality-index-psqi)
 * [Validation and Harmonisation of Numeric Pain Rating Scale (NPRS)](/harmonisation-validation/numeric-pain-rating-scale-nprs)
 * [Harmony: A Free AI Tool for Cross-Cohort Research](/item-harmonisation/harmony-a-free-ai-tool-for-cross-cohort-research)
 
-Overall, Harmony can aid in the process of validating and harmonising the Quigley-Hein, Turesky Modification Index for Dental Plaque, making it easier for researchers to compare and combine data from different studies. This can lead to a better understanding of the construct being measured and potential improvements in the measurement tool itself.
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Quigley-Hein, Turesky Modification Index for Dental Plaque  " title=" Validation and Harmonisation of Quigley-Hein, Turesky Modification Index for Dental Plaque  " >}}

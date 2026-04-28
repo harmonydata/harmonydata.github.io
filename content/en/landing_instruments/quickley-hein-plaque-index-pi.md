@@ -11,17 +11,22 @@ The Quickley-[Hein plaque index](/harmonisation-validation/quigley-hein-turesky-
 {{< card heading="Try Harmony" copy=" Validation and Harmonisation of Quickley-Hein plaque index (PI) " url="https://harmonydata.ac.uk/app" >}}
 {{< youtube cEZppTBj1NI >}}
 
-Harmony can assist researchers in validating and harmonising the Quickley-Hein plaque index (PI) with other instruments. Validity is an important aspect of any instrument, as it measures the degree to which the instrument is able to accurately measure the construct it is intended to measure. By using Harmony's language models, researchers can compare the variables in the Quickley-Hein plaque index (PI) with those in other instruments and establish crosswalks between them.
+
+<!-- BEGIN BOILERPLATE -->
+
+Harmony is an AI tool which uses Large Language Models to automatically match items from different questionnaires, even across different languages. You can try Harmony here: https://harmonydata.ac.uk/app. Harmony is also available as a [Python](https://pypi.org/project/harmonydata/) and [R package](https://cran.r-project.org/web/packages/harmonydata/index.html).
+
+You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/), our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
+
+<!-- END BOILERPLATE -->
+
 
 * [Validation and Harmonisation of Sheehan Disability Scale (SDS)](/harmonisation-validation/sheehan-disability-scale-sds)
 * [Validation and Harmonisation of Loe & Silness Gingival Index](/harmonisation-validation/loe-silness-gingival-index)
 * [Harmony: A Free AI Tool to Merge Longitudinal Studies](/item-harmonisation/harmony-a-free-ai-tool-to-merge-longitudinal-studies)
 
-This means that researchers can use Harmony to determine if the Quickley-Hein plaque index (PI) is measuring the same construct as other plaque index instruments, and if there are any discrepancies or overlaps between them. This validation process can help researchers decide if the Quickley-Hein plaque index (PI) is a reliable and accurate tool to use in their studies.
 
-Additionally, researchers can also use Harmony to harmonise the Quickley-Hein plaque index (PI) with other instruments. Harmonisation is the process of comparing and aligning items from different instruments, allowing for easier comparison and analysis of data. By using Harmony, researchers can harmonise the Quickley-Hein plaque index (PI) with other plaque index instruments, potentially creating a standardized measure that can be used across studies.
 
-Overall, by using Harmony, researchers can validate and harmonise the Quickley-Hein plaque index (PI) with other instruments, helping to improve the reliability and comparability of data collected using this index. 
 
 
 {{< image src="/images/gad7-becks.jpg" alt=" Validation and Harmonisation of Quickley-Hein plaque index (PI) " title=" Validation and Harmonisation of Quickley-Hein plaque index (PI) " >}}

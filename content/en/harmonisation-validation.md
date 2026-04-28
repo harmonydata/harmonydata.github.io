@@ -2,6 +2,8 @@
 title: "Validation and Harmonisation of instruments"
 
 url: /harmonisation-validation/
+
+aliases: ["/harmonisation-validation/positive-and-negative-syndrome-scale-panss"]
 ---
 
 ## Validation and Harmonisation of psychological instruments
@@ -50,7 +52,6 @@ In the world of research, the reliability and validity of instruments are paramo
 * [Quigley-Hein, Turesky Modification Index for Dental Plaque ](/harmonisation-validation/quigley-hein-turesky-modification-index-for-dental-plaque)
 * [SIRS scale (Systemic Inflammatory Response Syndrome)](/harmonisation-validation/sirs-scale-systemic-inflammatory-response-syndrome)
 * [Pittsburgh Sleep Quality Index (PSQI)](/harmonisation-validation/pittsburgh-sleep-quality-index-psqi)
-* [Positive and Negative Syndrome Scale (PANSS)](/harmonisation-validation/positive-and-negative-syndrome-scale-panss)
 * [Hamilton depression rating scale](/harmonisation-validation/hamilton-depression-rating-scale)
 * [Overall Health-related Quality of Life (SF-36)](/harmonisation-validation/overall-health-related-quality-of-life-sf-36)
 * [Alcohol Urges Questionnaire (AUQ)](/harmonisation-validation/alcohol-urges-questionnaire-auq)

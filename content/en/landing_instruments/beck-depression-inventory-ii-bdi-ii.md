@@ -14,7 +14,6 @@ The Beck Depression Inventory-II (BDI-II) is a widely used self-report instrumen
 However, in order to compare results across studies or combine data from different studies, researchers often need to harmonise the BDI-II with other instruments. This can be a time-consuming and subjective process, as it involves going through long PDFs of questionnaires and matching items manually.
 
 * [Harmony: A Free AI Tool to Merge Cohort Studies](/item-harmonisation/harmony-a-free-ai-tool-to-merge-cohort-studies)
-* [Validation and Harmonisation of Positive and Negative Syndrome Scale (PANSS)](/harmonisation-validation/positive-and-negative-syndrome-scale-panss)
 * [Validation and Harmonisation of Loe & Silness Gingival Index](/harmonisation-validation/loe-silness-gingival-index)
 
 This is where Harmony can be helpful. By utilizing natural language processing and generative AI models, Harmony can quickly and objectively compare items in the BDI-II with those in other instruments, even if they are in different languages. Researchers can simply select the BDI-II from Harmony's database or upload their own version in PDF form, and Harmony will provide a percentage match for each item with other instruments such as the PHQ-9 or GAD-7.

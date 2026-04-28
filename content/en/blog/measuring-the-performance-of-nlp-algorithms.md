@@ -45,7 +45,7 @@ Finally, I included a similar Portuguese-only harmonisation tool listing commona
 
 ### Overview of the validation dataset
 
-The [validation](/harmonisation-validation/positive-and-negative-syndrome-scale-panss) dataset can be broken down as follows
+The [validation](/harmonisation-validation/) dataset can be broken down as follows
 
 | Dataset                          | Number of instruments | Average number of questions per instrument |
 | -------------------------------- | --------------------- | ------------------------------------------ |

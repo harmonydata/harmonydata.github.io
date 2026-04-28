@@ -8,11 +8,9 @@ aliases: ["/harmonisation-validation/positive-and-negative-syndrome-scale-panss"
 
 ## Validation and Harmonisation of psychological instruments
 
-In the world of research, the reliability and validity of instruments are paramount. These two concepts, while often used interchangeably, have distinct meanings that are critical to the success of any study.
+Harmony is an AI tool which uses Large Language Models to automatically match items from different questionnaires, even across different languages. You can try Harmony here: https://harmonydata.ac.uk/app. Harmony is also available as a [Python](https://pypi.org/project/harmonydata/) and [R package](https://cran.r-project.org/web/packages/harmonydata/index.html).
 
-**Validation** refers to the process of establishing that a measurement instrument accurately measures what it is intended to measure. It involves ensuring that the instrument is both reliable and valid. Reliability means that the instrument produces consistent results over time and across different contexts. Validity, on the other hand, ensures that the instrument is measuring the specific construct it is designed to assess. 
-
-**Harmonisation**, on the other hand, is the process of making instruments comparable across different studies. This is particularly important when researchers want to combine data from multiple sources or conduct meta-analyses. Harmonisation involves ensuring that the instruments used in different studies are measuring the same construct in the same way.
+You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/), our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
 
 ## Examples of harmonisations and validations which you may want to do with Harmony
 

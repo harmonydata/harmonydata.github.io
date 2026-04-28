@@ -4,9 +4,16 @@ url: "/compare-harmonise-instruments/phq-9-vs-gds/"
 date: 2025-02-10
 ---
 
-## PHQ-9 vs GDS
+## Harmonising PHQ-9 vs GDS
 
-The comparison and thorough examination of psychological questionnaires such as Patient Health Questionnaire (PHQ-9) and Geriatric Depression Scale (GDS) often present complexities due to their varying enquiries and structures. Here is where Harmony, an AI-powered tool, comes to the aid of psychologists and researchers. Harmony simplifies the process of comparing PHQ-9 vs GDS, by using natural language processing and generative AI models for accurate and efficient harmonisation. Harnessing the power of large language models, Harmony eliminates the cumbersome process of manually sifting through questionnaires. It provides a user-friendly platform where instruments like PHQ-9 and GDS can be easily uploaded and compared. The software goes even further by offering a quantitative measure - a percentage match - between each corresponding item in PHQ-9 vs GDS, thereby extending usability beyond mere comparison. The highlight of Harmony lies not just in its capabilities in comparing PHQ-9 vs GDS but also in its multi-language support and extensive database. The platform allows psychologists to effortlessly conduct comparisons both within and across studies from different languages. It ensures that insights drawn from such comparisons are not lost in translation or misinterpreted due to a lack of linguistic understanding. The combination of Harmony's capabilities ensures that psychological studies are made more comprehensive, accurate, and efficient.
+
+<!-- BEGIN BOILERPLATE -->
+
+Harmony is an AI tool which uses Large Language Models to automatically match items from different questionnaires, even across different languages. You can try Harmony here: https://harmonydata.ac.uk/app. Harmony is also available as a [Python](https://pypi.org/project/harmonydata/) and [R package](https://cran.r-project.org/web/packages/harmonydata/index.html).
+
+You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/), our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
+
+<!-- END BOILERPLATE -->
 
 ## Compare the items in PHQ-9 and GDS
 

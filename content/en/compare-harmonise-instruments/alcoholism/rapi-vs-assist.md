@@ -2,12 +2,55 @@
 title: RAPI vs ASSIST
 url: "/compare-harmonise-instruments/alcoholism/rapi-vs-assist"
 aliases:
+  - "/compare-harmonise-instruments/alcoholism/"
   - "/rapi-vs-assist"
+  - "/compare-harmonise-instruments/alcoholism/assist-vs-has/"
+  - "/compare-harmonise-instruments/alcoholism/audit-10-vs-assist"
+  - "/compare-harmonise-instruments/alcoholism/audit-10-vs-dasi/"
+  - "/compare-harmonise-instruments/alcoholism/audit-10-vs-dtc"
+  - "/compare-harmonise-instruments/alcoholism/audit-10-vs-dudit"
+  - "/compare-harmonise-instruments/alcoholism/audit-10-vs-espad"
+  - "/compare-harmonise-instruments/alcoholism/audit-10-vs-has"
+  - "/compare-harmonise-instruments/alcoholism/audit-10-vs-mast"
+  - "/compare-harmonise-instruments/alcoholism/audit-10-vs-rapi"
+  - "/compare-harmonise-instruments/alcoholism/audit-10-vs-tflb"
+  - "/compare-harmonise-instruments/alcoholism/audit-vs-assist"
+  - "/compare-harmonise-instruments/alcoholism/audit-vs-dasi"
+  - "/compare-harmonise-instruments/alcoholism/dasi-vs-assist"
+  - "/compare-harmonise-instruments/alcoholism/dtc-vs-audit"
+  - "/compare-harmonise-instruments/alcoholism/dtc-vs-espad"
+  - "/compare-harmonise-instruments/alcoholism/dtc-vs-mast"
+  - "/compare-harmonise-instruments/alcoholism/dtc-vs-rapi"
+  - "/compare-harmonise-instruments/alcoholism/dudit-vs-assist"
+  - "/compare-harmonise-instruments/alcoholism/dudit-vs-audit"
+  - "/compare-harmonise-instruments/alcoholism/dudit-vs-dtc"
+  - "/compare-harmonise-instruments/alcoholism/dudit-vs-espad"
+  - "/compare-harmonise-instruments/alcoholism/dudit-vs-mast"
+  - "/compare-harmonise-instruments/alcoholism/dudit-vs-rapi"
+  - "/compare-harmonise-instruments/alcoholism/espad-vs-assist"
+  - "/compare-harmonise-instruments/alcoholism/espad-vs-dasi"
+  - "/compare-harmonise-instruments/alcoholism/espad-vs-mast"
+  - "/compare-harmonise-instruments/alcoholism/espad-vs-rapi"
+  - "/compare-harmonise-instruments/alcoholism/mast-vs-assist"
+  - "/compare-harmonise-instruments/alcoholism/mast-vs-dasi"
+  - "/compare-harmonise-instruments/alcoholism/mast-vs-has"
+  - "/compare-harmonise-instruments/alcoholism/mast-vs-rapi"
+  - "/compare-harmonise-instruments/alcoholism/rapi-vs-dasi"
 ---
 
 ## RAPI vs ASSIST
 
-The 'Rutgers Alcohol Problem Index' (RAPI) and the 'Alcohol, Smoking, and Substance Involvement Screening Test - Substance Use' (ASSIST) are two integral tools in the field of psychology for assessing addictive behaviors. Comparing these two questionnaires can often be a difficult and time-consuming task for researchers. However, the software tool Harmony simplifies this process by harmonising questionnaire items effectively in multiple languages, making the task of comparing RAPI vs ASSIST a breeze.
+The 'Rutgers Alcohol Problem Index' (RAPI) and the 'Alcohol, Smoking, and Substance Involvement Screening Test - Substance Use' (ASSIST) are two integral tools in the field of psychology for assessing addictive behaviours. 
+
+
+<!-- BEGIN BOILERPLATE -->
+
+Harmony is an AI tool which uses Large Language Models to automatically match items from different questionnaires, even across different languages. You can try Harmony here: https://harmonydata.ac.uk/app. Harmony is also available as a [Python](https://pypi.org/project/harmonydata/) and [R package](https://cran.r-project.org/web/packages/harmonydata/index.html).
+
+You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/), our new discovery engine that helps you search through vast catalogues of study metadata to identify the variables you need for your research.
+
+<!-- END BOILERPLATE -->
+
 
 ## Compare the items in RAPI and ASSIST
 
@@ -16,32 +59,13 @@ The 'Rutgers Alcohol Problem Index' (RAPI) and the 'Alcohol, Smoking, and Substa
 * <a href="https://harmonydata.ac.uk/app/#/import/W3siaW5zdHJ1bWVudF9uYW1lIjogIlJ1dGdlcnMgQWxjb2hvbCBQcm9ibGVtIEluZGV4ICgxOC1pdGVtKSAoUkFQSSkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJIb3cgbWFueSB0aW1lcyBoYXMgdGhpcyBoYXBwZW5lZCB0byB5b3Ugd2hpbGUgeW91IHdlcmUgZHJpbmtpbmcgb3IgYmVjYXVzZSBvZiB5b3VyIGRyaW5raW5nIGR1cmluZyB0aGUgbGFzdCB5ZWFyPyJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiTm90IGFibGUgdG8gZG8geW91ciBob21ld29yayBvciBzdHVkeSBmb3IgYSB0ZXN0In0sIHsicXVlc3Rpb25fdGV4dCI6ICJHb3QgaW50byBmaWdodHMgd2l0aCBvdGhlciBwZW9wbGUgKGZyaWVuZHMsIHJlbGF0aXZlcywgc3RyYW5nZXJzKSJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiTWlzc2VkIG91dCBvbiBvdGhlciB0aGluZ3MgYmVjYXVzZSB5b3Ugc3BlbnQgdG9vIG11Y2ggbW9uZXkgb24gYWxjb2hvbCJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiV2VudCB0byB3b3JrIG9yIHNjaG9vbCBoaWdoIG9yIGRydW5rIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJDYXVzZWQgc2hhbWUgb3IgZW1iYXJyYXNzbWVudCB0byBzb21lb25lIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJOZWdsZWN0ZWQgeW91ciByZXNwb25zaWJpbGl0aWVzIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJSZWxhdGl2ZXMgYXZvaWRlZCB5b3UifSwgeyJxdWVzdGlvbl90ZXh0IjogIkZlbHQgdGhhdCB5b3UgbmVlZGVkIG1vcmUgYWxjb2hvbCB0aGFuIHlvdSB1c2VkIHRvIGluIG9yZGVyIHRvIGdldCB0aGUgc2FtZSBlZmZlY3QifSwgeyJxdWVzdGlvbl90ZXh0IjogIlRyaWVkIHRvIGNvbnRyb2wgeW91ciBkcmlua2luZyAodHJpZWQgdG8gZHJpbmsgb25seSBhdCBjZXJ0YWluIHRpbWVzIG9mIHRoZSBkYXkgb3IgaW4gY2VydGFpbiBwbGFjZXMsIHRoYXQgaXMsIHRyaWVkIHRvIGNoYW5nZSB5b3VyIHBhdHRlcm4gb2YgZHJpbmtpbmcpIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJIYWQgd2l0aGRyYXdhbCBzeW1wdG9tcywgdGhhdCBpcywgZmVsdCBzaWNrIGJlY2F1c2UgeW91IHN0b3BwZWQgb3IgY3V0IGRvd24gb24gZHJpbmtpbmcifSwgeyJxdWVzdGlvbl90ZXh0IjogIk5vdGljZWQgYSBjaGFuZ2UgaW4geW91ciBwZXJzb25hbGl0eSJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiRmVsdCB0aGF0IHlvdSBoYWQgYSBwcm9ibGVtIHdpdGggYWxjb2hvbCJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiTWlzc2VkIGEgZGF5IChvciBwYXJ0IG9mIGEgZGF5KSBvZiBzY2hvb2wgb3Igd29yayJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiV2FudGVkIHRvIHN0b3AgZHJpbmtpbmcgYnV0IGNvdWxkbid0In0sIHsicXVlc3Rpb25fdGV4dCI6ICJTdWRkZW5seSBmb3VuZCB5b3Vyc2VsZiBpbiBhIHBsYWNlIHRoYXQgeW91IGNvdWxkIG5vdCByZW1lbWJlciBnZXR0aW5nIHRvIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJQYXNzZWQgb3V0IG9yIGZhaW50ZWQgc3VkZGVubHkifSwgeyJxdWVzdGlvbl90ZXh0IjogIkhhZCBhIGZpZ2h0LCBhcmd1bWVudCBvciBiYWQgZmVlbGluZyB3aXRoIGEgZnJpZW5kIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJIYWQgYSBmaWdodCwgYXJndW1lbnQgb3IgYmFkIGZlZWxpbmcgd2l0aCBhIGZhbWlseSBtZW1iZXIifSwgeyJxdWVzdGlvbl90ZXh0IjogIktlcHQgZHJpbmtpbmcgd2hlbiB5b3UgcHJvbWlzZWQgeW91cnNlbGYgbm90IHRvIn0sIHsicXVlc3Rpb25fdGV4dCI6ICJGZWx0IHlvdSB3ZXJlIGdvaW5nIGNyYXp5In0sIHsicXVlc3Rpb25fdGV4dCI6ICJIYWQgYSBiYWQgdGltZSJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiRmVsdCBwaHlzaWNhbGx5IG9yIHBzeWNob2xvZ2ljYWxseSBkZXBlbmRlbnQgb24gYWxjb2hvbCJ9LCB7InF1ZXN0aW9uX3RleHQiOiAiV2FzIHRvbGQgYnkgYSBmcmllbmQsIG5laWdoYm91ciBvciByZWxhdGl2ZSB0byBzdG9wIG9yIGN1dCBkb3duIGRyaW5raW5nIn1dfSwgeyJpbnN0cnVtZW50X25hbWUiOiAiQWxjb2hvbCwgU21va2luZywgYW5kIFN1YnN0YW5jZSBJbnZvbHZlbWVudCBTY3JlZW5pbmcgVGVzdCAtIFN1YnN0YW5jZSBVc2UgKEFTU0lTVCkiLCAicXVlc3Rpb25zIjogW3sicXVlc3Rpb25fdGV4dCI6ICJIYXZlIHlvdSBldmVyIHVzZWQgYW55IGRydWcgYnkgaW5qZWN0aW9uPyJ9XX1d" target="harmonyapp">Import just ASSIST into Harmony</a> - compare ASSIST with other instruments
 
 
-Harmony employs large language models to match items from RAPI and ASSIST, providing researchers the percentage match between each item from both questionnaires. Researchers can either select the instruments from Harmony's database or upload their own in PDF form. With its state-of-the-art computational model, Harmony is able to automate the process, saving significant time and effort, whilst ensuring accuracy.
-
-## You may also be interested in these harmonisations
-
-* [De Jong Gierveld Loneliness Scale vs SCARED](/compare-harmonise-instruments/de-jong-gierveld-loneliness-scale-vs-scared)
-* [CHAT vs ADOS](/compare-harmonise-instruments/autism/chat-vs-ados)
-* [AUDIT-10 vs HAS](/compare-harmonise-instruments/alcoholism/audit-10-vs-has)
-
-
-
 {{< card heading="Try Harmony" copy="Compare RAPI and ASSIST " url="https://harmonydata.ac.uk/app" >}}
 
 {{< youtube cEZppTBj1NI >}}
 
-Hence, for the comparison study of RAPI vs ASSIST, Harmony serves as an ideal tool. In conclusion, for psychologists and social scientists looking to conduct a comparison between RAPI and ASSIST, Harmony is the go-to tool. Its convenience, accuracy, and ease of use make the often tedious task of questionnaire harmonisation simple and efficient. Thus, in the comparison study of RAPI vs ASSIST, Harmony undoubtedly adds significant value, empowering researchers to focus on the analysis and interpretation stages of their work.
 
 
 {{< image src="/images/gad7-becks.jpg" alt="RAPI vs ASSIST" title="RAPI vs ASSIST" >}}
 
 
-
-
-
-
-## Other instruments which you can compare and harmonise with Harmony
-
-* [Harmonisation of other alcoholism related instruments](/compare-harmonise-instruments/alcoholism)
-* [Harmonisation of autism related instruments](/compare-harmonise-instruments/autism)
 * [Other psychological instruments in areas such as depression and anxiety](/compare-harmonise-instruments)

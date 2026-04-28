@@ -7,7 +7,7 @@ aliases:
 
 ## GAD-7 vs SCARED (adult): A Comparative Analysis Using Harmony
 
-The GAD-7 and SCARED scales are both commonly used psychologists and other researchers.
+The GAD-7 and SCARED scales are both commonly used psychologists and other researchers to measure anxiety.
 
 
 <!-- BEGIN BOILERPLATE -->

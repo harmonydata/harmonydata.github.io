@@ -845,7 +845,7 @@ aliases:
 
 ## Harmonising and comparing GAD-7 vs Beck Anxiety Inventory
 
-The Generalised Anxiety Disorder Assessment (GAD-7) and the Beck Anxiety Inventory (BAI) are two tool used to measure anxiety.
+The Generalised Anxiety Disorder Assessment (GAD-7) and the Beck Anxiety Inventory (BAI) are two instruments used to measure anxiety.
 
 {{< image src="/images/GAD-7-vs-Becks.drawio-min.png" alt="GAD-7 vs Beck Anxiety Inventory" title="GAD-7 vs Beck Anxiety Inventory" >}}
 
@@ -885,10 +885,9 @@ You may also be interested in [Harmony Meta](https://harmonydata.ac.uk/search/),
 
 {{< card heading="Try Harmony" copy="Compare GAD-7 and Beck Anxiety Inventory " url="https://harmonydata.ac.uk/app" >}}
 
-Harmony is useful for finding crosswalks between instrument pairs like GAD-7 vs Beck Anxiety Inventory. Using large language models, Harmony can provide a percentage match between each item, making it easier to identify parallels and differences. The GAD-7 vs Beck Anxiety Inventory comparison, which would have been time consuming and subjective, can now be performed objectively and reproducibly using Harmony.
+Harmony is useful for finding crosswalks between instrument pairs like GAD-7 vs Beck Anxiety Inventory. Using large language models, Harmony can provide a percentage match between each item, making it easier to identify parallels and differences.
 
-No more sifting through long PDFs of questionnaires or manually entering questions into spreadsheets. With Harmony, you can simply select instruments from the system's database or drag and drop your own in PDF form. The GAD-7 vs Beck Anxiety Inventory comparison becomes a straightforward task with Harmony.
-
+The GAD-7 vs Beck Anxiety Inventory comparison, which would have been time consuming and subjective, can now be performed objectively and reproducibly using Harmony.
 
 
 ## Other instruments which you can compare and harmonise with Harmony

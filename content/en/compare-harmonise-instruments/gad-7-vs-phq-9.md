@@ -7,7 +7,7 @@ aliases:
 
 ## Harmonising and comparing GAD-7 vs PHQ-9
 
-The GAD-7 is a seven-item tool that measures the severity of generalised anxiety disorder, whereas the PHQ-9 is a self-administered instrument that assesses the extent of depression.
+The GAD-7 is a seven-item tool that measures the severity of a person's anxiety. The PHQ-9 assesses the extent of depression.
 
 
 <!-- BEGIN BOILERPLATE -->

@@ -7,6 +7,7 @@ aliases:
 
 ## Harmonising and comparing PHQ-9 vs Beck Anxiety Inventory
 
+The Patient health questionnaire (PHQ-9) is an 9-item instrument for measuring the severity of depression. The Beck Anxiety Inventory (BAI) is a 21-item questionnaire which was developed to measure anxiety in psychiatric populations.
 
 <!-- BEGIN BOILERPLATE -->
 

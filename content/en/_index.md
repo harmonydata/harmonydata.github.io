@@ -235,7 +235,7 @@ blocks:
     copy: Join discussions with fellow researchers and developers.
     button:
       text: Join
-      url: https://discord.com/invite/harmonydata
+      url: https://discord.gg/TRFM3dqANu
     icon: discord-2
   - heading: GitHub
     copy: Access our latest code, tools, and contributions. Become a certified contributor

@@ -43,7 +43,7 @@ Well done 👏👏👏 your prize will be emailed to you soon
 
 {{< grid columns="2" >}}
   {{< card heading="Join our next challenge" copy="Harmony: PDF Parsing Challenge. Develop an improved algorithm for identifying mental health survey questions." url="https://doxaai.com/competition/harmony-parsing" >}}
-  {{< card heading="Join our Discord" copy="Join the Harmony Discord server. Check out the 🏅「parsing-challenge」 channel!" url="https://discord.com/invite/harmonydata" >}}
+  {{< card heading="Join our Discord" copy="Join the Harmony Discord server. Check out the 🏅「parsing-challenge」 channel!" url="https://discord.gg/TRFM3dqANu" >}}
 {{< /grid >}}
 
 

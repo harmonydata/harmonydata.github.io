@@ -23,7 +23,7 @@ Simply select the text you want to send to Harmony, right click and select "Send
 
 {{< grid columns="2" >}}
   {{< card heading="Try the browser extension" copy="Click here to add the Chrome browser extension to Harmony." url="https://chromewebstore.google.com/detail/send-to-harmony/cdicmbkodhojpdagoipkdgmnkempjdjj" >}}
-  {{< card heading="Join our Discord" copy="Join the Harmony Discord server. Check out the 🏅「design-challenge」 channel!" url="https://discord.com/invite/harmonydata" >}}
+  {{< card heading="Join our Discord" copy="Join the Harmony Discord server. Check out the 🏅「design-challenge」 channel!" url="https://discord.gg/TRFM3dqANu" >}}
 {{< /grid >}}
 
 

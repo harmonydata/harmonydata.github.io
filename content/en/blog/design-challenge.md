@@ -24,7 +24,7 @@ To sign up for this challenge, please [register](https://forms.gle/pWhDw2ksUiUqf
 
 {{< grid columns="2" >}}
   {{< card heading="Enter the Design Challenge" copy="Click here to register for this design challenge and recieve further updates." url="https://forms.gle/pWhDw2ksUiUqfa779" >}}
-  {{< card heading="Join our Discord" copy="Join the Harmony Discord server. Check out the 🏅「design-challenge」 channel!" url="https://discord.com/invite/harmonydata" >}}
+  {{< card heading="Join our Discord" copy="Join the Harmony Discord server. Check out the 🏅「design-challenge」 channel!" url="https://discord.gg/TRFM3dqANu" >}}
 {{< /grid >}}
 
 

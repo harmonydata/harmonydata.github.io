@@ -163,7 +163,7 @@ languages:
         pre: github
         weight: 60
       - name: Discord
-        url: https://discord.com/invite/harmonydata
+        url: https://discord.gg/TRFM3dqANu
         pre: discord
         weight: 70
         
@@ -314,7 +314,7 @@ languages:
         pre: github
         weight: 60
       - name: Discord
-        url: https://discord.com/invite/harmonydata
+        url: https://discord.gg/TRFM3dqANu
         pre: discord
         weight: 70
 

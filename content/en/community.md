@@ -11,7 +11,7 @@ title: Community
 
 ## Join the Harmony community on Discord!
 
-Join our [Discord server](https://discord.com/invite/harmonydata)
+Join our [Discord server](https://discord.gg/TRFM3dqANu)
 
 We now have a Harmony channel on Discord.
 Discord is an app that lets you text, chat, and communicate with others using video and audio (kind of like Skype). You can create a group chat for people who want to talk about the same general topic, or communicate with someone one-on-one. 

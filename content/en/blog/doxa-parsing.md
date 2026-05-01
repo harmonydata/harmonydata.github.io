@@ -13,7 +13,7 @@ url: "/doxa-parsing/"
 
 {{< grid columns="2" >}}
   {{< card heading="Register on DOXA AI" copy="Enter the competition on DOXA AI by fine tuning your own model and improve Harmony!" url="https://doxaai.com/competition/harmony-parsing" >}}
-  {{< card heading="Join our Discord" copy="Join the Harmony Discord server. Check out the 🏅「parsing-challenge」 channel!" url="https://discord.com/invite/harmonydata" >}}
+  {{< card heading="Join our Discord" copy="Join the Harmony Discord server. Check out the 🏅「parsing-challenge」 channel!" url="https://discord.gg/TRFM3dqANu" >}}
 {{< /grid >}}
 
 
@@ -27,7 +27,7 @@ We would like to improve Harmony with a *fine tuned* language model. We have tea
 
 {{< grid columns="2" >}}
   {{< card heading="Register on DOXA AI" copy="Enter the competition on DOXA AI by fine tuning your own language model and improve Harmony!" url="https://doxaai.com/competition/harmony-parsing" >}}
-  {{< card heading="Join our Discord" copy="Join the Harmony Discord server. Check out the 🏅「parsing-challenge」 channel!" url="https://discord.com/invite/harmonydata" >}}
+  {{< card heading="Join our Discord" copy="Join the Harmony Discord server. Check out the 🏅「parsing-challenge」 channel!" url="https://discord.gg/TRFM3dqANu" >}}
 {{< /grid >}}
 
 

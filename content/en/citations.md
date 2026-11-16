@@ -5,7 +5,6 @@ url: "/citations/"
 
 ## Citations from 2026
 
-* Katy Holloway, Bev John, Josh Molina, Marian Buhociu, Darren Quelch, Gareth Roderique-Davies, Shannon Murray, Fabrizio Schifano, Wulf Livingston, and Jiao Song, [Evaluation of Buvidal Synthesis of findings](https://www.gov.wales/sites/default/files/statistics-and-research/2026-02/evaluation-of-buvidal-synthesis-of-findings-085556.pdf), retrieved from https://www.gov.wales/sites/default/files/statistics-and-research/2026-02/evaluation-of-buvidal-synthesis-of-findings-085556.pdf, 2026.
 * Caitlyn Rawers, Orla McBride, Jamie Murphy, Eoin McElroy, [Investigating the toll of childhood socioeconomic disadvantage on adolescent mental health in three UK cohorts](https://doi.org/10.1002/jcv2.70131), JCPP advances, https://doi.org/10.1002/jcv2.70131, 2026.
 * James Lian, Pedro Fonseca Zuccolo, Omid V. Ebrahimi, Daniel Fatori, Abhaya Adlakha et al., [Harmonising Depression and Anxiety Measures Across International Cohorts: A Framework Validated Using Measurement Invariance](https://doi.org/10.1002/mpr.70102), International Journal of Methods in Psychiatric Research, https://doi.org/10.1002/mpr.70102, 2026.
 * Radhiannisa Permata Bakri, Rona Febriyona, Inne Ariane Gobel, Gladys Maristela Rawung, [The Effect of Balance Training on the Risk of Falls in the Elderly in Mongolato Village, Telaga District](http://jurnal.unismuhpalu.ac.id/index.php/IJHESS/article/view/10731), International Journal of Health, Economics, and Social Sciences, 2026.

@@ -62,6 +62,7 @@ blocks:
       * [See our Kaggle competition](/open-source-for-social-science/kaggle/)
       * [See our listing on MunGell's Awesome for Beginners open source projects](https://github.com/MunGell/awesome-for-beginners?tab=readme-ov-file#python)
       * [See our competition on DOXA AI](https://doxaai.com/competition/harmony-matching)
+      * [Growing up in Scotland](https://growingupinscotland.org.uk/topic-overview)
       
 
 - block: content

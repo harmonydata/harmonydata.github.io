@@ -59,6 +59,10 @@ languages:
         url: /community
       - name: Case studies
         weight: 45
+      - name: Citations
+        url: /citations/
+        parent: Case studies
+        weight: 5
       - name: Australian Data Archive
         url: /ada/
         parent: Case studies

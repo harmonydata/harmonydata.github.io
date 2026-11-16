@@ -18,6 +18,28 @@ This repo is the source code for the blog at https://harmonydata.ac.uk. It does 
 * 🪧 The Harmony R library source code is here: https://github.com/harmonydata/harmony_r.
 * 🪧 The Harmony API source code is here: https://github.com/harmonydata/harmonyapi.
 
+## Running the website locally
+
+You need to install [Hugo Extended 0.108.0](https://gohugo.io/). If you are just putting the Hugo executable in this folder, you can unzip here.
+
+```
+curl -L https://github.com/gohugoio/hugo/releases/download/v0.108.0/hugo_extended_0.108.0_linux-amd64.tar.gz | tar -xz hugo
+```
+
+
+You also need to install the Node dependencies.
+
+```
+nvm install 20
+nvm use 20
+npm install
+```
+
+Then you can run with `./hugo serve`
+
+![hugo-serve-screenshot.png](hugo-serve-screenshot.png)
+
+
 ## How to make a new blog post
 
 Put the md file in `content/en/blog`. For an idea on the format, please look at the other blog posts in `content/en/blog`.
